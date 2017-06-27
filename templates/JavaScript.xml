@@ -1,0 +1,46 @@
+<templateSet group="JavaScript">
+  <template name="afn" value="($ARGUMENTS$) =&gt; {$END$}" description="Insert arrow function" toReformat="false" toShortenFQNames="true">
+    <variable name="ARGUMENTS" expression="" defaultValue="arg" alwaysStopAt="true" />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="anfn" value="function($ARGS$) {$END$}" description="Insert anonymous function" toReformat="false" toShortenFQNames="true">
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="fn" value="function $NAME$($ARGS$) {&#10;    $END$&#10;}" description="Insert named function" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="log" value="console.log(`${$END$}`);" description="Insert console.log statement" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="js" value="JSON.stringify($END$)" description="JSON Stringify" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="jp" value="JSON.parse($END$)" description="JSON Parse" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JS_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="us" value="'use strict';&#10;$END$" description="Inserts 'use strict' statement" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="if" value="if ($CONDITION$) {&#10;$SELECTION$&#10;}&#10;$END$" description="Surround selection with if statement" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
