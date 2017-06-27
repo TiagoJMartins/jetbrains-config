@@ -15,14 +15,38 @@
         <mark key="." line="23" column="9" />
         <mark key="^" line="23" column="9" />
       </file>
+      <file name="/Dummy.txt" timestamp="1498571166709">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" timestamp="1498577935457">
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1498576284548">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.go" timestamp="1498577350843">
+        <mark key="[" line="30" column="62" />
+        <mark key="]" line="30" column="62" />
+        <mark key="." line="30" column="62" />
+        <mark key="^" line="30" column="62" />
+      </file>
+      <file name="$USER_HOME$/GoglandProjects/Test/main.go" timestamp="1498570615022">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-ms-laranjinha/server/server.go" timestamp="1498571965451">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="23" />
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1498571166709">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-ms-laranjinha/config/config.yml" timestamp="1498572791406">
         <mark key="[" line="7" column="30" />
@@ -30,16 +54,29 @@
         <mark key="." line="13" column="8" />
         <mark key="^" line="13" column="8" />
       </file>
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/endpoints/endpoints.go" timestamp="1498578593791">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="55" column="33" />
+        <mark key="]" line="55" column="44" />
+        <mark key="^" line="55" column="44" />
+        <mark key="." line="55" column="44" />
+      </file>
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.yml" timestamp="1498577200572">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="132" />
+        <mark key="." line="19" column="132" />
+        <mark key="^" line="19" column="132" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-ms-laranjinha/.editorconfig" timestamp="1498571660868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/GoglandProjects/Test/main.go" timestamp="1498570615022">
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="5" column="32" />
-        <mark key="^" line="5" column="32" />
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/utils/create-query-string.go" timestamp="1498578056137">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-ms-laranjinha/main.go" timestamp="1498571124500">
         <mark key="[" line="3" column="7" />
@@ -52,43 +89,46 @@
       <jump line="11" column="20" filename="$USER_HOME$/www/work/kide/kide-ms-laranjinha/config/config.go" />
       <jump line="7" column="10" filename="$USER_HOME$/www/work/kide/kide-ms-laranjinha/config/config.go" />
       <jump line="3" column="8" filename="$USER_HOME$/www/work/kide/kide-ms-laranjinha/config/config.go" />
+      <jump line="16" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/endpoints/endpoints.go" />
+      <jump line="1" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.yml" />
+      <jump line="40" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/endpoints/endpoints.go" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDb2RBcm1heiBpbnQgYHlhbWw6IiJgCg==</text>
+        <text encoding="base64">ICAgICAgICBJQ29kQ2F0YWxvZ28gaW50IGB1cmw6ImlDb2RDYXRhbG9nbyJgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIuL2NvbmZpZy8iCg==</text>
+        <text encoding="base64">ICAgICAgICBJQ29kQXJtYXogaW50IGB1cmw6ImlDb2RBcm1heiJgCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICIuL2NvbmZpZy8iCg==</text>
+      <register name="&quot;" type="4">
+        <text>ICodArmaz</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIuLi9jb25maWcvY29uZmlnIgo=</text>
+        <text encoding="base64">CXJldHVybiAiIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0ICIuLi9jb25maWcvY29uZmlnIgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJldHVybiAiIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">CXJldHVybiAiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBuaWwsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnR5cGUgQ29uZmlnIHN0cnVjdCB7CiAgICBCYXNlQVBJIHN0cmluZyBgeWFtbDoiYmFzZS1hcGktdXJsImAKICAgIERlZmF1bHRBcmd1bWVudHMgc3RydWN0IHsKICAgICAgICBDb2RBcm1heiBpbnQgYHlhbWw6IiJgCiAgICAgICAgQ29kQ2F0YWxvZ28gaW50IGB5YW1sOiIiYAogICAgICAgIEVtcHJlc2EgaW50IGB5YW1sOiIiYAogICAgICAgIENvZENvbGVjIGludCBgeWFtbDoiImAKICAgICAgICBEYXRhQWx0ZXJhY2FvIGludCBgeWFtbDoiImAKICAgIH0KICAgIExvY2FsZU1hcCBzdHJ1Y3QgewogICAgICAgIFBUIGludCBgeWFtbDoiImAKICAgICAgICBGUiBpbnQgYHlhbWw6IiJgCiAgICAgICAgRU4gaW50IGB5YW1sOiIiYAogICAgICAgIEVTIGludCBgeWFtbDoiImAKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBUZXN0IGludCBgdXJsOiJjb2lzYXMiYAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>ICodArmaz</text>
       </register>
     </registers>
     <search>
@@ -119,6 +159,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

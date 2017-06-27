@@ -2,4 +2,9 @@
   <JSCodeStyleSettings>
     <option name="INDENT_CHAINED_CALLS" value="false" />
   </JSCodeStyleSettings>
+  <codeStyleSettings language="go">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="false" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
