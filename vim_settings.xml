@@ -17,12 +17,12 @@
         <mark key="." line="51" column="39" />
         <mark key="^" line="51" column="39" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1498659473558">
-        <mark key="'" line="128" column="4" />
-        <mark key="[" line="148" column="5" />
-        <mark key="]" line="151" column="20" />
-        <mark key="." line="151" column="20" />
-        <mark key="^" line="151" column="20" />
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1498660691568">
+        <mark key="'" line="120" column="0" />
+        <mark key="[" line="181" column="51" />
+        <mark key="]" line="181" column="51" />
+        <mark key="." line="181" column="51" />
+        <mark key="^" line="181" column="51" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.go" timestamp="1498659485753">
         <mark key="'" line="30" column="99" />
@@ -99,11 +99,11 @@
         <mark key="." line="23" column="9" />
         <mark key="^" line="23" column="9" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/devolve-tabela-cores-por-idioma.go" timestamp="1498659373509">
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="17" column="18" />
-        <mark key="." line="17" column="18" />
-        <mark key="^" line="17" column="18" />
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/devolve-tabela-cores-por-idioma.go" timestamp="1498660742683">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" timestamp="1498580491662">
         <mark key="[" line="3" column="0" />
@@ -210,43 +210,46 @@
       <jump line="116" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" />
       <jump line="112" column="4" filename="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" />
       <jump line="31" column="99" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.go" />
+      <jump line="114" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" />
+      <jump line="108" column="16" filename="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" />
+      <jump line="118" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuYyBEZXZvbHZlVGFiZWxhQXJ0aWdvc0Rlc2NyaWNvZXNDb21wb3NpY29lc1BvcklkaW9tYShjQ29kQXJ0aWdvIHN0cmluZykgc3RyaW5nIHsKICAgIGNDb2RBcnRpZ28gPSBmbXQuU3ByaW50ZigiKiVzKiIsIGNDb2RBcnRpZ28pCgoJdHlwZSBRdWVyeSBzdHJ1Y3QgewoJCUNDb2RBcnRpZ28gICBzdHJpbmcgYHVybDoiY0NvZEFydGlnbyJgCgkJSUVtcHJlc2EgICAgIGludCAgICBgdXJsOiJpRW1wcmVzYSJgCgkJSUNvZENhdGFsb2dvIGludCAgICBgdXJsOiJpQ29kQ2F0YWxvZ28iYAoJfQoKCXEgOj0gUXVlcnl7CgkJY0NvZEFydGlnbywKCQlfY29uZmlnLkRlZmF1bHRBcmd1bWVudHMuSUVtcHJlc2EsCgkJX2NvbmZpZy5EZWZhdWx0QXJndW1lbnRzLklDb2RDYXRhbG9nbywKCX0KCgl2LCBfIDo9IHF1ZXJ5LlZhbHVlcyhxKQoKCXJldHVybiBfY29uZmlnLkJhc2VBUElVcmwgKyBfY29uZmlnLkVuZHBvaW50cy5EZXZvbHZlVGFiZWxhQXJ0aWdvc0Rlc2NyaWNvZXNDb21wb3NpY29lc1BvcklkaW9tYSArICI/IiArIHYuRW5jb2RlKCkKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwLk5hbWUuRU4gPSBmbXQuU3ByaW50ZigiJXMgJXMiLCBrLkNEZXNjcmljYW9Db21lcmNpYWwsIGMuTmFtZS5FTikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJraWRlLW1zLWxhcmFuamluaGEvbW9kZWxzIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwLk5hbWUuUFQgPSBrLkNEZXNjcmljYW9Db21lcmNpYWwK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJraWRlLW1zLWxhcmFuamluaGEvbW9kZWxzIgo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbG9ycyA6PSBtYWtlKG1vZGVscy5Db2xvcnMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dHlwZSBDb2xvcnMgc3RydWN0IHsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiBrLklJZGlvbWEgPT0gY2ZnLkxvY2FsZU1hcC5FTiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIENvbG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcC5OYW1lLkVOID0gZm10LlNwcmludGYoIiVzIiwgay5DRGVzY3JpY2FvQ29tZXJjaWFsKQogICAgICAgICAgICAgICAgICAgICAgICBwLkNvbXBvc2l0aW9uLkVOID0gay5DQ29tcG9zaWNhbwogICAgICAgICAgICAgICAgICAgICAgICBwLkRlc2NyaXB0aW9uLkVOID0gay5DVGV4dG9Db21lcmNpYWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgay5JSWRpb21hID09IGNmZy5Mb2NhbGVNYXAuRU4gewogICAgICAgICAgICAgICAgcC5OYW1lLkVOID0gZm10LlNwcmludGYoIiVzIiwgay5DRGVzY3JpY2FvQ29tZXJjaWFsKQogICAgICAgICAgICAgICAgcC5Db21wb3NpdGlvbi5FTiA9IGsuQ0NvbXBvc2ljYW8KICAgICAgICAgICAgICAgIHAuRGVzY3JpcHRpb24uRU4gPSBrLkNUZXh0b0NvbWVyY2lhbAogICAgICAgICAgICB9IGVsc2UgaWYgay5JSWRpb21hID09IGNmZy5Mb2NhbGVNYXAuUFQgewogICAgICAgICAgICAgICAgcC5OYW1lLlBUID0gay5DRGVzY3JpY2FvQ29tZXJjaWFsCiAgICAgICAgICAgICAgICBwLkNvbXBvc2l0aW9uLlBUID0gay5DQ29tcG9zaWNhbwogICAgICAgICAgICAgICAgcC5EZXNjcmlwdGlvbi5QVCA9IGsuQ1RleHRvQ29tZXJjaWFsCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciBfLCBjIDo9IHJhbmdlIGNvbG9ycyB7CiAgICAgICAgICAgICAgICAgICAgaWYgYy5Db2RlID09IGNvbG9yQ29kZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>colors</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
