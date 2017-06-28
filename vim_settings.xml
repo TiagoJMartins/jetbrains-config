@@ -17,19 +17,19 @@
         <mark key="." line="51" column="39" />
         <mark key="^" line="51" column="39" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1498658311997">
-        <mark key="'" line="127" column="4" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="110" column="14" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="98" column="87" />
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1498659473558">
+        <mark key="'" line="128" column="4" />
+        <mark key="[" line="148" column="5" />
+        <mark key="]" line="151" column="20" />
+        <mark key="." line="151" column="20" />
+        <mark key="^" line="151" column="20" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.go" timestamp="1498650408401">
-        <mark key="'" line="40" column="21" />
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="17" />
-        <mark key="." line="8" column="17" />
-        <mark key="^" line="8" column="17" />
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.go" timestamp="1498659485753">
+        <mark key="'" line="30" column="99" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="31" column="103" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/devolve-tabela-artigos-cor-tamanho.go" timestamp="1498643468415">
         <mark key="[" line="9" column="32" />
@@ -43,31 +43,31 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/endpoints/endpoints.go" timestamp="1498658397672">
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/endpoints/endpoints.go" timestamp="1498659221791">
         <mark key="'" line="82" column="0" />
-        <mark key="[" line="102" column="15" />
-        <mark key="]" line="102" column="15" />
-        <mark key="^" line="102" column="15" />
-        <mark key="." line="102" column="15" />
+        <mark key="[" line="107" column="96" />
+        <mark key="]" line="107" column="95" />
+        <mark key="^" line="107" column="95" />
+        <mark key="." line="107" column="95" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/server/server.go" timestamp="1498647048223">
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/server/server.go" timestamp="1498659220095">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/devolve-tabela-com-stocks.go" timestamp="1498658224420">
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/devolve-tabela-com-stocks.go" timestamp="1498659222727">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="40" />
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="60" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.yml" timestamp="1498580098415">
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.yml" timestamp="1498659154711">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="19" column="62" />
-        <mark key="]" line="19" column="62" />
-        <mark key="." line="19" column="62" />
-        <mark key="^" line="19" column="62" />
+        <mark key="[" line="19" column="135" />
+        <mark key="]" line="20" column="66" />
+        <mark key="." line="20" column="66" />
+        <mark key="^" line="20" column="66" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/utils/create-query-string.go" timestamp="1498578056137">
         <mark key="[" line="7" column="0" />
@@ -99,11 +99,11 @@
         <mark key="." line="23" column="9" />
         <mark key="^" line="23" column="9" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/devolve-tabela-cores-por-idioma.go" timestamp="1498658299015">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="27" />
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/devolve-tabela-cores-por-idioma.go" timestamp="1498659373509">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+        <mark key="^" line="17" column="18" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" timestamp="1498580491662">
         <mark key="[" line="3" column="0" />
@@ -209,43 +209,44 @@
       <jump line="32" column="4" filename="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" />
       <jump line="116" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" />
       <jump line="112" column="4" filename="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" />
+      <jump line="31" column="99" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.go" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ZnVuYyBEZXZvbHZlVGFiZWxhQXJ0aWdvc0Rlc2NyaWNvZXNDb21wb3NpY29lc1BvcklkaW9tYShjQ29kQXJ0aWdvIHN0cmluZykgc3RyaW5nIHsKICAgIGNDb2RBcnRpZ28gPSBmbXQuU3ByaW50ZigiKiVzKiIsIGNDb2RBcnRpZ28pCgoJdHlwZSBRdWVyeSBzdHJ1Y3QgewoJCUNDb2RBcnRpZ28gICBzdHJpbmcgYHVybDoiY0NvZEFydGlnbyJgCgkJSUVtcHJlc2EgICAgIGludCAgICBgdXJsOiJpRW1wcmVzYSJgCgkJSUNvZENhdGFsb2dvIGludCAgICBgdXJsOiJpQ29kQ2F0YWxvZ28iYAoJfQoKCXEgOj0gUXVlcnl7CgkJY0NvZEFydGlnbywKCQlfY29uZmlnLkRlZmF1bHRBcmd1bWVudHMuSUVtcHJlc2EsCgkJX2NvbmZpZy5EZWZhdWx0QXJndW1lbnRzLklDb2RDYXRhbG9nbywKCX0KCgl2LCBfIDo9IHF1ZXJ5LlZhbHVlcyhxKQoKCXJldHVybiBfY29uZmlnLkJhc2VBUElVcmwgKyBfY29uZmlnLkVuZHBvaW50cy5EZXZvbHZlVGFiZWxhQXJ0aWdvc0Rlc2NyaWNvZXNDb21wb3NpY29lc1BvcklkaW9tYSArICI/IiArIHYuRW5jb2RlKCkKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBfY29uZmlnLkRlZmF1bHRBcmd1bWVudHMuSUNvZENhdGFsb2dvLAo=</text>
+        <text encoding="base64">ICAgICJraWRlLW1zLWxhcmFuamluaGEvbW9kZWxzIgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBfY29uZmlnLkRlZmF1bHRBcmd1bWVudHMuSUNvZENhdGFsb2dvLAo=</text>
+        <text encoding="base64">ICAgICJraWRlLW1zLWxhcmFuamluaGEvbW9kZWxzIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjQ29kQXJ0aWdvLAo=</text>
+        <text encoding="base64">ICAgIGNvbG9ycyA6PSBtYWtlKG1vZGVscy5Db2xvcnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBJQ29kQ2F0YWxvZ28gaW50ICAgIGB1cmw6ImlDb2RDYXRhbG9nbyJgCg==</text>
+        <text encoding="base64">dHlwZSBDb2xvcnMgc3RydWN0IHsKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDQ29kQXJ0aWdvICAgc3RyaW5nIGB1cmw6ImNDb2RBcnRpZ28iYAo=</text>
+        <text encoding="base64">ICAgIENvbG9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNDb2RBcnRpZ28gPSBmbXQuU3ByaW50ZigiKiVzKiIsIGNDb2RBcnRpZ28pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gYGAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJsIDo9IHJhdGVsaW1pdC5OZXcoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByZXYgPSBub3cK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>colors</text>
       </register>
     </registers>
     <search>
