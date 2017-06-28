@@ -11,6 +11,7 @@
         <mark key="^" line="121" column="58" />
         <mark key="." line="121" column="58" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/.editorconfig" timestamp="1498667494383" />
     </filemarks>
     <jumps />
     <registers>
@@ -41,6 +42,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
