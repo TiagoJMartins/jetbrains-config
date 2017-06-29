@@ -22,11 +22,11 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/message-queue-service.js" timestamp="1498747085607">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="109" column="35" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/message-queue-service.js" timestamp="1498753877391">
+        <mark key="[" line="104" column="39" />
+        <mark key="]" line="106" column="57" />
+        <mark key="." line="106" column="57" />
+        <mark key="^" line="106" column="57" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/delivery/controller/delivery-ctrl.js" timestamp="1498727601343">
         <mark key="[" line="30" column="30" />
@@ -34,43 +34,58 @@
         <mark key="^" line="30" column="55" />
         <mark key="." line="30" column="55" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product.js" timestamp="1498752600128">
+        <mark key="[" line="97" column="31" />
+        <mark key="]" line="97" column="31" />
+        <mark key="^" line="97" column="31" />
+        <mark key="." line="97" column="31" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" timestamp="1498754034529">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="31" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/cart/cart-ui-states.js" />
+      <jump line="27" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
+      <jump line="11" column="25" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY2hhbm5lbDsgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGl0ZW0gPSAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY2hhbm5lbDsgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGl0ZW0gPSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHJpZXZlKHF1ZXVlKSB7CiAgICAgICAgbGV0IGNoYW5uZWw7IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGl0ZW0gPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbCA9IGNoOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJyLnB1c2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBjYXJ0TWVudSA9IGZhbHNlOwoKICAgICAgICAgICAgICAgIGlmICgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNhcnRNZW51KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
