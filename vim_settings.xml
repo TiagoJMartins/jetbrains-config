@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/scraped-info.go" timestamp="1498736285738">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+      </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/devolve-tabela-artigos.go" timestamp="1498643314697">
         <mark key="'" line="5" column="8" />
         <mark key="[" line="33" column="32" />
@@ -10,25 +16,26 @@
         <mark key="." line="33" column="39" />
         <mark key="^" line="33" column="39" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/product.go" timestamp="1498666923332">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="51" column="32" />
-        <mark key="]" line="51" column="39" />
-        <mark key="." line="51" column="39" />
-        <mark key="^" line="51" column="39" />
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/product.go" timestamp="1498736891474">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="10" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1498662604172">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="^" line="187" column="2" />
-        <mark key="." line="134" column="0" />
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1498736515300">
+        <mark key="'" line="188" column="7" />
+        <mark key="[" line="198" column="5" />
+        <mark key="]" line="200" column="21" />
+        <mark key="." line="200" column="21" />
+        <mark key="^" line="200" column="21" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.go" timestamp="1498666014202">
-        <mark key="'" line="51" column="17" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.go" timestamp="1498733380056">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="40" column="32" />
+        <mark key="." line="40" column="32" />
+        <mark key="^" line="40" column="32" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/devolve-tabela-artigos-cor-tamanho.go" timestamp="1498643468415">
         <mark key="[" line="9" column="32" />
@@ -36,14 +43,13 @@
         <mark key="." line="9" column="49" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/producer/producer.go" timestamp="1498666784959">
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/producer/producer.go" timestamp="1498736950238">
         <mark key="'" line="50" column="4" />
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="25" column="16" />
-        <mark key="." line="25" column="16" />
-        <mark key="^" line="25" column="16" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/README.md" timestamp="1498667822787">
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/README.md" timestamp="1498668475192">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -73,12 +79,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="60" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.yml" timestamp="1498665928892">
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.yml" timestamp="1498733360905">
         <mark key="'" line="23" column="66" />
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="13" />
-        <mark key="^" line="3" column="13" />
+        <mark key="[" line="28" column="11" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="11" />
+        <mark key="^" line="28" column="11" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/utils/create-query-string.go" timestamp="1498578056137">
         <mark key="[" line="7" column="0" />
@@ -98,6 +104,13 @@
         <mark key="." line="15" column="56" />
         <mark key="^" line="15" column="56" />
       </file>
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" timestamp="1498736874393">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="101" column="35" />
+        <mark key="]" line="103" column="16" />
+        <mark key="^" line="103" column="16" />
+        <mark key="." line="103" column="16" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-ms-laranjinha/client/client.go" timestamp="1498575228203">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -116,11 +129,10 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" timestamp="1498667523438">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="3" />
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" timestamp="1498736932493">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/endpoint-response/devolve-tabela-com-stocks.go" timestamp="1498580704463">
         <mark key="[" line="0" column="25" />
@@ -236,43 +248,68 @@
       <jump line="15" column="12" filename="$USER_HOME$/go/src/kide-ms-laranjinha/producer/producer.go" />
       <jump line="12" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/producer/producer.go" />
       <jump line="49" column="4" filename="$USER_HOME$/go/src/kide-ms-laranjinha/producer/producer.go" />
+      <jump line="43" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.go" />
+      <jump line="5" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="19" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="40" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="15" column="40" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="28" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="16" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="51" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="3" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="38" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="49" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="4" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="53" column="28" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="17" column="5" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="55" column="3" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="50" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/models/product.go" />
+      <jump line="86" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="2" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="68" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="66" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="131" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" />
+      <jump line="187" column="7" filename="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" />
+      <jump line="97" column="4" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="10" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
+      <jump line="65" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/scraper/scraper.go" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwLk5hbWUuRU4gPSBmbXQuU3ByaW50ZigiJXMgJXMiLCBrLkNEZXNjcmljYW9Db21lcmNpYWwsIGMuTmFtZS5FTikK</text>
+        <text encoding="base64">ICAgIC8vIFJlbW92ZSDigqwgYW5kIHJlcGxhY2UgY29tbWEgYnkgcGVyaW9kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMgQVNECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyMgQVNECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IFJlbW92ZSB0aGlzCiAgICByZXR1cm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZhaQo=</text>
+        <text encoding="base64">ICAgICJraWRlLW1zLWxhcmFuamluaGEvY2xpZW50Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAvL2NsaWVudC5CdWlsZFByb2R1Y3QoInY3MTczIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICJnaXRodWIuY29tL2RhdmVjZ2gvZ28tc3Bldy9zcGV3Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvZHkgOj0gIiIK</text>
+        <text encoding="base64">ICAgIHNwZXcuRHVtcChpbmZvKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICJnaXRodWIuY29tL2RhdmVjZ2gvZ28tc3Bldy9zcGV3Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>len(products) == 0</text>
       </register>
     </registers>
     <search>
@@ -312,6 +349,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
