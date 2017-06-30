@@ -23,12 +23,12 @@
         <mark key="." line="52" column="17" />
         <mark key="^" line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1498837005350">
-        <mark key="'" line="220" column="7" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-        <mark key="^" line="144" column="22" />
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1498840941855">
+        <mark key="'" line="219" column="7" />
+        <mark key="[" line="165" column="26" />
+        <mark key="]" line="166" column="15" />
+        <mark key="^" line="166" column="15" />
+        <mark key="." line="166" column="15" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.go" timestamp="1498840336209">
         <mark key="'" line="45" column="0" />
@@ -78,6 +78,12 @@
         <mark key="]" line="22" column="30" />
         <mark key="." line="22" column="30" />
         <mark key="^" line="22" column="30" />
+      </file>
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/Dockerfile" timestamp="1498840869661">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.yml" timestamp="1498826130989">
         <mark key="'" line="23" column="66" />
@@ -137,11 +143,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" timestamp="1498840020048">
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" timestamp="1498840960167">
         <mark key="'" line="20" column="7" />
         <mark key="[" line="11" column="49" />
-        <mark key="]" line="11" column="52" />
-        <mark key="." line="11" column="52" />
+        <mark key="]" line="11" column="49" />
+        <mark key="." line="11" column="49" />
         <mark key="^" line="11" column="52" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/products.txt" timestamp="1498836962826">
@@ -295,41 +301,41 @@
       <jump line="1" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/products.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFNUVBfUVVFVUUgOj0gb3MuR2V0ZW52KCJBTVFQX1FVRVVFIikK</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>production</text>
+        <text>k</text>
       </register>
       <register name="0" type="4">
         <text>stocks[value.CCodCor]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFNUVBfUVVFVUUgOj0gb3MuR2V0ZW52KCJBTVFQX1FVRVVFIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjZmcuTWVzc2FnZVF1ZXVlLlF1ZXVlTmFtZSA9IEFNUVBfUVVFVUUK</text>
+        <text encoding="base64">ICAgIHNwZXcuRHVtcChzdG9ja3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEFNUVBfUVVFVUUgOj0gb3MuR2V0ZW52KCJBTVFQX1FVRVVFIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjZmcuTWVzc2FnZVF1ZXVlLlF1ZXVlTmFtZSA9IEFNUVBfUVVFVUUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEFNUVBfVVJMIHN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFNUVBfVVJMIDo9IG9zLkdldGVudigiQU1RUF9VUkwiKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFNUVAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IEFNUVBfVVJMIHN0cmluZwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFNUVBfVVJMIDo9IG9zLkdldGVudigiQU1RUF9VUkwiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFNUVAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
