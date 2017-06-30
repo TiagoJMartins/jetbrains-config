@@ -23,12 +23,11 @@
         <mark key="." line="52" column="17" />
         <mark key="^" line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1498828173431">
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1498830842034">
         <mark key="'" line="220" column="7" />
-        <mark key="[" line="181" column="45" />
-        <mark key="]" line="182" column="37" />
-        <mark key="." line="182" column="37" />
-        <mark key="^" line="182" column="37" />
+        <mark key="[" line="61" column="8" />
+        <mark key="]" line="61" column="8" />
+        <mark key="." line="61" column="8" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.go" timestamp="1498745348791">
         <mark key="'" line="44" column="0" />
@@ -294,40 +293,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>/</text>
       </register>
       <register name="0" type="4">
         <text>stocks[value.CCodCor]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBzdG9jay4K</text>
+        <text encoding="base64">ICAgICAgICBzdG9jay5RdWFudGl0eSA9IDk5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm10LlByaW50ZigiUmVjb3ZlcmluZzogJXNcbiIsIGVycikK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBzdG9jay4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYW5pYyhmbXQuU3ByaW50ZigiJXM6ICVzIiwgbXNnLCBlcnIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm10LlByaW50ZigiUmVjb3ZlcmluZzogJXNcbiIsIGVycikK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwYW5pYyhmbXQuU3ByaW50ZigiJXM6ICVzIiwgbXNnLCBlcnIpKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAKICAgICAgICB2YXIK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IGVsc2UgewogICAgICAgIH0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RvY2tzID0gW10K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyLgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Bldy5EdW1wKGVycikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
