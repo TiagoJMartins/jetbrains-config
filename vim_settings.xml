@@ -15,6 +15,11 @@
         <mark key="." line="42" column="71" />
         <mark key="^" line="42" column="71" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/users-ctrl/user.html" timestamp="1498813474149">
+        <mark key="[" line="170" column="54" />
+        <mark key="]" line="170" column="54" />
+        <mark key="." line="170" column="54" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/cart/cart-ui-states.js" timestamp="1498727954325">
         <mark key="'" line="31" column="16" />
         <mark key="[" line="33" column="20" />
@@ -47,6 +52,12 @@
         <mark key="." line="33" column="86" />
         <mark key="^" line="33" column="86" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/users-ctrl/user-ctrl.js" timestamp="1498813593823">
+        <mark key="[" line="24" column="51" />
+        <mark key="]" line="27" column="46" />
+        <mark key="." line="27" column="46" />
+        <mark key="^" line="27" column="46" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="31" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/cart/cart-ui-states.js" />
@@ -56,37 +67,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>child.birthMonth</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgICRzY29wZS51c2VyLmNoaWxkcmVuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGNvbnN0IGkgb2Ygc2l6ZXNBcnJheSkgewogICAgICAgICAgIDsKICAgICAgICAgICAgCiAgICAgICAgICAgIGFyci5wdXNoKGl0ZW0pCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGl0ZW0gPSAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGl0ZW0gPSAK</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGNvbnN0IGkgb2Ygc2l6ZXNBcnJheSkgewogICAgICAgICAgIDsKICAgICAgICAgICAgCiAgICAgICAgICAgIGFyci5wdXNoKGl0ZW0pCiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJyLnB1c2gK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGl0ZW0gPSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGl0ZW0gPSAK</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>child.birthMonth</text>
       </register>
     </registers>
     <search>
