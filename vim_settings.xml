@@ -9,11 +9,8 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/cart-preview/cart-preview.html" timestamp="1498727635801">
-        <mark key="[" line="42" column="67" />
-        <mark key="]" line="42" column="71" />
-        <mark key="." line="42" column="71" />
-        <mark key="^" line="42" column="71" />
+      <file name="/Dummy.txt" timestamp="1498828811779">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/users-ctrl/user.html" timestamp="1498813474149">
         <mark key="[" line="170" column="54" />
@@ -33,32 +30,39 @@
         <mark key="." line="106" column="57" />
         <mark key="^" line="106" column="57" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/delivery/controller/delivery-ctrl.js" timestamp="1498727601343">
-        <mark key="[" line="30" column="30" />
-        <mark key="]" line="30" column="55" />
-        <mark key="^" line="30" column="55" />
-        <mark key="." line="30" column="55" />
-      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size.js" timestamp="1498828799784" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product.js" timestamp="1498752600128">
         <mark key="[" line="97" column="31" />
         <mark key="]" line="97" column="31" />
         <mark key="^" line="97" column="31" />
         <mark key="." line="97" column="31" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/createWithRelations.js" timestamp="1498819699189" />
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" timestamp="1498819733157">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="26" column="39" />
-        <mark key="." line="26" column="39" />
-        <mark key="^" line="26" column="43" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" timestamp="1498831263974">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="140" column="45" />
+        <mark key="]" line="140" column="45" />
+        <mark key="." line="140" column="45" />
+        <mark key="^" line="140" column="45" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/users-ctrl/user-ctrl.js" timestamp="1498813593823">
-        <mark key="[" line="24" column="51" />
-        <mark key="]" line="27" column="46" />
-        <mark key="." line="27" column="46" />
-        <mark key="^" line="27" column="46" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/updateWithRelations.js" timestamp="1498831080262">
+        <mark key="[" line="46" column="14" />
+        <mark key="]" line="46" column="14" />
+        <mark key="." line="46" column="14" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/cart-preview/cart-preview.html" timestamp="1498727635801">
+        <mark key="[" line="42" column="67" />
+        <mark key="]" line="42" column="71" />
+        <mark key="." line="42" column="71" />
+        <mark key="^" line="42" column="71" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/product-ctrl/bulk-edit/bulk-edit-ctrl.js" timestamp="1498828605200" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/delivery/controller/delivery-ctrl.js" timestamp="1498727601343">
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="30" column="55" />
+        <mark key="^" line="30" column="55" />
+        <mark key="." line="30" column="55" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/directives/kd-stock/stock.js" timestamp="1498828688223" />
     </filemarks>
     <jumps>
       <jump line="31" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/cart/cart-ui-states.js" />
@@ -71,46 +75,48 @@
       <jump line="73" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
       <jump line="115" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
       <jump line="10" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
+      <jump line="107" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
+      <jump line="34" column="4" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsZygnYmVmb3JlJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKHJlc3VsdCkgPT4gewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2Fja2VkICcsIG1lc3NhZ2UubmFtZS5lbik7CiAgICAgICAgICAgICAgICBjbGcoJ2FjaycpCiAgICAgICAgICAgICAgICBjaC5hY2sobXNnKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNsZWFuc2VkUHJvZHVjdC5zaXplcyk7Cg==</text>
+        <text encoding="base64">CnZhciBsb29wYmFjayA9IHJlcXVpcmUoJ2xvb3BiYWNrJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2l6ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsZygnYWZ0ZXInKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobGFyYW5qaW5oYSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsZygnYmVmb3JlJykKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNsZWFuc2VkUHJvZHVjdC5zaXplcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xnKCdnb3QgcGFydG5lcicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsZygnZ290IHNlcXVlbmNlJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsZygnYmVmb3JlJykKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNsZWFuc2VkUHJvZHVjdC5zaXplcyk7CiAgICAgICAgICAgICAgICBjbGVhbnNlZFByb2R1Y3Quc2l6ZXMgPSBzaXplczsKICAgICAgICAgICAgICAgIGNsZygnYWZ0ZXInKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFwcm9kdWN0cyB8fCAhcHJvZHVjdHMubGVuZ3RoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gTnVtYmVyKDApLnBhZCgzKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgbGV0IHJlZnMgPSBwcm9kdWN0cy5tYXAoKHApID0+IHsKICAgICAgICAgICAgICAgIHJldHVybiBwYXJzZUludChwLmludGVybmFsX3JlZmVyZW5jZS5zdWJzdHIoLTMpKTsKICAgICAgICAgICAgfSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNsZWFuc2VkUHJvZHVjdC5zaXplcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsZyhwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGNsZWFuc2VkUHJvZHVjdC5zdG9ja3MpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHApOwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEhhbmRsZSBzdG9ja3MK</text>
       </register>
       <register name=":" type="4">
-        <text>40</text>
+        <text>39</text>
       </register>
     </registers>
     <search>
@@ -122,6 +128,8 @@
       <history-cmd>
         <entry>77</entry>
         <entry>40</entry>
+        <entry>102</entry>
+        <entry>39</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -135,6 +143,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
