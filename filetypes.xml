@@ -2,7 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
