@@ -101,11 +101,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" timestamp="1499186825745">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="16" column="3" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" timestamp="1499189218050">
+        <mark key="[" line="78" column="8" />
+        <mark key="]" line="79" column="36" />
+        <mark key="." line="79" column="36" />
+        <mark key="^" line="79" column="36" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-knot/config/config.go" timestamp="1499182055002">
         <mark key="'" line="55" column="18" />
@@ -328,40 +328,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZtdC5GcHJpbnRmKHcsICJSZWZlcmVuY2U6ICV2XG4iLCByZWYpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnVuYyBjb25uZWN0KCkgKCpzcWwuREIsIGVycm9yKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9jawo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGVyciAhPSBuaWwgewogICAgICAgIGZtdC5QcmludGxuKCJGYWlsZWQgdG8gY29ubmVjdCB0byByZW1vdGUgZGF0YWJhc2U6ICIsIGVyci5FcnJvcigpKQogICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhciBzdG9jayBtb2RlbHMuU3RvY2sK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbm4sIGVyciA6PSBjb25uZWN0KCkK</text>
+        <text encoding="base64">CiAgICBzcGV3LkR1bXAoZWFucykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIAogICAgc3RtdC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjb25uLCBwcmVGbGlnaHQK</text>
+        <text encoding="base64">ICAgIGVyciA9IHJvd3MuRXJyKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNmZyA6PSBjb25maWcuUmVhZCgpLkRhdGFiYXNlCgogICAgdSA6PSAmdXJsLlVSTHsKICAgICAgICBTY2hlbWU6ICAgY2ZnLlNjaGVtZSwKICAgICAgICBVc2VyOiAgICAgdXJsLlVzZXJQYXNzd29yZChjZmcuVXNlciwgY2ZnLlBhc3N3b3JkKSwKICAgICAgICBIb3N0OiAgICAgZm10LlNwcmludGYoIiVzOiVkIiwgY2ZnLkhvc3QsIGNmZy5Qb3J0KSwKICAgIH0KCiAgICBjb25uLCBlcnIgOj0gc3FsLk9wZW4oIm1zc3FsIiwgdS5TdHJpbmcoKSkKICAgIGlmIGVyciAhPSBuaWwgewogICAgICAgIGZtdC5QcmludGxuKCJPcGVuIGNvbm5lY3Rpb24gZmFpbGVkOiIsIGVyci5FcnJvcigpKQogICAgfQogICAgZGVmZXIgY29ubi5DbG9zZSgpCgogICAgcHJlRmxpZ2h0IDo9IGNvbm4uUGluZygpCiAgICBpZiBwcmVGbGlnaHQgIT0gbmlsIHsKICAgICAgICBmbXQuUHJpbnRsbigiUGluZyBmYWlsZWQ6ICIsIHByZUZsaWdodC5FcnJvcigpKQogICAgfQoKICAgIGZtdC5QcmludGYoIlBpbmchXG4iKQogICAgcmV0dXJuIGNvbm4sIHByZUZsaWdodAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCIiKQo=</text>
+        <text encoding="base64">ICAgIAogICAgcm93cy4K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
