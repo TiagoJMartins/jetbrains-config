@@ -47,12 +47,12 @@
         <mark key="." line="42" column="47" />
         <mark key="^" line="42" column="47" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-knot/main.go" timestamp="1499168308887">
-        <mark key="'" line="32" column="18" />
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="43" column="28" />
-        <mark key="." line="43" column="28" />
-        <mark key="^" line="43" column="28" />
+      <file name="$USER_HOME$/go/src/kide-ms-knot/main.go" timestamp="1499169902528">
+        <mark key="'" line="6" column="3" />
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-ms-laranjinha/config/config.go" timestamp="1499082295931">
         <mark key="'" line="57" column="0" />
@@ -149,6 +149,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/go/src/kide-ms-knot/models/stock.go" timestamp="1499169660022">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" timestamp="1499165598183">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="13" column="49" />
@@ -203,9 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/models/product.go" />
-      <jump line="49" column="12" filename="$USER_HOME$/go/src/kide-ms-laranjinha/models/product.go" />
-      <jump line="48" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/models/product.go" />
       <jump line="57" column="17" filename="$USER_HOME$/go/src/kide-ms-laranjinha/models/product.go" />
       <jump line="6" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/models/product.go" />
       <jump line="60" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/models/product.go" />
@@ -303,43 +306,46 @@
       <jump line="10" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" />
       <jump line="2" column="7" filename="$USER_HOME$/go/src/kide-ms-knot/main.go" />
       <jump line="32" column="18" filename="$USER_HOME$/go/src/kide-ms-knot/main.go" />
+      <jump line="46" column="20" filename="$USER_HOME$/go/src/kide-ms-knot/main.go" />
+      <jump line="9" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/main.go" />
+      <jump line="6" column="3" filename="$USER_HOME$/go/src/kide-ms-knot/main.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>.</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIGVyciAhPSBuaWwgewogICAgICAgIGxvZy5GYXRhbCgiUHJlcGFyZSBmYWlsZWQ6IiwgZXJyLkVycm9yKCkpCiAgICB9Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJnaXRodWIuY29tL2dvb2dsZS9nby1xdWVyeXN0cmluZy9xdWVyeSIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBSYXdRdWVyeTogcXVlcnkuRW5jb2RlKCksCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>, Alteracao</text>
+      </register>
+      <register name="0" type="4">
+        <text>SELECT * FROM [KNOT].[dbo].[vw_sitekide_artigos_stock] WHERE codigoEAN = 5608304940647</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vcXVlcnksIGVyciA6PSBjb25uLlF1ZXJ5KCJTRUxFQ1QgKiBGUk9NIFtLTk9UXS5bZGJvXS5bdndfc2l0ZWtpZGVfYXJ0aWdvc19zdG9ja10gV0hFUkUgY29kaWdvRUFOID0gNTYwODMwNDk0MDY0NyIpCiAgICAvL2lmIGVyciAhPSBuaWwgewogICAgLy8gICAgbG9nLkZhdGFsKCJRdWVyeSBmYWlsZWQ6IiwgZXJyLkVycm9yKCkpCiAgICAvL30KICAgIC8vZGVmZXIgcXVlcnkuQ2xvc2UoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAogICAgdmFyIGNvZGlnb0VBTiBzdHJpbmcKICAgIHZhciBzdG9jayBmbG9hdDY0CiAgICB2YXIgQWx0ZXJhY2FvIHN0cmluZwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAogICAgcm93Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAoK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5IDo9IHVybC5WYWx1ZXN7fQogICAgcXVlcnkuQWRkKCJjb25uZWN0aW9uIHRpbWVvdXQiLCBmbXQuU3ByaW50ZigiJWQiLCAxMCkpCg==</text>
+        <text encoding="base64">ICAgIHNwZXcuRHVtcChxdWVyeSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL1BhdGg6ICAiXFxzZXJ2ZXI3MyIsIC8vIGlmIGNvbm5lY3RpbmcgdG8gYW4gaW5zdGFuY2UgaW5zdGVhZCBvZiBhIHBvcnQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBzcGV3LkR1bXAodS5TdHJpbmcoKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNwZXcuRHVtcChiKQo=</text>
+        <text encoding="base64">ICAgICJnaXRodWIuY29tL2dvb2dsZS9nby1xdWVyeXN0cmluZy9xdWVyeSIK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
