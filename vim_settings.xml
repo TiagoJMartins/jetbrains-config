@@ -158,12 +158,12 @@
         <mark key="." line="13" column="49" />
         <mark key="^" line="13" column="52" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-knot/config/config.yml" timestamp="1499252071895">
+      <file name="$USER_HOME$/go/src/kide-ms-knot/config/config.yml" timestamp="1499252840949">
         <mark key="'" line="6" column="2" />
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="14" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
         <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="14" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/endpoint-response/devolve-tabela-com-stocks.go" timestamp="1498580704463">
         <mark key="[" line="0" column="25" />
@@ -220,7 +220,6 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
-      <file name="restClient/response21.json" timestamp="1499251392465" />
     </filemarks>
     <jumps>
       <jump line="12" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/producer/producer.go" />
@@ -325,8 +324,8 @@
       <jump line="35" column="30" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNxbC12aWV3OiAnJwo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -335,31 +334,31 @@
         <text>&quot;Reference '%s' wasn't found in the internal reference map.&quot;, ref</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJQaW5nISIpCg==</text>
+        <text encoding="base64">ICAgIHNxbC12aWV3OiAnJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZtdC5QcmludGYoKQo=</text>
+        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJQaW5nISIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJRdWVyeWluZyAlcyIsIHNpemVzKQo=</text>
+        <text encoding="base64">ICAgIGZtdC5QcmludGYoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
+        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJRdWVyeWluZyAlcyIsIHNpemVzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmbXQuU3ByaW50bG4oIlJlZmVyZW5jZSAnJXMnIHdhc24ndCBmb3VuZCBpbiB0aGUgaW50ZXJuYWwgcmVmZXJlbmNlIG1hcC4iLCByZWYpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCkK</text>
+        <text encoding="base64">ICAgICAgICBmbXQuU3ByaW50bG4oIlJlZmVyZW5jZSAnJXMnIHdhc24ndCBmb3VuZCBpbiB0aGUgaW50ZXJuYWwgcmVmZXJlbmNlIG1hcC4iLCByZWYpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmbXQuRnByaW50Zih3LCBgeyJlcnJvciI6IiVzIn1gLCApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmbXQuRnByaW50Zih3LCBgeyJlcnJvciI6IiVzIn1gLCApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmbXQuRnByaW50Zih3LCBgeyJlcnJvciI6IiVzIn1gLCAiQ291bGQgbm90IG1hcnNoYWwgU3RvY2sgaW50byBKU09OIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
