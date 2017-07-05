@@ -28,12 +28,12 @@
         <mark key="^" line="14" column="23" />
         <mark key="." line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-knot/controllers/get-stock.go" timestamp="1499251890177">
+      <file name="$USER_HOME$/go/src/kide-ms-knot/controllers/get-stock.go" timestamp="1499261855284">
         <mark key="'" line="22" column="18" />
-        <mark key="[" line="24" column="65" />
-        <mark key="]" line="24" column="77" />
-        <mark key="." line="24" column="77" />
-        <mark key="^" line="24" column="77" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="38" column="41" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.go" timestamp="1499162443290">
         <mark key="'" line="13" column="17" />
@@ -177,12 +177,12 @@
         <mark key="." line="13" column="49" />
         <mark key="^" line="13" column="52" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-knot/config/config.yml" timestamp="1499252840949">
+      <file name="$USER_HOME$/go/src/kide-ms-knot/config/config.yml" timestamp="1499261207834">
         <mark key="'" line="6" column="2" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="14" />
-        <mark key="." line="10" column="0" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/endpoint-response/devolve-tabela-com-stocks.go" timestamp="1498580704463">
         <mark key="[" line="0" column="25" />
@@ -226,11 +226,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" timestamp="1499259017125">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="27" />
+      <file name="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" timestamp="1499261853252">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-knot/config/config.go" timestamp="1499182055002">
         <mark key="'" line="55" column="18" />
@@ -343,41 +342,41 @@
       <jump line="29" column="12" filename="$USER_HOME$/go/src/kide-ms-knot/wercker.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>laranjinha</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJnby9wcmludGVyIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>laranjinha</text>
+        <text>n</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGtpZGUtbXMta25vdDoKICAgICAgICBidWlsZDogLi9raWRlLW1zLWtub3QKICAgICAgICBlbnZpcm9ubWVudDoKICAgICAgICAgICAgLSBHT19FTlY9cHJvZHVjdGlvbgogICAgICAgICAgICAtIFBPUlQ9NDIwMAogICAgICAgIGRlcGVuZHNfb246CiAgICAgICAgICAgIC0gcmFiYml0Cg==</text>
+      <register name="0" type="4">
+        <text>Reference '%s' wasn't found in the internal reference map.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBBTVFQX1VSTD1hbXFwOi8vcmFiYml0OjU2NzIK</text>
+        <text encoding="base64">ICAgICJnby9wcmludGVyIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNxbC12aWV3OiAnJwo=</text>
+        <text encoding="base64">ICAgICJnaXRodWIuY29tL2RhdmVjZ2gvZ28tc3Bldy9zcGV3Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJQaW5nISIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZtdC5QcmludGYoKQo=</text>
+        <text encoding="base64">ICAgIHNwZXcuUHJpbnRmKCJRdWVyeWluZzpcbiV2Iiwgc2l6ZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJRdWVyeWluZyAlcyIsIHNpemVzKQo=</text>
+        <text encoding="base64">ICAgIHByaW50ZXIuRnByaW50KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBBTVFQX1VSTD1hbXFwOi8vcmFiYml0OjU2NzIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmbXQuU3ByaW50bG4oIlJlZmVyZW5jZSAnJXMnIHdhc24ndCBmb3VuZCBpbiB0aGUgaW50ZXJuYWwgcmVmZXJlbmNlIG1hcC4iLCByZWYpCg==</text>
+        <text encoding="base64">ICAgIHNxbC12aWV3OiAnJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCkK</text>
+        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJQaW5nISIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmbXQuRnByaW50Zih3LCBgeyJlcnJvciI6IiVzIn1gLCApCg==</text>
+        <text encoding="base64">ICAgIGZtdC5QcmludGYoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
