@@ -42,10 +42,11 @@
         <mark key="." line="70" column="13" />
         <mark key="^" line="70" column="13" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1499164150912">
-        <mark key="[" line="221" column="8" />
-        <mark key="]" line="221" column="8" />
-        <mark key="." line="221" column="8" />
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1499264326525">
+        <mark key="[" line="181" column="39" />
+        <mark key="]" line="183" column="25" />
+        <mark key="." line="183" column="25" />
+        <mark key="^" line="183" column="25" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-knot/routes/get-stock.go" timestamp="1499176020218">
         <mark key="[" line="1" column="0" />
@@ -108,7 +109,7 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-ms-laranjinha/main.go" timestamp="1499263646001">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-ms-laranjinha/main.go" timestamp="1499264261877">
         <mark key="[" line="13" column="49" />
         <mark key="]" line="13" column="52" />
         <mark key="^" line="13" column="52" />
@@ -351,7 +352,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJnby9wcmludGVyIgo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBzcGV3Lgo=</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -360,31 +361,31 @@
         <text>Reference '%s' wasn't found in the internal reference map.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJnby9wcmludGVyIgo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBzcGV3Lgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJnaXRodWIuY29tL2RhdmVjZ2gvZ28tc3Bldy9zcGV3Igo=</text>
+        <text encoding="base64">ICAgICJnby9wcmludGVyIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJnaXRodWIuY29tL2RhdmVjZ2gvZ28tc3Bldy9zcGV3Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNwZXcuUHJpbnRmKCJRdWVyeWluZzpcbiV2Iiwgc2l6ZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ZXIuRnByaW50KCkK</text>
+        <text encoding="base64">ICAgIHNwZXcuUHJpbnRmKCJRdWVyeWluZzpcbiV2Iiwgc2l6ZXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBBTVFQX1VSTD1hbXFwOi8vcmFiYml0OjU2NzIK</text>
+        <text encoding="base64">ICAgIHByaW50ZXIuRnByaW50KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNxbC12aWV3OiAnJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBBTVFQX1VSTD1hbXFwOi8vcmFiYml0OjU2NzIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJQaW5nISIpCg==</text>
+        <text encoding="base64">ICAgIHNxbC12aWV3OiAnJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZtdC5QcmludGYoKQo=</text>
+        <text encoding="base64">ICAgIGZtdC5QcmludGxuKCJQaW5nISIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
