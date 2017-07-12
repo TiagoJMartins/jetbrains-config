@@ -160,12 +160,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" timestamp="1499868640583">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="95" column="46" />
-        <mark key="]" line="96" column="23" />
-        <mark key="." line="96" column="23" />
-        <mark key="^" line="96" column="23" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" timestamp="1499869340419">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="109" column="30" />
+        <mark key="]" line="109" column="30" />
+        <mark key="." line="109" column="30" />
+        <mark key="^" line="109" column="30" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-knot/Dockerfile" timestamp="1499259996286">
         <mark key="[" line="10" column="27" />
@@ -292,9 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-ms-laranjinha/config/config.go" />
-      <jump line="57" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-ms-laranjinha/config/config.go" />
-      <jump line="15" column="3" filename="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" />
       <jump line="8" column="4" filename="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" />
       <jump line="64" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.go" />
       <jump line="30" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" />
@@ -371,16 +368,13 @@
       <jump line="41" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="43" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="32" column="14" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
-      <jump line="1" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="49" column="3" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="48" column="23" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="76" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="75" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
-      <jump line="0" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="5" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="74" column="33" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="85" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
-      <jump line="88" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="2" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="83" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="3" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
@@ -392,31 +386,37 @@
       <jump line="8" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="89" column="44" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="105" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="97" column="34" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="108" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="88" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="104" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="1" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gR28gdGhyb3VnaCBhIFdpc2hsaXN0LCByZXR1cm5pbmcgdGhlIG51bWJlciBvZiBpdGVtcyBpbmNsdWRlZCBpbiBpdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Wishlsit</text>
+        <text>.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEludm9pY2VBZGRyZXNzICAgICBzdHJpbmcgYGpzb246Imludm9pY2VBZGRyZXNzImAKICAgIEludm9pY2VDb3VudHJ5ICAgICBzdHJpbmcgYGpzb246Imludm9pY2VDb3VudHJ5ImAKICAgIEludm9pY2VDaXR5ICAgICAgICBzdHJpbmcgYGpzb246Imludm9pY2VDaXR5ImAKICAgIEludm9pY2VQb3N0YWxDb2RlICBzdHJpbmcgYGpzb246Imludm9pY2VQb3N0YWxDb2RlImAKICAgIEludm9pY2VQaG9uZU51bWJlciBzdHJpbmcgYGpzb246Imludm9pY2VQaG9uZU51bWJlciJgCiAgICBJbnZvaWNlTmFtZSAgICAgICAgc3RyaW5nIGBqc29uOiJpbnZvaWNlTmFtZSJgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gR28gdGhyb3VnaCBhIFdpc2hsaXN0LCByZXR1cm5pbmcgdGhlIG51bWJlciBvZiBpdGVtcyBpbmNsdWRlZCBpbiBpdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dHlwZSBXaXNobGlzdCBzdHJ1Y3QgewogICAgCn0KCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CgoKCgoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIEdvIHRocm91Z2ggZXZlcnkgZmluaXNoZWQgYW5kIHBhaWQgb3JkZXIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -425,10 +425,10 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dHlwZSBXaXNobGlzdCBzdHJ1Y3QgewogICAgCn0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
