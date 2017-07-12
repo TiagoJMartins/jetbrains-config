@@ -68,9 +68,9 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" timestamp="1499860285780">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" timestamp="1499864826672">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="42" column="17" />
+        <mark key="[" line="43" column="25" />
         <mark key="]" line="43" column="30" />
         <mark key="." line="43" column="30" />
         <mark key="^" line="43" column="30" />
@@ -232,6 +232,7 @@
       <file name="/Dummy.txt" timestamp="1499859875996">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="restClient/response29.json" timestamp="1499864667345" />
       <file name="$USER_HOME$/go/src/kide-ms-knot/models/stock.go" timestamp="1499177702647">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="23" />
@@ -385,11 +386,11 @@
       <jump line="11" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -398,31 +399,31 @@
         <text encoding="base64">ICAgIHsKICAgICAgICAiYWNjZXNzVHlwZSI6ICJFWEVDVVRFIiwKICAgICAgICAicHJpbmNpcGFsVHlwZSI6ICJST0xFIiwKICAgICAgICAicHJpbmNpcGFsSWQiOiAiYWRtaW4iLAogICAgICAgICJwZXJtaXNzaW9uIjogIkFMTE9XIiwKICAgICAgICAicHJvcGVydHkiOiAicXVlcnkiCiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWxhdGlvbjogJ29yZGVyJywKICAgICAgICAgICAgICAgICAgICBzY29wZTogewogICAgICAgICAgICAgICAgICAgICAgICBmaWVsZHM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhZzogZmFsc2UKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG91dCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG91dCAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aDogIH0K</text>
-      </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aDogIH0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjZXB0czogewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFjY291bnQuZ2VuZXJhdGVBY3RpdmVDYW1wYWlnbkluZm9ybWF0aW9uKCd0aWFnb2Rrc3BAZ21haWwuY29tJywgbnVsbCwgJ2FzZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjZXB0czogewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
