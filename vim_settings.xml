@@ -68,12 +68,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" timestamp="1499866034857">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" timestamp="1499867776319">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="43" column="25" />
-        <mark key="]" line="43" column="30" />
-        <mark key="." line="43" column="30" />
-        <mark key="^" line="43" column="30" />
+        <mark key="[" line="44" column="37" />
+        <mark key="]" line="46" column="40" />
+        <mark key="." line="46" column="40" />
+        <mark key="^" line="46" column="40" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-ms-laranjinha/main.go" timestamp="1498571124500">
         <mark key="[" line="3" column="7" />
@@ -387,10 +387,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>'order'</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>'order'</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
