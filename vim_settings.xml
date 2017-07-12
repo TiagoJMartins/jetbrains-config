@@ -3,8 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner.json" timestamp="1499253484701">
-        <mark key="'" line="52" column="21" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/apis/kide.go" timestamp="1499865331846">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/client/client.go" timestamp="1499865661744">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="20" column="6" />
+        <mark key="." line="20" column="6" />
+        <mark key="^" line="28" column="15" />
+      </file>
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.go" timestamp="1499877871747">
+        <mark key="'" line="25" column="51" />
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="51" />
+        <mark key="." line="25" column="51" />
+        <mark key="^" line="25" column="51" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/scraped-info.go" timestamp="1498736285738">
         <mark key="[" line="3" column="10" />
@@ -12,17 +28,25 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/go/src/kide-ms-knot/wercker.yml" timestamp="1499259613851">
+        <mark key="'" line="29" column="12" />
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="33" column="30" />
+        <mark key="." line="33" column="30" />
+        <mark key="^" line="33" column="30" />
+      </file>
       <file name="$USER_HOME$/go/src/kide-ms-knot/routes/routes.go" timestamp="1499177107059">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="23" />
         <mark key="^" line="14" column="23" />
         <mark key="." line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-knot/controllers/get-stock.go" timestamp="1499184379324">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="6" />
-        <mark key="." line="23" column="6" />
-        <mark key="^" line="23" column="4" />
+      <file name="$USER_HOME$/go/src/kide-ms-knot/controllers/get-stock.go" timestamp="1499261855284">
+        <mark key="'" line="22" column="18" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="38" column="41" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-ms-laranjinha/config/config.yml" timestamp="1499082179838">
         <mark key="[" line="0" column="74" />
@@ -36,20 +60,6 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" timestamp="1499267668674">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="228" column="78" />
-        <mark key="]" line="228" column="78" />
-        <mark key="^" line="228" column="78" />
-        <mark key="." line="228" column="78" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" timestamp="1499261999768">
-        <mark key="'" line="36" column="10" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="46" column="30" />
-        <mark key="." line="87" column="0" />
-      </file>
       <file name="$USER_HOME$/www/work/kide/kide-ms-laranjinha/server/server.go" timestamp="1498571965451">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="23" />
@@ -62,24 +72,48 @@
         <mark key="." line="17" column="25" />
         <mark key="^" line="17" column="25" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-ms-laranjinha/main.go" timestamp="1499264261877">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="52" />
+        <mark key="^" line="13" column="52" />
+        <mark key="." line="13" column="52" />
+      </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/Dockerfile" timestamp="1499082375547">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" timestamp="1499867776319">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="44" column="37" />
-        <mark key="]" line="46" column="40" />
-        <mark key="." line="46" column="40" />
-        <mark key="^" line="46" column="40" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/main.go" timestamp="1499871527537">
+        <mark key="[" line="5" column="47" />
+        <mark key="]" line="5" column="47" />
+        <mark key="." line="5" column="47" />
+        <mark key="^" line="5" column="47" />
+      </file>
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/api/kide.go" timestamp="1499865773246">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/api/kide/kide.go" timestamp="1499877899803">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="29" column="71" />
+        <mark key="]" line="29" column="71" />
+        <mark key="." line="29" column="71" />
+        <mark key="^" line="29" column="73" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-ms-laranjinha/main.go" timestamp="1498571124500">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="3" column="7" />
         <mark key="^" line="3" column="6" />
         <mark key="." line="3" column="7" />
+      </file>
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/utils/utils.go" timestamp="1499877034488">
+        <mark key="'" line="5" column="28" />
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="35" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="2" column="35" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-ms-laranjinha/client/client.go" timestamp="1499075011606">
         <mark key="[" line="4" column="0" />
@@ -98,25 +132,17 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner.js" timestamp="1499858847718">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="24" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="restClient/response15.json" timestamp="1499859942390" />
-      <file name="$USER_HOME$/go/src/kide-ms-knot/config/config.yml" timestamp="1499180092060">
+      <file name="$USER_HOME$/go/src/kide-ms-knot/config/config.yml" timestamp="1499261207834">
         <mark key="'" line="6" column="2" />
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="1" column="3" />
-        <mark key="." line="10" column="15" />
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account.json" timestamp="1499859817716">
-        <mark key="[" line="169" column="24" />
-        <mark key="]" line="169" column="32" />
-        <mark key="^" line="169" column="32" />
-        <mark key="." line="169" column="32" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide-api.go" timestamp="1499865815278">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-knot/server/server.go" timestamp="1499178586401">
         <mark key="[" line="14" column="12" />
@@ -124,8 +150,11 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/server/model-config.json" timestamp="1499253938703">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/endpoints/kide.go" timestamp="1499871124093">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/endpoint-responses.go" timestamp="1498580727946">
         <mark key="[" line="0" column="14" />
@@ -139,11 +168,17 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" timestamp="1499189218050">
-        <mark key="[" line="78" column="8" />
-        <mark key="]" line="79" column="36" />
-        <mark key="." line="79" column="36" />
-        <mark key="^" line="79" column="36" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/endpoints/kide/kide.go" timestamp="1499872223570">
+        <mark key="'" line="11" column="22" />
+        <mark key="[" line="24" column="63" />
+        <mark key="]" line="24" column="75" />
+        <mark key="^" line="24" column="75" />
+        <mark key="." line="24" column="75" />
+      </file>
+      <file name="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" timestamp="1499261853252">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-knot/config/config.go" timestamp="1499182055002">
         <mark key="'" line="55" column="18" />
@@ -165,10 +200,11 @@
         <mark key="." line="70" column="13" />
         <mark key="^" line="70" column="13" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1499164150912">
-        <mark key="[" line="221" column="8" />
-        <mark key="]" line="221" column="8" />
-        <mark key="." line="221" column="8" />
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1499264326525">
+        <mark key="[" line="181" column="39" />
+        <mark key="]" line="183" column="25" />
+        <mark key="." line="183" column="25" />
+        <mark key="^" line="183" column="25" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-knot/routes/get-stock.go" timestamp="1499176020218">
         <mark key="[" line="1" column="0" />
@@ -195,17 +231,17 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product.js" timestamp="1499253887535">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="98" column="24" />
-        <mark key="." line="44" column="0" />
-      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-ms-laranjinha/crontab" timestamp="1499081081048">
         <mark key="[" line="0" column="50" />
         <mark key="]" line="0" column="61" />
         <mark key="." line="0" column="61" />
         <mark key="^" line="0" column="61" />
+      </file>
+      <file name="$USER_HOME$/go/src/kide-ms-knot/docker-compose.yml" timestamp="1499259901150">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="14" column="23" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/devolve-tabela-com-stocks.go" timestamp="1498828063345">
         <mark key="[" line="22" column="30" />
@@ -223,21 +259,28 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" timestamp="1499877956194">
+        <mark key="'" line="135" column="3" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/kide-ms-knot/Dockerfile" timestamp="1499259996286">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+      </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/wercker.yml" timestamp="1499162605521">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="23" />
         <mark key="." line="9" column="23" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499859875996">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="restClient/response29.json" timestamp="1499866262547" />
-      <file name="$USER_HOME$/go/src/kide-ms-knot/models/stock.go" timestamp="1499177702647">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-        <mark key="^" line="6" column="23" />
+      <file name="$USER_HOME$/go/src/kide-ms-knot/models/stock.go" timestamp="1499251703449">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" timestamp="1499165598183">
         <mark key="'" line="10" column="0" />
@@ -245,12 +288,6 @@
         <mark key="]" line="13" column="49" />
         <mark key="." line="13" column="49" />
         <mark key="^" line="13" column="52" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/server/configs.js.dist" timestamp="1499262069781">
-        <mark key="[" line="78" column="21" />
-        <mark key="]" line="78" column="25" />
-        <mark key="." line="78" column="25" />
-        <mark key="^" line="78" column="25" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/endpoint-response/devolve-tabela-com-stocks.go" timestamp="1498580704463">
         <mark key="[" line="0" column="25" />
@@ -270,59 +307,31 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
       </file>
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.yml" timestamp="1499877965422">
+        <mark key="'" line="4" column="3" />
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-ms-laranjinha/config/config.yml" timestamp="1498572791406">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
         <mark key="^" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/knot-updater.js" timestamp="1499253805815">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/models/common.go" timestamp="1499865882765">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="restClient/response21.json" timestamp="1499863606082" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/api/active-campaign.go" timestamp="1499865746306">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/products.txt.bak" />
-      <jump line="583" column="4" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/products.txt.bak" />
-      <jump line="8" column="4" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/products.txt" />
-      <jump line="7" column="4" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/products.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/products.txt" />
-      <jump line="583" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/products.txt" />
-      <jump line="10" column="4" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/products.txt.bak" />
-      <jump line="13" column="24" filename="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" />
-      <jump line="25" column="7" filename="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" />
-      <jump line="314" column="4" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/products.txt.bak" />
-      <jump line="332" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/products.txt.bak" />
-      <jump line="0" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/products.txt.bak" />
-      <jump line="1" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/products.txt" />
-      <jump line="63" column="18" filename="$USER_HOME$/go/src/kide-ms-laranjinha/docker-compose.yml" />
-      <jump line="16" column="3" filename="$USER_HOME$/www/work/kide/devel/kide-ms-laranjinha/main.go" />
-      <jump line="13" column="4" filename="$USER_HOME$/www/work/kide/devel/kide-ms-laranjinha/main.go" />
-      <jump line="6" column="4" filename="$USER_HOME$/www/work/kide/devel/kide-ms-laranjinha/main.go" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-ms-laranjinha/config/config.go" />
-      <jump line="57" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-ms-laranjinha/config/config.go" />
-      <jump line="15" column="3" filename="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" />
-      <jump line="8" column="4" filename="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" />
-      <jump line="64" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.go" />
-      <jump line="30" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" />
-      <jump line="29" column="21" filename="$USER_HOME$/go/src/kide-ms-knot/main.go" />
-      <jump line="22" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/main.go" />
-      <jump line="12" column="17" filename="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.go" />
-      <jump line="10" column="0" filename="$USER_HOME$/go/src/kide-ms-laranjinha/main.go" />
-      <jump line="2" column="7" filename="$USER_HOME$/go/src/kide-ms-knot/main.go" />
-      <jump line="32" column="18" filename="$USER_HOME$/go/src/kide-ms-knot/main.go" />
-      <jump line="46" column="20" filename="$USER_HOME$/go/src/kide-ms-knot/main.go" />
-      <jump line="9" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/main.go" />
-      <jump line="6" column="3" filename="$USER_HOME$/go/src/kide-ms-knot/main.go" />
-      <jump line="49" column="17" filename="$USER_HOME$/go/src/kide-ms-knot/main.go" />
-      <jump line="5" column="4" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
-      <jump line="48" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
-      <jump line="33" column="18" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
-      <jump line="10" column="3" filename="$USER_HOME$/go/src/kide-ms-knot/config/config.go" />
-      <jump line="45" column="13" filename="$USER_HOME$/go/src/kide-ms-knot/config/config.go" />
-      <jump line="26" column="24" filename="$USER_HOME$/go/src/kide-ms-knot/config/config.go" />
       <jump line="41" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/config/config.go" />
       <jump line="11" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/config/config.yml" />
       <jump line="3" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/config/config.yml" />
@@ -342,108 +351,139 @@
       <jump line="14" column="8" filename="$USER_HOME$/go/src/kide-ms-knot/output.json" />
       <jump line="22101" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/output.json" />
       <jump line="46" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
+      <jump line="83" column="11" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
+      <jump line="93" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
+      <jump line="1" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
       <jump line="45" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
-      <jump line="52" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner.json" />
-      <jump line="15" column="5" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/knot-updater.js" />
-      <jump line="11" column="8" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/knot-updater.js" />
-      <jump line="11" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/server/model-config.json" />
-      <jump line="42" column="27" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="43" column="8" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="6" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="91" column="7" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/jobs/abandoned-bag.js" />
-      <jump line="2" column="30" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/jobs/abandoned-bag.js" />
-      <jump line="60" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="4" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="58" column="33" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="3" column="30" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="52" column="4" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="31" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="112" column="4" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="36" column="10" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
-      <jump line="216" column="13" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
-      <jump line="235" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
-      <jump line="57" column="39" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
-      <jump line="203" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
-      <jump line="204" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
-      <jump line="14" column="12" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
-      <jump line="88" column="8" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
-      <jump line="97" column="20" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
-      <jump line="98" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
-      <jump line="103" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
-      <jump line="111" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
-      <jump line="198" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
-      <jump line="12" column="10" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
-      <jump line="85" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" />
-      <jump line="41" column="30" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
+      <jump line="88" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
+      <jump line="76" column="8" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
+      <jump line="97" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
+      <jump line="7" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
+      <jump line="19" column="8" filename="$USER_HOME$/go/src/kide-ms-knot/controllers/get-stock.go" />
+      <jump line="17" column="8" filename="$USER_HOME$/go/src/kide-ms-knot/controllers/get-stock.go" />
+      <jump line="1" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/controllers/get-stock.go" />
+      <jump line="22" column="18" filename="$USER_HOME$/go/src/kide-ms-knot/controllers/get-stock.go" />
+      <jump line="35" column="30" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
+      <jump line="21" column="85" filename="$USER_HOME$/go/src/kide-ms-knot/wercker.yml" />
+      <jump line="25" column="30" filename="$USER_HOME$/go/src/kide-ms-knot/wercker.yml" />
+      <jump line="1" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/wercker.yml" />
+      <jump line="29" column="12" filename="$USER_HOME$/go/src/kide-ms-knot/wercker.yml" />
+      <jump line="0" column="6" filename="$USER_HOME$/go/src/kide-ms-activecampaign/client/client.go" />
+      <jump line="25" column="15" filename="$USER_HOME$/go/src/kide-ms-activecampaign/client/client.go" />
+      <jump line="20" column="5" filename="$USER_HOME$/go/src/kide-ms-activecampaign/client/client.go" />
+      <jump line="16" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/client/client.go" />
+      <jump line="22" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="20" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="19" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="21" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="25" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="27" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="9" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="24" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="45" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="44" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="39" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="42" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="41" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="43" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="32" column="14" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="49" column="3" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="48" column="23" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="76" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="75" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="5" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="74" column="33" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="85" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="83" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="3" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="81" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="63" column="21" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="84" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="7" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="86" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="8" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="89" column="44" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="105" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="97" column="34" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="108" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="88" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="104" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="1" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="2" column="7" filename="$USER_HOME$/go/src/kide-ms-activecampaign/api/kide/kide.go" />
+      <jump line="17" column="10" filename="$USER_HOME$/go/src/kide-ms-activecampaign/endpoints/kide/kide.go" />
+      <jump line="2" column="4" filename="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.yml" />
+      <jump line="4" column="3" filename="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.yml" />
+      <jump line="11" column="22" filename="$USER_HOME$/go/src/kide-ms-activecampaign/endpoints/kide/kide.go" />
+      <jump line="4" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="109" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="120" column="8" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="119" column="39" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="2" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="115" column="37" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="132" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="5" column="28" filename="$USER_HOME$/go/src/kide-ms-activecampaign/utils/utils.go" />
+      <jump line="134" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="133" column="19" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="25" column="51" filename="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.go" />
+      <jump line="8" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/api/kide/kide.go" />
+      <jump line="127" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="165" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="6" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="135" column="3" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'order'</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>'order'</text>
-      </register>
-      <register name="/" type="4">
-        <text>console</text>
+        <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAiYWNjZXNzVHlwZSI6ICJFWEVDVVRFIiwKICAgICAgICAicHJpbmNpcGFsVHlwZSI6ICJST0xFIiwKICAgICAgICAicHJpbmNpcGFsSWQiOiAiYWRtaW4iLAogICAgICAgICJwZXJtaXNzaW9uIjogIkFMTE9XIiwKICAgICAgICAicHJvcGVydHkiOiAicXVlcnkiCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmIGVyciAhPSBuaWwgewogICAgICAgIGxvZy5GYXRhbChlcnIuRXJyb3IoKSkKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWxhdGlvbjogJ29yZGVyJywKICAgICAgICAgICAgICAgICAgICBzY29wZTogewogICAgICAgICAgICAgICAgICAgICAgICBmaWVsZHM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhZzogZmFsc2UKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG91dCAK</text>
+        <text encoding="base64">Y2ZnIDo9IGNvbmZpZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAogICAgY2YK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CmNmZyA6PSBjb25maWcuUmVhZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aDogIH0K</text>
+        <text encoding="base64">LyoqCkBwYXJhbSBhbW91bnQgYXNkYXNkCiAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAogICAgaWYgbnVtID09IDAgewogICAgICAgIG51bSA9IAogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjZXB0czogewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
-      <last-offset />
-      <last-pattern>console</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>console</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
