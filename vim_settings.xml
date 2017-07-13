@@ -102,6 +102,13 @@
         <mark key="." line="29" column="71" />
         <mark key="^" line="29" column="73" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" timestamp="1499941791635">
+        <mark key="'" line="12" column="8" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="21" />
+        <mark key="." line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-ms-laranjinha/main.go" timestamp="1498571124500">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="3" column="7" />
@@ -332,8 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/config/config.go" />
-      <jump line="11" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/config/config.yml" />
       <jump line="3" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/config/config.yml" />
       <jump line="7" column="2" filename="$USER_HOME$/go/src/kide-ms-knot/config/config.yml" />
       <jump line="4" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/config/config.yml" />
@@ -432,43 +437,45 @@
       <jump line="165" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="6" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="135" column="3" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
+      <jump line="50" column="28" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" />
+      <jump line="12" column="8" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIGVyciAhPSBuaWwgewogICAgICAgIGxvZy5GYXRhbChlcnIuRXJyb3IoKSkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0LmJhZ3MgPSBKU09OLnBhcnNlKEpTT04uc3RyaW5naWZ5KGJhZ3MpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgb3V0cHV0ID0ge307Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGFjY291bnRzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2ZnIDo9IGNvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiB7CiAgICAgICAgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgY2YK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0LmJhZ3MgPSBKU09OLnBhcnNlKEpTT04uc3RyaW5naWZ5KGJhZ3MpKTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNmZyA6PSBjb25maWcuUmVhZAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBY2NvdW50LmFwcC5tb2RlbHMuQmFnLmZpbmQoewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCkBwYXJhbSBhbW91bnQgYXNkYXNkCiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEFjY291bnQuYXBwLm1vZGVscy5CYWcuZmluZCh7CiAgICAgICAgICAgICAgICB3aGVyZTogewogICAgICAgICAgICAgICAgICAgIGNoZWNrZWRPdXQ6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgb3JkZXJFbWFpbDogZW1haWwKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBpbmNsdWRlOiB7CiAgICAgICAgICAgICAgICAgICAgcmVsYXRpb246ICdvcmRlcicsCiAgICAgICAgICAgICAgICAgICAgc2NvcGU6IHsKICAgICAgICAgICAgICAgICAgICAgICAgaW5jbHVkZTogJ3BheW1lbnQnCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgaWYgbnVtID09IDAgewogICAgICAgIG51bSA9IAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
