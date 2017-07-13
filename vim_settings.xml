@@ -125,12 +125,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/models/acmodels.go" timestamp="1499939799829">
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/models/acmodels.go" timestamp="1499942967308">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="21" />
-        <mark key="]" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-        <mark key="^" line="3" column="3" />
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/devolve-tabela-cores-por-idioma.go" timestamp="1498661977826">
         <mark key="[" line="20" column="0" />
@@ -224,7 +224,7 @@
         <mark key="." line="70" column="13" />
         <mark key="^" line="70" column="13" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1499264326525">
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1499942151071">
         <mark key="[" line="181" column="39" />
         <mark key="]" line="183" column="25" />
         <mark key="." line="183" column="25" />
@@ -284,12 +284,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/kide/models/kdmodels.go" timestamp="1499941324374">
-        <mark key="'" line="165" column="0" />
-        <mark key="[" line="18" column="55" />
-        <mark key="]" line="19" column="49" />
-        <mark key="^" line="19" column="49" />
-        <mark key="." line="19" column="49" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/kide/models/kdmodels.go" timestamp="1499942575591">
+        <mark key="'" line="166" column="0" />
+        <mark key="[" line="172" column="31" />
+        <mark key="]" line="172" column="33" />
+        <mark key="." line="172" column="33" />
+        <mark key="^" line="172" column="33" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-ms-laranjinha/wercker.yml" timestamp="1499081693653">
         <mark key="[" line="19" column="0" />
@@ -302,12 +302,12 @@
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/kide/api/kdapi.go" timestamp="1499937397348">
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/kide/api/kdapi.go" timestamp="1499942652461">
         <mark key="'" line="26" column="23" />
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="24" />
+        <mark key="." line="27" column="24" />
+        <mark key="^" line="27" column="24" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-knot/Dockerfile" timestamp="1499259996286">
         <mark key="[" line="10" column="27" />
@@ -484,38 +484,38 @@
       <jump line="0" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/models/acmodels.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjZmcuQWN0aXZlQ2FtcGFpZ24uQXBpS2V5LAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>cfg.ActiveCampaign.Base + &quot;?&quot; + v.Encode()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBjZmcuQWN0aXZlQ2FtcGFpZ24uQmFzZSArICI/IiArIHYuRW5jb2RlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjZmcuQWN0aXZlQ2FtcGFpZ24uQXBpS2V5LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBcGlLZXkgICAgc3RyaW5nIGB1cmw6ImFwaV9rZXkiYAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgYy4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYW5pYyhlcnIuZXJyb3IpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYW5pYyhlcnIpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjZmcuQWN0aXZlQ2FtcGFpZ24uQXBpS2V5LAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBBcGlLZXkgICAgc3RyaW5nIGB1cmw6ImFwaV9rZXkiYAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAogICAgYy4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwYW5pYyhlcnIuZXJyb3IpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYW5pYyhlcnIpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -574,6 +574,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
