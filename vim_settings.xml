@@ -99,6 +99,13 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/wercker.yml" timestamp="1499962249973">
+        <mark key="'" line="19" column="46" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="5" column="46" />
+      </file>
       <file name="$USER_HOME$/go/src/kide-ms-activecampaign/api/kide/kide.go" timestamp="1499935419646">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="29" column="71" />
@@ -297,6 +304,13 @@
         <mark key="." line="176" column="0" />
         <mark key="^" line="176" column="26" />
       </file>
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/Dockerfile" timestamp="1499962003744">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+      </file>
       <file name="$USER_HOME$/go/src/kide-ms-activecampaign/kide/api/kdapi.go" timestamp="1499942652461">
         <mark key="'" line="26" column="23" />
         <mark key="[" line="27" column="21" />
@@ -382,11 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="23" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
-      <jump line="76" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
-      <jump line="75" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
-      <jump line="5" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
-      <jump line="74" column="33" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="85" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="83" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
       <jump line="3" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/models/kide/kide-api.go" />
@@ -482,6 +491,11 @@
       <jump line="31" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.go" />
       <jump line="20" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/worker/worker.go" />
       <jump line="13" column="14" filename="$USER_HOME$/go/src/kide-ms-activecampaign/worker/worker.go" />
+      <jump line="3" column="37" filename="$USER_HOME$/go/src/kide-ms-activecampaign/Dockerfile" />
+      <jump line="8" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/Dockerfile" />
+      <jump line="7" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/Dockerfile" />
+      <jump line="19" column="46" filename="$USER_HOME$/go/src/kide-ms-activecampaign/wercker.yml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -500,8 +514,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG12IGNvbmZpZy9wcm9kdWN0cyogJFdFUkNLRVJfT1VUUFVUX0RJUi9jb25maWcK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -513,37 +527,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>laranjinha</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBcGlLZXkgc3RyaW5nIGB5YW1sOiJhcGkta2V5ImAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG12IGNvbmZpZy9wcm9kdWN0cyogJFdFUkNLRVJfT1VUUFVUX0RJUi9jb25maWcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBybC5UYWtlKCkKICAgICAgICBhY2FwaS5TeW5jVXNlcihhLkVtYWlsLCBhLlRvQWN0aXZlQ2FtcGFpZ24oKSkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBybC5UYWtlKCkKICAgICAgICBhY2FwaS5TeW5jVXNlcihhLkVtYWlsLCBhLlRvQWN0aXZlQ2FtcGFpZ24oKSkK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGNmZy5PcHRpb25zLlNhbmRib3ggewogICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzcGV3LkR1bXAoYS50bykK</text>
+        <text encoding="base64">ICAgIGlmIGNmZy5PcHRpb25zLlNhbmRib3ggewogICAgfSBlbHNlIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzcGV3LkR1bXAoYS50bykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
