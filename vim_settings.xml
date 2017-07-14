@@ -113,6 +113,11 @@
         <mark key="." line="29" column="71" />
         <mark key="^" line="29" column="73" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" timestamp="1500039806603">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-ms-laranjinha/main.go" timestamp="1498571124500">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="3" column="7" />
@@ -126,7 +131,6 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/utils/arrutils.go" timestamp="1499954260559" />
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/products.txt.bak" timestamp="1499162616484">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
@@ -202,7 +206,6 @@
         <mark key="^" line="24" column="75" />
         <mark key="." line="24" column="75" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/endpoints/acendpoints.go" timestamp="1499948313642" />
       <file name="$USER_HOME$/go/src/kide-ms-knot/config/config.go" timestamp="1499182055002">
         <mark key="'" line="55" column="18" />
         <mark key="[" line="52" column="4" />
@@ -515,7 +518,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG12IGNvbmZpZy9wcm9kdWN0cyogJFdFUkNLRVJfT1VUUFVUX0RJUi9jb25maWcK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -527,37 +530,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>laranjinha</text>
+        <text>verting %AB into the byte 0xAB and '+' into ' ' (space). It returns an error if any % is not followed by two hexadecimal digits.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBcGlLZXkgc3RyaW5nIGB5YW1sOiJhcGkta2V5ImAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG12IGNvbmZpZy9wcm9kdWN0cyogJFdFUkNLRVJfT1VUUFVUX0RJUi9jb25maWcK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG12IGNvbmZpZy9wcm9kdWN0cyogJFdFUkNLRVJfT1VUUFVUX0RJUi9jb25maWcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBybC5UYWtlKCkKICAgICAgICBhY2FwaS5TeW5jVXNlcihhLkVtYWlsLCBhLlRvQWN0aXZlQ2FtcGFpZ24oKSkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBybC5UYWtlKCkKICAgICAgICBhY2FwaS5TeW5jVXNlcihhLkVtYWlsLCBhLlRvQWN0aXZlQ2FtcGFpZ24oKSkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGNmZy5PcHRpb25zLlNhbmRib3ggewogICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzcGV3LkR1bXAoYS50bykK</text>
+        <text encoding="base64">ICAgIGlmIGNmZy5PcHRpb25zLlNhbmRib3ggewogICAgfSBlbHNlIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzcGV3LkR1bXAoYS50bykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
