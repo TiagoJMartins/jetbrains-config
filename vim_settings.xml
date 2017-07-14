@@ -10,12 +10,12 @@
         <mark key="." line="39" column="41" />
         <mark key="^" line="39" column="41" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.go" timestamp="1499959622096">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="53" column="32" />
-        <mark key="]" line="54" column="33" />
-        <mark key="." line="54" column="33" />
-        <mark key="^" line="54" column="33" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.go" timestamp="1500025576604">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="18" />
+        <mark key="." line="32" column="18" />
+        <mark key="^" line="32" column="18" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/scraped-info.go" timestamp="1498736285738">
         <mark key="[" line="3" column="10" />
@@ -99,7 +99,7 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/wercker.yml" timestamp="1500022671650">
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/wercker.yml" timestamp="1500025489945">
         <mark key="'" line="19" column="46" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -367,12 +367,12 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.yml" timestamp="1500022764827">
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.yml" timestamp="1500025494035">
         <mark key="'" line="2" column="3" />
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="17" />
-        <mark key="." line="15" column="17" />
-        <mark key="^" line="15" column="17" />
+        <mark key="[" line="12" column="33" />
+        <mark key="]" line="8" column="46" />
+        <mark key="." line="8" column="46" />
+        <mark key="^" line="8" column="46" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdapi/kdapi.go" timestamp="1499958585071">
         <mark key="[" line="16" column="46" />
@@ -513,7 +513,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG12IGNvbmZpZy9wcm9kdWN0cyogJFdFUkNLRVJfT1VUUFVUX0RJUi9jb25maWcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -527,35 +527,35 @@
       <register name="-" type="4">
         <text>laranjinha</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBcGlLZXkgc3RyaW5nIGB5YW1sOiJhcGkta2V5ImAK</text>
+      <register name="0" type="4">
+        <text>https://kide422.api-us1.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG12IGNvbmZpZy9wcm9kdWN0cyogJFdFUkNLRVJfT1VUUFVUX0RJUi9jb25maWcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG12IGNvbmZpZy9wcm9kdWN0cyogJFdFUkNLRVJfT1VUUFVUX0RJUi9jb25maWcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBybC5UYWtlKCkKICAgICAgICBhY2FwaS5TeW5jVXNlcihhLkVtYWlsLCBhLlRvQWN0aXZlQ2FtcGFpZ24oKSkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBybC5UYWtlKCkKICAgICAgICBhY2FwaS5TeW5jVXNlcihhLkVtYWlsLCBhLlRvQWN0aXZlQ2FtcGFpZ24oKSkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGNmZy5PcHRpb25zLlNhbmRib3ggewogICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzcGV3LkR1bXAoYS50bykK</text>
+        <text encoding="base64">ICAgIGlmIGNmZy5PcHRpb25zLlNhbmRib3ggewogICAgfSBlbHNlIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzcGV3LkR1bXAoYS50bykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
