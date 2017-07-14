@@ -93,11 +93,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/main.go" timestamp="1500039690760">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="7" column="3" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/main.go" timestamp="1500049903978">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+        <mark key="^" line="7" column="29" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-activecampaign/wercker.yml" timestamp="1500025489945">
         <mark key="'" line="19" column="46" />
@@ -182,8 +182,8 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/types.go" timestamp="1500042001583">
-        <mark key="'" line="12" column="22" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/types.go" timestamp="1500045351332">
+        <mark key="'" line="22" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -258,12 +258,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acmodels/acmodels.go" timestamp="1500028296198">
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acmodels/acmodels.go" timestamp="1500049867200">
         <mark key="'" line="18" column="45" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="7" column="30" />
-        <mark key="." line="26" column="0" />
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="19" column="44" />
+        <mark key="^" line="19" column="44" />
+        <mark key="." line="19" column="44" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/devolve-tabela-artigos-cor-tamanho.go" timestamp="1498643468415">
         <mark key="[" line="9" column="32" />
@@ -284,19 +284,19 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" timestamp="1500039659269">
-        <mark key="'" line="221" column="4" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="." line="190" column="0" />
-        <mark key="^" line="14" column="38" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" timestamp="1500049868433">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="217" column="32" />
+        <mark key="]" line="217" column="34" />
+        <mark key="^" line="217" column="34" />
+        <mark key="." line="217" column="34" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" timestamp="1500043965744">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="73" column="24" />
-        <mark key="]" line="75" column="35" />
-        <mark key="." line="75" column="35" />
-        <mark key="^" line="75" column="35" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" timestamp="1500045136081">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="16" column="50" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-ms-laranjinha/crontab" timestamp="1499081081048">
         <mark key="[" line="0" column="50" />
@@ -348,12 +348,12 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/worker/worker.go" timestamp="1500039886246">
-        <mark key="'" line="26" column="20" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="27" column="35" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/utils/arrutils/arrutils.go" timestamp="1500049794977" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/worker/worker.go" timestamp="1500049880799">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/wercker.yml" timestamp="1499162605521">
         <mark key="[" line="9" column="20" />
@@ -420,23 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/models/acmodels.go" />
-      <jump line="145" column="26" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/models/kdmodels.go" />
-      <jump line="29" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acendpoints/acendpoints.go" />
-      <jump line="35" column="34" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acendpoints/acendpoints.go" />
-      <jump line="8" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acendpoints/acendpoints.go" />
-      <jump line="50" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acendpoints/acendpoints.go" />
-      <jump line="10" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acendpoints/acendpoints.go" />
-      <jump line="51" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acendpoints/acendpoints.go" />
-      <jump line="2" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acendpoints/acendpoints.go" />
-      <jump line="52" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acendpoints/acendpoints.go" />
-      <jump line="6" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acendpoints/acendpoints.go" />
-      <jump line="191" column="22" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
-      <jump line="131" column="11" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
-      <jump line="23" column="42" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
-      <jump line="210" column="54" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
-      <jump line="9" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
-      <jump line="220" column="25" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="222" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="2" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="116" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
@@ -444,7 +427,6 @@
       <jump line="183" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="221" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="125" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
-      <jump line="10" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="193" column="28" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="251" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="208" column="21" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
@@ -486,9 +468,7 @@
       <jump line="41" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
       <jump line="28" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
       <jump line="34" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
-      <jump line="6" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
       <jump line="6" column="15" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/responses.go" />
-      <jump line="12" column="22" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/types.go" />
       <jump line="224" column="4" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="27" column="20" filename="$USER_HOME$/go/src/kide-ms-activecampaign/worker/worker.go" />
       <jump line="59" column="11" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
@@ -512,14 +492,34 @@
       <jump line="58" column="3" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
       <jump line="89" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
       <jump line="102" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
-      <jump line="108" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
       <jump line="8" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
       <jump line="57" column="16" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
       <jump line="53" column="24" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
       <jump line="113" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
       <jump line="65" column="18" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
-      <jump line="3" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
       <jump line="76" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
+      <jump line="119" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
+      <jump line="6" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
+      <jump line="116" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
+      <jump line="118" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
+      <jump line="115" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
+      <jump line="3" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
+      <jump line="117" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
+      <jump line="19" column="49" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
+      <jump line="108" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
+      <jump line="24" column="20" filename="$USER_HOME$/go/src/kide-ms-activecampaign/worker/worker.go" />
+      <jump line="10" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/worker/worker.go" />
+      <jump line="12" column="44" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/types.go" />
+      <jump line="18" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/types.go" />
+      <jump line="3" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/types.go" />
+      <jump line="22" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/types.go" />
+      <jump line="223" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
+      <jump line="28" column="31" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
+      <jump line="10" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
+      <jump line="233" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
+      <jump line="8" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
+      <jump line="248" column="15" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
+      <jump line="11" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -538,8 +538,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>GetCustomerByEmail</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIHJsLlRha2UoKQoK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -551,37 +551,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>GetCustomerByEmail</text>
+        <text>c.SelectAgeTag()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJvIDo9ICZncmVxdWVzdHMuUmVxdWVzdE9wdGlvbnN7CiAgICAgICAgSGVhZGVyczogbWFwW3N0cmluZ11zdHJpbmd7ICJBcGktVG9rZW4iOiBjZmcuQWN0aXZlQ2FtcGFpZ24uQXBpS2V5IH0sCiAgICAgICAgUGFyYW1zOiBtYXBbc3RyaW5nXXN0cmluZ3sgInNlYXJjaCI6IHF1ZXJ5IH0sCiAgICB9CgogICAgcmVzcCwgZXJyIDo9IGdyZXF1ZXN0cy5HZXQodXJsLCBybykKICAgIGhhbmRsZUVycm9yKGVycikKCiAgICB2YXIgY29udGFjdHMgQ29udGFjdHNSZXNwb25zZQoKICAgIHJlc3AuSlNPTigmY29udGFjdHMpCgogICAgc3Bldy5EdW1wKGNvbnRhY3RzKQoKICAgIHJldHVybiBjb250YWN0cwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBmbXQuU3ByaW50ZigifHwlc3x8Iiwgc3RyaW5ncy5Kb2luKGFnZXMsICJ8fCIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgdmFyIGN1c3RvbWVycyBjdXN0b21lcnMK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJsLlRha2UoKQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBjdXN0b21lcnMgPSBtYXBbc3RyaW5nXWludGVyZmFjZXt9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZ2VzID0gYXBwZW5kKGFnZXMsICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVycwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVycyA6PSBzdHJ1Y3QgewogICAgICAgIAogICAgfXt9Cg==</text>
+        <text encoding="base64">CiAgICBzcGV3LlByaW50bG4oY3VycmVudHllYXIsIGN1cnJlbnRtb250aCkKICAgIHNwZXcuUHJpbnRsbihiaXJ0aHllYXIsIGJpcnRobW9udGgpCiAgICBzcGV3LkR1bXAobW9udGhzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgc3Bldy5EdW1wKGFjYykK</text>
+        <text encoding="base64">ICAgICAgICB0YWcgPSBmbXQuU3ByaW50ZigiJXMtJXMiLCApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJlcnJvcnMiCg==</text>
+        <text encoding="base64">ICAgIHRhZyA6PSAiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBqc29uLlVubWFyc2hhbChiYiwgJmN1c3RvbWVyKQo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoYW5kbGVFcnJvcihlcnJvcnMuTmV3KHN0cmluZyhiYikpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
