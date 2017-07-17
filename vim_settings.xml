@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/client/client.go" timestamp="1499954067332">
-        <mark key="'" line="43" column="4" />
-        <mark key="[" line="39" column="41" />
-        <mark key="]" line="39" column="41" />
-        <mark key="." line="39" column="41" />
-        <mark key="^" line="39" column="41" />
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/client/client.go" timestamp="1500281118875">
+        <mark key="'" line="42" column="4" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="38" column="41" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.go" timestamp="1500039583225">
         <mark key="'" line="41" column="0" />
@@ -258,12 +258,12 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acmodels/acmodels.go" timestamp="1500049867200">
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acmodels/acmodels.go" timestamp="1500282202723">
         <mark key="'" line="18" column="45" />
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="19" column="44" />
-        <mark key="^" line="19" column="44" />
-        <mark key="." line="19" column="44" />
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="23" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="23" column="23" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/devolve-tabela-artigos-cor-tamanho.go" timestamp="1498643468415">
         <mark key="[" line="9" column="32" />
@@ -284,12 +284,12 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" timestamp="1500049868433">
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" timestamp="1500281694369">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="217" column="32" />
-        <mark key="]" line="217" column="34" />
-        <mark key="^" line="217" column="34" />
-        <mark key="." line="217" column="34" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="348" column="16" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" timestamp="1500045136081">
         <mark key="'" line="108" column="0" />
@@ -348,8 +348,7 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/utils/arrutils/arrutils.go" timestamp="1500049794977" />
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/worker/worker.go" timestamp="1500049880799">
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/worker/worker.go" timestamp="1500280888793">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -393,12 +392,12 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.yml" timestamp="1500039593289">
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.yml" timestamp="1500281395188">
         <mark key="'" line="2" column="3" />
-        <mark key="[" line="9" column="87" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="21" />
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+        <mark key="^" line="2" column="45" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdapi/kdapi.go" timestamp="1500039194559">
         <mark key="[" line="16" column="46" />
@@ -420,7 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="2" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="116" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="215" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
@@ -519,6 +517,7 @@
       <jump line="233" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="8" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="248" column="15" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
+      <jump line="348" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="11" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
     </jumps>
     <registers>
@@ -539,7 +538,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJsLlRha2UoKQoK</text>
+        <text encoding="base64">ICAgICJtYXRoIgo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -551,37 +550,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c.SelectAgeTag()</text>
+        <text>a.GetCompletedOrdersCount()</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmbXQuU3ByaW50ZigifHwlc3x8Iiwgc3RyaW5ncy5Kb2luKGFnZXMsICJ8fCIpKQo=</text>
+      <register name="0" type="4">
+        <text>a.GetCompletedOrdersCount()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJsLlRha2UoKQoK</text>
+        <text encoding="base64">ICAgICJtYXRoIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGF2ZyA9PSBtYXRoLk5hTigpIHsKICAgICAgICBhdmcgPSAwLjAKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2VzID0gYXBwZW5kKGFnZXMsICkK</text>
+        <text encoding="base64">ICAgIHNwZXcuRHVtcChhLkdldExpZmV0aW1lVmFsdWUoKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNwZXcuRHVtcChmbG9hdDY0KDApKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBzcGV3LlByaW50bG4oY3VycmVudHllYXIsIGN1cnJlbnRtb250aCkKICAgIHNwZXcuUHJpbnRsbihiaXJ0aHllYXIsIGJpcnRobW9udGgpCiAgICBzcGV3LkR1bXAobW9udGhzKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0YWcgPSBmbXQuU3ByaW50ZigiJXMtJXMiLCApCg==</text>
+        <text encoding="base64">ICAgICJ0aW1lIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhZyA6PSAiIgo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJsLlRha2UoKQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhZ2VzID0gYXBwZW5kKGFnZXMsICkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
