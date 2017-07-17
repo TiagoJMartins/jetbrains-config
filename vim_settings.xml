@@ -185,7 +185,7 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/server/config.json" timestamp="1500297333061">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/server/config.json" timestamp="1500301231154">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="26" column="81" />
         <mark key="." line="26" column="19" />
@@ -248,7 +248,11 @@
         <mark key="." line="52" column="7" />
         <mark key="^" line="52" column="7" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" timestamp="1500299710447" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" timestamp="1500302268035">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="22" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/endpoints/activecampaign.go" timestamp="1499941090748">
         <mark key="[" line="29" column="53" />
         <mark key="]" line="31" column="216" />
@@ -365,6 +369,11 @@
         <mark key="]" line="8" column="40" />
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
+      </file>
+      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/resources.go" timestamp="1500037797351">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-activecampaign/kide/api/kdapi.go" timestamp="1499942652461">
         <mark key="'" line="26" column="23" />
@@ -575,7 +584,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgZ2VudXVpZCA9IHJlcXVpcmUoJ3V1aWQvdjQnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -587,37 +596,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{};</text>
+        <text>dispatchItem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZTogbmV3IFJlZGlzU3RvcmUoewogICAgICAgICAgICBob3N0OiBjb25maWdzLlJFRElTX0hPU1QsCiAgICAgICAgICAgIHBvcnQ6IGNvbmZpZ3MuUkVESVNfUE9SVCwKICAgICAgICAgICAgZGI6IDUsCiAgICAgICAgICAgIHByZWZpeDogJ3Nlc3M6JwogICAgICAgIH0pLAogICAgICAgIGNvb2tpZTogewogICAgICAgICAgICBzZWN1cmU6IHNlY3VyZUNvb2tpZSwKICAgICAgICAgICAgbmFtZTogJ3Nlc3Npb25JZCcKICAgICAgICB9LAogICAgICAgIHNlY3JldDogJzZSbjZ3TkBvTjY3Rjp+QE03c3dnNX0weDhEU0lIS1RgQTc+fVJBNSNqUHFbJih1TCFyeU02Rz1FOzlSRioweCcsCiAgICAgICAgc2F2ZVVuaW5pdGlhbGl6ZWQ6IGZhbHNlLAogICAgICAgIHJlc2F2ZTogZmFsc2UK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXE6JywgcmVxLnNlc3Npb24pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgZ2VudXVpZCA9IHJlcXVpcmUoJ3V1aWQvdjQnKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXE6JywgcmVxLnNlc3Npb24pOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICAgICAgICAgIHJlcS5zZXNzaW9uLmRlc3Ryb3koZnVuY3Rpb24gKGVycikgewogICAgICAgICAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVqZWN0KGVycik7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVzb2x2ZShyZXN1bHQpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXE6JywgcmVxLnNlc3Npb24pOwoK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxLnNlc3Npb24uZGVzdHJveShmdW5jdGlvbiAoZXJyKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKGVycikgewogICAgICAgICAgICAgICAgICAgICAgICBjYihlcnIpOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNiKG51bGwsIHJlc3VsdCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygncmVtb3ZlQmFnSXRlbScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuY2F0Y2goY2IpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
