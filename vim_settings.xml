@@ -113,6 +113,13 @@
         <mark key="." line="29" column="71" />
         <mark key="^" line="29" column="73" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" timestamp="1500283071509">
+        <mark key="'" line="1" column="34" />
+        <mark key="[" line="69" column="70" />
+        <mark key="]" line="69" column="70" />
+        <mark key="^" line="69" column="70" />
+        <mark key="." line="69" column="70" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-ms-laranjinha/main.go" timestamp="1498571124500">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="3" column="7" />
@@ -310,6 +317,13 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag.json" timestamp="1500281940334">
+        <mark key="e" line="62" column="17" />
+        <mark key="[" line="62" column="17" />
+        <mark key="]" line="62" column="16" />
+        <mark key="." line="62" column="16" />
+        <mark key="^" line="62" column="16" />
+      </file>
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/models/devolve-tabela-com-stocks.go" timestamp="1498828063345">
         <mark key="[" line="22" column="30" />
         <mark key="]" line="22" column="30" />
@@ -348,7 +362,6 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-activecampaign/utils/arrutils/arrutils.go" timestamp="1500049794977" />
       <file name="$USER_HOME$/go/src/kide-ms-activecampaign/worker/worker.go" timestamp="1500049880799">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="25" column="0" />
@@ -420,7 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="2" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="116" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="215" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
@@ -520,6 +532,7 @@
       <jump line="8" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="248" column="15" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="11" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
+      <jump line="1" column="34" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -538,8 +551,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJsLlRha2UoKQoK</text>
+      <register name="&quot;" type="4">
+        <text>P</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -551,40 +564,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c.SelectAgeTag()</text>
+        <text>P</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBmbXQuU3ByaW50ZigifHwlc3x8Iiwgc3RyaW5ncy5Kb2luKGFnZXMsICJ8fCIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHJsLlRha2UoKQoK</text>
+        <text encoding="base64">CiAgICAgICAgbGV0IG91dHB1dCA9IFtdOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiB7CiAgICAgICAgICAgIHJldHVybiBvdXRwdXQ7CiAgICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2VzID0gYXBwZW5kKGFnZXMsICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG91dHB1dC5wdXNoKGFjYyk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBzcGV3LlByaW50bG4oY3VycmVudHllYXIsIGN1cnJlbnRtb250aCkKICAgIHNwZXcuUHJpbnRsbihiaXJ0aHllYXIsIGJpcnRobW9udGgpCiAgICBzcGV3LkR1bXAobW9udGhzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFByb21pc2UuYWxsKHByb21pc2VzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0YWcgPSBmbXQuU3ByaW50ZigiJXMtJXMiLCApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhZyA6PSAiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb21pc2VzLnB1c2goCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGV0IHByb21pc2VzID0gW107CgogICAgICAgICAgICAgICAgICAgICAgICBmb3IgKGNvbnN0IGFjY291bnQgb2YganNvbkFjY291bnQpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -595,8 +608,8 @@
       <history-search />
       <history-cmd>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
