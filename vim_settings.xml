@@ -37,11 +37,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-knot/main.go" timestamp="1499178536372">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="17" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/go/src/kide-ms-knot/main.go" timestamp="1500374937549">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-ms-laranjinha/server/server.go" timestamp="1498571965451">
         <mark key="[" line="5" column="19" />
@@ -89,7 +89,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-knot/config/config.yml" timestamp="1500366607751">
+      <file name="$USER_HOME$/go/src/kide-ms-knot/config/config.yml" timestamp="1500374737651">
         <mark key="'" line="6" column="2" />
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="15" />
@@ -108,11 +108,11 @@
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-knot/server/server.go" timestamp="1499178586401">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="26" />
+      <file name="$USER_HOME$/go/src/kide-ms-knot/server/server.go" timestamp="1500374627207">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+        <mark key="." line="10" column="10" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdapi.go" timestamp="1499937039545">
         <mark key="[" line="0" column="8" />
@@ -144,7 +144,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" timestamp="1500371331380" />
+      <file name="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" timestamp="1500374718336">
+        <mark key="[" line="33" column="22" />
+        <mark key="]" line="34" column="3" />
+        <mark key="^" line="34" column="3" />
+        <mark key="." line="34" column="3" />
+      </file>
       <file name="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/endpoints/activecampaign.go" timestamp="1499941090748">
         <mark key="[" line="29" column="53" />
         <mark key="]" line="31" column="216" />
@@ -394,7 +399,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CSJraWRlLW1zLWFjdGl2ZWNhbXBhaWduL2NvbmZpZyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -406,37 +411,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdvY3Jvbi5FdmVyeSgxKS5EYXkoKS5BdCgiMDM6MDAiKS5EbyhrZGFwaS5HZXRBY2NvdW50cykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJraWRlLW1zLWFjdGl2ZWNhbXBhaWduL2NvbmZpZyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHByZUZsaWdodCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIGNmZyA9IGNvbmZpZy5SZWFkKCkK</text>
+        <text encoding="base64">CiAgICByZXR1cm4gY29ubiwgZXJyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdvY3Jvbi5FdmVyeSg1KS5TZWNvbmRzKCkuRG8oa2RhcGkuR2V0QWNjb3VudHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGVyciAhPSBuaWwgewogICAgICAgIGxvZy5GYXRhbGxuKCJPcGVuIGNvbm5lY3Rpb24gZmFpbGVkOiIsIGVyci5FcnJvcigpKQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJzeW5jIgo=</text>
+        <text encoding="base64">ICAgIGRlZmVyIGNvbm4uQ2xvc2UoKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBmb3JldmVyIGNoYW4K</text>
+        <text encoding="base64">ICAgIGNmZyA6PSBjb25maWcuUmVhZCgpLkRhdGFiYXNlCgogICAgdSA6PSAmdXJsLlVSTHsKICAgICAgICBTY2hlbWU6ICAgY2ZnLlNjaGVtZSwKICAgICAgICBVc2VyOiAgICAgdXJsLlVzZXJQYXNzd29yZChjZmcuVXNlciwgY2ZnLlBhc3N3b3JkKSwKICAgICAgICBIb3N0OiAgICAgZm10LlNwcmludGYoIiVzOiVkIiwgY2ZnLkhvc3QsIGNmZy5Qb3J0KSwKICAgIH0KCiAgICBjb25uLCBlcnIgOj0gc3FsLk9wZW4oIm1zc3FsIiwgdS5TdHJpbmcoKSkKICAgIGlmIGVyciAhPSBuaWwgewogICAgICAgIGZtdC5QcmludGxuKCJPcGVuIGNvbm5lY3Rpb24gZmFpbGVkOiIsIGVyci5FcnJvcigpKQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbm5lY3Rvci5Dbwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
