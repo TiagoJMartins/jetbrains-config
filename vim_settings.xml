@@ -69,12 +69,12 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" timestamp="1500374374127">
-        <mark key="'" line="45" column="35" />
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="24" />
-        <mark key="." line="18" column="24" />
-        <mark key="^" line="18" column="24" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" timestamp="1500375794034">
+        <mark key="'" line="27" column="24" />
+        <mark key="[" line="95" column="23" />
+        <mark key="]" line="95" column="23" />
+        <mark key="^" line="95" column="23" />
+        <mark key="." line="95" column="23" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-ms-laranjinha/server/server.go" timestamp="1498571965451">
         <mark key="[" line="5" column="19" />
@@ -449,9 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="15" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
-      <jump line="34" column="16" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapi/acapi.go" />
-      <jump line="53" column="49" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapi/acapi.go" />
       <jump line="13" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapi/acapi.go" />
       <jump line="0" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapi/acapi.go" />
       <jump line="13" column="32" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdendpoints/kdendpoints.go" />
@@ -549,6 +546,9 @@
       <jump line="5" column="6" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
       <jump line="82" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
       <jump line="43" column="35" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
+      <jump line="93" column="28" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
+      <jump line="27" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -568,7 +568,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>all</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -580,37 +580,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>all</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgdXBkYXRpbmcgc3RvY2tzIGZvciAke3AuaWR9YCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoY29uc3Qgc3RvY2sgb2YgcmVzcG9uc2UpIHsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ6IHN0b2NrU2l6ZXNbMF0uaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGNvbnN0IHNpemUgb2YgcHJvZHVjdC5zaXplcykgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHJvZHVjdElkOiBwcm9kdWN0LmlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaXplSWQ6IHNpemUuaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3BvbnNlLmZvcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocHJvZHVjdC5yZWYpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXE6JywgcmVxLnNlc3Npb24pOwoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXE6JywgcmVxLnNlc3Npb24pOwoK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChjb25zdCBzdG9jayBvZiByZXNwb25zZSkgewogICAgICAgICAgICAgICAgZm9yIChjb25zdCBzaXplIG9mIHByb2R1Y3Quc2l6ZXMpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoc3RvY2suc2l6ZU5hbWUudG9Mb3dlckNhc2UoKSA9PT0gc2l6ZS5uYW1lKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxldCBjbGVhblN0b2NrID0gc3RvY2sucXVhbnRpdHkgPCAwID8gMCA6IHN0b2NrLnF1YW50aXR5OwoKICAgICAgICAgICAgICAgICAgICAgICAgbGV0IHN0b2NrU2l6ZSA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2R1Y3RJZDogcHJvZHVjdC5pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsZWFuU3RvY2ssCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaXplSWQ6IHNpemUuaWQKICAgICAgICAgICAgICAgICAgICAgICAgfTsKCiAgICAgICAgICAgICAgICAgICAgICAgIHByb21pc2VzLnB1c2goCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdG9ja1NpemUuZmluZE9yQ3JlYXRlKHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVyZTogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9kdWN0SWQ6IHByb2R1Y3QuaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpemVJZDogc2l6ZS5pZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sIHN0b2NrU2l6ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50aGVuKChzdG9ja1NpemVzKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coc3RvY2tTaXplcyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFN0b2NrU2l6ZS51cGRhdGVBbGwoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwcm9kdWN0SWQ6IHByb2R1Y3QuaWQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpemVJZDogc2l6ZS5pZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RvY2s6IHN0b2NrU2l6ZS5jbGVhblN0b2NrCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIFByb21pc2UuYWxsKHByb21pc2VzKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygncmVtb3ZlQmFnSXRlbScpOwo=</text>
+        <text encoding="base64">Y29uc3Qgd2F0ZXJmYWxsID0gcmVxdWlyZSgncHJvbWlzZS13YXRlcmZhbGwnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
