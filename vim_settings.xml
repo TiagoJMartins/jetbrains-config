@@ -144,12 +144,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" timestamp="1500375689152">
-        <mark key="'" line="77" column="32" />
-        <mark key="[" line="33" column="22" />
-        <mark key="]" line="34" column="3" />
-        <mark key="^" line="34" column="3" />
-        <mark key="." line="34" column="3" />
+      <file name="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" timestamp="1500380692343">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="81" column="16" />
       </file>
       <file name="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/endpoints/activecampaign.go" timestamp="1499941090748">
         <mark key="[" line="29" column="53" />
@@ -168,6 +168,7 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
+      <file name="/usr/lib/go/src/database/sql/sql.go" timestamp="1500381053017" />
       <file name="$USER_HOME$/go/src/kide-ms-laranjinha/client/client.go" timestamp="1499942151071">
         <mark key="[" line="181" column="39" />
         <mark key="]" line="183" column="25" />
@@ -281,10 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="4" filename="$USER_HOME$/go/src/kide-ms-activecampaign/client/client.go" />
-      <jump line="4" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
-      <jump line="42" column="13" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapi/acapi.go" />
-      <jump line="14" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapi/acapi.go" />
       <jump line="201" column="15" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="34" column="16" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapi/acapi.go" />
       <jump line="53" column="49" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapi/acapi.go" />
@@ -381,6 +378,10 @@
       <jump line="58" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.go" />
       <jump line="9" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.go" />
       <jump line="77" column="32" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
+      <jump line="94" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
+      <jump line="96" column="25" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
+      <jump line="99" column="4" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
+      <jump line="13" column="0" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -400,7 +401,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJnaXRodWIuY29tL2RhdmVjZ2gvZ28tc3Bldy9zcGV3Igo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -412,37 +413,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>Println</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdvY3Jvbi5FdmVyeSgxKS5EYXkoKS5BdCgiMDM6MDAiKS5EbyhrZGFwaS5HZXRBY2NvdW50cykK</text>
+        <text encoding="base64">ICAgIGxvZy5QcmludGxuKCJRdWVyeWluZy4uLiIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJnaXRodWIuY29tL2RhdmVjZ2gvZ28tc3Bldy9zcGV3Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIHByZUZsaWdodCAK</text>
+        <text encoding="base64">ICAgICAgICBzcGV3LkR1bXAoZXJyKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4gY29ubiwgZXJyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3Bldy5EdW1wKGVycikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJzdHJjb252Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGVyciAhPSBuaWwgewogICAgICAgIGxvZy5GYXRhbGxuKCJPcGVuIGNvbm5lY3Rpb24gZmFpbGVkOiIsIGVyci5FcnJvcigpKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICJnaXRodWIuY29tL2RhdmVjZ2gvZ28tc3Bldy9zcGV3Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZmVyIGNvbm4uQ2xvc2UoKQoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzcGV3LkR1bXAoc3RvY2spCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNmZyA6PSBjb25maWcuUmVhZCgpLkRhdGFiYXNlCgogICAgdSA6PSAmdXJsLlVSTHsKICAgICAgICBTY2hlbWU6ICAgY2ZnLlNjaGVtZSwKICAgICAgICBVc2VyOiAgICAgdXJsLlVzZXJQYXNzd29yZChjZmcuVXNlciwgY2ZnLlBhc3N3b3JkKSwKICAgICAgICBIb3N0OiAgICAgZm10LlNwcmludGYoIiVzOiVkIiwgY2ZnLkhvc3QsIGNmZy5Qb3J0KSwKICAgIH0KCiAgICBjb25uLCBlcnIgOj0gc3FsLk9wZW4oIm1zc3FsIiwgdS5TdHJpbmcoKSkKICAgIGlmIGVyciAhPSBuaWwgewogICAgICAgIGZtdC5QcmludGxuKCJPcGVuIGNvbm5lY3Rpb24gZmFpbGVkOiIsIGVyci5FcnJvcigpKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzcGV3LkR1bXAoc3RvY2spCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3Rvci5Dbwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuUHJpbnRsbigic3RvY2siKQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
