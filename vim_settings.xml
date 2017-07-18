@@ -69,12 +69,12 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" timestamp="1500388025455">
-        <mark key="'" line="27" column="24" />
-        <mark key="[" line="95" column="40" />
-        <mark key="]" line="95" column="40" />
-        <mark key="." line="95" column="40" />
-        <mark key="^" line="95" column="40" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" timestamp="1500389037665">
+        <mark key="'" line="16" column="31" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="90" column="40" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/laranjinha-consumer.js" timestamp="1500388020653">
         <mark key="[" line="77" column="0" />
@@ -338,6 +338,10 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
+      <file name="/knot-updater.js" timestamp="1500388972334">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="55" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag.json" timestamp="1500281940334">
         <mark key="e" line="62" column="17" />
         <mark key="[" line="62" column="17" />
@@ -455,7 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapi/acapi.go" />
       <jump line="0" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapi/acapi.go" />
       <jump line="13" column="32" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdendpoints/kdendpoints.go" />
       <jump line="22" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdendpoints/kdendpoints.go" />
@@ -555,6 +558,7 @@
       <jump line="80" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
       <jump line="93" column="28" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
       <jump line="27" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
+      <jump line="16" column="31" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/knot-updater.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -574,7 +578,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2FsbCB1cHNlcnQgc3RvY2tzJyk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -589,34 +593,34 @@
         <text>=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvZHVjdElkLAogICAgICAgICAgICAgICAgICAgICAgICBzaXplSWQ6IHNpemUuaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ6IHN0b2NrU2l6ZXNbMF0uaWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2FsbCB1cHNlcnQgc3RvY2tzJyk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0bXBTdG9ja3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coc3RvY2tTaXplcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHN0b2Nrcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9kdWN0LnJlZik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHByb2R1Y3QpOwo=</text>
+        <text encoding="base64">Y29uc3Qgd2F0ZXJmYWxsID0gcmVxdWlyZSgncHJvbWlzZS13YXRlcmZhbGwnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzdG9ja3NpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2R1Y3RJZDogcHJvZHVjdC5pZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpemVJZDogc2l6ZS5pZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKChzdG9ja1NpemVzKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coc3RvY2tzaSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2FsbCB1cHNlcnQgc3RvY2tzJyk7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHN0b2Nrcyk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0bXBTdG9ja3MpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHN0b2NrKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHN0b2Nrcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzdG9ja1NpemVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHByb2R1Y3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
