@@ -144,7 +144,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" timestamp="1500374718336">
+      <file name="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" timestamp="1500375689152">
+        <mark key="'" line="77" column="32" />
         <mark key="[" line="33" column="22" />
         <mark key="]" line="34" column="3" />
         <mark key="^" line="34" column="3" />
@@ -280,7 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="39" column="4" filename="$USER_HOME$/go/src/kide-ms-activecampaign/client/client.go" />
       <jump line="4" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="42" column="13" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapi/acapi.go" />
@@ -380,6 +380,7 @@
       <jump line="21" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.go" />
       <jump line="58" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.go" />
       <jump line="9" column="0" filename="$USER_HOME$/go/src/kide-ms-activecampaign/config/config.go" />
+      <jump line="77" column="32" filename="$USER_HOME$/go/src/kide-ms-knot/connector/connector.go" />
     </jumps>
     <registers>
       <register name="a" type="4">
