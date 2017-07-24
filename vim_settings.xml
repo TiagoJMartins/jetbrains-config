@@ -59,6 +59,13 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/.eslintrc.json" timestamp="1500890772107" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" timestamp="1500893583174">
+        <mark key="'" line="13" column="14" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="13" column="14" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/add-to-list.js" timestamp="1500473598510">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="26" column="0" />
@@ -67,7 +74,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="15" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/responses.go" />
       <jump line="224" column="4" filename="$USER_HOME$/go/src/kide-ms-activecampaign/kide/kdmodels/kdmodels.go" />
       <jump line="27" column="20" filename="$USER_HOME$/go/src/kide-ms-activecampaign/worker/worker.go" />
       <jump line="59" column="11" filename="$USER_HOME$/go/src/kide-ms-activecampaign/activecampaign/acapiv3/api.go" />
@@ -167,6 +173,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/add-to-list.js" />
       <jump line="40" column="39" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/authentication/controllers/signup-ctrl.js" />
       <jump line="18" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/profile/controllers/profile-ctrl.js" />
+      <jump line="13" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -186,7 +193,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBsZXQgYXNkID0gKCkgPT4gJ2FzZCc7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgYWNjZXB0ZWQ6IHRydWUKICAgICAgICB9Owo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -198,43 +205,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;error&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2Vzc2lvbi5hZGRUb0FDKHsKICAgICAgICAgICAgZW1haWw6IGVtYWlsLAogICAgICAgICAgICBzaWdudXBLZXk6ICdzaWdudXAtbmV3c2xldHRlcicsCiAgICAgICAgICAgIGFjY291bnQ6IG51bGwKICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBsZXQgYXNkID0gKCkgPT4gJ2FzZCc7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgYWNjZXB0ZWQ6IHRydWUKICAgICAgICB9Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhhc2QoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGltaXQ6IDEwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBsZXQgYXNkID0gKCkgPT4gJ2FzZCc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbAo=</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhhc2QoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbG9jYWxlID0gVHJhbnNsYXRpb25TZXJ2aWNlLmdldFRyYW5zbGF0aW9uTGFuZ0tleSgpOwoK</text>
+        <text encoding="base64">ICAgIGNvbnNvbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY2FtcGFpZ25JZCA9IGNhbXBhaWduc09iamVjdFtsb2NhbGVdOwoKICAgICAgICByZXR1cm4gJGh0dHAoewogICAgICAgICAgICB1cmw6IFVSTF9BQ0NPVU5ULkNBTVBBSUdOUywKICAgICAgICAgICAgbWV0aG9kOiAnUE9TVCcsCiAgICAgICAgICAgIGRhdGE6IHsKICAgICAgICAgICAgICAgIGVtYWlsOiBlbWFpbCwKICAgICAgICAgICAgICAgIGNhbXBhaWduSWQ6IGNhbXBhaWduSWQKICAgICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdlbic6ICdUZ2NwdScsCiAgICAgICAgICAgICAgICAncHQnOiAnVGdjVHAnCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbG9jYWxlID0gVHJhbnNsYXRpb25TZXJ2aWNlLmdldFRyYW5zbGF0aW9uTGFuZ0tleSgpOwoK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-                'en': 'Tgc8h',
-                'pt': 'TgcWG'
-            },</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgY2FtcGFpZ25JZCA9IGNhbXBhaWduc09iamVjdFtsb2NhbGVdOwoKICAgICAgICByZXR1cm4gJGh0dHAoewogICAgICAgICAgICB1cmw6IFVSTF9BQ0NPVU5ULkNBTVBBSUdOUywKICAgICAgICAgICAgbWV0aG9kOiAnUE9TVCcsCiAgICAgICAgICAgIGRhdGE6IHsKICAgICAgICAgICAgICAgIGVtYWlsOiBlbWFpbCwKICAgICAgICAgICAgICAgIGNhbXBhaWduSWQ6IGNhbXBhaWduSWQKICAgICAgICAgICAgfQogICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -245,8 +249,8 @@
       <history-search />
       <history-cmd>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
