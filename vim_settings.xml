@@ -16,12 +16,13 @@
         <mark key="^" line="163" column="33" />
         <mark key="." line="163" column="33" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/server/boot/sparkpost-webhooks.js" timestamp="1501165649568">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/child.json" timestamp="1501167191092" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/server/boot/sparkpost-webhooks.js" timestamp="1501166828408">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="67" column="19" />
-        <mark key="]" line="67" column="36" />
-        <mark key="." line="67" column="36" />
-        <mark key="^" line="67" column="36" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="73" column="22" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="71" column="28" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-emails/src/partials/footer.html" timestamp="1501075291423">
         <mark key="[" line="2" column="40" />
@@ -37,7 +38,7 @@
         <mark key="." line="32" column="57" />
         <mark key="^" line="32" column="57" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-emails/src/pages/recommendations.html" timestamp="1501162183875">
+      <file name="$USER_HOME$/www/work/kide/kide-emails/src/pages/recommendations.html" timestamp="1501168474228">
         <mark key="'" line="216" column="36" />
         <mark key="[" line="120" column="120" />
         <mark key="]" line="120" column="125" />
@@ -74,6 +75,7 @@
         <mark key="^" line="135" column="50" />
         <mark key="." line="135" column="50" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account.json" timestamp="1501167103316" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/wishlist/utils/wishlist-service.js" timestamp="1501164047909">
         <mark key="'" line="37" column="33" />
         <mark key="[" line="354" column="0" />
@@ -97,12 +99,12 @@
         <mark key="." line="29" column="26" />
         <mark key="^" line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" timestamp="1501165620050">
-        <mark key="'" line="302" column="24" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="346" column="37" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" timestamp="1501169371768">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="285" column="47" />
+        <mark key="]" line="285" column="50" />
+        <mark key="." line="285" column="50" />
+        <mark key="^" line="285" column="50" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-emails/src/partials/components/liked-by.html" timestamp="1501076187571">
         <mark key="[" line="7" column="16" />
@@ -222,7 +224,7 @@
         <mark key="." line="49" column="88" />
         <mark key="^" line="49" column="119" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501164730608">
+      <file name="/Dummy.txt" timestamp="1501167136028">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-emails/src/pages/wishlist-reminder.html" timestamp="1501076063604">
@@ -290,9 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product.js" />
-      <jump line="125" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/getProducts.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/getProducts.js" />
       <jump line="4" column="42" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/views/products.html" />
       <jump line="23" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/controllers/shop-products.js" />
       <jump line="53" column="29" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/controllers/shop-products.js" />
@@ -390,6 +389,9 @@
       <jump line="127" column="19" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" />
       <jump line="261" column="57" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" />
       <jump line="302" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" />
+      <jump line="368" column="7" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" />
+      <jump line="14" column="4" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -408,8 +410,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgV2lzaGxpc3RTZXJ2aWNlID0gcmVxdWlyZSgnLi4vbW9kZWxzL3dpc2hsaXN0L3V0aWxzL3dpc2hsaXN0LXNlcnZpY2UnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>reminder</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -421,40 +423,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>reminder</text>
       </register>
       <register name="/" type="4">
         <text>brands</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnd2lzaGxpc3QtcmVtaW5kZXInOgogICAgICAgICAgICAgICAgdHMud2lzaGxpc3RTYWxlKGNvbnRhY3QuZW1haWwsIGNvbnRhY3QuZmlyc3RfbmFtZSkKICAgICAgICAgICAgICAgIC5jYXRjaChlcnJvckhhbmRsZXIpOwogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhc3RJdGVtczogXy5yYW5kb20oMiwgNiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsaWtlczogXy5yYW5kb20oNjIsIDEyMykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgV2lzaGxpc3RTZXJ2aWNlID0gcmVxdWlyZSgnLi4vbW9kZWxzL3dpc2hsaXN0L3V0aWxzL3dpc2hsaXN0LXNlcnZpY2UnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGFzdEl0ZW1zOiBfLnJhbmRvbSgyLCA2KSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYXN0SXRlbXM6IF8ucmFuZG9tKDIsIDYpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHNob3VsZFNob3dTdG9jaykgewogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGlrZXM6IF8ucmFuZG9tKDk3LCAyMzEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhc3RJdGVtczogbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGlrZXM6IF8ucmFuZG9tKDYyLCAxMjMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByb2R1Y3QubGFzdEl0ZW1zID0gXy5yYW5kb20oMywgOSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChjaGlsZC5hY2NvdW50SWQgJiYgY2hpbGQuYWNjb3VudElkLnRvU3RyaW5nKCkgPT09ICc1ODQ3ZjJjNzZmNWQ0OTkzMjUwYzViYTQnKSB7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coY2hpbGQpOwogICAgICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc3Qgc2hvdWxkU2hvd1N0b2NrID0gXy5yYW5kb20oMCwgMTApID4gMzsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aXNobGlzdFJlbWluZGVyKGVtYWlsLCBuYW1lKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0BGSVhNRTogUmVtb3ZlIHRoaXMgZGVidWcgY29uZGl0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhgJHt9YCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
