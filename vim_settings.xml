@@ -4,18 +4,24 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/getProducts.js" timestamp="1501146591598" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/discover/utils/discover-service.js" timestamp="1501163026935">
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="^" line="276" column="22" />
+        <mark key="." line="180" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/products/service/shop-service.js" timestamp="1500986286804">
         <mark key="[" line="163" column="33" />
         <mark key="]" line="163" column="33" />
         <mark key="^" line="163" column="33" />
         <mark key="." line="163" column="33" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/server/boot/sparkpost-webhooks.js" timestamp="1501157935850">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/server/boot/sparkpost-webhooks.js" timestamp="1501162967833">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="47" column="48" />
-        <mark key="]" line="47" column="67" />
-        <mark key="." line="47" column="67" />
-        <mark key="^" line="47" column="67" />
+        <mark key="[" line="51" column="21" />
+        <mark key="]" line="51" column="21" />
+        <mark key="." line="51" column="21" />
+        <mark key="^" line="51" column="21" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-emails/src/partials/footer.html" timestamp="1501075291423">
         <mark key="[" line="2" column="40" />
@@ -31,12 +37,12 @@
         <mark key="." line="32" column="57" />
         <mark key="^" line="32" column="57" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-emails/src/pages/recommendations.html" timestamp="1501154830863">
+      <file name="$USER_HOME$/www/work/kide/kide-emails/src/pages/recommendations.html" timestamp="1501162183875">
         <mark key="'" line="216" column="36" />
-        <mark key="[" line="102" column="103" />
-        <mark key="]" line="102" column="103" />
-        <mark key="." line="102" column="107" />
-        <mark key="^" line="98" column="107" />
+        <mark key="[" line="120" column="120" />
+        <mark key="]" line="120" column="125" />
+        <mark key="." line="120" column="125" />
+        <mark key="^" line="120" column="125" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-ac-payload.js" timestamp="1500903710044">
         <mark key="'" line="7" column="29" />
@@ -86,12 +92,12 @@
         <mark key="." line="29" column="26" />
         <mark key="^" line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" timestamp="1501158062454">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" timestamp="1501162905943">
         <mark key="'" line="4" column="47" />
-        <mark key="[" line="76" column="43" />
-        <mark key="]" line="76" column="49" />
-        <mark key="." line="76" column="49" />
-        <mark key="^" line="76" column="49" />
+        <mark key="[" line="173" column="38" />
+        <mark key="]" line="173" column="50" />
+        <mark key="." line="173" column="50" />
+        <mark key="^" line="173" column="50" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-emails/src/partials/components/liked-by.html" timestamp="1501076187571">
         <mark key="[" line="7" column="16" />
@@ -161,9 +167,9 @@
         <mark key="^" line="274" column="55" />
         <mark key="." line="274" column="55" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-emails/src/partials/components/enumerator.html" timestamp="1501152584109">
-        <mark key="[" line="0" column="431" />
-        <mark key="]" line="0" column="431" />
+      <file name="$USER_HOME$/www/work/kide/kide-emails/src/partials/components/enumerator.html" timestamp="1501160331395">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="567" />
         <mark key="." line="0" column="431" />
         <mark key="^" line="0" column="431" />
       </file>
@@ -390,8 +396,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>subData</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -403,40 +409,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>subData</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>brands</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfY2hpbGQucHJvZHVjdHMuZmlyc3QgPSBjaHVua2VkWzBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vZHhwbWdpcHc3L2NfcGFkLGhfMTAyNCx3XzEwMjQvXHt7bG9vcF92YXJzLmZpcnN0LnB1YmxpY19pZH19LmpwZyI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFjY291bnRJZCk7CiAgICBjb25zb2xlLmxvZyhjaGlsZElkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFByb21pc2UuYWxsKGFjY291bnQuY2hpbGRyZW4oKS5tYXAoKGNoaWxkKSA9PiB7CiAgICAgICAgICAgICAgICBsZXQgX2NoaWxkID0gewogICAgICAgICAgICAgICAgICAgIG5hbWU6IGNoaWxkLm5hbWUsCiAgICAgICAgICAgICAgICAgICAgZ2VuZGVyOiBjaGlsZC5nZW5kZXIsCiAgICAgICAgICAgICAgICAgICAgcHJvZHVjdHM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgZmlyc3Q6IFtdLAogICAgICAgICAgICAgICAgICAgICAgICBzZWNvbmQ6IFtdCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfTsKCiAgICAgICAgICAgIH0pKQogICAgICAgICAgICAudGhlbigoY2hpbGRyZW4pID0+IHsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBNUVByb3ZpZGVyLnNlbmRNZXNzYWdlcyhjb25maWdzLkFNUVAuUVVFVUVTLk1BUktFVElORywgW3sKICAgICAgICAgICAgICAgICAgICByZWNpcGllbnRzOiBbewogICAgICAgICAgICAgICAgICAgICAgICBhZGRyZXNzOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbWFpbDogZW1haWwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lOiBuYW1lCiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIHN1YnN0aXR1dGlvbl9kYXRhOiBwYXlsb2FkCiAgICAgICAgICAgICAgICAgICAgfV0sCiAgICAgICAgICAgICAgICAgICAgY29udGVudDogewogICAgICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZV9pZDogJ3JlY29tbWVuZGF0aW9ucycKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9XSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBwYXlsb2FkLnN1YmplY3QgPSBzdWJqZWN0ICsgYCAke01hdGgucmFuZG9tKCkudG9GaXhlZCgzKX1gOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBheWxvYWQuY2hpbGRyZW4gPSBjaGlsZHJlbjsKICAgICAgICAgICAgICAgIHBheWxvYWQuY2hpbGRyZW5fbGVuZ3RoID0gY2hpbGRyZW4ubGVuZ3RoOwogICAgICAgICAgICAgICAgLy8gUGF5bG9hZCBjb21wbGV0ZSwgdXNlIGl0IGZvciBzdWJzdGl0dXRpb24gZGF0YSBhdCBTcGFya1Bvc3QKCiAgICAgICAgICAgICAgICBsZXQgc3ViamVjdCA9ICcnOwogICAgICAgICAgICAgICAgaWYgKHBheWxvYWQubG9jYWxlID09PSAncHQnKSB7CiAgICAgICAgICAgICAgICAgICAgc3ViamVjdCArPSAnQXF1aSB2w6NvIGFsZ3VtYXMgcmVjb21lbmRhw6fDtWVzIHBhcmEgJzsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgc3ViamVjdCArPSAnSGVyZSBhcmUgc29tZSByZWNvbW1lbmRhdGlvbnMgZm9yICc7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgcGF5bG9hZC5jaGlsZHJlbi5mb3JFYWNoKChjaGlsZCwgaW5kZXgsIGFycikgPT4gewogICAgICAgICAgICAgICAgICAgIGNvbnN0IGkgPSBpbmRleCArIDE7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgZ2VuZGVyUHJlZml4ID0gY2hpbGQuZ2VuZGVyID09PSAnbWFsZScgPyAnbycgOiAnYSc7CgogICAgICAgICAgICAgICAgICAgIGlmIChpID09PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChwYXlsb2FkLmxvY2FsZSA9PT0gJ3B0JykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3ViamVjdCArPSBgJHtnZW5kZXJQcmVmaXh9ICR7Y2hpbGQubmFtZX1gOwogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3ViamVjdCArPSBjaGlsZC5uYW1lOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChpICE9PSAxICYmIGkgIT09IGFyci5sZW5ndGgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHBheWxvYWQubG9jYWxlID09PSAncHQnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdWJqZWN0ICs9IGAsICR7Z2VuZGVyUHJlZml4fSAke2NoaWxkLm5hbWV9YDsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1YmplY3QgKz0gYCwgJHtjaGlsZC5uYW1lfWA7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGkgPT09IGFyci5sZW5ndGgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHBheWxvYWQubG9jYWxlID09PSAncHQnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdWJqZWN0ICs9IGAgZSAke2dlbmRlclByZWZpeH0gJHtjaGlsZC5uYW1lfWA7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdWJqZWN0ICs9IGAgYW5kICR7Y2hpbGQubmFtZX1gOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
