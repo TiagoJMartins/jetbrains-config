@@ -10,12 +10,12 @@
         <mark key="^" line="163" column="33" />
         <mark key="." line="163" column="33" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/server/boot/sparkpost-webhooks.js" timestamp="1501150563016">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/server/boot/sparkpost-webhooks.js" timestamp="1501157935850">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="39" column="45" />
-        <mark key="]" line="39" column="51" />
-        <mark key="." line="39" column="51" />
-        <mark key="^" line="39" column="51" />
+        <mark key="[" line="47" column="48" />
+        <mark key="]" line="47" column="67" />
+        <mark key="." line="47" column="67" />
+        <mark key="^" line="47" column="67" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-emails/src/partials/footer.html" timestamp="1501075291423">
         <mark key="[" line="2" column="40" />
@@ -86,12 +86,12 @@
         <mark key="." line="29" column="26" />
         <mark key="^" line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" timestamp="1501150570392">
-        <mark key="'" line="1" column="27" />
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="43" column="17" />
-        <mark key="." line="43" column="17" />
-        <mark key="^" line="43" column="17" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" timestamp="1501158062454">
+        <mark key="'" line="4" column="47" />
+        <mark key="[" line="76" column="43" />
+        <mark key="]" line="76" column="49" />
+        <mark key="." line="76" column="49" />
+        <mark key="^" line="76" column="49" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-emails/src/partials/components/liked-by.html" timestamp="1501076187571">
         <mark key="[" line="7" column="16" />
@@ -272,8 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="28" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/services/store-service.js" />
-      <jump line="47" column="5" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size.json" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size.json" />
       <jump line="4" column="9" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/services/store-service.js" />
       <jump line="116" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/getProducts.js" />
@@ -361,7 +359,6 @@
       <jump line="3" column="86" filename="$USER_HOME$/www/work/kide/devel/kide-api/server/boot/sparkpost-webhooks.js" />
       <jump line="48" column="19" filename="$USER_HOME$/www/work/kide/devel/kide-api/server/boot/sparkpost-webhooks.js" />
       <jump line="38" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-api/server/boot/sparkpost-webhooks.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" />
       <jump line="9" column="42" filename="$USER_HOME$/www/work/kide/devel/kide-api/server/boot/sparkpost-webhooks.js" />
       <jump line="11" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/server/boot/sparkpost-webhooks.js" />
       <jump line="11" column="19" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" />
@@ -372,6 +369,9 @@
       <jump line="3" column="12" filename="$USER_HOME$/www/work/kide/kide-emails/bla.json" />
       <jump line="6" column="20" filename="$USER_HOME$/www/work/kide/kide-emails/bla.json" />
       <jump line="82" column="9" filename="$USER_HOME$/www/work/kide/kide-emails/src/partials/components/product.html" />
+      <jump line="65" column="43" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" />
+      <jump line="69" column="46" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" />
+      <jump line="4" column="47" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -390,8 +390,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAibmFtZSI6ICJhc2QiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>subData</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -403,40 +403,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>secofirst</text>
+        <text>subData</text>
       </register>
       <register name="/" type="4">
         <text>brands</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAibmFtZSI6IHsKICAgICAgICAgICAgICAgICJlbiI6ICJBd2Vzb21lIFByb2R1Y3QiLAogICAgICAgICAgICAgICAgInB0IjogIlByb2R1dG8gRXNwZXRhY3VsYXIiCiAgICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfY2hpbGQucHJvZHVjdHMuZmlyc3QgPSBjaHVua2VkWzBdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAibmFtZSI6ICJhc2QiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAibmFtZSI6ICJhc2QiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXHt7bG9vcF92YXJzLmNoaWxkcmVuLnByb2R1Y3RzLmZpcnN0Lm5hbWV9fTxicj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBce3tlbmR9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBce3tpZiBsb2NhbGUgPT0gInB0In19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXHt7bG9vcF92YXJzLmNoaWxkcmVuLnByb2R1Y3RzLnNlY29uZC5uYW1lLnB0fX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBce3tlbHNlfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXHt7ZWxzZX19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFx7e2xvb3BfdmFycy5jaGlsZHJlbi5wcm9kdWN0cy5maXJzdC5uYW1lLmVufX0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXHt7ZW5kfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXHt7aWYgbG9jYWxlID09ICJwdCJ9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXHt7bG9vcF92YXJzLmNoaWxkcmVuLnByb2R1Y3RzLmZpcnN0Lm5hbWV9fTxicj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2NvbHVtbnM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
