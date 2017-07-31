@@ -3,19 +3,40 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/kide/kide-branding/src/app/home/index.ts" timestamp="1501499166511" />
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/home/home.module.ts" timestamp="1501502140005">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/aot/bs-config.js" timestamp="1501493206835">
+        <mark key="[" line="7" column="71" />
+        <mark key="]" line="7" column="70" />
+        <mark key="." line="7" column="70" />
+        <mark key="^" line="7" column="70" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/contact/contact.module.ts" timestamp="1501512460155">
         <mark key="'" line="9" column="2" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/getProducts.js" timestamp="1501493899560" />
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/.angular-cli.json" timestamp="1501497324924">
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="16" />
-        <mark key="^" line="21" column="16" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/discover/utils/discover-service.js" timestamp="1501163026935">
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="^" line="276" column="22" />
+        <mark key="." line="180" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/products/service/shop-service.js" timestamp="1500986286804">
+        <mark key="[" line="163" column="33" />
+        <mark key="]" line="163" column="33" />
+        <mark key="^" line="163" column="33" />
+        <mark key="." line="163" column="33" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/.angular-cli.json" timestamp="1501519732573">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/.gitignore" timestamp="1501493184100">
         <mark key="[" line="5" column="8" />
@@ -23,7 +44,6 @@
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/dist/index.html" timestamp="1501497550208" />
       <file name="$USER_HOME$/www/work/kide/kide-branding/.gitignore" timestamp="1501490849999">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -35,21 +55,32 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-branding/src/app/app.resolver.ts" timestamp="1501499145334" />
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.component.js" timestamp="1501497773223">
         <mark key="[" line="13" column="5" />
         <mark key="]" line="13" column="4" />
         <mark key="^" line="13" column="4" />
         <mark key="." line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-branding/src/app/app.routes.ts" timestamp="1501501180373" />
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.routes.ts" timestamp="1501512499550">
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/services/index.ts" timestamp="1501502010681">
+        <mark key="[" line="0" column="69" />
+        <mark key="]" line="0" column="69" />
+        <mark key="^" line="0" column="69" />
+        <mark key="." line="0" column="69" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/modules/navbar/components/navbar/navbar.component.scss" timestamp="1501519851755">
+        <mark key="'" line="1" column="33" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.routes.ts" timestamp="1501518673288">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="19" />
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles/_variables.scss" timestamp="1501512900988">
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles/_variables.scss" timestamp="1501516996301">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -75,12 +106,22 @@
       <file name="/code_fragment.cls" timestamp="1501491516301">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/pdo-webapp/src/app/modules/sidenav/side-nav.module.ts" timestamp="1501498313499" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner.js" timestamp="1501238406858">
         <mark key="[" line="31" column="27" />
         <mark key="]" line="31" column="27" />
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.component.html" timestamp="1501518273298">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/assets/i18n/pt.json" timestamp="1501510055365">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/index.html" timestamp="1501512214177">
         <mark key="[" line="12" column="0" />
@@ -88,18 +129,41 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="4" column="26" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/pages/index.ts" timestamp="1501500354135">
+        <mark key="[" line="0" column="51" />
+        <mark key="]" line="0" column="50" />
+        <mark key="^" line="0" column="50" />
+        <mark key="." line="0" column="50" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/main-aot.ts" timestamp="1501496037751">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="33" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-branding/src/assets/humans.txt" timestamp="1501491007744" />
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/modules/navbar/navbar.module.ts" timestamp="1501507316209">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/tsconfig.app.json" timestamp="1501512142230">
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="18" />
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account.js" timestamp="1500903830737">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="22" column="30" />
+        <mark key="^" line="22" column="30" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.component.scss" timestamp="1501513529750">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-emails/src/assets/scss/partials/_footer.scss" timestamp="1501075262266">
         <mark key="[" line="33" column="26" />
@@ -107,8 +171,40 @@
         <mark key="." line="33" column="32" />
         <mark key="^" line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.component.spec.ts" timestamp="1501497899008" />
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shared/shared.module.ts" timestamp="1501490890847" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/emails.js" timestamp="1501246650615">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="204" column="28" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/main.ts" timestamp="1501497552466">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-emails/src/assets/scss/_wishlist-reminder.scss" timestamp="1501074908853">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+        <mark key="^" line="29" column="26" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-branding/.nvmrc" timestamp="1501490470426">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/home/components/home/home.component.html" timestamp="1501519134380">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/modules/navbar/components/navbar/navbar.component.ts" timestamp="1501510359685">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+        <mark key="^" line="15" column="37" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/about/about.module.ts" timestamp="1501502166340">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -120,11 +216,23 @@
         <mark key="." line="7" column="18" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles.scss" timestamp="1501513017556">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="29" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/www/resources/locale-en.json" timestamp="1500908275170">
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="36" />
+        <mark key="^" line="204" column="34" />
+        <mark key="." line="204" column="34" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles.scss" timestamp="1501519477277">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="32" />
+        <mark key="^" line="4" column="32" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/outfits-ctrl/outfits.html" timestamp="1500902306993">
+        <mark key="[" line="47" column="70" />
+        <mark key="]" line="47" column="72" />
+        <mark key="." line="47" column="72" />
+        <mark key="^" line="47" column="72" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-emails/src/assets/scss/_birthday.scss" timestamp="1501073977304">
         <mark key="[" line="11" column="0" />
@@ -132,7 +240,12 @@
         <mark key="^" line="9" column="20" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-branding/src/app/app.component.ts" timestamp="1501501482276" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/layout/_kd-product-actions.scss" timestamp="1500908627788">
+        <mark key="[" line="83" column="21" />
+        <mark key="]" line="83" column="23" />
+        <mark key="." line="83" column="23" />
+        <mark key="^" line="83" column="23" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/pages/home/home.module.ts" timestamp="1501500407645">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -149,21 +262,33 @@
         <mark key="]" line="299" column="0" />
         <mark key="." line="299" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/shared.module.ts" timestamp="1501501921164" />
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/tsconfig.json" timestamp="1501512218994" />
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles/_mixins.scss" timestamp="1501519256321">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/modules/navbar/interfaces/navbar.ts" timestamp="1501507649513">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/aot/index.html" timestamp="1501497196931">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="31" />
         <mark key="." line="12" column="31" />
         <mark key="^" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/package.json" timestamp="1501497620990">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/package.json" timestamp="1501519448672">
+        <mark key="]" line="31" column="35" />
         <mark key="^" line="11" column="41" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-branding/src/app/home/home.component.ts" timestamp="1501499266941" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/service/session-service.js" timestamp="1500480242251">
+        <mark key="[" line="274" column="25" />
+        <mark key="]" line="274" column="24" />
+        <mark key="^" line="274" column="24" />
+        <mark key="." line="274" column="24" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/main.aot.ts" timestamp="1501495807583">
         <mark key="[" line="3" column="39" />
         <mark key="]" line="3" column="39" />
@@ -187,6 +312,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.routing.module.ts" timestamp="1501257205062">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="3" column="31" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/rollup.config.js" timestamp="1501493389926">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="10" column="46" />
@@ -194,12 +325,36 @@
         <mark key="." line="10" column="46" />
         <mark key="^" line="10" column="46" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/SparkpostTemplates.js" timestamp="1501147917145">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/tsconfig-aot.json" timestamp="1501495852915">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="24" column="13" />
         <mark key="]" line="24" column="14" />
         <mark key="." line="24" column="14" />
         <mark key="^" line="31" column="1" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles/_colors.scss" timestamp="1501516928634">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.component.ts" timestamp="1501515901974">
+        <mark key="'" line="5" column="37" />
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/assets/i18n/en.json" timestamp="1501510030475">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/navbar/navbar.module.ts" timestamp="1501499936510">
         <mark key="[" line="6" column="0" />
@@ -213,11 +368,33 @@
         <mark key="." line="33" column="62" />
         <mark key="^" line="33" column="62" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/product/view/product.html" timestamp="1500972034225">
+        <mark key="[" line="49" column="88" />
+        <mark key="]" line="49" column="88" />
+        <mark key="." line="49" column="88" />
+        <mark key="^" line="49" column="119" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1501512450989">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/rollup-config.js" timestamp="1501492333131">
+        <mark key="'" line="43" column="1" />
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="27" />
+        <mark key="." line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-emails/src/pages/wishlist-sale.html" timestamp="1501150710618">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="10" />
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/aftership.js" timestamp="1501246744291">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/www/resources/locale-pt.json" timestamp="1500908291711">
         <mark key="[" line="205" column="23" />
@@ -243,6 +420,18 @@
         <mark key="]" line="8" column="5" />
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="5" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/get-all-sales.js" timestamp="1500905325328">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="27" column="51" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/modules/navbar/components/navbar/navbar.component.html" timestamp="1501519156023">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="25" />
+        <mark key="." line="24" column="25" />
+        <mark key="^" line="24" column="30" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-branding/src/polyfills.browser.ts" timestamp="1501490861621">
         <mark key="[" line="0" column="0" />
@@ -271,222 +460,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/navbar/index.ts" timestamp="1501499180164">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="29" />
-        <mark key="." line="0" column="29" />
-        <mark key="^" line="0" column="29" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-branding/package.json" timestamp="1501498839934" />
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/home/home.module.ts" timestamp="1501502140005">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/aot/bs-config.js" timestamp="1501493206835">
-        <mark key="[" line="7" column="71" />
-        <mark key="]" line="7" column="70" />
-        <mark key="." line="7" column="70" />
-        <mark key="^" line="7" column="70" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/navbar/components/navbar/navbar.component.ts" timestamp="1501498649815" />
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/discover/utils/discover-service.js" timestamp="1501163026935">
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="^" line="276" column="22" />
-        <mark key="." line="180" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/products/service/shop-service.js" timestamp="1500986286804">
-        <mark key="[" line="163" column="33" />
-        <mark key="]" line="163" column="33" />
-        <mark key="^" line="163" column="33" />
-        <mark key="." line="163" column="33" />
-      </file>
-      <file name="$USER_HOME$/www/work/pdo-webapp/src/app/app.component.html" timestamp="1501498263999" />
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/services/index.ts" timestamp="1501502010681">
-        <mark key="[" line="0" column="69" />
-        <mark key="]" line="0" column="69" />
-        <mark key="^" line="0" column="69" />
-        <mark key="." line="0" column="69" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/aot/index.html.js" timestamp="1501496133227" />
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/modules/navbar/components/navbar/navbar.component.scss" timestamp="1501513651346">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="3" column="30" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.component.html" timestamp="1501510348877">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/assets/i18n/pt.json" timestamp="1501510055365">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="24" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/pages/index.ts" timestamp="1501500354135">
-        <mark key="[" line="0" column="51" />
-        <mark key="]" line="0" column="50" />
-        <mark key="^" line="0" column="50" />
-        <mark key="." line="0" column="50" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/about/components/about/about.component.ts" timestamp="1501501900372" />
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/modules/navbar/navbar.module.ts" timestamp="1501507316209">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="11" column="22" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account.js" timestamp="1500903830737">
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="22" column="30" />
-        <mark key="." line="22" column="30" />
-        <mark key="^" line="22" column="30" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.component.scss" timestamp="1501513529750">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/modules/navbar/index.ts" timestamp="1501502066348" />
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/emails.js" timestamp="1501246650615">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
-        <mark key="^" line="204" column="28" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/main.ts" timestamp="1501497552466">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-emails/src/assets/scss/_wishlist-reminder.scss" timestamp="1501074908853">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="26" />
-        <mark key="." line="29" column="26" />
-        <mark key="^" line="29" column="26" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-branding/.nvmrc" timestamp="1501490470426">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/home/components/home/home.component.html" timestamp="1501502250075">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/modules/navbar/components/navbar/navbar.component.ts" timestamp="1501510359685">
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="15" column="37" />
-        <mark key="." line="15" column="37" />
-        <mark key="^" line="15" column="37" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" timestamp="1501500181653" />
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/www/resources/locale-en.json" timestamp="1500908275170">
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="204" column="36" />
-        <mark key="^" line="204" column="34" />
-        <mark key="." line="204" column="34" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-branding/typedoc.json" timestamp="1501499241518" />
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/outfits-ctrl/outfits.html" timestamp="1500902306993">
-        <mark key="[" line="47" column="70" />
-        <mark key="]" line="47" column="72" />
-        <mark key="." line="47" column="72" />
-        <mark key="^" line="47" column="72" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/layout/_kd-product-actions.scss" timestamp="1500908627788">
-        <mark key="[" line="83" column="21" />
-        <mark key="]" line="83" column="23" />
-        <mark key="." line="83" column="23" />
-        <mark key="^" line="83" column="23" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles/_mixins.scss" timestamp="1501512983131">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="28" />
-        <mark key="^" line="1" column="28" />
-        <mark key="." line="1" column="28" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/modules/navbar/interfaces/navbar.ts" timestamp="1501507649513">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-branding/src/app/app.module.ts" timestamp="1501501490068" />
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/service/session-service.js" timestamp="1500480242251">
-        <mark key="[" line="274" column="25" />
-        <mark key="]" line="274" column="24" />
-        <mark key="^" line="274" column="24" />
-        <mark key="." line="274" column="24" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.routing.module.ts" timestamp="1501257205062">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/SparkpostTemplates.js" timestamp="1501147917145">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="3" column="3" />
-        <mark key="." line="3" column="3" />
-        <mark key="^" line="3" column="3" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.component.ts" timestamp="1501513532804">
-        <mark key="'" line="5" column="37" />
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/assets/i18n/en.json" timestamp="1501510030475">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="6" column="2" />
-        <mark key="^" line="5" column="22" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/product/view/product.html" timestamp="1500972034225">
-        <mark key="[" line="49" column="88" />
-        <mark key="]" line="49" column="88" />
-        <mark key="." line="49" column="88" />
-        <mark key="^" line="49" column="119" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1501512450989">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/rollup-config.js" timestamp="1501492333131">
-        <mark key="'" line="43" column="1" />
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="27" />
-      </file>
-      <file name="$USER_HOME$/www/work/pdo-webapp/src/app/modules/sidenav/components/side-nav/side-nav.component.ts" timestamp="1501498293494" />
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/aftership.js" timestamp="1501246744291">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-branding/tsconfig.json" timestamp="1501490831593" />
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/get-all-sales.js" timestamp="1500905325328">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="27" column="51" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/modules/navbar/components/navbar/navbar.component.html" timestamp="1501510937995">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="24" column="25" />
-        <mark key="^" line="24" column="30" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-branding/src/app/+detail/detail.routes.ts" timestamp="1501490954472" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/services/browse-service.js" timestamp="1500980814992">
         <mark key="[" line="99" column="33" />
         <mark key="]" line="99" column="41" />
@@ -499,14 +472,14 @@
         <mark key="^" line="227" column="30" />
         <mark key="." line="227" column="30" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/navbar/index.ts" timestamp="1501499180164">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="29" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="8" filename="$USER_HOME$/www/work/kide/kide-emails/src/pages/recommendations.html" />
-      <jump line="113" column="45" filename="$USER_HOME$/www/work/kide/kide-emails/src/pages/recommendations.html" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/work/kide/kide-emails/src/pages/recommendations.html" />
-      <jump line="27" column="27" filename="$USER_HOME$/www/work/kide/kide-emails/bla.json" />
-      <jump line="9" column="18" filename="$USER_HOME$/www/work/kide/kide-emails/src/assets/scss/app.scss" />
-      <jump line="20" column="32" filename="$USER_HOME$/www/work/kide/kide-emails/src/pages/birthday.html" />
       <jump line="7" column="92" filename="$USER_HOME$/www/work/kide/kide-emails/src/pages/birthday.html" />
       <jump line="56" column="72" filename="$USER_HOME$/www/work/kide/kide-emails/src/pages/birthday.html" />
       <jump line="35" column="9" filename="$USER_HOME$/www/work/kide/kide-emails/src/pages/birthday.html" />
@@ -601,6 +574,12 @@
       <jump line="5" column="37" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.component.ts" />
       <jump line="9" column="2" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/contact/contact.module.ts" />
       <jump line="26" column="21" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.module.ts" />
+      <jump line="5" column="15" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles/_mixins.scss" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles/_mixins.scss" />
+      <jump line="10" column="7" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles/_mixins.scss" />
+      <jump line="33" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles/_mixins.scss" />
+      <jump line="30" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles/_mixins.scss" />
+      <jump line="1" column="33" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/modules/navbar/components/navbar/navbar.component.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -620,7 +599,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi4vLi4vLi4vLi4vLi4vLi4vc3R5bGVzIjsKCg==</text>
+        <text encoding="base64">CkBpbXBvcnQgInV0aWxpdGllcy9ib3VyYm9uIjsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -632,40 +611,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>red</text>
+        <text>/utilities</text>
       </register>
       <register name="/" type="4">
         <text>brands</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsgcGF0aDogJ2Fib3V0JywgY29tcG9uZW50OiBBYm91dENvbXBvbmVudCB9Cg==</text>
+        <text encoding="base64">QGltcG9ydCAifmJvdXJib24vYXBwL2Fzc2V0cy9zdHlsZXNoZWV0cy9ib3VyYm9uIjsKQGltcG9ydCAifmJvdXJib24tbmVhdC9hcHAvYXNzZXRzL3N0eWxlc2hlZXRzL25lYXQiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi4vLi4vLi4vLi4vLi4vLi4vc3R5bGVzIjsKCg==</text>
+        <text encoding="base64">CkBpbXBvcnQgInV0aWxpdGllcy9ib3VyYm9uIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJzdHlsZXMvdG9vbHMiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVuY2Fwc3VsYXRpb246IFZpZXdFbmNhcHN1bGF0aW9uLk5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi4vc3R5bGVzIjsK</text>
+        <text encoding="base64">Li4vLi4vLi4vLi4vLi4vbWl4aQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsKICAgIG1hcmdpbjogMDsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGltcG9ydCAifnZhcmlhYmxlcyI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGltcG9ydCB1cmwoKTsK</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBpbmNsdWRlIAo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDA7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcjogMXB4IHNvbGlkIHJlZDsK</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDAgMjA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
