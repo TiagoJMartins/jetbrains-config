@@ -33,6 +33,12 @@
         <mark key="^" line="163" column="33" />
         <mark key="." line="163" column="33" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/server/boot/sparkpost-webhooks.js" timestamp="1501576922122">
+        <mark key="[" line="71" column="28" />
+        <mark key="]" line="71" column="28" />
+        <mark key="." line="71" column="28" />
+        <mark key="^" line="71" column="26" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/.angular-cli.json" timestamp="1501520001861">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -206,6 +212,8 @@
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="37" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product.json" timestamp="1501576868072" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" timestamp="1501576870240" />
       <file name="$USER_HOME$/www/work/kide/kide-emails/src/partials/components/liked-by.html" timestamp="1501076187571">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="18" />
@@ -562,7 +570,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>navbar</text>
+        <text>contact.email, contact.first_name</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -574,42 +582,42 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>navbar</text>
+        <text>contact.email, contact.first_name</text>
       </register>
       <register name="/" type="4">
         <text>brands</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGltcG9ydCAifmJvdXJib24vYXBwL2Fzc2V0cy9zdHlsZXNoZWV0cy9ib3VyYm9uIjsKQGltcG9ydCAifmJvdXJib24tbmVhdC9hcHAvYXNzZXRzL3N0eWxlc2hlZXRzL25lYXQiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAnd2lzaGxpc3Qtb3V0LW9mLXN0b2NrJzoKICAgICAgICAgICAgICAgIHRzLndpc2hsaXN0T3V0T2ZTdG9jayhjb250YWN0LmVtYWlsLCBjb250YWN0LmZpcnN0X25hbWUpCiAgICAgICAgICAgICAgICAuY2F0Y2goZXJyb3JIYW5kbGVyKTsKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGltcG9ydCAidG9vbHMiOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">QGltcG9ydCAidG9vbHMiOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">QGltcG9ydCAidG9vbHMiOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">QGltcG9ydCAiIjsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>@import &quot;~bourbon/core/bourbon&quot;;
 @import &quot;~bourbon-neat/core/neat&quot;;
 @import &quot;mixins&quot;;</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">QGltcG9ydCAifmJvdXJib24vY29yZS9ib3VyYm9uIjsKQGltcG9ydCAifmJvdXJib24tbmVhdC9jb3JlL25lYXQiOwpAaW1wb3J0ICd+c2Fzcy1tcSc7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">QGltcG9ydCAnfm5vcm1hbGl6ZS5jc3MnOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CkBpbXBvcnQgInV0aWxpdGllcy9ib3VyYm9uIjsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJzdHlsZXMvdG9vbHMiCg==</text>
+        <text encoding="base64">CkBpbXBvcnQgInV0aWxpdGllcy9ib3VyYm9uIjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
