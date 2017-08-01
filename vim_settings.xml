@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/_tests/getProducts.spec.js" timestamp="1501587911946">
-        <mark key="[" line="61" column="6" />
-        <mark key="]" line="61" column="6" />
-        <mark key="." line="61" column="6" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/_tests/getProducts.spec.js" timestamp="1501598437491">
+        <mark key="[" line="85" column="71" />
+        <mark key="]" line="85" column="79" />
+        <mark key="." line="85" column="79" />
+        <mark key="^" line="85" column="79" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/getProducts.js" timestamp="1501582869840">
         <mark key="'" line="113" column="6" />
@@ -37,7 +38,13 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles/_base.scss" timestamp="1501596420432">
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/components/icon/icon.component.html" timestamp="1501598885353">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles/_base.scss" timestamp="1501598455067">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="14" column="25" />
         <mark key="." line="14" column="25" />
@@ -126,7 +133,7 @@
         <mark key="." line="33" column="32" />
         <mark key="^" line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product.json" timestamp="1501587541875">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product.json" timestamp="1501598444499">
         <mark key="[" line="165" column="34" />
         <mark key="]" line="165" column="37" />
         <mark key="." line="165" column="37" />
@@ -221,6 +228,13 @@
         <mark key="]" line="16" column="14" />
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.module.ts" timestamp="1501599268098">
+        <mark key="'" line="30" column="21" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="28" column="23" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-emails/.gitignore" timestamp="1500994434465">
         <mark key="[" line="8" column="0" />
@@ -400,6 +414,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/components/icon/icon.component.ts" timestamp="1501599075747">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/SparkpostTemplates.js" timestamp="1501147917145">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="3" column="3" />
@@ -424,7 +443,7 @@
         <mark key="." line="49" column="88" />
         <mark key="^" line="49" column="119" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501595728967">
+      <file name="/Dummy.txt" timestamp="1501598822224">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/aftership.js" timestamp="1501246744291">
@@ -584,8 +603,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSW5saW5lU1ZHTW9kdWxlIH0gZnJvbSAnbmctaW5saW5lLXN2Zyc7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -597,7 +616,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>populateStocks</text>
@@ -606,31 +625,31 @@
         <text encoding="base64">ICAgIEBpbmNsdWRlIGdyaWQtY29udGFpbmVyKCk7CiAgICBkaXNwbGF5OiBibG9jazsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9wcm9maWxlLWljb24uY29tcG9uZW50LnNjc3MnXQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgSW5saW5lU1ZHTW9kdWxlIH0gZnJvbSAnbmctaW5saW5lLXN2Zyc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IHsgUHJvZmlsZSB9IGFzIFByb2ZpbGVJY29uIGZyb20gCg==</text>
+        <text encoding="base64">ICAgICAgICBJbmxpbmVTVkdNb2R1bGUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsKaW1wb3J0IHsgQ29tbW9uTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvY29tbW9uJzsKaW1wb3J0IHsgUHJvZmlsZUNvbXBvbmVudCB9IGZyb20gJy4vY29tcG9uZW50cy9zcmMvYXBwL3NoYXJlZC9tb2R1bGVzL3N2Zy9jb21wb25lbnRzL3Byb2ZpbGUvcHJvZmlsZS5jb21wb25lbnQnOwoKQE5nTW9kdWxlKHsKICBpbXBvcnRzOiBbCiAgICBDb21tb25Nb2R1bGUKICBdLAogIGRlY2xhcmF0aW9uczogW1Byb2ZpbGVDb21wb25lbnRdCn0pCmV4cG9ydCBjbGFzcyBTdmdNb2R1bGUgeyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdHlsZVVybHM6IFsnLi9wcm9maWxlLmNvbXBvbmVudC5zY3NzJ10K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpY29uOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CjxwPgogICAgCjwvcD4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGRpdj48L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PHA+CiAgcHJvZmlsZSB3b3JrcyEKPC9wPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiYmFkZWpvIjogewogICAgICAgICAgICBpbmNsdWRlZGFzZGFzZAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
