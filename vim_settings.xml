@@ -178,12 +178,13 @@
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="37" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" timestamp="1501579835237">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/emails/sparkpost-templates.js" timestamp="1501586043445">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="132" column="24" />
-        <mark key="]" line="132" column="24" />
-        <mark key="." line="132" column="24" />
+        <mark key="[" line="397" column="35" />
+        <mark key="]" line="397" column="35" />
+        <mark key="." line="397" column="35" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product.json" timestamp="1501586046182" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" timestamp="1501576870240" />
       <file name="$USER_HOME$/www/work/kide/kide-emails/src/partials/components/liked-by.html" timestamp="1501076187571">
         <mark key="[" line="7" column="16" />
@@ -489,8 +490,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW5zZXJ0X2ZpbmFsX25ld2xpbmUgPSB0cnVlCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -502,7 +503,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>populateStocks</text>
@@ -511,31 +512,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGhlbigob3V0cHV0KSA9PiBQcm9kdWN0LnBvcHVsYXRlU3RvY2tzKG91dHB1dCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW5zZXJ0X2ZpbmFsX25ld2xpbmUgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vQEZJWE1FOiBSZW1vdmUgdGhpcyBkZWJ1ZyBjb25kaXRpb24K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">aW5zZXJ0X2ZpbmFsX25ld2xpbmUgPSB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IGRldmVsb3AK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IGRldmVsb3AK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnRoZW4oKG91dHB1dCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IGRldmVsb3AK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICBjYXRjaChjYikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLnRoZW4oKG91dHB1dCkgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICBjYXRjaChjYikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
