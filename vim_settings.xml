@@ -32,6 +32,12 @@
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/product-cta/product-cta.html" timestamp="1501600960449">
+        <mark key="[" line="39" column="79" />
+        <mark key="]" line="39" column="80" />
+        <mark key="." line="39" column="80" />
+        <mark key="^" line="39" column="80" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-emails/src/partials/footer.html" timestamp="1501075291423">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="60" />
@@ -44,7 +50,7 @@
         <mark key="." line="0" column="31" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles/_base.scss" timestamp="1501598455067">
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles/_base.scss" timestamp="1501600198523">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="14" column="25" />
         <mark key="." line="14" column="25" />
@@ -55,6 +61,11 @@
         <mark key="]" line="13" column="4" />
         <mark key="^" line="13" column="4" />
         <mark key="." line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/discover/views/discover.html" timestamp="1501600686843">
+        <mark key="[" line="205" column="89" />
+        <mark key="]" line="205" column="90" />
+        <mark key="." line="205" column="90" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/.editorconfig" timestamp="1501583103097">
         <mark key="[" line="12" column="0" />
@@ -229,7 +240,7 @@
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.module.ts" timestamp="1501599268098">
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.module.ts" timestamp="1501600187248">
         <mark key="'" line="30" column="21" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -307,6 +318,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="4" column="3" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/product-cta/product-cta.js" timestamp="1501601053486">
+        <mark key="[" line="34" column="52" />
+        <mark key="]" line="34" column="52" />
+        <mark key="^" line="34" column="52" />
+        <mark key="." line="34" column="52" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.component.html" timestamp="1501594119113">
         <mark key="[" line="1" column="34" />
@@ -443,7 +460,7 @@
         <mark key="." line="49" column="88" />
         <mark key="^" line="49" column="119" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501598822224">
+      <file name="/Dummy.txt" timestamp="1501600710666">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/aftership.js" timestamp="1501246744291">
@@ -603,8 +620,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSW5saW5lU1ZHTW9kdWxlIH0gZnJvbSAnbmctaW5saW5lLXN2Zyc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -616,7 +633,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>populateStocks</text>
