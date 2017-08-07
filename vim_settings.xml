@@ -162,11 +162,11 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="37" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" timestamp="1502094063870">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-        <mark key="^" line="5" column="3" />
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" timestamp="1502099126181">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/.editorconfig" timestamp="1501769876850">
         <mark key="[" line="13" column="32" />
@@ -270,13 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="26" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
-      <jump line="30" column="20" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
-      <jump line="40" column="3" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
-      <jump line="7" column="6" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
       <jump line="41" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
       <jump line="18" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
       <jump line="51" column="4" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
@@ -362,14 +355,21 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
       <jump line="11" column="14" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
       <jump line="8" column="8" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
       <jump line="31" column="4" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
       <jump line="29" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
       <jump line="27" column="3" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
       <jump line="17" column="3" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
       <jump line="7" column="8" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
       <jump line="38" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
+      <jump line="32" column="8" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
+      <jump line="4" column="3" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
+      <jump line="15" column="3" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
+      <jump line="39" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
+      <jump line="14" column="17" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
+      <jump line="6" column="24" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -388,8 +388,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -401,7 +401,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>Initializing</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -410,31 +410,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc2ggJ2Nob3duIC1SIHJvb3Q6cm9vdCAqJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBub2RlX2ltYWdlID0gZG9ja2VyLmltYWdlKCdub2RlOjYuMTAuMycpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW52LkhPTUUgPSAiL2hvbWUvbm9kZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICdscycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2ggJ2NkIC4vYmluICYmIC4vYnVpbGQtYWxsLnNoIC12Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGV0ZURpcigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsZWFuV3MoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ggJ3N1ZG8gY2hvd24gLVIgcm9vdDpyb290IConCiAgICAgICAgICAgIHNoICdzdWRvIGNob3duIC1SIHJvb3Q6cm9vdCAke0hPTUV9Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICdscycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICdscycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
