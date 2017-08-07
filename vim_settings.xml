@@ -101,12 +101,12 @@
         <mark key="]" line="4" column="43" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/get-bag.js" timestamp="1502109800928">
-        <mark key="'" line="12" column="30" />
-        <mark key="[" line="38" column="49" />
-        <mark key="]" line="38" column="57" />
-        <mark key="." line="38" column="57" />
-        <mark key="^" line="38" column="57" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/get-bag.js" timestamp="1502110618128">
+        <mark key="'" line="44" column="18" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="44" column="18" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/shared.module.ts" timestamp="1501685283312">
         <mark key="'" line="21" column="34" />
@@ -213,8 +213,6 @@
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/link.js" timestamp="1502101069773" />
     </filemarks>
     <jumps>
-      <jump line="51" column="4" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
-      <jump line="48" column="3" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
       <jump line="36" column="47" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
       <jump line="66" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
       <jump line="116" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
@@ -313,6 +311,8 @@
       <jump line="10" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
       <jump line="10" column="33" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/get-bag.js" />
       <jump line="12" column="30" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/get-bag.js" />
+      <jump line="13" column="39" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/get-bag.js" />
+      <jump line="46" column="18" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/get-bag.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -332,7 +332,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -353,31 +353,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlOiAiQmFnSWQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YWx1ZTogcmVzdWx0LmlkCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QmFnSWQ6ICR7cmVzdWx0LmlkfQpCYWdJZEluU2Vzc2lvbjogJHtyZXEuc2Vzc2lvbi5iYWdJZH0KVXNlcklkSW5CYWc6ICR7cmVzdWx0LmFjY291bnRJZH0KVXNlcklkRnJvbUxvb3BiYWNrOiAke3VzZXIoKX0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFjY291bnRJZCA9ICdhc2Rhc2QnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmllbGRzOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1xuQkFHJyk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdhY2NvdW50SWQnLCByZXN1bHQuYWNjb3VudElkKTsKICAgICAgICAgICAgY29uc29sZS5sb2coJ2JhZ0lkJywgcmVzdWx0LmlkKTsKICAgICAgICAgICAgY29uc29sZS5sb2coJ3VzZXJJZCcsIHVzZXIoKSk7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdzZXNzaW9uJywgcmVxLnNlc3Npb24pOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYXNfdXNlcjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGV4dDogJ3N1cCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKCgpID0+IHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVzdWx0OwogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJyEhIXNob3VsZCBiZSBzZW5kaW5nIG1lc3NhZ2UhISEnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGV4dDogJ3Rlc3QgdGVzdCBhZ2Fpblxub2hib3knCiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHJlc3VsdC5hY2NvdW50SWQgPSAnYXNkYXNkJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
