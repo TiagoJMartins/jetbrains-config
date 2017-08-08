@@ -130,12 +130,12 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/nginx-base.conf" timestamp="1502189630010">
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/nginx-base.conf" timestamp="1502195933414">
         <mark key="'" line="29" column="20" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="54" column="23" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/services/startup/startup.service.ts" timestamp="1501771702587">
         <mark key="[" line="21" column="45" />
@@ -143,7 +143,7 @@
         <mark key="." line="21" column="45" />
         <mark key="^" line="20" column="105" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/nginx.conf" timestamp="1502191839694">
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/nginx.conf" timestamp="1502195835332">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="11" column="31" />
         <mark key="]" line="11" column="31" />
@@ -289,8 +289,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZXQgJHByZXJlbmRlciAiYmFkZWpvIjsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -311,31 +311,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNsYWNrU2VuZCBjb2xvcjonIzAwZmYwMCcsIG1lc3NhZ2U6ICdCdWlsZCAke0JVSUxEX0RJU1BMQVlfTkFNRX0gcGFzc2VkIGZvciAke0pPQl9OQU1FfSgke0JVSUxEX1VSTH0pJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgcG9zdCB7CiAgICAgICAgICAgIHN1Y2Nlc3MgewogICAgICAgICAgICAgICAgc2xhY2tTZW5kIGNvbG9yOicjMDBmZjAwJywgbWVzc2FnZTogJ0J1aWxkICR7QlVJTERfRElTUExBWV9OQU1FfSBwYXNzZWQgZm9yICR7Sk9CX05BTUV9KCR7QlVJTERfVVJMfSknCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZmFpbHVyZSB7CiAgICAgICAgICAgICAgICBzbGFja1NlbmQgY29sb3I6JyNmZjAwMDAnLCBtZXNzYWdlOiAnQnVpbGQgJHtCVUlMRF9ESVNQTEFZX05BTUV9IGZhaWxlZCBmb3IgJHtKT0JfTkFNRX0oJHtCVUlMRF9VUkx9KScKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzZXQgJHByZXJlbmRlciAiYmFkZWpvIjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgcG9zdCB7CiAgICAgICAgICAgIHN1Y2Nlc3MgewogICAgICAgICAgICAgICAgc2xhY2tTZW5kIGNvbG9yOicjMDBmZjAwJywgbWVzc2FnZTogJ0J1aWxkICR7QlVJTERfRElTUExBWV9OQU1FfSBwYXNzZWQgZm9yICR7Sk9CX05BTUV9KCR7QlVJTERfVVJMfSknCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZmFpbHVyZSB7CiAgICAgICAgICAgICAgICBzbGFja1NlbmQgY29sb3I6JyNmZjAwMDAnLCBtZXNzYWdlOiAnQnVpbGQgJHtCVUlMRF9ESVNQTEFZX05BTUV9IGZhaWxlZCBmb3IgJHtKT0JfTkFNRX0oJHtCVUlMRF9VUkx9KScKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAidm9sdW1lcyI6IFtdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAicGxhY2VtZW50Q29uc3RyYWludHMiOiBbXSwK</text>
+        <text encoding="base64">ICAidm9sdW1lcyI6IFtdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIm1lbW9yeSI6IDUxMiwK</text>
+        <text encoding="base64">ICAicGxhY2VtZW50Q29uc3RyYWludHMiOiBbXSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgInByaXZpbGVnZWQiOiBudWxsLAo=</text>
+        <text encoding="base64">ICAgICAgIm1lbW9yeSI6IDUxMiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgImxvZ0NvbmZpZ3VyYXRpb24iOiBudWxsLAo=</text>
+        <text encoding="base64">ICAgICAgInByaXZpbGVnZWQiOiBudWxsLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgImRvY2tlckxhYmVscyI6IG51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgImxvZ0NvbmZpZ3VyYXRpb24iOiBudWxsLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgInVzZXIiOiBudWxsLAo=</text>
+        <text encoding="base64">ICAgICAgImRvY2tlckxhYmVscyI6IG51bGwsCg==</text>
       </register>
       <register name=":" type="4">
         <text>280</text>
