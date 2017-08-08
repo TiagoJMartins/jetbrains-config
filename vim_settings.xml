@@ -33,7 +33,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="57" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/ecs-task-definition.json" timestamp="1502183343640" />
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/ecs-task-definition.json" timestamp="1502184992243">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/.angular-cli.json" timestamp="1501846182879">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="3" column="22" />
@@ -88,12 +92,12 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" timestamp="1502183311713">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="53" column="32" />
-        <mark key="]" line="53" column="32" />
-        <mark key="." line="53" column="32" />
-        <mark key="^" line="47" column="47" />
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" timestamp="1502187280424">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="70" column="28" />
+        <mark key="]" line="70" column="41" />
+        <mark key="." line="70" column="41" />
+        <mark key="^" line="70" column="41" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/build-images.sh" timestamp="1502112430200">
         <mark key="'" line="4" column="0" />
@@ -119,20 +123,13 @@
         <mark key="." line="4" column="37" />
         <mark key="^" line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" timestamp="1502181412564">
-        <mark key="'" line="31" column="19" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-        <mark key="^" line="122" column="68" />
-      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/server/model-config.json" timestamp="1502101662608">
         <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="23" />
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/nginx-base.conf" timestamp="1502112424551">
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/nginx-base.conf" timestamp="1502184431346">
         <mark key="'" line="29" column="20" />
         <mark key="[" line="21" column="1" />
         <mark key="]" line="22" column="0" />
@@ -173,7 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="40" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
       <jump line="186" column="16" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
       <jump line="193" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
       <jump line="35" column="17" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
@@ -273,6 +269,7 @@
       <jump line="23" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
       <jump line="293" column="50" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
       <jump line="31" column="19" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -292,7 +289,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>${BRANCH_NAME}</text>
+        <text>run-task</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -304,40 +301,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>${BRANCH_NAME}</text>
+        <text>run-task</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUgL2V0Yy9uZ2lueC9jb25mLmQvbmdpbngtYmFzZS5jb25mCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsYWNrU2VuZCBjb2xvcjonIzAwZmYwMCcsIG1lc3NhZ2U6ICdCdWlsZCAke0JVSUxEX0RJU1BMQVlfTkFNRX0gcGFzc2VkIGZvciAke0pPQl9OQU1FfSgke0JVSUxEX1VSTH0pJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGluY2x1ZGUgbmdpbngtYmFzZS5jb25mCg==</text>
+        <text encoding="base64">CiAgICAgICAgcG9zdCB7CiAgICAgICAgICAgIHN1Y2Nlc3MgewogICAgICAgICAgICAgICAgc2xhY2tTZW5kIGNvbG9yOicjMDBmZjAwJywgbWVzc2FnZTogJ0J1aWxkICR7QlVJTERfRElTUExBWV9OQU1FfSBwYXNzZWQgZm9yICR7Sk9CX05BTUV9KCR7QlVJTERfVVJMfSknCiAgICAgICAgICAgIH0KICAgICAgICAgICAgZmFpbHVyZSB7CiAgICAgICAgICAgICAgICBzbGFja1NlbmQgY29sb3I6JyNmZjAwMDAnLCBtZXNzYWdlOiAnQnVpbGQgJHtCVUlMRF9ESVNQTEFZX05BTUV9IGZhaWxlZCBmb3IgJHtKT0JfTkFNRX0oJHtCVUlMRF9VUkx9KScKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IElmIHRoZSBicmFuZCBkb2Vzbid0IGhhdmUgYSBsb2NhbGUgZm9sZGVyLCBpdCB3aWxsIGZhaWwgYXQgdGhpcyBuZXh0IHByb21pc2UKICAgIC8vIEFmdGVyIGZpeGluZyB0aGlzLCBJIHNob3VsZCBwcm9iYWJseSBsb29rIGludG8gdGhlIHBvc3NpYmlsaXR5IG9mIGVudiB2YXJpYWJsZXMgaW4gdGhlCiAgICAvLyBuZ2lueCBjb25maWcgZmlsZSBpbiBvcmRlciB0byBkeW5hbWljYWxseSBjaGFuZ2UgdGhlIHNlcnZlciBuYW1lcyAoZWFzaWVyIGRlYnVnZ2luZykKICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAidm9sdW1lcyI6IFtdLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAicGxhY2VtZW50Q29uc3RyYWludHMiOiBbXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgICAgIm1lbW9yeSI6IDUxMiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHt9KQo=</text>
+        <text encoding="base64">ICAgICAgInByaXZpbGVnZWQiOiBudWxsLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHt9KQo=</text>
+        <text encoding="base64">ICAgICAgImxvZ0NvbmZpZ3VyYXRpb24iOiBudWxsLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHt9KQo=</text>
+        <text encoding="base64">ICAgICAgImRvY2tlckxhYmVscyI6IG51bGwsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5jYXRjaChhZikK</text>
+        <text encoding="base64">ICAgICAgInVzZXIiOiBudWxsLAo=</text>
       </register>
       <register name=":" type="4">
         <text>280</text>
