@@ -58,6 +58,12 @@
         <mark key="." line="22" column="29" />
         <mark key="^" line="22" column="29" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/product-cta/product-cta.html" timestamp="1502209447482">
+        <mark key="[" line="37" column="79" />
+        <mark key="]" line="37" column="81" />
+        <mark key="." line="37" column="81" />
+        <mark key="^" line="37" column="81" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles/_base.scss" timestamp="1501772756099">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="1" />
@@ -73,18 +79,30 @@
       <file name="/JavaScript Console" timestamp="1501859861289">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/discover/views/discover.html" timestamp="1502209569649">
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="40" />
+        <mark key="." line="205" column="40" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/brands/_kide/theme/colors.scss" timestamp="1501751147046">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/product-cta/product-cta.js" timestamp="1502209491585">
+        <mark key="[" line="50" column="70" />
+        <mark key="]" line="50" column="73" />
+        <mark key="^" line="50" column="73" />
+        <mark key="." line="50" column="73" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/brands/_mock/configs.yml" timestamp="1502122727734">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502103276855">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/product/view/product.html" timestamp="1502209250418" />
+      <file name="/Dummy.txt" timestamp="1502209610728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/brand.config.ts" timestamp="1501769691948">
@@ -296,7 +314,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text>=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -308,7 +326,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
