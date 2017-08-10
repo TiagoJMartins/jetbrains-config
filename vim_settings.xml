@@ -64,11 +64,11 @@
         <mark key="." line="37" column="81" />
         <mark key="^" line="37" column="81" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-app/src/environments/environment.ts" timestamp="1502357705520">
-        <mark key="[" line="2" column="41" />
-        <mark key="]" line="2" column="41" />
-        <mark key="^" line="2" column="41" />
-        <mark key="." line="2" column="41" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-app/src/environments/environment.ts" timestamp="1502360159449">
+        <mark key="[" line="6" column="129" />
+        <mark key="]" line="6" column="128" />
+        <mark key="^" line="6" column="128" />
+        <mark key="." line="6" column="128" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/styles/_base.scss" timestamp="1501772756099">
         <mark key="[" line="16" column="0" />
@@ -306,11 +306,11 @@
         <mark key="]" line="12" column="13" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" timestamp="1502358163924">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="12" column="29" />
-        <mark key="^" line="12" column="29" />
-        <mark key="." line="12" column="29" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" timestamp="1502360643614">
+        <mark key="'" line="12" column="8" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/e2e/components/navbar/navbar.e2e-spec.ts" timestamp="1502293883787">
         <mark key="'" line="40" column="37" />
@@ -332,12 +332,12 @@
         <mark key="." line="8" column="14" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-app/package.json" timestamp="1502356903830" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.html" timestamp="1502358079310">
+      <file name="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.html" timestamp="1502359868996">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-        <mark key="^" line="15" column="32" />
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-app/src/services/index.ts" timestamp="1502357772513">
         <mark key="[" line="0" column="46" />
@@ -377,9 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="4" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
-      <jump line="78" column="15" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
-      <jump line="92" column="15" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
       <jump line="142" column="15" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
       <jump line="183" column="15" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
       <jump line="223" column="15" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
@@ -477,6 +474,9 @@
       <jump line="11" column="22" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/e2e/components/navbar/navbar.po.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.html" />
       <jump line="35" column="8" filename="$USER_HOME$/www/work/skorr/skorr-app/src/app/app.module.ts" />
+      <jump line="3" column="8" filename="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" />
+      <jump line="5" column="8" filename="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" />
+      <jump line="14" column="8" filename="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -495,8 +495,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>HomePage</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmRlY2xhcmUgdmFyIHdpbmRvdzogYW55Owo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -508,7 +508,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>HomePage</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -517,31 +517,31 @@
         <text encoding="base64">ICAgICAgICBOZXR3b3Jrc1BhZ2UsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5idG4taW5zdGFncmFtIHsKICAgICAgICBtYXJnaW46IDAgYXV0bzsKICAgIH0K</text>
+        <text encoding="base64">CmRlY2xhcmUgdmFyIHdpbmRvdzogYW55Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBibG9jazsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHBsYXRmb3JtOiBQbGF0Zm9ybSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBsYXRmb3JtLnJlYWR5KCkKICAgICAgICAudGhlbigoKSA9PiB7CiAgICAgICAgICAgIHRoaXMubG9naW5JbnN0YWdyYW0oKQogICAgICAgICAgICAudGhlbihzdWNjZXNzID0+IHsgYWxlcnQoc3VjY2Vzcy5hY2Nlc3NUb2tlbikgfSkKICAgICAgICAgICAgLmNhdGNoKGVycm9yID0+IHsgYWxlcnQoZXJyb3IpIH0pOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICAgICAgICBsZXQgYnJvd3NlclJlZiA9IHdpbmRvdy5jb3Jkb3ZhLkluQXBwQnJvd3Nlci5vcGVuKE9BVVRIX1VSTCk7CgogICAgICAgICAgICBicm93c2VyUmVmLmFkZEV2ZW50TGlzdGVuZXIoJ2xvYWRzdGFydCcsIChldmVudCkgPT4gewogICAgICAgICAgICAgICAgaWYgKChldmVudC51cmwpLmluZGV4T2YoZW52aXJvbm1lbnQuSU5TVEFHUkFNLlJFRElSRUNUX1VSSSkgPT09IDApIHsKICAgICAgICAgICAgICAgICAgICBicm93c2VyUmVmLnJlbW92ZUV2ZW50TGlzdGVuZXIoJ2V4aXQnLCAoZXZlbnQpID0+IHt9KTsKICAgICAgICAgICAgICAgICAgICBicm93c2VyUmVmLmNsb3NlKCk7CgogICAgICAgICAgICAgICAgICAgIGxldCByZXNwb25zZVBhcmFtZXRlcnMgPSAoKGV2ZW50LnVybCkuc3BsaXQoJyMnKVsxXSkuc3BsaXQoJyYnKTsKICAgICAgICAgICAgICAgICAgICBsZXQgcGFyc2VkUmVzcG9uc2UgPSB7fTsKCiAgICAgICAgICAgICAgICAgICAgZm9yIChjb25zdCBpID0gMDsgaSA8IHJlc3BvbnNlUGFyYW1ldGVycy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICAgICAgICAgICAgICBwYXJzZWRSZXNwb25zZVtyZXNwb25zZVBhcmFtZXRlcnNbaV0uc3BsaXQoJz0nKVswXV0gPSByZXNwb25zZVBhcmFtZXRlcnNbaV0uc3BsaXQoJz0nKVsxXTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIGlmIChwYXJzZWRSZXNwb25zZVsnYWNjZXNzX3Rva2VuJ10gIT09IHVuZGVmaW5lZCAmJiBwYXJzZWRSZXNwb25zZVsnYWNjZXNzX3Rva2VuJ10gIT09IG51bGwpICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlc29sdmUocGFyc2VkUmVzcG9uc2UpOwogICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlamVjdCgiUHJvYmxlbSBhdXRoZW50aWNhdGluZyB3aXRoIEluc3RhZ3JhbSIpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7CgogICAgICAgICAgICBicm93c2VyUmVmLmFkZEV2ZW50TGlzdGVuZXIoJ2V4aXQnLCAoZXZlbnQpID0+IHsKICAgICAgICAgICAgICAgIHJlamVjdCgnVGhlIEluc3RhZ3JhbSBsb2dpbiBmbG93IHdhcyBjYW5jZWxsZWQuJyk7CiAgICAgICAgICAgIH0pOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gaW9uLWJ1dHRvbiBzZWNvbmRhcnkgbWVudVRvZ2dsZT5Ub2dnbGUgTWVudTwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAuYW5jaG9yKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPQVVUSF9VUkwuCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
