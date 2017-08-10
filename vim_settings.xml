@@ -57,6 +57,7 @@
         <mark key="." line="29" column="11" />
         <mark key="^" line="29" column="11" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-app/.editorconfig" timestamp="1502372914508" />
       <file name="$USER_HOME$/www/work/skorr/skorr-app/platforms/android/res/values/strings.xml" timestamp="1502370841559">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="32" />
@@ -97,6 +98,12 @@
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/.nvmrc" timestamp="1502372839337">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/brands/_mock/i18n/pt.yml" timestamp="1501855274029">
         <mark key="[" line="3" column="0" />
@@ -181,6 +188,7 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/.editorconfig" timestamp="1502372875964" />
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/tsconfig.json" timestamp="1501846466666">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="22" column="29" />
@@ -192,6 +200,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/navbar/enums/navbar-position.enum.ts" timestamp="1502372811307" />
       <file name="$USER_HOME$/www/work/skorr/skorr-app/src/services/oauth/types/oauth.types.ts" timestamp="1502362032626">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -240,6 +249,11 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/server/configuration.js" timestamp="1502373231568">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/brands/_mock/configs.yml" timestamp="1502122727734">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -257,9 +271,6 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="0" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502357109557">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/protractor.conf.js" timestamp="1502292752319">
         <mark key="[" line="30" column="33" />
         <mark key="]" line="30" column="33" />
@@ -271,6 +282,11 @@
         <mark key="]" line="16" column="14" />
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/index.js" timestamp="1502373282463">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/karma.conf.js" timestamp="1502296594248">
         <mark key="[" line="16" column="43" />
@@ -289,6 +305,12 @@
         <mark key="]" line="35" column="35" />
         <mark key="." line="35" column="35" />
         <mark key="^" line="35" column="35" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/package.json" timestamp="1502373194619">
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/e2e/app.e2e-spec.ts" timestamp="1502288216725">
         <mark key="[" line="21" column="0" />
@@ -463,8 +485,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -476,40 +498,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5hcHBlbmQoJ2NsaWVudF9zZWNyZXQnLCBlbnZpcm9ubWVudC5JTlNUQUdSQU0uQ0xJRU5UX1NFQ1JFVCk7Cg==</text>
+        <text encoding="base64">Y29uc3QgYXN5bmNSZXF1ZXN0ID0gKGFzeW5jRm4sIHJlcSwgcmVzKSA9Oz4gYXN5bmNGbihyZXEsIHJlcykuY2F0Y2goZSA9PiByZXMuc3RhdHVzKDUwMCkuanNvbih7IG1lc3NhZ2U6IGUubWVzc2FnZSB9KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiciIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsKY29uc3QgbW9yZ2FuID0gcmVxdWlyZSgnbW9yZ2FuJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGJvZHkgPSB7CiAgICAgICAgICAgICAgICBjbGllbnRfaWQ6IGVudmlyb25tZW50LklOU1RBR1JBTS5DTElFTlRfSUQsCiAgICAgICAgICAgICAgICBjbGllbnRfc2VjcmV0OiBlbnZpcm9ubWVudC5JTlNUQUdSQU0uQ0xJRU5UX1NFQ1JFVCwKICAgICAgICAgICAgICAgIGdyYW50X3R5cGU6ICdhdXRob3JpemF0aW9uX2NvZGUnLAogICAgICAgICAgICAgICAgcmVkaXJlY3RfdXJpOiBlbnZpcm9ubWVudC5JTlNUQUdSQU0uUkVESVJFQ1RfVVJJLAogICAgICAgICAgICAgICAgY29kZTogc3VjY2Vzcy5jb2RlCiAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5hcHBlbmQoJ2NsaWVudF9zZWNyZXQnLCBlbnZpcm9ubWVudC5JTlNUQUdSQU0uQ0xJRU5UX1NFQ1JFVCk7Cg==</text>
+        <text encoding="base64">Y29uc3QgYXN5bmNSZXF1ZXN0ID0gKGFzeW5jRm4sIHJlcSwgcmVzKSA9PiBhc3luY0ZuKHJlcSwgcmVzKS5jYXRjaChlID0+IHJlcy5zdGF0dXMoNTAwKS5qc29uKHsgbWVzc2FnZTogZS5tZXNzYWdlIH0pKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oZXh0cmFjdERhdGEpCiAgICAgICAgICAgIC5tYXAoKHJlczogUmVzcG9uc2UpID0+IHsKICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcyk7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzLmpzb24oKTsKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLmNhdGNoKChlcnI6IGFueSkgPT4gT2JzZXJ2YWJsZS50aHJvdyhlcnIuanNvbigpLmVycm9yIHx8IGVycikpCiAgICAgICAgICAgIC5zdWJzY3JpYmUoIChyZXMpID0+IHJlcywgKGVycikgPT4gZXJyICk7Cg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JzLnN1YnNjcmliZSgKICAgICAgICAgICAgICAgIHN1Y2Nlc3MgPT4geyB0aGlzLmluc3RhZ3JhbVN0YXR1cy5zdWNjZXNzID0gc3VjY2VzczsgfSwKICAgICAgICAgICAgICAgIChlcnJvcikgPT4geyB0aGlzLmluc3RhZ3JhbVN0YXR1cy5lcnJvciA9IGVycm9yIH0KICAgICAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAiciIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEpTT04uc3RyaW5naWZ5KHsKICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
