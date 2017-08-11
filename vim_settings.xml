@@ -20,7 +20,7 @@
         <mark key="." line="25" column="18" />
         <mark key="^" line="25" column="18" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/exchange-code.ts" timestamp="1502439027461">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/exchange-code.ts" timestamp="1502439181340">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="7" />
@@ -51,6 +51,12 @@
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/dist/index.js" timestamp="1502439763572" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/.dockerignore" timestamp="1502440096211">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-app/src/environments/environment.ts" timestamp="1502381350699">
         <mark key="[" line="9" column="24" />
@@ -84,6 +90,13 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/Dockerfile" timestamp="1502440388766">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="12" column="42" />
+        <mark key="." line="12" column="42" />
+        <mark key="^" line="12" column="42" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/routes/handlers/instagram/exchange-code.js" timestamp="1502377319964">
         <mark key="[" line="0" column="17" />
@@ -203,12 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/nginx-base.conf" />
-      <jump line="6" column="20" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/nginx-base.conf" />
-      <jump line="184" column="7" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
-      <jump line="17" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
-      <jump line="53" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/Jenkinsfile" />
       <jump line="8" column="28" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
       <jump line="162" column="4" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
       <jump line="275" column="6" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/bin/apply-branding.js" />
@@ -303,6 +310,12 @@
       <jump line="30" column="21" filename="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" />
       <jump line="45" column="0" filename="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" />
       <jump line="18" column="0" filename="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/Dockerfile" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/Dockerfile" />
+      <jump line="20" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/Dockerfile" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/Dockerfile" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/Dockerfile" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -322,7 +335,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>pre</text>
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -334,40 +347,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pre</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PHByZT4Ke3sgaW5zdGFncmFtU3RhdHVzLmVycm9yIH19CjwvcHJlPgo=</text>
+      <register name="0" type="4">
+        <text>/tmp/skorr-api/node_modules</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTVUNDRVNTOgogICAgICAgIHt7IGluc3RhZ3JhbVN0YXR1cy5zdWNjZXNzIH19Cg==</text>
+        <text encoding="base64">RU5WIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvcHJlPgo=</text>
+        <text encoding="base64">IyBSZW1vdmUgc291cmNlIGNvZGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxwcmU+Cg==</text>
+        <text encoding="base64">V09SS0RJUiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxwPgogICAgICAgIHt7IHJlc3BvbnNlIHwganNvbiB9fQogICAgPC9wPgoK</text>
+        <text encoding="base64">UlVOIHJtIC1yZiAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvcD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSRUQ6PGJyPgo=</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxwPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
