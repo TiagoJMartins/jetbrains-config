@@ -127,6 +127,11 @@
         <mark key="]" line="12" column="13" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/.gitignore" timestamp="1502463921953">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" timestamp="1502382424275">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="32" column="0" />
@@ -203,17 +208,26 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/docker-compose-tests.yml" timestamp="1502464134177">
+        <mark key="[" line="24" column="106" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.component.spec.ts" timestamp="1502284899520">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-app/src/services/oauth/oauth.service.ts" timestamp="1502462085363">
+      <file name="$USER_HOME$/www/work/skorr/skorr-app/src/services/oauth/oauth.service.ts" timestamp="1502462243654">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="16" column="10" />
         <mark key="]" line="46" column="42" />
         <mark key="." line="46" column="42" />
         <mark key="^" line="46" column="42" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/Jenkinsfile" timestamp="1502463642334">
+        <mark key="[" line="59" column="60" />
+        <mark key="]" line="59" column="65" />
+        <mark key="." line="59" column="65" />
+        <mark key="^" line="59" column="65" />
       </file>
     </filemarks>
     <jumps>
@@ -336,7 +350,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">RU5WIFBPUlQgMzAwMAo=</text>
+        <text encoding="base64">CndhaXQtZm9yLWl0LnNoCg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -348,7 +362,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mv</text>
+        <text>-testse</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -357,16 +371,16 @@
         <text encoding="base64">UlVOIC9iaW4vYmFzaCAtYyAibWtkaXIgLXAgL3RtcC9za29yci1hcGkvbm9kZV9tb2R1bGVzICYmIGNwIC1yIC90bXAvbm9kZS9ub2RlX21vZHVsZXMveywuW14uXX0qIC90bXAvc2tvcnItYXBpL25vZGVfbW9kdWxlcy8iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RU5WIFBPUlQgMzAwMAo=</text>
+        <text encoding="base64">CndhaXQtZm9yLWl0LnNoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CkVYUE9TRSAzMDAwCg==</text>
+        <text encoding="base64">RU5WIFBPUlQgMzAwMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIG1rZGlyIC1wIC9ob21lLyAmJiBtdiAvdG1wL3Nrb3JyLWFwaS9kaXN0LyogL2hvbWUvc2tvcnItYXBpLwo=</text>
+        <text encoding="base64">CkVYUE9TRSAzMDAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIG1rZGlyIC1wIC9ob21lLyAmJiBtdiAvdG1wL3Nrb3JyLWFwaS9kaXN0LyogL2hvbWUvc2tvcnItYXBpLwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -375,13 +389,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ClJVTiBscyAvdG1wL3Nrb3JyLWFwaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UlVOIAo=</text>
+        <text encoding="base64">ClJVTiBscyAvdG1wL3Nrb3JyLWFwaQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UlVOIGxzIC90bXAvbm9kZS9ub2RlX21vZHVsZXMvLmJpbgoK</text>
+        <text encoding="base64">UlVOIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
