@@ -233,13 +233,13 @@
         <mark key="^" line="53" column="24" />
         <mark key="." line="53" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" timestamp="1503391364740">
-        <mark key="'" line="981" column="0" />
-        <mark key="[" line="981" column="36" />
-        <mark key="]" line="981" column="36" />
-        <mark key="n" line="689" column="29" />
-        <mark key="." line="981" column="36" />
-        <mark key="^" line="981" column="36" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" timestamp="1503402275003">
+        <mark key="'" line="77" column="46" />
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="61" />
+        <mark key="n" line="694" column="29" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="102" column="34" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/voucher.json" timestamp="1503321497595">
         <mark key="'" line="22" column="4" />
@@ -342,11 +342,11 @@
         <mark key="^" line="187" column="24" />
         <mark key="." line="187" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" timestamp="1503397773966">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="48" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" timestamp="1503402627276">
+        <mark key="'" line="116" column="10" />
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag.json" timestamp="1503328840912">
         <mark key="'" line="24" column="9" />
@@ -367,10 +367,10 @@
         <mark key="^" line="40" column="24" />
         <mark key="." line="40" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/test/init.js" timestamp="1503393541813">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/test/init.js" timestamp="1503402103718">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/view.json" timestamp="1503321491118">
         <mark key="'" line="19" column="6" />
@@ -587,13 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="18" filename="$USER_HOME$/www/work/skorr/skorr-app/src/services/oauth/oauth.service.ts" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/work/skorr/skorr-app/src/services/oauth/oauth.service.ts" />
-      <jump line="30" column="21" filename="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" />
-      <jump line="45" column="0" filename="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" />
-      <jump line="18" column="0" filename="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/Dockerfile" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/Dockerfile" />
       <jump line="20" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/Dockerfile" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/Dockerfile" />
       <jump line="21" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/Dockerfile" />
@@ -687,6 +680,13 @@
       <jump line="63" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
       <jump line="26" column="11" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
       <jump line="78" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
+      <jump line="18" column="25" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
+      <jump line="77" column="46" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="118" column="10" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
+      <jump line="22" column="4" filename="$USER_HOME$/www/work/kide/devel/kide-api/test/init.js" />
+      <jump line="19" column="3" filename="$USER_HOME$/www/work/kide/devel/kide-api/test/init.js" />
+      <jump line="31" column="36" filename="$USER_HOME$/www/work/kide/devel/kide-api/test/init.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -706,7 +706,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlua0JhZy5zaG91bGQubm90LmhhdmUuYmVlbi5jYWxsZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -718,40 +718,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>refreshBag</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>createBag</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmFnU2VydmljZS5yZXNvbHZlQmFnKHsKICAgICAgICAgICAgICAgIGFjY291bnRJZDogbnVsbAogICAgICAgICAgICB9LCAncG9uZycpOwoKICAgICAgICAgICAgbGlua0JhZy5zaG91bGQuaGF2ZS5iZWVuLmNhbGxlZE9uY2U7CiAgICAgICAgICAgIGNyZWF0ZUJhZy5zaG91bGQubm90LmhhdmUuYmVlbi5jYWxsZWQ7CiAgICAgICAgICAgIHJlZnJlc2hCYWcuc2hvdWxkLm5vdC5oYXZlLmJlZW4uY2FsbGVkOwo=</text>
+      <register name="0" type="4">
+        <text>../../../../server/server</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlua0JhZy5zaG91bGQubm90LmhhdmUuYmVlbi5jYWxsZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjY291bnRJZDogJ3BpbmcnCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlua0JhZy5zaG91bGQuaGF2ZS5iZWVuLmNhbGxlZE9uY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWxzOiB7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJhZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBwcm94eXF1aXJlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBtb2NrZXJ5LnJlZ2lzdGVyTW9jaygnLi4vLi4vLi4vLi4vc2VydmVyL3NlcnZlcicsIGFwcFN0dWIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGNyZWF0ZUJhZ1N0dWIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>457</text>
