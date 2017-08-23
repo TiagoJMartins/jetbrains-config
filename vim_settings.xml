@@ -233,13 +233,12 @@
         <mark key="^" line="53" column="24" />
         <mark key="." line="53" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" timestamp="1503416552279">
-        <mark key="'" line="983" column="33" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="99" column="10" />
-        <mark key="n" line="692" column="29" />
-        <mark key="." line="35" column="31" />
-        <mark key="^" line="35" column="31" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" timestamp="1503481492766">
+        <mark key="'" line="275" column="25" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="n" line="691" column="29" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/voucher.json" timestamp="1503321497595">
         <mark key="'" line="22" column="4" />
@@ -341,12 +340,11 @@
         <mark key="^" line="187" column="24" />
         <mark key="." line="187" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" timestamp="1503420334223">
-        <mark key="'" line="587" column="0" />
-        <mark key="[" line="588" column="45" />
-        <mark key="]" line="588" column="45" />
-        <mark key="." line="588" column="45" />
-        <mark key="^" line="588" column="45" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" timestamp="1503482191139">
+        <mark key="[" line="842" column="0" />
+        <mark key="]" line="842" column="0" />
+        <mark key="." line="842" column="0" />
+        <mark key="^" line="760" column="32" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag.json" timestamp="1503328840912">
         <mark key="'" line="24" column="9" />
@@ -587,30 +585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="25" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="121" column="18" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="134" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="146" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="168" column="33" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="177" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="191" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="206" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="250" column="25" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="349" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="356" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="360" column="49" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="406" column="34" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="422" column="20" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="429" column="20" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="445" column="26" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="458" column="53" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="562" column="19" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="3" column="94" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/apply-voucher.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/client-token.js" />
-      <jump line="10" column="36" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/get-bag.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/shipping.js" />
       <jump line="18" column="20" filename="$USER_HOME$/www/work/kide/devel/kide-api/server/config.json" />
       <jump line="18" column="28" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account.json" />
@@ -645,7 +619,6 @@
       <jump line="980" column="38" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
       <jump line="46" column="34" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
       <jump line="924" column="28" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
-      <jump line="981" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
       <jump line="25" column="18" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
       <jump line="48" column="31" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
@@ -687,6 +660,31 @@
       <jump line="584" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
       <jump line="587" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
+      <jump line="191" column="35" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="187" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="189" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="427" column="20" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="433" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="458" column="28" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="462" column="28" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="502" column="28" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="530" column="20" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="589" column="20" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="595" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="599" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="605" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="611" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="697" column="37" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="981" column="35" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="12" column="3" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="21" column="5" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="673" column="29" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
+      <jump line="44" column="5" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="154" column="13" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="244" column="13" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="983" column="32" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="802" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
+      <jump line="275" column="25" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -706,7 +704,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGJhZyk7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -718,49 +716,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a successful transaction</text>
+        <text>let voucherStub</text>
       </register>
       <register name="/" type="4">
-        <text>resolveBag</text>
+        <text>setCtxBag</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpdCgnc2hvdWxkIHJldHVybiA0MDAgaWYgbm8gcHJvZHVjdElkIHdhcyBwcm92aWRlZCBpbiB0aGUgaXRlbScpOwoKICAgICAgICBpdCgnc2hvdWxkIHJldHVybiA0MDAgaWYgbm8gc3RvY2tTaXplSWQgd2FzIHByb3ZpZGVkIGluIHRoZSBpdGVtJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHByb21vdGlvblN0dWIgPSBzYW5kYm94LnN0dWIoKS5yZXR1cm5zKHsKICAgICAgICAgICAgICAgIHR5cGU6ICdTSElQUElORycsCiAgICAgICAgICAgICAgICBkaXNjb3VudFR5cGU6ICdQRVJDRU5UJwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIGxldCB2b3VjaGVyU3R1YiA9IHNhbmRib3guc3R1YigpLnJldHVybnMoewogICAgICAgICAgICAgICAgcHJvbW90aW9uOiBwcm9tb3Rpb25TdHViCiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGJhZyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGJhZ1ZvdWNoZXJTdHViID0gc2FuZGJveC5zdHViKCkucmV0dXJucyh7fSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR5cGU6ICdTSElQUElORycsCiAgICAgICAgICAgICAgICBkaXNjb3VudFR5cGU6ICdQRVJDRU5UJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpdCgnc2hvdWxkIGNhbGwgYnJhaW50cmVlXCdzIGdhdGV3YXknKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZvdWNoZXJTdHViLnNob3VsZC5oYXZlLmJlZW4uY2FsbGVkV2l0aCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGxldCB2b3VjaGVyU3R1YiA9IHNhbmRib3guc3R1YigpLnJldHVybnMoewogICAgICAgICAgICAgICAgcHJvbW90aW9uOiBwcm9tb3Rpb25TdHViCiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZvdWNoZXJTdHViLnNob3VsZC5oYXZlLmJlZW4uY2FsbGVkV2l0aCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQoJ3Nob3VsZCBjYWxsIGRpc3BhdGNoRW1haWwnKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIGl0KCdzaG91bGQgJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>457</text>
       </register>
     </registers>
     <search>
-      <last-search>resolveBag</last-search>
+      <last-search>setCtxBag</last-search>
       <last-offset />
-      <last-pattern>resolveBag</last-pattern>
+      <last-pattern>setCtxBag</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -773,6 +771,8 @@
         <entry>function</entry>
         <entry>createBag</entry>
         <entry>resolveBag</entry>
+        <entry>errGenerator</entry>
+        <entry>setCtxBag</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
