@@ -233,12 +233,12 @@
         <mark key="^" line="53" column="24" />
         <mark key="." line="53" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" timestamp="1503502013802">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" timestamp="1503507026259">
         <mark key="'" line="744" column="17" />
-        <mark key="[" line="959" column="0" />
-        <mark key="]" line="959" column="0" />
-        <mark key="." line="959" column="0" />
-        <mark key="^" line="961" column="6" />
+        <mark key="[" line="733" column="21" />
+        <mark key="]" line="733" column="24" />
+        <mark key="." line="733" column="24" />
+        <mark key="^" line="733" column="24" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/voucher.json" timestamp="1503321497595">
         <mark key="'" line="22" column="4" />
@@ -340,12 +340,12 @@
         <mark key="^" line="187" column="24" />
         <mark key="." line="187" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" timestamp="1503502198594">
-        <mark key="'" line="2669" column="56" />
-        <mark key="[" line="2700" column="42" />
-        <mark key="]" line="2700" column="42" />
-        <mark key="." line="2700" column="42" />
-        <mark key="^" line="2700" column="42" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" timestamp="1503507107021">
+        <mark key="'" line="2964" column="65" />
+        <mark key="[" line="2789" column="44" />
+        <mark key="]" line="2789" column="44" />
+        <mark key="." line="2789" column="44" />
+        <mark key="^" line="2789" column="44" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag.json" timestamp="1503492856593">
         <mark key="'" line="24" column="9" />
@@ -586,9 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="1" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/payment.json" />
-      <jump line="26" column="28" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product.json" />
-      <jump line="21" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/promotion.json" />
       <jump line="25" column="28" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop-cover.json" />
       <jump line="22" column="33" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size.json" />
       <jump line="18" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/stock-size.json" />
@@ -686,6 +683,9 @@
       <jump line="2421" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
       <jump line="744" column="17" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
       <jump line="2669" column="56" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
+      <jump line="2768" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
+      <jump line="2668" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
+      <jump line="2696" column="65" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -704,8 +704,8 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2b3VjaGVyVXBkYXRlQXR0cmlidXRlc1N0dWIgPSBzYW5kYm94LnN0dWIoKS5yZXNvbHZlcyh7fSk7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -717,40 +717,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>authorized</text>
       </register>
       <register name="/" type="4">
         <text>setCtxBag</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50VG9rZW5HZW5lcmF0ZVN0dWIgPSBzYW5kYm94LnN0dWIoKS55aWVsZHMobnVsbCwgewogICAgICAgICAgICAgICAgY2xpZW50VG9rZW46ICdteUNsaWVudFRva2VuJwogICAgICAgICAgICB9KTsKCiAgICAgICAgICAgIEJhZ1NlcnZpY2UgPSBwcm94eXF1aXJlKHRlc3RNb2R1bGVQYXRoLCB7CiAgICAgICAgICAgICAgICBbbW9kdWxlRGVwZW5kZW5jaWVzLmFwcF06IHt9LAogICAgICAgICAgICAgICAgW21vZHVsZURlcGVuZGVuY2llcy5wYXltZW50R2F0ZXdheV06ICgpID0+ICh7CiAgICAgICAgICAgICAgICAgICAgY2xpZW50VG9rZW46IHsKICAgICAgICAgICAgICAgICAgICAgICAgZ2VuZXJhdGU6IGNsaWVudFRva2VuR2VuZXJhdGVTdHViCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gQmFnU2VydmljZS5jaGVja291dCh7CiAgICAgICAgICAgICAgICAgICAgICAgIG1ldGhvZDogJ2NjJwogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgLnNob3VsZC5ldmVudHVhbGx5LmJlLmZ1bGZpbGxlZAogICAgICAgICAgICAgICAgICAgIC50aGVuKCgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgb3JkZXJVcGRhdGVBdHRyaWJ1dGVzU3R1Yi5zaG91bGQuaGF2ZS5iZWVuLmNhbGxlZFdpdGgoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhdHVzOiAnUkVKRUNURUQnCiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2b3VjaGVyVXBkYXRlQXR0cmlidXRlc1N0dWIgPSBzYW5kYm94LnN0dWIoKS5yZXNvbHZlcyh7fSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiYWdWb3VjaGVyU3R1YiA9IHNhbmRib3guc3R1YigpLnJldHVybnModm91Y2hlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdm91Y2hlcjogYmFnVm91Y2hlclN0dWIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRlZmVycmVkID0gUS5kZWZlcigpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgdm91Y2hlciA9IHsKICAgICAgICAgICAgICAgICAgICAgICAgdXBkYXRlQXR0cmlidXRlczogdm91Y2hlclVwZGF0ZUF0dHJpYnV0ZXNTdHViCiAgICAgICAgICAgICAgICAgICAgfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgogICAgcmV0dXJuIGRlZmVycmVkLnByb21pc2U7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpdCgnc2hvdWxkIHJldHVybiB0aGUgZXJyb3InLCAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIEJhZ1NlcnZpY2UuY2hlY2tvdXQoewogICAgICAgICAgICAgICAgICAgICAgICBtZXRob2Q6ICdjYycKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC5zaG91bGQuZXZlbnR1YWxseS5iZS5mdWxmaWxsZWQKICAgICAgICAgICAgICAgICAgICAudGhlbigoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdhdGV3YXkuY2xpZW50VG9rZW4uZ2VuZXJhdGUoe30sIChlcnIsIHJlc3BvbnNlKSA9PiB7CiAgICAgICAgaWYgKGVyciB8fCAhcmVzcG9uc2UpIHsKICAgICAgICAgICAgZGVmZXJyZWQucmVqZWN0KGVycik7CiAgICAgICAgfQoKICAgICAgICBkZWZlcnJlZC5yZXNvbHZlKHJlc3BvbnNlLmNsaWVudFRva2VuKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFnSXRlbVVwZGF0ZUFsbFN0dWIgPSBzYW5kYm94LnN0dWIoKS5yZXNvbHZlcyh7fSk7CiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>457</text>
