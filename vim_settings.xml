@@ -100,7 +100,7 @@
         <mark key="^" line="50" column="24" />
         <mark key="." line="50" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag-item.json" timestamp="1503321072089">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag-item.json" timestamp="1503492845490">
         <mark key="[" line="87" column="18" />
         <mark key="]" line="87" column="24" />
         <mark key="^" line="87" column="24" />
@@ -233,12 +233,12 @@
         <mark key="^" line="53" column="24" />
         <mark key="." line="53" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" timestamp="1503488523683">
-        <mark key="[" line="461" column="32" />
-        <mark key="]" line="461" column="54" />
-        <mark key="n" line="691" column="29" />
-        <mark key="." line="461" column="54" />
-        <mark key="^" line="461" column="54" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" timestamp="1503496538235">
+        <mark key="[" line="530" column="38" />
+        <mark key="]" line="530" column="39" />
+        <mark key="n" line="695" column="29" />
+        <mark key="." line="530" column="39" />
+        <mark key="^" line="530" column="38" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/voucher.json" timestamp="1503321497595">
         <mark key="'" line="22" column="4" />
@@ -340,13 +340,14 @@
         <mark key="^" line="187" column="24" />
         <mark key="." line="187" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" timestamp="1503488795654">
-        <mark key="[" line="1577" column="56" />
-        <mark key="]" line="1577" column="56" />
-        <mark key="." line="1577" column="56" />
-        <mark key="^" line="1577" column="56" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" timestamp="1503496676812">
+        <mark key="'" line="1627" column="16" />
+        <mark key="[" line="1934" column="79" />
+        <mark key="]" line="1934" column="79" />
+        <mark key="." line="1934" column="79" />
+        <mark key="^" line="1934" column="79" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag.json" timestamp="1503328840912">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag.json" timestamp="1503492856593">
         <mark key="'" line="24" column="9" />
         <mark key="[" line="20" column="9" />
         <mark key="]" line="20" column="9" />
@@ -585,8 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="20" filename="$USER_HOME$/www/work/kide/devel/kide-api/server/config.json" />
-      <jump line="18" column="28" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account.json" />
       <jump line="19" column="9" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag.json" />
       <jump line="14" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/features.json" />
       <jump line="21" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/hint.json" />
@@ -685,6 +684,8 @@
       <jump line="802" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
       <jump line="275" column="25" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
       <jump line="262" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="1631" column="60" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
+      <jump line="1627" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -704,7 +705,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -716,40 +717,40 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>setCtxBag</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZHVjdEZpbmRCeUlkID0gc2FuZGJveC5zdHViKCkucmVzb2x2ZXMoe30pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEJhZ1NlcnZpY2UucmVtb3ZlQmFnSXRlbSh7CiAgICAgICAgICAgICAgICBwcm9kdWN0SWQ6ICdwaWQnCiAgICAgICAgICAgIH0pCiAgICAgICAgICAgIC5zaG91bGQuZXZlbnR1YWxseS5iZS5yZWplY3RlZAogICAgICAgICAgICAudGhlbigoKSA9PiB7CiAgICAgICAgICAgICAgICBlcnJHZW5lcmF0b3JTdHViLnNob3VsZC5oYXZlLmJlZW4uY2FsbGVkV2l0aCg0MDApOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBwcm9kdWN0SWQ6ICdwaWQnLAogICAgICAgICAgICAgICAgICAgIHN0b2NrU2l6ZUlkOiAnc3NpZCcKICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9kdWN0SWQ6IAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGxldCAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGxldCAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUHJvZHVjdDogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmluZEJ5SWQ6IHByb2R1Y3RGaW5kQnlJZAogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICBzdG9ja1NpemU6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbmRPbmU6IHN0b2NrU2l6ZUZpbmRPbmUKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUHJvZHVjdDogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmluZEJ5SWQ6IHByb2R1Y3RGaW5kQnlJZAogICAgICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgICAgICBzdG9ja1NpemU6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbmRPbmU6IHN0b2NrU2l6ZUZpbmRPbmUKICAgICAgICAgICAgICAgICAgICAgICAgfSwK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyR2VuZXJhdG9yU3R1YiA9IHNhbmRib3guc3R1YihiYWdTZXJ2aWNlLCAnZXJyR2VuZXJhdG9yJykucmVqZWN0cygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IGRlc3Ryb3lCeUlkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVyckdlbmVyYXRvclN0dWIuc2hvdWxkLmhhdmUuYmVlbi5jYWxsZWRXaXRoKDQwMyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW1VcGRhdGVBdHRyaWJ1dGVzU3R1Yi5zaG91bGQuaGF2ZS5iZWVuLmNhbGxlZFdpdGgoewogICAgICAgICAgICAgICAgICAgIHF1YW50aXR5OiAxLAogICAgICAgICAgICAgICAgICAgIHN1YnRvdGFsOiBwcm9kdWN0LnByaWNlCiAgICAgICAgICAgICAgICB9KTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYmFnLml0ZW1zLmRlc3Ryb3koZm91bmRJdGVtLmlkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>457</text>
