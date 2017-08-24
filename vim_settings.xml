@@ -321,10 +321,12 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/Jenkinsfile" timestamp="1503586528964">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/Jenkinsfile" timestamp="1503589260918">
+        <mark key="'" line="25" column="29" />
+        <mark key="[" line="78" column="93" />
+        <mark key="]" line="78" column="103" />
+        <mark key="." line="78" column="103" />
+        <mark key="^" line="78" column="103" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner.json" timestamp="1503321380263">
         <mark key="'" line="21" column="10" />
@@ -396,7 +398,7 @@
         <mark key="." line="19" column="77" />
         <mark key="^" line="19" column="77" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" timestamp="1503587880150">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" timestamp="1503589289921">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="62" column="43" />
         <mark key="]" line="60" column="8" />
@@ -448,7 +450,7 @@
         <mark key="^" line="54" column="24" />
         <mark key="." line="54" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Dockerfile" timestamp="1503588067300">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Dockerfile" timestamp="1503588677757">
         <mark key="[" line="3" column="10" />
         <mark key="]" line="3" column="39" />
         <mark key="." line="3" column="10" />
@@ -860,10 +862,10 @@
         <mark key="." line="28" column="24" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/constants.js" timestamp="1503573804179">
-        <mark key="[" line="29" column="48" />
-        <mark key="]" line="29" column="58" />
-        <mark key="^" line="29" column="58" />
-        <mark key="." line="29" column="58" />
+        <mark key="[" line="28" column="48" />
+        <mark key="]" line="28" column="58" />
+        <mark key="^" line="28" column="58" />
+        <mark key="." line="28" column="58" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/test/fixtures/setup.js" timestamp="1503331383987">
         <mark key="[" line="38" column="6" />
@@ -1125,7 +1127,7 @@
         <mark key="." line="35" column="43" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/package.json" timestamp="1503586710336">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/package.json" timestamp="1503588679404">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="26" />
         <mark key="^" line="8" column="26" />
@@ -1362,8 +1364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="51" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/discover/_tests/discover-service.spec.js" />
-      <jump line="9" column="68" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/discover/_tests/discover-service.spec.js" />
       <jump line="11" column="64" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/discover/_tests/discover-service.spec.js" />
       <jump line="13" column="76" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/discover/_tests/discover-service.spec.js" />
       <jump line="15" column="67" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/discover/_tests/discover-service.spec.js" />
@@ -1462,13 +1462,15 @@
       <jump line="56" column="44" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" />
       <jump line="70" column="55" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" />
       <jump line="11" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" />
+      <jump line="55" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/Jenkinsfile" />
+      <jump line="25" column="29" filename="$USER_HOME$/www/work/kide/devel/kide-api/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>./</text>
+        <text>branch_name</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1480,7 +1482,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>./</text>
+        <text>branch_name</text>
       </register>
       <register name="/" type="4">
         <text>scale</text>
