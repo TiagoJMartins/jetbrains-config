@@ -321,12 +321,12 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="14" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/Jenkinsfile" timestamp="1503589260918">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/Jenkinsfile" timestamp="1503590902078">
         <mark key="'" line="25" column="29" />
-        <mark key="[" line="78" column="93" />
-        <mark key="]" line="78" column="103" />
-        <mark key="." line="78" column="103" />
-        <mark key="^" line="78" column="103" />
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="64" column="38" />
+        <mark key="." line="64" column="38" />
+        <mark key="^" line="64" column="38" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner.json" timestamp="1503321380263">
         <mark key="'" line="21" column="10" />
@@ -398,7 +398,7 @@
         <mark key="." line="19" column="77" />
         <mark key="^" line="19" column="77" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" timestamp="1503589289921">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" timestamp="1503590803234">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="62" column="43" />
         <mark key="]" line="60" column="8" />
@@ -692,6 +692,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/.dockerignore" timestamp="1503591173222">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/service/children-service.js" timestamp="1503582411688">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -866,6 +872,11 @@
         <mark key="]" line="28" column="58" />
         <mark key="^" line="28" column="58" />
         <mark key="." line="28" column="58" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/.dockerignore" timestamp="1503590820882">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/test/fixtures/setup.js" timestamp="1503331383987">
         <mark key="[" line="38" column="6" />
@@ -1469,8 +1480,8 @@
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>branch_name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1491,7 +1502,7 @@
         <text>/pipeline/source/kide-webapp/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1517,7 +1528,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
