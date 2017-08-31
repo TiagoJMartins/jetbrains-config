@@ -263,6 +263,7 @@
       <file name="/GraphQL.result.json" timestamp="1504167850738">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/service/bag-service.js" timestamp="1504168893305" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/wishlist/_tests/createAccountDecisionById.spec.js" timestamp="1503566202476">
         <mark key="[" line="5" column="41" />
         <mark key="]" line="5" column="41" />
@@ -391,6 +392,7 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/controller/login-redirect-ctrl.js" timestamp="1504168015612" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag-item.json" timestamp="1503492845490">
         <mark key="[" line="87" column="18" />
         <mark key="]" line="87" column="24" />
@@ -415,18 +417,6 @@
         <mark key="]" line="21" column="29" />
         <mark key="^" line="21" column="29" />
         <mark key="." line="21" column="29" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/product-thumb/product-thumb.component.html" timestamp="1504109139937">
-        <mark key="'" line="4" column="23" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Dockerfile" timestamp="1504003498971">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="37" />
-        <mark key="." line="3" column="37" />
-        <mark key="^" line="3" column="37" />
       </file>
       <file name="kide-cookie-cutter.graphqls" timestamp="1504017107809">
         <mark key="[" line="0" column="0" />
@@ -455,7 +445,7 @@
         <mark key="." line="45" column="52" />
         <mark key="^" line="45" column="56" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/emails.js" timestamp="1503651781032">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/emails.js" timestamp="1504170495767">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -491,6 +481,9 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" timestamp="1504170871677">
+        <mark key="'" line="346" column="22" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/product-image/product-image.component.ts" timestamp="1504101578303">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="10" column="13" />
@@ -510,11 +503,11 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/service/session-service.js" timestamp="1503586804902">
-        <mark key="[" line="280" column="32" />
-        <mark key="]" line="280" column="32" />
-        <mark key="." line="280" column="32" />
-        <mark key="^" line="152" column="11" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/service/session-service.js" timestamp="1504169062241">
+        <mark key="[" line="158" column="42" />
+        <mark key="]" line="158" column="51" />
+        <mark key="." line="158" column="51" />
+        <mark key="^" line="158" column="51" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/interfaces/partner.interface.ts" timestamp="1504085255274">
         <mark key="[" line="1" column="1" />
@@ -541,7 +534,7 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504104628432">
+      <file name="/Dummy.txt" timestamp="1504169664144">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-new-ctrl.js" timestamp="1504001965359">
@@ -847,7 +840,7 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/link.js" timestamp="1503328529446">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/link.js" timestamp="1504169346624">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -954,12 +947,6 @@
         <mark key="]" line="15" column="14" />
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/directives/locale/locale.directive.ts" timestamp="1504104517825">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/types/product.type.ts" timestamp="1504017454857">
         <mark key="[" line="4" column="5" />
@@ -1213,20 +1200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="27" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/product/product.component.ts" />
-      <jump line="34" column="10" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/product/product.component.ts" />
-      <jump line="4" column="6" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/product/product.component.html" />
-      <jump line="32" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-api/server/graphql/index.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/shop/shop.component.ts" />
-      <jump line="22" column="19" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/shop/shop.component.ts" />
-      <jump line="23" column="50" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/shop/shop.component.ts" />
-      <jump line="12" column="54" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/shop/shop.component.ts" />
-      <jump line="31" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/shop/shop.component.ts" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/shop/shop.component.ts" />
-      <jump line="12" column="7" filename="$USER_HOME$/www/work/kide/devel/kide-api/server/graphql/index.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/server/graphql/index.js" />
-      <jump line="25" column="22" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/shop/shop.component.ts" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/shop/shop.component.ts" />
       <jump line="15" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/product/bla.ts" />
       <jump line="34" column="28" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/app.module.ts" />
       <jump line="33" column="39" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner.graphql.js" />
@@ -1313,6 +1286,20 @@
       <jump line="2" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/product-thumb/product-thumb.component.ts" />
       <jump line="10" column="3" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/product-thumb/product-thumb.component.ts" />
       <jump line="3" column="11" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/product-grid/product-grid.component.ts" />
+      <jump line="178" column="8" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="223" column="53" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="224" column="8" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="227" column="8" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="228" column="8" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="229" column="19" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="234" column="20" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="236" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="237" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="242" column="20" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="247" column="34" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="249" column="20" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="251" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
+      <jump line="346" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1334,7 +1321,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>scale</text>
+        <text>shipping</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5lbC5uYXRpdmVFbGVtZW50LmlubmVySFRNTCA9IHRoaXMubG9jYWxlT2JqLmVuOwo=</text>
@@ -1408,9 +1395,9 @@
       </register>
     </registers>
     <search>
-      <last-search>scale</last-search>
+      <last-search>shipping</last-search>
       <last-offset />
-      <last-pattern>scale</last-pattern>
+      <last-pattern>shipping</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1431,6 +1418,7 @@
         <entry>setex</entry>
         <entry>fromParams</entry>
         <entry>scale</entry>
+        <entry>shipping</entry>
       </history-search>
       <history-cmd>
         <entry>109</entry>
