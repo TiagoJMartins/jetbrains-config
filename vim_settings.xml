@@ -21,7 +21,7 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/getProducts.js" timestamp="1504191361684">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/getProducts.js" timestamp="1504194101605">
         <mark key="'" line="46" column="7" />
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
@@ -116,6 +116,13 @@
         <mark key="]" line="27" column="63" />
         <mark key="^" line="21" column="69" />
         <mark key="." line="27" column="63" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/server/model-config.json" timestamp="1504194978773">
+        <mark key="'" line="24" column="3" />
+        <mark key="[" line="156" column="3" />
+        <mark key="]" line="156" column="11" />
+        <mark key="." line="156" column="11" />
+        <mark key="^" line="156" column="11" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/.eslintignore" timestamp="1503650593915">
         <mark key="[" line="60" column="0" />
@@ -472,6 +479,13 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size-group.js" timestamp="1504195349402">
+        <mark key="'" line="1" column="37" />
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="14" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/.eslintrc.json" timestamp="1503653237309">
         <mark key="[" line="27" column="9" />
         <mark key="]" line="28" column="24" />
@@ -580,6 +594,7 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/get-all-sales.js" timestamp="1504194108069" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/getCategories.js" timestamp="1503651292743">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="3" column="46" />
@@ -646,6 +661,13 @@
         <mark key="]" line="8" column="10" />
         <mark key="." line="8" column="10" />
         <mark key="^" line="8" column="10" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size-group.json" timestamp="1504194702405">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="28" />
       </file>
       <file name="streeteam.graphqls" timestamp="1504084278367">
         <mark key="[" line="0" column="0" />
@@ -807,7 +829,7 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/tag.json" timestamp="1504192262049">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/tag.json" timestamp="1504192915782">
         <mark key="[" line="42" column="9" />
         <mark key="]" line="42" column="9" />
         <mark key="." line="42" column="9" />
@@ -963,12 +985,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size.json" timestamp="1504192233985">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size.json" timestamp="1504194874602">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="37" column="9" />
-        <mark key="]" line="37" column="9" />
-        <mark key="." line="37" column="9" />
-        <mark key="^" line="37" column="9" />
+        <mark key="[" line="49" column="32" />
+        <mark key="]" line="49" column="32" />
+        <mark key="." line="49" column="32" />
+        <mark key="^" line="49" column="32" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/shared/types/product.type.ts" timestamp="1504017454857">
         <mark key="[" line="4" column="5" />
@@ -1226,13 +1248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/image.graphql.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/image.graphql.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/image.graphql.js" />
-      <jump line="22" column="24" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/services/product-service/product.service.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/services/product-service/product.service.ts" />
-      <jump line="16" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/services/product-service/product.service.ts" />
-      <jump line="21" column="46" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/product/product.component.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/product/product.component.ts" />
       <jump line="19" column="0" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/brands/baumilha/configs.yml" />
       <jump line="16" column="30" filename="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/components/shop/shop.component.ts" />
@@ -1326,13 +1341,20 @@
       <jump line="36" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size.json" />
       <jump line="42" column="8" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size.json" />
       <jump line="46" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size.json" />
+      <jump line="32" column="18" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size-group.json" />
+      <jump line="47" column="5" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size-group.json" />
+      <jump line="49" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size-group.json" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size-group.json" />
+      <jump line="46" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size-group.json" />
+      <jump line="24" column="3" filename="$USER_HOME$/www/work/kide/devel/kide-api/server/model-config.json" />
+      <jump line="1" column="37" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size-group.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1344,16 +1366,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>findOrCreate</text>
       </register>
       <register name="/" type="4">
         <text>shipping</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aS5yYW5nZU1pbiA9PT0gbWFwLm1pbiAmJiBpLnJhbmdlTWF4IDw9IG1hcC5tYXg=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeyBhcmc6ICdzaXplSWRzQXJyYXknLCB0eXBlOiAnYXJyYXknLCBzb3VyY2U6ICdib2R5JyB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAic2l6ZXMiOiB7CiAgICAgICAgICAgICJ0eXBlIjogImhhc01hbnkiCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1379,16 +1401,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2l6ZUlkc0FycmF5LmZvckVhY2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1405,16 +1427,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBBR0VfR1JPVVBTOiB7fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnbmV3Ym9ybic6IHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>66</text>
