@@ -268,7 +268,7 @@
         <mark key="." line="4" column="31" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1504603155380">
+      <file name="/GraphQL.result.json" timestamp="1504604484243">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/wishlist/_tests/createAccountDecisionById.spec.js" timestamp="1503566202476">
@@ -721,11 +721,12 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/services/store-service.js" timestamp="1504541572175">
-        <mark key="[" line="200" column="34" />
-        <mark key="]" line="200" column="41" />
-        <mark key="." line="200" column="41" />
-        <mark key="^" line="200" column="41" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/services/store-service.js" timestamp="1504603891273">
+        <mark key="'" line="193" column="24" />
+        <mark key="[" line="431" column="37" />
+        <mark key="]" line="431" column="73" />
+        <mark key="." line="431" column="73" />
+        <mark key="^" line="431" column="73" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/_tests/checkout.spec.js" timestamp="1503312976841">
         <mark key="[" line="60" column="35" />
@@ -1193,7 +1194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size-group.js" />
       <jump line="19" column="27" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/size-groups-ctrl/size-group-ctrl.js" />
       <jump line="18" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/size-groups-service.js" />
       <jump line="7" column="19" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/size-groups-service.js" />
@@ -1293,13 +1293,14 @@
       <jump line="130" column="37" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
       <jump line="186" column="55" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
       <jump line="202" column="36" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
+      <jump line="193" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/services/store-service.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIEluIGhlcmUgd2UncmUgc3VyZSB3ZSd2ZSBnb3QgYW4gYXJyYXksIGVtcHR5IG9yIG5vdCwgb2YgU2l6ZSBtb2RlbCBpbnN0YW5jZXMuCiAgICAgICAgICAgICAqIFdlJ2xsIGNyZWF0ZSBSZWRpcyBrZXlzIGZyb20gaXQuCiAgICAgICAgICAgICAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text>const</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1311,10 +1312,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIEZpbHRlciB0YWc=</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
-        <text>url_shop</text>
+        <text>findInTree</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUmVkaXMuc3VuaW9uKGAke2ZpbHRlclRhZ31tYWxlYCwgYCR7ZmlsdGVyVGFnfWZlbWFsZWApLCAvLyBGaWx0ZXIgdGFnCg==</text>
@@ -1388,9 +1389,9 @@
       </register>
     </registers>
     <search>
-      <last-search>url_shop</last-search>
+      <last-search>findInTree</last-search>
       <last-offset />
-      <last-pattern>url_shop</last-pattern>
+      <last-pattern>findInTree</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1414,6 +1415,7 @@
         <entry>shipping</entry>
         <entry>close</entry>
         <entry>url_shop</entry>
+        <entry>findInTree</entry>
       </history-search>
       <history-cmd>
         <entry>38</entry>
