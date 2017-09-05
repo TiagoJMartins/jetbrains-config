@@ -10,6 +10,12 @@
         <mark key="." line="117" column="12" />
         <mark key="^" line="116" column="26" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/category-select/category-select.js" timestamp="1504603612494">
+        <mark key="[" line="78" column="52" />
+        <mark key="]" line="78" column="60" />
+        <mark key="^" line="78" column="60" />
+        <mark key="." line="78" column="60" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/product-ctrl/product-ui-states.js" timestamp="1503654306397">
         <mark key="[" line="93" column="36" />
         <mark key="]" line="93" column="53" />
@@ -262,7 +268,7 @@
         <mark key="." line="4" column="31" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1504602216077">
+      <file name="/GraphQL.result.json" timestamp="1504603155380">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/wishlist/_tests/createAccountDecisionById.spec.js" timestamp="1503566202476">
@@ -1142,12 +1148,12 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" timestamp="1504601780571">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" timestamp="1504603417927">
         <mark key="'" line="192" column="36" />
-        <mark key="[" line="137" column="52" />
-        <mark key="]" line="138" column="11" />
-        <mark key="^" line="138" column="11" />
-        <mark key="." line="138" column="11" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/environments/environment.prod.ts" timestamp="1503924312598">
         <mark key="[" line="1" column="20" />
@@ -1378,7 +1384,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWcuc2NhblByb2R1Y3RzID0gcHJvZHVjdHM7Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>172</text>
+        <text>80</text>
       </register>
     </registers>
     <search>
@@ -1410,7 +1416,6 @@
         <entry>url_shop</entry>
       </history-search>
       <history-cmd>
-        <entry>88</entry>
         <entry>38</entry>
         <entry>55</entry>
         <entry>73</entry>
@@ -1430,6 +1435,7 @@
         <entry>66</entry>
         <entry>151</entry>
         <entry>172</entry>
+        <entry>80</entry>
       </history-cmd>
       <history-expr />
       <history-input />
