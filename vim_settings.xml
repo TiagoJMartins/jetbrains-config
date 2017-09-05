@@ -687,11 +687,10 @@
         <mark key="^" line="136" column="68" />
         <mark key="." line="136" column="69" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/createWithRelations.js" timestamp="1503651516821">
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-        <mark key="^" line="15" column="19" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/createWithRelations.js" timestamp="1504611547509">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/service/dialog-service.js" timestamp="1503582193960">
         <mark key="[" line="75" column="23" />
@@ -1233,8 +1232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="17" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size-group.js" />
-      <jump line="11" column="29" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/size-group.js" />
       <jump line="78" column="32" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/size-groups-ctrl/size-group-ctrl.js" />
       <jump line="11" column="7" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/layout/dnd.scss" />
       <jump line="49" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/layout/dnd.scss" />
@@ -1333,13 +1330,15 @@
       <jump line="167" column="50" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
       <jump line="101" column="34" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/services/store-service.js" />
       <jump line="14" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/services/store-service.js" />
+      <jump line="17" column="13" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/createWithRelations.js" />
+      <jump line="18" column="11" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/createWithRelations.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1351,7 +1350,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>getBrands</text>
@@ -1360,7 +1359,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaW5jbHVkZTogW3sKICAgICAgICAgICAgICAgIHJlbGF0aW9uOiAncHJvZHVjdHMnLAogICAgICAgICAgICAgICAgc2NvcGU6IHsKICAgICAgICAgICAgICAgICAgICB3aGVyZTogewogICAgICAgICAgICAgICAgICAgICAgICBlbmFibGVkOiB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICBhcmNoaXZlZDogZmFsc2UKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIGluY2x1ZGU6IHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVsYXRpb246ICdpbWFnZXMnLAogICAgICAgICAgICAgICAgICAgICAgICBzY29wZTogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgb3JkZXI6ICdwb3NpdGlvbiBBU0MnCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIG9yZGVyOiAnY3JlYXRlZEF0IERFU0MnCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0sICdiYW5uZXInXSwKICAgICAgICAgICAgd2hlcmU6IHsKICAgICAgICAgICAgICAgIGVuYWJsZWQ6IHRydWUsCiAgICAgICAgICAgICAgICBhcmNoaXZlZDogZmFsc2UKICAgICAgICAgICAgfSwKICAgICAgICAgICAgb3JkZXI6ICdzZWFyY2hLZXkgQVNDJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1389,13 +1388,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAoK</text>
+        <text encoding="base64">CiAgICBQcm9kdWN0LmFzZCA9ICgpID0+IHsKICAgICAgICBjb25zb2xlLmxvZygnYmVnaW4nKTsKCiAgICAgICAgY29uc3QgT3JkZXIgPSBQcm9kdWN0LmFwcC5tb2RlbHMuT3JkZXI7CgogICAgICAgIHJldHVybiBPcmRlci5maW5kKHsKICAgICAgICAgICAgd2hlcmU6IHsKICAgICAgICAgICAgICAgIF9wYXltZW50OiAnYXV0aG9yaXplZCcsCiAgICAgICAgICAgICAgICBiYWdJZDogewogICAgICAgICAgICAgICAgICAgIGV4aXN0czogdHJ1ZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSkKICAgICAgICAudGhlbigocmVzdWx0KSA9PiB7CiAgICAgICAgICAgIHJldHVybiBmcy53cml0ZUZpbGUoJy9ob21lL3RpYWdvL29yZGVycy5qc29uJywgSlNPTi5zdHJpbmdpZnkocmVzdWx0KSwgKGVyciwgb2spID0+IHsKICAgICAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoZXJyKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZShvayk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogICAgICAgIH0pOwogICAgfTsKICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLmdldFByb2R1Y3RzKCk7Cg==</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKChicmFuZHMpID0+IHsKICAgICAgICAgICAgICAgICAgICBzY29wZS5icmFuZHMgPSBicmFuZHM7CgogICAgICAgICAgICAgICAgICAgIHN3aXRjaCAoc2NvcGUudHlwZSkgewogICAgICAgICAgICAgICAgICAgICAgICBjYXNlICdjYXRlZ29yaWVzJzoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNjb3BlLnNlbGVjdGVkT3B0aW9uID0gU3RvcmVTZXJ2aWNlLmZpbmRJblRyZWUoU3RvcmVTZXJ2aWNlLnN0YXRlLnBhcmFtcy5rZXkpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgJ2JyYW5kcyc6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY29wZS5zZWxlY3RlZE9wdGlvbiA9IF8uZmluZChTdG9yZVNlcnZpY2UuZGF0YS5icmFuZHMsIGZ1bmN0aW9uIChvKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG8uc2VhcmNoS2V5ID09PSBTdG9yZVNlcnZpY2Uuc3RhdGUucGFyYW1zLmtleTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzY29wZS5zZWxlY3RlZE9wdGlvbiA9IG51bGw7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgUHJvZHVjdC5hc2QoKQogICAgLnRoZW4oKCkgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCdmaW5pc2gnKTsKICAgIH0pCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1412,16 +1411,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnMud3JpdGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBzY29wZS5icmFuZHMgPSBTdG9yZVNlcnZpY2UuZGF0YS5icmFuZHM7CgogICAgICAgICAgICAgICAgc3dpdGNoIChzY29wZS50eXBlKSB7CiAgICAgICAgICAgICAgICAgICAgY2FzZSAnY2F0ZWdvcmllcyc6CiAgICAgICAgICAgICAgICAgICAgICAgIHNjb3BlLnNlbGVjdGVkT3B0aW9uID0gU3RvcmVTZXJ2aWNlLmZpbmRJblRyZWUoU3RvcmVTZXJ2aWNlLnN0YXRlLnBhcmFtcy5rZXkpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICBjYXNlICdicmFuZHMnOgogICAgICAgICAgICAgICAgICAgICAgICBzY29wZS5zZWxlY3RlZE9wdGlvbiA9IF8uZmluZChTdG9yZVNlcnZpY2UuZGF0YS5icmFuZHMsIGZ1bmN0aW9uIChvKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gby5zZWFyY2hLZXkgPT09IFN0b3JlU2VydmljZS5zdGF0ZS5wYXJhbXMua2V5OwogICAgICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgICAgICAgICAgc2NvcGUuc2VsZWN0ZWRPcHRpb24gPSBudWxsOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgc2NvcGUuZGF0YSA9IFN0b3JlU2VydmljZS5kYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnMuCg==</text>
       </register>
       <register name=":" type="4">
         <text>80</text>
