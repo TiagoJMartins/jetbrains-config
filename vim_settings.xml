@@ -246,6 +246,7 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-app/src/services/api/api.service.ts" timestamp="1504773769738" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner.graphql.js" timestamp="1504086670948">
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="21" />
@@ -354,6 +355,12 @@
         <mark key="]" line="11" column="25" />
         <mark key="." line="11" column="25" />
         <mark key="^" line="11" column="25" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-app/.gitignore" timestamp="1504773804941">
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="34" column="16" />
+        <mark key="^" line="34" column="16" />
+        <mark key="." line="34" column="16" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/quickView/quickView.js" timestamp="1503586811870">
         <mark key="[" line="63" column="39" />
@@ -703,6 +710,7 @@
         <mark key="^" line="136" column="68" />
         <mark key="." line="136" column="69" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/index.ts" timestamp="1504773857851" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/service/dialog-service.js" timestamp="1503582193960">
         <mark key="[" line="75" column="23" />
         <mark key="]" line="75" column="23" />
@@ -750,10 +758,6 @@
         <mark key="]" line="8" column="72" />
         <mark key="." line="8" column="72" />
         <mark key="^" line="8" column="72" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/get.js" timestamp="1504712740358">
-        <mark key="'" line="4" column="7" />
-        <mark key="^" line="28" column="33" />
       </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/app/modules/shop/interfaces/image.interface.ts" timestamp="1504087405806">
         <mark key="[" line="3" column="15" />
@@ -897,6 +901,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="3" column="101" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/.gitignore" timestamp="1504773647430">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="34" column="16" />
+        <mark key="^" line="34" column="16" />
+        <mark key="." line="34" column="16" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/collaborator.js" timestamp="1503651971510">
         <mark key="[" line="0" column="0" />
@@ -1062,6 +1073,12 @@
         <mark key="^" line="73" column="58" />
         <mark key="." line="73" column="50" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/.gitattributes" timestamp="1504773850498">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/service/contact-service.js" timestamp="1503582317358">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
@@ -1148,6 +1165,12 @@
         <mark key="." line="46" column="49" />
         <mark key="^" line="46" column="49" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-app/.gitattributes" timestamp="1504773840567">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/wishlist/deleteDecision.js" timestamp="1503650878317">
         <mark key="[" line="4" column="58" />
         <mark key="]" line="4" column="58" />
@@ -1209,12 +1232,6 @@
         <mark key="." line="3" column="8" />
         <mark key="^" line="61" column="116" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" timestamp="1504705561023">
-        <mark key="'" line="4" column="9" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
-      </file>
       <file name="$USER_HOME$/www/work/kide/kide-cookie-cutter/src/environments/environment.prod.ts" timestamp="1503924312598">
         <mark key="[" line="1" column="20" />
         <mark key="]" line="2" column="49" />
@@ -1253,7 +1270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="5" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/tag.json" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/size-groups-ctrl/size-group-ctrl.js" />
       <jump line="102" column="36" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/size-groups-ctrl/size-group-ctrl.js" />
       <jump line="4" column="2" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/size-groups-ctrl/size-group-ctrl.js" />
@@ -1353,13 +1369,14 @@
       <jump line="19" column="9" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/services/store-service.js" />
       <jump line="13" column="25" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/www/resources/locale-pt.json" />
       <jump line="175" column="9" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/www/resources/locale-pt.json" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>This page is naked...</text>
+        <text>package-lock.json</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1371,7 +1388,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>This page is naked...</text>
+        <text>package-lock.json</text>
       </register>
       <register name="/" type="4">
         <text>Shop&quot;</text>
@@ -1444,7 +1461,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYXJhbXMpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>541</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1478,7 +1495,6 @@
         <entry>Shop&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>18</entry>
         <entry>31</entry>
         <entry>15</entry>
         <entry>29</entry>
@@ -1487,7 +1503,6 @@
         <entry>71</entry>
         <entry>97</entry>
         <entry>117</entry>
-        <entry>wq</entry>
         <entry>w</entry>
         <entry>66</entry>
         <entry>151</entry>
@@ -1498,6 +1513,8 @@
         <entry>224</entry>
         <entry>55</entry>
         <entry>541</entry>
+        <entry>Wq</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
