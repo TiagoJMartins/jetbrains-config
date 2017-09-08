@@ -302,11 +302,11 @@
       <file name="kide-api.graphqls" timestamp="1504011814555">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/configs.ts" timestamp="1504882482509">
-        <mark key="[" line="2" column="88" />
-        <mark key="]" line="2" column="88" />
-        <mark key="^" line="2" column="90" />
-        <mark key="." line="2" column="88" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/configs.ts" timestamp="1504890049990">
+        <mark key="[" line="6" column="49" />
+        <mark key="]" line="7" column="51" />
+        <mark key="." line="7" column="51" />
+        <mark key="^" line="7" column="51" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-app/src/services/oauth/oauth.service.ts" timestamp="1504878364782">
         <mark key="'" line="31" column="34" />
@@ -327,6 +327,12 @@
         <mark key="]" line="12" column="56" />
         <mark key="." line="12" column="56" />
         <mark key="^" line="12" column="56" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/.gitignore" timestamp="1504890304248">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="5" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/wishlist/getDecision.js" timestamp="1503650850430">
         <mark key="[" line="13" column="109" />
@@ -624,12 +630,12 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/messageHandler.ts" timestamp="1504885047821">
-        <mark key="'" line="10" column="33" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="20" column="28" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/messageHandler.ts" timestamp="1504890251009">
+        <mark key="'" line="59" column="5" />
+        <mark key="[" line="61" column="80" />
+        <mark key="]" line="61" column="80" />
+        <mark key="." line="61" column="80" />
+        <mark key="^" line="61" column="80" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/.dockerignore" timestamp="1503592303129">
         <mark key="[" line="8" column="11" />
@@ -956,7 +962,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-app/src/environments/environment.ts" timestamp="1504881765879">
+      <file name="$USER_HOME$/www/work/skorr/skorr-app/src/environments/environment.ts" timestamp="1504890002536">
         <mark key="[" line="2" column="70" />
         <mark key="]" line="2" column="70" />
         <mark key="^" line="1" column="19" />
@@ -1039,6 +1045,13 @@
         <mark key="]" line="73" column="50" />
         <mark key="^" line="73" column="58" />
         <mark key="." line="73" column="50" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/configs.ts" timestamp="1504890044769">
+        <mark key="'" line="12" column="68" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="7" column="91" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/.gitattributes" timestamp="1504773850498">
         <mark key="[" line="0" column="0" />
@@ -1242,12 +1255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/static-pages/controller/forbidden-ctrl.js" />
-      <jump line="249" column="20" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/services/store-service.js" />
-      <jump line="19" column="9" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/services/store-service.js" />
-      <jump line="13" column="25" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/www/resources/locale-pt.json" />
-      <jump line="175" column="9" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/www/resources/locale-pt.json" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/.gitignore" />
       <jump line="32" column="28" filename="$USER_HOME$/www/work/skorr/skorr-app/src/services/oauth/oauth.service.ts" />
       <jump line="33" column="44" filename="$USER_HOME$/www/work/skorr/skorr-app/src/services/oauth/oauth.service.ts" />
       <jump line="44" column="41" filename="$USER_HOME$/www/work/skorr/skorr-app/src/services/oauth/oauth.service.ts" />
@@ -1342,13 +1349,19 @@
       <jump line="9" column="33" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/messageHandler.ts" />
       <jump line="40" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/Dockerfile" />
       <jump line="21" column="46" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/Dockerfile" />
+      <jump line="21" column="25" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/messageHandler.ts" />
+      <jump line="11" column="14" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/messageHandler.ts" />
+      <jump line="50" column="25" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/messageHandler.ts" />
+      <jump line="39" column="29" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/messageHandler.ts" />
+      <jump line="52" column="17" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/messageHandler.ts" />
+      <jump line="57" column="5" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/messageHandler.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CkVYUE9TRSAzMDAwCg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1360,7 +1373,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>Shop&quot;</text>
@@ -1369,7 +1382,7 @@
         <text encoding="base64">QUREIHBhY2thZ2UuanNvbiAvdG1wL25vZGUvCkFERCB5YXJuLmxvY2sgL3RtcC9ub2RlLwpSVU4gY2QgL3RtcC9ub2RlICYmIHlhcm4KCiMgQWRkIHNvdXJjZSBjb2RlCkFERCAuIC90bXAvc2tvcnItYXBpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CkVYUE9TRSAzMDAwCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1395,13 +1408,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RU5WIFBPUlQgMzAwMAo=</text>
+        <text encoding="base64">ICAgIGNsaWVudF9pZDogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBieSBpbnN0YWxsaW5nIG5vZGVfbW9kdWxlcyBpbiBhIHNlcGFyYXRlIGRpcmVjdG9yeQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBUYWtlIGFkdmFudGFnZSBvZiBkb2NrZXIgbGF5ZXJzIHRvIGNhY2hlIHRoZSB5YXJuIGluc3RhbGxhdGlvbgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGlnID0gbmV3IEluc3RhZ3JhbS4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1421,16 +1434,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">RlJPTSBub2RlOjguMi4xCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXZlcmFnZV9saWtlc19wZXJfbWVkaWE6IG51bWJlcjsKICAgICAgICAgICAgYXZlcmFnZV9jb21tZW50cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
