@@ -140,6 +140,12 @@
         <mark key="^" line="336" column="49" />
         <mark key="." line="336" column="49" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/routes.ts" timestamp="1504875476562">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/parallax.js" timestamp="1503581918500">
         <mark key="[" line="27" column="63" />
         <mark key="]" line="27" column="63" />
@@ -345,6 +351,13 @@
         <mark key="^" line="23" column="14" />
         <mark key="." line="23" column="14" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/index.ts" timestamp="1504875431190">
+        <mark key="'" line="8" column="16" />
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="36" />
+        <mark key="." line="15" column="36" />
+        <mark key="^" line="15" column="36" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/wishlist/getDecision.js" timestamp="1503650850430">
         <mark key="[" line="13" column="109" />
         <mark key="]" line="13" column="108" />
@@ -424,6 +437,13 @@
         <mark key="]" line="3" column="53" />
         <mark key="^" line="3" column="71" />
         <mark key="." line="3" column="53" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/tsconfig.json" timestamp="1504874986822">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/email-consumer/package.json" timestamp="1503658561903">
         <mark key="[" line="21" column="15" />
@@ -979,6 +999,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/.editorconfig" timestamp="1504874941564">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/child.json" timestamp="1503321081663">
         <mark key="[" line="69" column="18" />
         <mark key="]" line="69" column="24" />
@@ -1324,8 +1349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/services/store-service.js" />
-      <jump line="17" column="13" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/createWithRelations.js" />
       <jump line="18" column="11" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/createWithRelations.js" />
       <jump line="10" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/services/store-service.js" />
       <jump line="72" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/category-select/category-select.js" />
@@ -1424,13 +1447,15 @@
       <jump line="63" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/exchange-code.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/exchange-code.ts" />
       <jump line="64" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/exchange-code.ts" />
+      <jump line="5" column="16" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/index.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/tsconfig.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZWNobyBcIkVycm9yOiBubyB0ZXN0IHNwZWNpZmllZFwiICYmIGV4aXQgMQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhY3Rpb246ICgpID0+ICgoKSA9PiB7fSkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1442,7 +1467,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWNobyBcIkVycm9yOiBubyB0ZXN0IHNwZWNpZmllZFwiICYmIGV4aXQgMQ==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>Shop&quot;</text>
@@ -1451,7 +1476,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUkVUVVJOSU5HIEVSUk9SJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmV4cG9ydCBjb25zdCB2YWx1ZXMgPSB7CiAgICBwcm92aWRlcnM6IFsKICAgICAgICAnaW5zdGFncmFtJwogICAgXQp9Owo=</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb246ICgpID0+ICgoKSA9PiB7fSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1477,16 +1502,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgbmV3IEFXUy5SRFMoKS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1503,16 +1528,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygnUkVUVVJOSU5HIFNVQ0NFU1MnKTsKICAgIHJldHVybiByZXMuanNvbihuZXdUb2tlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
