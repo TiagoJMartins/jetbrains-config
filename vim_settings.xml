@@ -10,11 +10,12 @@
         <mark key="." line="69" column="34" />
         <mark key="^" line="69" column="34" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" timestamp="1505144077840">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="11" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" timestamp="1505144870096">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="47" column="29" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/instagram.handler.ts" timestamp="1505143909817">
         <mark key="[" line="4" column="0" />
@@ -59,6 +60,9 @@
         <mark key="^" line="55" column="16" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/getter/instagram.getter.ts" timestamp="1505144921511">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/interfaces/media-content.interface.ts" timestamp="1505144045027">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="6" column="0" />
@@ -66,6 +70,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/message-handler.ts" timestamp="1505144902660" />
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/messageHandler.ts" timestamp="1505120850193">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="0" />
@@ -187,12 +192,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/index.ts" timestamp="1505144054344">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="19" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/index.ts" timestamp="1505144895258">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/configs.ts" timestamp="1505127101040">
         <mark key="[" line="11" column="32" />
@@ -241,20 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="4" filename="$USER_HOME$/www/work/skorr/skorr-api/src/App.ts" />
-      <jump line="7" column="28" filename="$USER_HOME$/www/work/skorr/skorr-api/src/models/index.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/models/index.ts" />
-      <jump line="4" column="16" filename="$USER_HOME$/www/work/skorr/skorr-api/src/index.ts" />
-      <jump line="6" column="5" filename="$USER_HOME$/www/work/skorr/skorr-api/src/models/index.ts" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/promotion/paginatedPromotionsListing.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/promotion/paginatedPromotionsListing.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/promotion/paginatedPromotionsListing.js" />
-      <jump line="68" column="26" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/promotion-service.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/promotion-service.js" />
-      <jump line="15" column="45" filename="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/exchange-code.ts" />
-      <jump line="6" column="7" filename="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/exchange-code.ts" />
-      <jump line="21" column="53" filename="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/exchange-code.ts" />
-      <jump line="23" column="7" filename="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/exchange-code.ts" />
       <jump line="18" column="7" filename="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/exchange-code.ts" />
       <jump line="36" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/exchange-code.ts" />
       <jump line="31" column="29" filename="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/exchange-code.ts" />
@@ -335,19 +325,33 @@
       <jump line="58" column="25" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/instagram.interfaces.ts" />
       <jump line="10" column="22" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/instagram.getter.ts" />
       <jump line="21" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/interfaces/instagram.interfaces.ts" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" />
       <jump line="9" column="17" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/interfaces/media-content.interface.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/interfaces/media-content.interface.ts" />
       <jump line="73" column="38" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/interfaces/media-content.interface.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/interfaces/media-content.interface.ts" />
+      <jump line="7" column="10" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" />
+      <jump line="4" column="15" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" />
+      <jump line="34" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" />
+      <jump line="9" column="43" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" />
+      <jump line="30" column="1" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" />
+      <jump line="6" column="18" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" />
+      <jump line="39" column="3" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" />
+      <jump line="50" column="4" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" />
+      <jump line="49" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" />
       <jump line="12" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/index.ts" />
+      <jump line="47" column="29" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" />
+      <jump line="81" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/getter/instagram.getter.ts" />
+      <jump line="70" column="54" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/getter/instagram.getter.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/getter/instagram.getter.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHF1ZXVlX3VybDogJ2h0dHBzOi8vc3FzLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tLzY3MzYxNDcxNzE5My9za29yci1yYXctaW5zdGFncmFtLWRldicsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSW5zdGFncmFtR2V0dGVyIH0gZnJvbSAnLi9uZXR3b3Jrcy9pbnN0YWdyYW0vZ2V0dGVyL2luc3RhZ3JhbS5nZXR0ZXInOwoK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -359,16 +363,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>messageHandler</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>smart</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHF1ZXVlVXJsOiBhd3MucXVldWVfdXJsLAogICAgaGFuZGxlTWVzc2FnZTogbWVzc2FnZUhhbmRsZXIsCiAgICByZWdpb246IGF3cy5yZWdpb24K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmdldHRlciA9IENvbnN1bWVyLmNyZWF0ZSh7CiAgICAgICAgICAgIHF1ZXVlVXJsOiBpbnN0YWdyYW0ucXVldWVfdXJsLAogICAgICAgICAgICBoYW5kbGVNZXNzYWdlOiBnZXR0ZXJIYW5kbGVyCiAgICAgICAgfSk7CgogICAgICAgIHRoaXMuZ2V0dGVyLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHF1ZXVlX3VybDogJ2h0dHBzOi8vc3FzLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tLzY3MzYxNDcxNzE5My9za29yci1yYXctaW5zdGFncmFtLWRldicsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSW5zdGFncmFtR2V0dGVyIH0gZnJvbSAnLi9uZXR3b3Jrcy9pbnN0YWdyYW0vZ2V0dGVyL2luc3RhZ3JhbS5nZXR0ZXInOwoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -394,13 +398,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHsgYXdzLCBpbnN0YWdyYW0gfSBmcm9tICcuL2NvbmZpZ3MnOwppbXBvcnQgKiBhcyBDb25zdW1lciBmcm9tICdzcXMtY29uc3VtZXInOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgCg==</text>
+        <text encoding="base64">CmNvbnN0IGluc3RhZ3JhbUNvbnN1bWVyID0gQ29uc3VtZXIuY3JlYXRlKHsKICAgIHF1ZXVlVXJsOiBpbnN0YWdyYW0ucXVldWVfdXJsLAogICAgaGFuZGxlTWVzc2FnZTogLAogICAgcmVnaW9uOiBhd3MucmVnaW9uCn0pOwoKYXBwLm9uKCdlcnJvcicsIGUgPT4gY29uc29sZS5sb2coZS5tZXNzYWdlKSk7CmFwcC5zdGFydCgpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -420,16 +424,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUHJvY2Vzc2FibGVUZXh0IH0gZnJvbSAnLi9wcm9jZXNzYWJsZS5pbnRlcmZhY2UnOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnW0lOU1RBR1JBTV0gJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFNRUyA9IHJlcXVpcmUoJ2luc3RhZ3JhbS5pbnRlcmZhY2VzYXdzLXNkay9jbGllbnRzL3NxcycpOwppbXBvcnQgeyBNZWRpYUNvbnRlbnQgfSBmcm9tICcuL2ludGVyZmFjZXMvbWVkaWEtY29udGVudC5pbnRlcmZhY2UnOwppbXBvcnQgeyBJbnN0YWdyYW1HZXR0ZXIgfSBmcm9tICcuL25ldHdvcmtzL2luc3RhZ3JhbS9pbnN0YWdyYW0uZ2V0dGVyJzsKCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ1tJTlNUQUdSQU1dIENvbnN1bWVyIHdhaXRpbmcgZm9yIG1lc3NhZ2VzLi4uJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIEB0eXBlZGVmIFByb2Nlc3NhYmxlVGV4dAogKgogKiBEZWZpbmVzIGEgdGV4dCBmaWVsZCB0aGF0IGNhbiBiZSBhbmFseXNlZAogKi8KZXhwb3J0IGludGVyZmFjZSBQcm9jZXNzYWJsZVRleHQgewogICAgLyoqCiAgICAgKiBAcHJvcGVydHkgY29udGVudAogICAgICogVGhlIGFjdHVhbCB3cml0dGVuIGNvbnRlbnQuCiAgICAgKi8KICAgIGNvbnRlbnQ6IHN0cmluZzsKCiAgICAvKioKICAgICAqIEBwcm9wZXJ0eSBhbmFseXNpcwogICAgICogVGhpcyB7QGxpbmsgTWVkaWFDb250ZW50fSdzIHtAbGluayBjb250ZW50fSwgYW5hbHlzZWQgYnkgdGhlIHZhcmlvdXMgYWxnb3JpdGhtcy4KICAgICAqLwogICAgYW5hbHlzaXM/OiB7CiAgICAgICAgc2VudGltZW50OiBhbnk7CiAgICAgICAgbGFuZ3VhZ2U6IGFueTsKICAgIH07Cn0KCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
