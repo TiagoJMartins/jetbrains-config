@@ -53,7 +53,7 @@
         <mark key="." line="52" column="38" />
         <mark key="^" line="52" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1505211087425">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1505215684740">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -79,7 +79,7 @@
         <mark key="^" line="6" column="37" />
         <mark key="." line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/configs.ts" timestamp="1505212994455">
+      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/configs.ts" timestamp="1505215368840">
         <mark key="'" line="9" column="12" />
         <mark key="[" line="20" column="82" />
         <mark key="]" line="20" column="82" />
@@ -124,6 +124,13 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/worker-queues/images.work-queue.ts" timestamp="1505215442193">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="30" column="63" />
+        <mark key="]" line="31" column="11" />
+        <mark key="." line="31" column="11" />
+        <mark key="^" line="31" column="11" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/main.scss" timestamp="1505136955618">
         <mark key="[" line="5" column="0" />
@@ -196,11 +203,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/index.ts" timestamp="1505210682753">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="32" />
-        <mark key="." line="10" column="32" />
-        <mark key="^" line="10" column="32" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/index.ts" timestamp="1505214949506">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/configs.ts" timestamp="1505127101040">
         <mark key="[" line="11" column="32" />
@@ -247,12 +253,12 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" timestamp="1505213794139">
-        <mark key="'" line="29" column="12" />
-        <mark key="[" line="44" column="43" />
-        <mark key="]" line="45" column="15" />
-        <mark key="." line="45" column="15" />
-        <mark key="^" line="45" column="15" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" timestamp="1505215142015">
+        <mark key="'" line="73" column="46" />
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="30" column="25" />
+        <mark key="." line="30" column="25" />
+        <mark key="^" line="30" column="25" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/interfaces/processable.interface.ts" timestamp="1505121417730">
         <mark key="[" line="4" column="5" />
@@ -262,12 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="22" filename="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" />
-      <jump line="39" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/messageHandler.ts" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/service.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/service.ts" />
-      <jump line="7" column="6" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/service.ts" />
-      <jump line="8" column="6" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/service.ts" />
       <jump line="24" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/service.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/interfaces/instagram-data.interface.ts" />
       <jump line="7" column="19" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/interfaces/instagram-data.interface.ts" />
@@ -325,7 +325,6 @@
       <jump line="53" column="10" filename="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/exchange-code.ts" />
       <jump line="16" column="28" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" />
-      <jump line="27" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" />
       <jump line="4" column="58" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" />
       <jump line="34" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" />
       <jump line="37" column="1" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" />
@@ -362,13 +361,20 @@
       <jump line="23" column="4" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" />
       <jump line="24" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/index.ts" />
       <jump line="22" column="12" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" />
+      <jump line="51" column="43" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" />
+      <jump line="33" column="13" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/worker-queues/images.work-queue.ts" />
+      <jump line="3" column="6" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/worker-queues/images.work-queue.ts" />
+      <jump line="27" column="7" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/worker-queues/images.work-queue.ts" />
+      <jump line="31" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/worker-queues/images.work-queue.ts" />
+      <jump line="67" column="46" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -380,7 +386,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>newWorkItem.data</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>smart</text>
@@ -389,7 +395,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtczogewogICAgICAgICAgICAgICAgICAgIGFjY2Vzc190b2tlbjogdGhpcy50b2tlbgogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -415,16 +421,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld1dvcmtJdGVtLnByb3ZpZGVyID0gJ2luc3RhZ3JhbSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -441,16 +447,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYXdhaXQgbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICAgICAgICB0aGlzLnNxcy5zZW5kTWVzc2FnZSh7CiAgICAgICAgICAgICAgICBNZXNzYWdlQm9keTogbWVzc2FnZSwKICAgICAgICAgICAgICAgIFF1ZXVlVXJsOiB0aGlzLnF1ZXVlCiAgICAgICAgICAgIH0sIChlcnIsIGRhdGEpID0+IHsKICAgICAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgICAgICByZWplY3QoZXJyKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgcmVzb2x2ZShkYXRhKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
