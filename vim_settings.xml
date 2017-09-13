@@ -42,13 +42,8 @@
         <mark key="." line="61" column="27" />
         <mark key="^" line="61" column="27" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-app/src/environments/environment.ts" timestamp="1505298825126">
-        <mark key="'" line="3" column="20" />
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="9" column="68" />
-        <mark key="." line="9" column="68" />
-        <mark key="^" line="9" column="68" />
-      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-common/src/library.ts" timestamp="1505293334743" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-app/src/environments/environment.ts" timestamp="1505301492811" />
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/interfaces/media-content.interface.ts" timestamp="1505206337528">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="6" column="17" />
@@ -76,6 +71,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="20" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-common/dist/skorr-common.umd.js" timestamp="1505294605217" />
       <file name="$USER_HOME$/www/work/skorr/skorr-common/rollup.config.js" timestamp="1505296048060">
         <mark key="[" line="16" column="13" />
         <mark key="]" line="17" column="11" />
@@ -88,18 +84,17 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/package.json" timestamp="1505225087360">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/tsconfig.json" timestamp="1504883118765">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="3" column="20" />
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-common/test/skorr-common.test.ts" timestamp="1505295724371">
-        <mark key="'" line="4" column="17" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/worker-queues/work-item.interface.ts" timestamp="1505232201728">
         <mark key="[" line="0" column="27" />
@@ -149,17 +144,22 @@
         <mark key="^" line="24" column="10" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/configs.ts" timestamp="1505299823075">
-        <mark key="'" line="19" column="1" />
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="44" />
-        <mark key="." line="18" column="44" />
-        <mark key="^" line="18" column="44" />
+        <mark key="'" line="17" column="1" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+        <mark key="^" line="0" column="44" />
       </file>
       <file name="$USER_HOME$/www/personal/typescript-library-test/index.ts" timestamp="1505295217471">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="29" />
         <mark key="^" line="2" column="29" />
         <mark key="." line="2" column="29" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/get-user.ts" timestamp="1505302881602">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/models/index.ts" timestamp="1505233823134">
         <mark key="[" line="4" column="13" />
@@ -174,6 +174,7 @@
         <mark key="." line="26" column="48" />
         <mark key="^" line="26" column="47" />
       </file>
+      <file name="$USER_HOME$/www/personal/typescript-library-test/node_modules/.yarn-integrity" timestamp="1505295123426" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/promotion-service.js" timestamp="1504859362135">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -201,6 +202,7 @@
         <mark key="^" line="19" column="38" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/models/base-image.model.ts" timestamp="1505293607970" />
       <file name="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/configs.ts" timestamp="1505299031979">
         <mark key="'" line="16" column="36" />
         <mark key="[" line="17" column="15" />
@@ -234,6 +236,11 @@
         <mark key="." line="39" column="43" />
         <mark key="^" line="39" column="43" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-common/.gitignore" timestamp="1505295332262">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/configs.ts" timestamp="1505299277073">
         <mark key="'" line="10" column="11" />
         <mark key="[" line="29" column="9" />
@@ -241,6 +248,7 @@
         <mark key="." line="29" column="44" />
         <mark key="^" line="29" column="44" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/interfaces/work-item.interface.ts" timestamp="1505295240602" />
       <file name="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/index.ts" timestamp="1505298508869">
         <mark key="'" line="46" column="8" />
         <mark key="[" line="8" column="0" />
@@ -254,6 +262,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-app/src/services/api/api.service.ts" timestamp="1505302446418">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="9" />
+        <mark key="." line="21" column="9" />
+        <mark key="^" line="21" column="9" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/package.json" timestamp="1505300087475">
         <mark key="'" line="13" column="21" />
         <mark key="[" line="25" column="78" />
@@ -261,11 +275,31 @@
         <mark key="." line="25" column="84" />
         <mark key="^" line="25" column="84" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-common/src/models/processed/base-image.model.ts" timestamp="1505293697765" />
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/models/index.ts" timestamp="1505210538491">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="3" column="10" />
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="10" />
+      </file>
+      <file name="$USER_HOME$/www/personal/typescript-library-test/node_modules/typescript-library-2/dist/index.d.ts" timestamp="1505295162970" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/index.ts" timestamp="1505302726110">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/package.json" timestamp="1505228323850">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" timestamp="1505302668932">
+        <mark key="'" line="45" column="31" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="21" column="34" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/Dockerfile" timestamp="1504887168189">
         <mark key="'" line="21" column="46" />
@@ -274,12 +308,11 @@
         <mark key="^" line="31" column="13" />
         <mark key="." line="31" column="13" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-app/package.json" timestamp="1505298873451">
-        <mark key="'" line="11" column="18" />
-        <mark key="[" line="41" column="25" />
-        <mark key="]" line="41" column="88" />
-        <mark key="^" line="41" column="90" />
-        <mark key="." line="41" column="90" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.html" timestamp="1505302658103">
+        <mark key="[" line="38" column="44" />
+        <mark key="]" line="38" column="56" />
+        <mark key="." line="38" column="56" />
+        <mark key="^" line="38" column="56" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-app/src/environments/environment.prod.ts" timestamp="1504881196629">
         <mark key="'" line="7" column="0" />
@@ -294,7 +327,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/models/token.model.ts" timestamp="1505299817163">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/models/token.model.ts" timestamp="1505302675206">
         <mark key="'" line="8" column="17" />
         <mark key="[" line="10" column="19" />
         <mark key="]" line="11" column="24" />
@@ -347,11 +380,6 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-common/src/configuration/aws.ts" timestamp="1505296814097">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/interfaces/processable.interface.ts" timestamp="1505121417730">
         <mark key="[" line="4" column="5" />
         <mark key="]" line="4" column="6" />
@@ -366,8 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="58" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" />
-      <jump line="34" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" />
       <jump line="37" column="1" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" />
       <jump line="38" column="4" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" />
       <jump line="13" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" />
@@ -466,13 +492,15 @@
       <jump line="17" column="36" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/configs.ts" />
       <jump line="12" column="11" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/configs.ts" />
       <jump line="17" column="1" filename="$USER_HOME$/www/work/skorr/skorr-api/src/configs.ts" />
+      <jump line="47" column="24" filename="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" />
+      <jump line="50" column="31" filename="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgV29ya0l0ZW0gfSBmcm9tICcuLi8uLi8uLi93b3JrZXItcXVldWVzL3dvcmstaXRlbS5pbnRlcmZhY2UnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -484,16 +512,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'skorr_tokens_dev'</text>
+        <text>: Response</text>
       </register>
       <register name="/" type="4">
         <text>smart</text>
       </register>
-      <register name="0" type="4">
-        <text>git+ssh://git@bitbucket.org:wearescytale/skorr-common.git#master</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMuaHR0cC5nZXQoZW5kcG9pbnQsIHsgcGFyYW1zOiB7IGNvZGUgfX0pCiAgICAgICAgICAgIC5tYXAoKHJlczogUmVzcG9uc2UpID0+IHJlcy5qc29uKCkpCiAgICAgICAgICAgIC5jYXRjaCgoZXJyKSA9PiBPYnNlcnZhYmxlLnRocm93KGVycikgfHwgZXJyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgV29ya0l0ZW0gfSBmcm9tICcuLi8uLi8uLi93b3JrZXItcXVldWVzL3dvcmstaXRlbS5pbnRlcmZhY2UnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -518,17 +546,17 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ewogICAgICAgIGdldF9yZWNlbnRfbWVkaWE6IENvbmZpZ3VyYXRpb24ubmV0d29ya3MuaW5zdGFncmFtLiwKICAgICAgICBnZXRfbWVkaWFfY29tbWVudHM6IChtZWRpYV9pZDogc3RyaW5nKSA9PiBgbWVkaWEvJHttZWRpYV9pZH0vY29tbWVudHNgLAogICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWxsTW9kZWxzIH0gZnJvbSAnc2tvcnItY29tbW9uL2Rpc3QvdHlwZXMvbW9kZWxzJzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -545,16 +573,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA6ICcnCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmV4cG9ydCB7IFdvcmtJdGVtIH07Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
