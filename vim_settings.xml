@@ -207,12 +207,12 @@
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/product-service.js" timestamp="1505402277541">
         <mark key="[" line="173" column="29" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/order/order-export.js" timestamp="1505726667267">
-        <mark key="'" line="19" column="25" />
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="24" column="36" />
-        <mark key="." line="24" column="36" />
-        <mark key="^" line="24" column="36" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/order/order-export.js" timestamp="1505727537754">
+        <mark key="'" line="33" column="25" />
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="24" column="55" />
+        <mark key="." line="24" column="55" />
+        <mark key="^" line="24" column="55" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/worker-queues/text.work-queue.ts" timestamp="1505232545728">
         <mark key="'" line="18" column="0" />
@@ -645,8 +645,8 @@
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlZDogcGFyc2VkT3JkZXJzCg==</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -658,7 +658,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>smart</text>
@@ -667,7 +667,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkYXRldGltZSA9IG5ldyBEYXRlKCk7CiAgICAgICAgICAgICAgICByZXMuc2V0KCdDYWNoZS1Db250cm9sJywgJ21heC1hZ2U9MCwgbm8tY2FjaGUsIG11c3QtcmV2YWxpZGF0ZSwgcHJveHktcmV2YWxpZGF0ZScpOwogICAgICAgICAgICAgICAgcmVzLnNldCgnTGFzdC1Nb2RpZmllZCcsIGRhdGV0aW1lICsnR01UJyk7CiAgICAgICAgICAgICAgICByZXMuc2V0KCdDb250ZW50LVR5cGUnLCAndGV4dC9jc3YnKTsKICAgICAgICAgICAgICAgIHJlcy5zZXQoJ0NvbnRlbnQtRGlzcG9zaXRpb24nLCdpbmxpbmU7ZmlsZW5hbWU9dXNlcnMuY3N2Jyk7CiAgICAgICAgICAgICAgICByZXMuc2V0KCdDb250ZW50LVRyYW5zZmVyLUVuY29kaW5nJywnYmluYXJ5Jyk7CiAgICAgICAgICAgICAgICByZXMuc2VuZChjc3YpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcnNlZDogcGFyc2VkT3JkZXJzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -693,7 +693,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgbGV0IG9yaWdpbgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
@@ -702,7 +702,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCBkZXN0aW5hdGlvbkNvdW50cmllcyA9IHByb2R1Y3RzLm1hcCgocCkgPT4geyB9KSAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -719,16 +719,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gcC4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZDogb3JkZXIuZXgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>194</text>
