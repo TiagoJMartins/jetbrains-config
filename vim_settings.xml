@@ -64,7 +64,11 @@
         <mark key="^" line="48" column="81" />
         <mark key="." line="48" column="58" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/bulk-edit-service.js" timestamp="1505738701447" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/bulk-edit-service.js" timestamp="1505750073856">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner.js" timestamp="1505743153429" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/products/directive/product-wall-directive.js" timestamp="1505381503489">
         <mark key="[" line="14" column="26" />
@@ -110,6 +114,7 @@
         <mark key="]" line="39" column="13" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/directives/kd-toggle-bulk/kd-toggle-bulk.js" timestamp="1505750603141" />
       <file name="$USER_HOME$/www/work/skorr/skorr-app/src/services/api/api.service.ts" timestamp="1505302446418">
         <mark key="[" line="21" column="9" />
         <mark key="]" line="21" column="9" />
@@ -118,6 +123,9 @@
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/constants.js" timestamp="1505743643396">
         <mark key="'" line="3" column="0" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1505722911366">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/node_modules/strong-remoting/lib/types/array.js" timestamp="1505317302738">
         <mark key="[" line="21" column="26" />
@@ -130,6 +138,11 @@
         <mark key="]" line="4" column="13" />
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/stock-size-service.js" timestamp="1505749710084">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/directives/kd-alert/kd-alert.js" timestamp="1505401632219">
         <mark key="[" line="10" column="19" />
@@ -155,7 +168,7 @@
         <mark key="^" line="101" column="50" />
         <mark key="." line="101" column="50" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/brands/views/brand.html" timestamp="1505744054021">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/brands/views/brand.html" timestamp="1505751654770">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="33" column="33" />
@@ -184,10 +197,6 @@
         <mark key="]" line="1" column="22" />
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-users-csv.js" timestamp="1505737145170">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="21" column="29" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/server/boot/sparkpost-webhooks.js" timestamp="1505742155880">
         <mark key="[" line="83" column="0" />
@@ -243,7 +252,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="22" column="57" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/product-service.js" timestamp="1505402277541">
+        <mark key="[" line="173" column="29" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Dockerfile" timestamp="1505737923442" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/product-ctrl/bulk-edit/bulk-edit.html" timestamp="1505750135917" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/layout/_kd-products.scss" timestamp="1505381576935">
         <mark key="[" line="173" column="28" />
         <mark key="]" line="173" column="30" />
@@ -267,10 +280,6 @@
         <mark key="]" line="303" column="43" />
         <mark key="." line="303" column="43" />
         <mark key="^" line="303" column="43" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/users-ctrl/users.html" timestamp="1505729316611">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="50" column="115" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1505223359341">
         <mark key="[" line="1" column="0" />
@@ -301,11 +310,21 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/product-ctrl/bulk-edit/bulk-edit-ctrl.js" timestamp="1505750720495">
+        <mark key="'" line="259" column="23" />
+        <mark key="[" line="336" column="0" />
+        <mark key="]" line="336" column="0" />
+        <mark key="^" line="323" column="37" />
+        <mark key="." line="336" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/models/index.ts" timestamp="1505210538491">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="3" column="10" />
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="10" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1505750101411">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/index.ts" timestamp="1505302726110">
         <mark key="[" line="7" column="28" />
@@ -357,8 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/models/base-image.model.ts" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/models/base-image.model.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/models/base-image.model.ts" />
       <jump line="13" column="0" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/models/base-image.model.ts" />
       <jump line="41" column="41" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/index.ts" />
@@ -457,13 +474,15 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/constants.js" />
       <jump line="66" column="39" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/shipping-cost.js" />
       <jump line="17" column="6" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/shipping-cost.js" />
+      <jump line="246" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/product-ctrl/bulk-edit/bulk-edit-ctrl.js" />
+      <jump line="259" column="23" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/product-ctrl/bulk-edit/bulk-edit-ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmFnLnNoaXBwaW5nQ291bnRyeSA9PT0gJ1BUJykgewogICAgICAgICAgICByZXR1cm4gRkxBVF9SQVRFX1NISVBQSU5HLlBUOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBGTEFUX1JBVEVfU0hJUFBJTkcuREVGQVVMVDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcGUuZ2V0U3RvY2tzKCk7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -475,16 +494,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ORDERS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjdHguZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByb21pc2VzID0gW107CgogICAgICAgICAgICAkc2NvcGUucHJvZHVjdHMuZm9yRWFjaChmdW5jdGlvbihpKSB7CiAgICAgICAgICAgICAgICBwcm9taXNlcy5wdXNoKAogICAgICAgICAgICAgICAgICAgIFN0b2NrU2l6ZVNlcnZpY2UuZ2V0KGkuaWQsIFsnc2l6ZSddKQogICAgICAgICAgICAgICAgICAgIC50aGVuKGZ1bmN0aW9uKHN0b2NrU2l6ZXMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaS5zdG9ja1NpemVzID0gc3RvY2tTaXplczsKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgKTsKICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAkcS5hbGwocHJvbWlzZXMpCiAgICAgICAgICAgIC5maW5hbGx5KGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgJHNjb3BlLnByb2Nlc3NpbmcgPSBmYWxzZTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmFnLnNoaXBwaW5nQ291bnRyeSA9PT0gJ1BUJykgewogICAgICAgICAgICByZXR1cm4gRkxBVF9SQVRFX1NISVBQSU5HLlBUOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHJldHVybiBGTEFUX1JBVEVfU0hJUFBJTkcuREVGQVVMVDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcGUuZ2V0U3RvY2tzKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -510,16 +529,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgXyAgICAgICAgPSByZXF1aXJlKCd1bmRlcnNjb3JlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgREVGQVVMVDogOSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgKiAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBJJ20K</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcHJvbWlzZXMgPSBbXTsKICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -536,16 +555,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CgogICAgICAgICRxLmFsbChwcm9taXNlcykKICAgICAgICAuZmluYWxseShmdW5jdGlvbigpIHsKICAgICAgICAgICAgJHNjb3BlLnByb2Nlc3NpbmcgPSBmYWxzZTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL0BGSVhNRQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHZhciBwcm9taXNlcyA9IFtdOwoKICAgICAgICAgICAgJHNjb3BlLnByb2R1Y3RzLmZvckVhY2goZnVuY3Rpb24oaSkgewogICAgICAgICAgICAgICAgcHJvbWlzZXMucHVzaCgKICAgICAgICAgICAgICAgICAgICBTdG9ja1NpemVTZXJ2aWNlLmdldChpLmlkLCBbJ3NpemUnXSkKICAgICAgICAgICAgICAgICAgICAudGhlbihmdW5jdGlvbihzdG9ja1NpemVzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGkuc3RvY2tTaXplcyA9IHN0b2NrU2l6ZXM7CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICk7CiAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgJHEuYWxsKHByb21pc2VzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBcyByZXF1ZXN0ZWQsIGZsYXQgcmF0ZSBzaGlwcGluZyBpcyBiZWluZyBhcHBsaWVkIGhlcmUuCiAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gOTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZpbmFsbHkoZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICAkc2NvcGUucHJvY2Vzc2luZyA9IGZhbHNlOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>194</text>
