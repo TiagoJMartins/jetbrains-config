@@ -40,7 +40,7 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/app.js" timestamp="1505737151260">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/app.js" timestamp="1505738679327">
         <mark key="[" line="83" column="14" />
         <mark key="]" line="83" column="14" />
         <mark key="." line="83" column="14" />
@@ -141,7 +141,7 @@
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/Jenkinsfile" timestamp="1505737335992">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/Jenkinsfile" timestamp="1505738511450">
         <mark key="'" line="22" column="13" />
         <mark key="[" line="87" column="45" />
         <mark key="]" line="87" column="45" />
@@ -178,6 +178,7 @@
         <mark key="^" line="48" column="81" />
         <mark key="." line="48" column="58" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/bulk-edit-service.js" timestamp="1505738701447" />
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/tsconfig.json" timestamp="1504883118765">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="3" column="20" />
@@ -230,10 +231,7 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/product-service.js" timestamp="1505402277541">
-        <mark key="[" line="173" column="29" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/order/order-export.js" timestamp="1505737138727">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/order/order-export.js" timestamp="1505738676767">
         <mark key="'" line="56" column="75" />
         <mark key="[" line="61" column="69" />
         <mark key="]" line="61" column="73" />
@@ -247,6 +245,7 @@
         <mark key="." line="30" column="35" />
         <mark key="^" line="30" column="35" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Dockerfile" timestamp="1505737923442" />
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/index.ts" timestamp="1504879083045">
         <mark key="'" line="17" column="25" />
         <mark key="[" line="4" column="7" />
@@ -376,6 +375,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/www/configs.js" timestamp="1505739320214">
+        <mark key="[" line="2" column="59" />
+        <mark key="]" line="2" column="59" />
+        <mark key="^" line="2" column="63" />
+        <mark key="." line="2" column="59" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-common/src/interfaces/index.ts" timestamp="1505298416818">
         <mark key="[" line="3" column="11" />
         <mark key="]" line="4" column="0" />
@@ -441,9 +446,6 @@
         <mark key="]" line="69" column="32" />
         <mark key="." line="69" column="32" />
         <mark key="^" line="50" column="64" />
-      </file>
-      <file name="/GraphQL.result.json" timestamp="1505722911366">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/layout/kd-alert.scss" timestamp="1505401684452">
         <mark key="'" line="16" column="40" />
@@ -515,6 +517,12 @@
         <mark key="]" line="10" column="25" />
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/Dockerfile" timestamp="1505739235907">
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+        <mark key="^" line="3" column="12" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/configs.ts" timestamp="1505127101040">
         <mark key="[" line="11" column="32" />
@@ -682,7 +690,7 @@
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICJwcm9kICYmICQoYXdzIGVjciBnZXQtbG9naW4pICYmIGRvY2tlci1jb21wb3NlIHB1bGwgJiYgZG9ja2VyLWNvbXBvc2UgZG93biAmJiBkb2NrZXItY29tcG9zZSB1cCAtZCI=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -694,7 +702,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICJwcm9kICYmICQoYXdzIGVjciBnZXQtbG9naW4pICYmIGRvY2tlci1jb21wb3NlIHB1bGwgJiYgZG9ja2VyLWNvbXBvc2UgZG93biAmJiBkb2NrZXItY29tcG9zZSB1cCAtZCI=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ORDERS</text>
