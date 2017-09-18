@@ -40,7 +40,7 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/app.js" timestamp="1505734487723">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/app.js" timestamp="1505737151260">
         <mark key="[" line="83" column="14" />
         <mark key="]" line="83" column="14" />
         <mark key="." line="83" column="14" />
@@ -77,7 +77,7 @@
         <mark key="^" line="1" column="22" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-users-csv.js" timestamp="1505725176059">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/account/generate-users-csv.js" timestamp="1505737145170">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="21" column="29" />
       </file>
@@ -140,6 +140,13 @@
         <mark key="]" line="17" column="11" />
         <mark key="^" line="17" column="11" />
         <mark key="." line="17" column="11" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/Jenkinsfile" timestamp="1505737335992">
+        <mark key="'" line="22" column="13" />
+        <mark key="[" line="87" column="45" />
+        <mark key="]" line="87" column="45" />
+        <mark key="." line="87" column="45" />
+        <mark key="^" line="87" column="43" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-common/src/skorr-common.ts" timestamp="1505297007946">
         <mark key="[" line="1" column="34" />
@@ -226,7 +233,7 @@
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/product-service.js" timestamp="1505402277541">
         <mark key="[" line="173" column="29" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/order/order-export.js" timestamp="1505734681769">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/order/order-export.js" timestamp="1505737138727">
         <mark key="'" line="56" column="75" />
         <mark key="[" line="61" column="69" />
         <mark key="]" line="61" column="73" />
@@ -569,7 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="23" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/configs.ts" />
       <jump line="8" column="31" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/configs.ts" />
       <jump line="10" column="32" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/index.ts" />
       <jump line="16" column="9" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/worker.ts" />
@@ -669,13 +675,14 @@
       <jump line="83" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/order/order-export.js" />
       <jump line="59" column="60" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/order/order-export.js" />
       <jump line="45" column="75" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/order/order-export.js" />
+      <jump line="22" column="13" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">ICJwcm9kICYmICQoYXdzIGVjciBnZXQtbG9naW4pICYmIGRvY2tlci1jb21wb3NlIHB1bGwgJiYgZG9ja2VyLWNvbXBvc2UgZG93biAmJiBkb2NrZXItY29tcG9zZSB1cCAtZCI=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -687,7 +694,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">ICJwcm9kICYmICQoYXdzIGVjciBnZXQtbG9naW4pICYmIGRvY2tlci1jb21wb3NlIHB1bGwgJiYgZG9ja2VyLWNvbXBvc2UgZG93biAmJiBkb2NrZXItY29tcG9zZSB1cCAtZCI=</text>
       </register>
       <register name="/" type="4">
         <text>ORDERS</text>
