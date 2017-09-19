@@ -81,12 +81,12 @@
         <mark key="^" line="23" column="27" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" timestamp="1505815031035">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="5" column="36" />
-        <mark key="." line="5" column="36" />
-        <mark key="^" line="5" column="36" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" timestamp="1505820559501">
+        <mark key="'" line="200" column="40" />
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="59" />
+        <mark key="." line="8" column="59" />
+        <mark key="^" line="8" column="59" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/.gitignore" timestamp="1505224750622">
         <mark key="[" line="2" column="0" />
@@ -176,6 +176,10 @@
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/product-service.js" timestamp="1505402277541">
         <mark key="[" line="173" column="29" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-new-ctrl.js" timestamp="1505818906907">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="32" column="10" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/order/order-export.js" timestamp="1505738676767">
         <mark key="'" line="56" column="75" />
         <mark key="[" line="61" column="69" />
@@ -226,11 +230,12 @@
         <mark key="." line="303" column="43" />
         <mark key="^" line="303" column="43" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" timestamp="1505814930590">
-        <mark key="[" line="1" column="43" />
-        <mark key="]" line="2" column="9" />
-        <mark key="^" line="2" column="9" />
-        <mark key="." line="2" column="9" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" timestamp="1505820579444">
+        <mark key="'" line="3" column="9" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="62" column="7" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/users-ctrl/users-ctrl.js" timestamp="1505729849643">
         <mark key="[" line="32" column="0" />
@@ -249,11 +254,10 @@
         <mark key="^" line="2" column="63" />
         <mark key="." line="2" column="59" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-ctrl.js" timestamp="1505814549603">
-        <mark key="[" line="11" column="51" />
-        <mark key="]" line="13" column="40" />
-        <mark key="." line="13" column="40" />
-        <mark key="^" line="13" column="40" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-ctrl.js" timestamp="1505820685971">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/server/server.js" timestamp="1505741495696">
         <mark key="[" line="36" column="0" />
@@ -265,6 +269,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-new.html" timestamp="1505818120297">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="29" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-app/src/services/api/api.service.ts" timestamp="1505302446418">
         <mark key="[" line="21" column="9" />
@@ -364,6 +372,10 @@
         <mark key="." line="3" column="11" />
         <mark key="^" line="3" column="12" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/voucher-new.html" timestamp="1505819778696">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="107" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/configs.ts" timestamp="1505127101040">
         <mark key="[" line="11" column="32" />
         <mark key="]" line="11" column="32" />
@@ -401,44 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="29" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/networks/instagram/parser/instagram.parser.ts" />
-      <jump line="31" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/worker-queues/text.work-queue.ts" />
-      <jump line="18" column="0" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/worker-queues/text.work-queue.ts" />
-      <jump line="13" column="21" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/package.json" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/models/base-text.model.ts" />
-      <jump line="14" column="19" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/configs.ts" />
-      <jump line="17" column="19" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/worker.ts" />
-      <jump line="18" column="56" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/worker.ts" />
-      <jump line="11" column="12" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/models/base-text.model.ts" />
-      <jump line="36" column="0" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/index.ts" />
-      <jump line="19" column="0" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/index.ts" />
-      <jump line="43" column="0" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/index.ts" />
-      <jump line="12" column="36" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/worker.ts" />
-      <jump line="19" column="0" filename="$USER_HOME$/www/work/skorr/skorr-common/src/models/processed/base-text.model.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/work/skorr/skorr-common/src/models/processed/base-text.model.ts" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-common/src/interfaces/work-item.interface.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-common/src/interfaces/work-item.interface.ts" />
-      <jump line="2" column="19" filename="$USER_HOME$/www/work/skorr/skorr-common/src/interfaces/index.ts" />
-      <jump line="6" column="17" filename="$USER_HOME$/www/work/skorr/skorr-common/test/skorr-common.test.ts" />
-      <jump line="10" column="22" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/configs.ts" />
-      <jump line="9" column="14" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/configs.ts" />
-      <jump line="24" column="45" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/index.ts" />
-      <jump line="47" column="0" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/index.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/index.ts" />
-      <jump line="53" column="0" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/index.ts" />
-      <jump line="4" column="15" filename="$USER_HOME$/www/work/skorr/skorr-common/src/configuration/index.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/work/skorr/skorr-common/src/configuration/index.ts" />
-      <jump line="21" column="31" filename="$USER_HOME$/www/work/skorr/skorr-common/src/configuration/index.ts" />
-      <jump line="47" column="47" filename="$USER_HOME$/www/work/skorr/skorr-common/src/configuration/index.ts" />
-      <jump line="59" column="0" filename="$USER_HOME$/www/work/skorr/skorr-common/src/configuration/index.ts" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/work/skorr/skorr-common/src/configuration/index.ts" />
-      <jump line="20" column="14" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/configs.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/configs.ts" />
-      <jump line="23" column="1" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/configs.ts" />
-      <jump line="46" column="8" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/index.ts" />
-      <jump line="4" column="16" filename="$USER_HOME$/www/work/skorr/skorr-app/src/environments/environment.ts" />
-      <jump line="3" column="20" filename="$USER_HOME$/www/work/skorr/skorr-app/src/environments/environment.ts" />
-      <jump line="18" column="0" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/configs.ts" />
       <jump line="11" column="23" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/configs.ts" />
       <jump line="17" column="36" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/configs.ts" />
       <jump line="12" column="11" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/configs.ts" />
@@ -501,13 +475,51 @@
       <jump line="35" column="42" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotions.html" />
       <jump line="7" column="37" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-ui-states.js" />
       <jump line="90" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="9" column="12" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="8" column="53" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="36" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="57" column="4" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="6" column="29" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="91" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="49" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="22" column="39" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="5" column="28" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="11" column="25" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="26" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="43" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="42" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="127" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="132" column="58" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="148" column="50" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="18" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="134" column="36" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="41" column="17" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
+      <jump line="57" column="37" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
+      <jump line="49" column="2" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
+      <jump line="26" column="5" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
+      <jump line="47" column="8" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
+      <jump line="202" column="8" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="1" column="36" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="17" column="45" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="61" column="7" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
+      <jump line="67" column="62" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
+      <jump line="2" column="56" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
+      <jump line="72" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
+      <jump line="3" column="9" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
+      <jump line="195" column="40" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2coJHNjb3BlLnByb21vdGlvbnNEYXRhKTsK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -519,16 +531,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>ORDERS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC5zdGF0ZSgnYXBwLnByb21vdGlvbk5ldycsIHsKICAgICAgICB1cmw6ICcvcHJvbW90aW9ucy9uZXcnLAogICAgICAgIHRlbXBsYXRlVXJsOiAnanMvYW5ndWxhci9jb250cm9sbGVycy9wcm9tb3Rpb24tY3RybC9wcm9tb3Rpb24tbmV3Lmh0bWwnLAogICAgICAgIGNvbnRyb2xsZXI6ICdQcm9tb3Rpb25OZXdDdHJsJywKICAgICAgICBhdXRoZW50aWNhdGU6IHRydWUKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0ic3VibWl0IiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IHB1bGwtcmlnaHQiIG5nLWNsaWNrPSJzdWJtaXQoKSI+U3VibWl0PC9idXR0b24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2coJHNjb3BlLnByb21vdGlvbnNEYXRhKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -554,16 +566,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcGUucHJvY2Vzc2luZyA9IHRydWU7CiAgICAgICAgJHNjb3BlLmVycm9yID0gbnVsbDsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGRpdj48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLnByb3BlcnR5SXNFbnVtZXJhYmxlKCApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc2QK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -580,16 +592,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIE5ldwo=</text>
+        <text encoding="base64">ICAgICAgICAudGhlbig9PiB7CiAgICAgICAgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIE5ldyBQcm9tb3Rpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCEtLSBDb250ZW50IEhlYWRlciAoUGFnZSBoZWFkZXIpIC0tPgo8c2VjdGlvbiBjbGFzcz0iY29udGVudC1oZWFkZXIiPgo8L3NlY3Rpb24+Cgo8IS0tIE1haW4gY29udGVudCAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
