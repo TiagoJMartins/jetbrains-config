@@ -370,6 +370,11 @@
         <mark key="^" line="101" column="50" />
         <mark key="." line="101" column="50" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/collaborator.js" timestamp="1505811226224">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="41" column="41" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/index.ts" />
@@ -477,8 +482,8 @@
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICBjb25zb2xlLmxvZygnZG9mZW11NDMnLCBDb2xsYWJvcmF0b3IuaGFzaFBhc3N3b3JkKCdkb2ZlbXU0MycpKTsKICAgICAgICBjb25zb2xlLmxvZygnZ2FidXppNDgnLCBDb2xsYWJvcmF0b3IuaGFzaFBhc3N3b3JkKCdnYWJ1emk0OCcpKTsKICAgICAgICBjb25zb2xlLmxvZygnZ3VyaW1pOTYnLCBDb2xsYWJvcmF0b3IuaGFzaFBhc3N3b3JkKCdndXJpbWk5NicpKTsKICAgIH0sIDUwMDApOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -490,16 +495,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>gabuzi48</text>
       </register>
       <register name="/" type="4">
         <text>ORDERS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLWJveC10b29sIiBuZy1jbGljaz0ic2F2ZShzdG9ja0Zvcm0pIiBuZy1zaG93PSJlZGl0aW5nIj4KICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtY2hlY2siPjwvaT4KICAgICAgICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2FidXppNDgnLCBDb2xsYWJvcmF0b3IuaGFzaFBhc3N3b3JkKCdnYWJ1emk0OCcpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICBzZXRUaW1lb3V0KCgpID0+IHsKICAgICAgICBjb25zb2xlLmxvZygnZG9mZW11NDMnLCBDb2xsYWJvcmF0b3IuaGFzaFBhc3N3b3JkKCdkb2ZlbXU0MycpKTsKICAgICAgICBjb25zb2xlLmxvZygnZ2FidXppNDgnLCBDb2xsYWJvcmF0b3IuaGFzaFBhc3N3b3JkKCdnYWJ1emk0OCcpKTsKICAgICAgICBjb25zb2xlLmxvZygnZ3VyaW1pOTYnLCBDb2xsYWJvcmF0b3IuaGFzaFBhc3N3b3JkKCdndXJpbWk5NicpKTsKICAgIH0sIDUwMDApOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -525,16 +530,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCRzY29wZS5lZGl0U3RvY2tTaXplc3A7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCRzY29wZS5lZGl0U3RvY2tTaXplcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCRzY29wZS5lZGl0U3RvY2tTaXplc3A7Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -551,10 +556,10 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCRzY29wZS5lZGl0U3RvY2tTaXplcyk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
