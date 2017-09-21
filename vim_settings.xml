@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" timestamp="1505990270454">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" timestamp="1505995020205">
+        <mark key="'" line="31" column="32" />
+        <mark key="[" line="38" column="23" />
+        <mark key="]" line="38" column="23" />
+        <mark key="." line="38" column="23" />
+        <mark key="^" line="38" column="26" />
       </file>
       <file name="/Python Console" timestamp="1505826645477">
         <mark key="[" line="0" column="0" />
@@ -23,6 +24,13 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/decorators/working_feedback.py" timestamp="1505994276572">
+        <mark key="'" line="7" column="44" />
+        <mark key="[" line="7" column="39" />
+        <mark key="]" line="7" column="44" />
+        <mark key="." line="7" column="44" />
+        <mark key="^" line="7" column="44" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/CentralWidget.py" timestamp="1505982705708">
         <mark key="'" line="14" column="39" />
@@ -51,6 +59,12 @@
         <mark key="]" line="14" column="32" />
         <mark key="." line="14" column="32" />
         <mark key="^" line="23" column="28" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/UrlFetcherThread.py" timestamp="1505994281210">
+        <mark key="'" line="13" column="21" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/workers/ProductWorker.py" timestamp="1505922871629">
         <mark key="[" line="15" column="0" />
@@ -154,25 +168,15 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" timestamp="1505990934778">
-        <mark key="'" line="56" column="8" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="92" column="45" />
+      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" timestamp="1505995011980">
+        <mark key="'" line="60" column="18" />
+        <mark key="[" line="58" column="62" />
+        <mark key="]" line="59" column="43" />
+        <mark key="." line="59" column="43" />
+        <mark key="^" line="59" column="43" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="31" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/MainWindow.py" />
-      <jump line="48" column="31" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/MainWindow.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/MainWindow.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/MainWindow.py" />
-      <jump line="65" column="26" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/MainWindow.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/MainWindow.py" />
-      <jump line="42" column="49" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/MainWindow.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/MainWindow.py" />
-      <jump line="34" column="42" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/MainWindow.py" />
-      <jump line="5" column="7" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/MainWindow.py" />
       <jump line="8" column="23" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/CentralWidget.py" />
       <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/MainWindow.py" />
       <jump line="35" column="8" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/MainWindow.py" />
@@ -219,7 +223,6 @@
       <jump line="49" column="30" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
       <jump line="13" column="8" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/workers/ProductWorkerThread.py" />
       <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
-      <jump line="13" column="30" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
       <jump line="17" column="8" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
       <jump line="12" column="8" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
       <jump line="36" column="46" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
@@ -243,7 +246,6 @@
       <jump line="24" column="19" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
       <jump line="36" column="43" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
       <jump line="43" column="16" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
-      <jump line="44" column="43" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
       <jump line="40" column="23" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
       <jump line="41" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
       <jump line="33" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
@@ -263,43 +265,55 @@
       <jump line="98" column="8" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
       <jump line="1" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
       <jump line="56" column="8" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
+      <jump line="31" column="32" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
+      <jump line="102" column="29" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
+      <jump line="101" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
+      <jump line="85" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
+      <jump line="13" column="21" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/UrlFetcherThread.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
+      <jump line="7" column="44" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/decorators/working_feedback.py" />
+      <jump line="44" column="7" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
+      <jump line="53" column="7" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
+      <jump line="59" column="18" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh3KQo=</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>background-color</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndpZExheW91dC5hZGRXaWRnZXQoUHJvZHVjdFdpZGdldCh7CiAgICAgICAgICAgICdOYW1lJzogJ1Zlc3RpZG8nLAogICAgICAgICAgICAnUHJpY2UnOiAyNS4yMCwKICAgICAgICAgICAgJ0Rlc2NyaXB0aW9uJzogJ0Rlc2NyacOnw6NvIGRvIHByb2R1dG8gbXVpdG8gbG9uZ2EgYXNkYXNkc2FkYXNkYXNkJyAsCiAgICAgICAgICAgICdDb21wb3NpdGlvbic6ICcxMDAlIFBlbGUgZGUgcmF0byB2aXJhZGEgZG8gYXZlc3NvIHRyYXRhZGEgY29tIGN1c3BlJywKICAgICAgICAgICAgJ0ltYWdlJzogJ2h0dHA6Ly93d3cubWFyaWEtYmlhbmNhLmNvbS8xNTUxLWxhcmdlX2RlZmF1bHQvcGFycm90cy1kcmVzcy0uanBnJwogICAgICAgIH0pKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCBwcm9kdWN0X2RhdGE9Tm9uZSk6CiAgICAgICAgc3VwZXIoUHJvZHVjdFdpZGdldCwgc2VsZikuX19pbml0X18oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh3KQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaSBpbiByYW5nZSgxMCk6CiAgICAgICAgICAgIHNlbGYub25OZXdQcm9kdWN0KHsKICAgICAgICAgICAgICAgICdOYW1lJzogJ1Zlc3RpZG8nLAogICAgICAgICAgICAgICAgJ1ByaWNlJzogMjUuMjAsCiAgICAgICAgICAgICAgICAnRGVzY3JpcHRpb24nOiAnRGVzY3Jpw6fDo28gZG8gcHJvZHV0byBtdWl0byBsb25nYSBhc2Rhc2RzYWRhc2Rhc2QnICwKICAgICAgICAgICAgICAgICdDb21wb3NpdGlvbic6ICcxMDAlIFBlbGUgZGUgcmF0byB2aXJhZGEgZG8gYXZlc3NvIHRyYXRhZGEgY29tIGN1c3BlJywKICAgICAgICAgICAgICAgICdJbWFnZSc6ICdodHRwOi8vd3d3Lm1hcmlhLWJpYW5jYS5jb20vMTU1MS1sYXJnZV9kZWZhdWx0L3BhcnJvdHMtZHJlc3MtLmpwZycKICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgc2VsZi5zZXRPYmplY3ROYW1lKCdwcm9kdWN0JykK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWVFbiA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldFN0eWxlU2hlZXQoIiIiCiAgICAgICAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZCByZWQ7CiAgICAgICAgIiIiKQoK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByb2R1Y3RJbmZvV2lkLnNldFN0eWxlU2hlZXQoJ2JhY2tncm91bmQtY29sb3I6IGJsdWUnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByb2R1Y3RJbmZvV2lkID0gUVdpZGdldCgpCiAgICAgICAgc2VsZi5wcm9kdWN0SW5mb1dpZC5zZXRTdHlsZVNoZWV0KCdiYWNrZ3JvdW5kLWNvbG9yOiBibHVlJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUUxhYmVsIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldE9iamVjdE5hbWUoJ3Byb2R1Y3QnKQoK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNob3coKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldFN0eWxlU2hlZXQoIiIiCiAgICAgICAgICAgIFFMYWJlbCB7CiAgICAgICAgICAgICAgICBib3JkZXI6IDFweCBzb2xpZCByZWQ7CiAgICAgICAgICAgIH0KICAgICAgICAiIiIpCgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNldFN0eWxlU2hlZXQoIiIiCiAgICAgICAgICAgIFFXaWRnZXQjcHJvZHVjdCB7CiAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7CiAgICAgICAgICAgIH0KICAgICAgICAiIiIpCgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxheW91dCA9IFFWQm94TGF5b3V0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
