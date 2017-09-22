@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" timestamp="1506088494335">
-        <mark key="'" line="45" column="90" />
-        <mark key="[" line="45" column="29" />
-        <mark key="]" line="45" column="87" />
-        <mark key="." line="45" column="89" />
-        <mark key="^" line="45" column="87" />
+      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" timestamp="1506094831350">
+        <mark key="[" line="43" column="13" />
+        <mark key="]" line="43" column="55" />
+        <mark key="." line="43" column="55" />
+        <mark key="^" line="43" column="55" />
       </file>
       <file name="/Python Console" timestamp="1506085806835">
         <mark key="[" line="0" column="0" />
@@ -179,15 +178,16 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" timestamp="1506089976455">
-        <mark key="[" line="177" column="55" />
-        <mark key="]" line="177" column="55" />
-        <mark key="." line="177" column="55" />
-        <mark key="^" line="177" column="55" />
+      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" timestamp="1506096008738">
+        <mark key="'" line="201" column="40" />
+        <mark key="k" line="383" column="44" />
+        <mark key="[" line="357" column="22" />
+        <mark key="]" line="357" column="22" />
+        <mark key="." line="357" column="22" />
+        <mark key="^" line="357" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="18" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/workers/ProductWorker.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/workers/ProductWorker.py" />
       <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
       <jump line="33" column="29" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
@@ -287,43 +287,44 @@
       <jump line="64" column="31" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
       <jump line="60" column="35" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
       <jump line="45" column="90" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
+      <jump line="197" column="40" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Q</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>Q</text>
+        <text>n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxheW91dC5hZGRSb3coJ05hbWVFTjonLCBzZWxmLnBOYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hvbGVfZGVzYyA9IGVuU291cC5zZWxlY3QoJyNzaG9ydF9kZXNjcmlwdGlvbl9jb250ZW50ID4gcCcpCiAgICAgICAgICAgIHdob2xlX2Rlc2MgPSBbeCBmb3IgeCBpbiB3aG9sZV9kZXNjIGlmIHgudGV4dC5zdHJpcCgpXQoKICAgICAgICAgICAgZW5Db21wID0gd2hvbGVfZGVzY1sxXS50ZXh0CiAgICAgICAgICAgIGVuQ29tcCA9IGVuQ29tcC5zdHJpcCgpLnJlcGxhY2UodSdceGEwJywgJycpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHRDb21wID0gcHRTb3VwLnNlbGVjdCgnI3Nob3J0X2Rlc2NyaXB0aW9uX2NvbnRlbnQgPiBwJylbMV0udGV4dAogICAgICAgICAgICBpZiBub3QgcHRDb21wOgogICAgICAgICAgICAgICAgcHRDb21wID0gcHRTb3VwLnNlbGVjdCgnI3Nob3J0X2Rlc2NyaXB0aW9uX2NvbnRlbnQgPiBwJylbMl0udGV4dAogICAgICAgICAgICBwdENvbXAgPSBwdENvbXAuc3RyaXAoKS5yZXBsYWNlKHUnXHhhMCcsICcnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBQcmljZSA9IFFMYWJlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hvbGVfZGVzYyA9IHB0U291cC5zZWxlY3QoJyNzaG9ydF9kZXNjcmlwdGlvbl9jb250ZW50ID4gcCcpCiAgICAgICAgICAgIHdob2xlX2Rlc2MgPSBbeCBmb3IgeCBpbiB3aG9sZV9kZXNjIGlmIHgudGV4dC5zdHJpcCgpXQoKICAgICAgICAgICAgcHREZXNjciA9IHdob2xlX2Rlc2NbMF0udGV4dAogICAgICAgICAgICBwdERlc2NyID0gcHREZXNjci5zdHJpcCgpLnJlcGxhY2UodSdceGEwJywgJycpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBOYW1lID0gUUxhYmVsKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbkRlc2NyID0gZW5Tb3VwLnNlbGVjdCgnI3Nob3J0X2Rlc2NyaXB0aW9uX2NvbnRlbnQgPiBwJylbMF0udGV4dAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2hvbGVfZGVzYyA9IGVuU291cC5zZWxlY3QoJyNzaG9ydF9kZXNjcmlwdGlvbl9jb250ZW50ID4gcCcpCiAgICAgICAgICAgIHdob2xlX2Rlc2MgPSBbeCBmb3IgeCBpbiB3aG9sZV9kZXNjIGlmIHgudGV4dF0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB3aG9sZV9kZXNjID0gZW5Tb3VwLnNlbGVjdCgnI3Nob3J0X2Rlc2NyaXB0aW9uX2NvbnRlbnQgPiBwJykKICAgICAgICB3aG9sZV9kZXNjID0gW3ggZm9yIHggaW4gd2hvbGVfZGVzYyBpZiB4LnRleHQuc3RyaXAoKV0KCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh3aG9sZV9kZXNjKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyYW5zbGF0YWJsZUNvbnRlbnRXaWQgPSBRVGFiV2lkZ2V0KCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQod2hvbGVfZGVzYykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyYW5zbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
