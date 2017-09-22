@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" timestamp="1505998989750">
-        <mark key="'" line="31" column="32" />
-        <mark key="[" line="38" column="23" />
-        <mark key="]" line="38" column="24" />
-        <mark key="." line="38" column="24" />
-        <mark key="^" line="38" column="26" />
+      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" timestamp="1506070625448">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="87" column="38" />
+        <mark key="]" line="87" column="48" />
+        <mark key="." line="87" column="48" />
+        <mark key="^" line="87" column="48" />
       </file>
       <file name="/Python Console" timestamp="1505826645477">
         <mark key="[" line="0" column="0" />
@@ -49,8 +49,8 @@
       <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/utils/Scraper.py" timestamp="1506009153852">
         <mark key="'" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/workers/ProductWorkerThread.py" timestamp="1505981695061">
-        <mark key="'" line="14" column="8" />
+      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/workers/ProductWorkerThread.py" timestamp="1506069122984">
+        <mark key="'" line="12" column="0" />
         <mark key="[" line="14" column="32" />
         <mark key="]" line="14" column="32" />
         <mark key="." line="14" column="32" />
@@ -73,7 +73,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="27" column="42" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/ClipboardWatcher.py" timestamp="1505979676908">
+      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/ClipboardWatcher.py" timestamp="1506070906686">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="7" column="36" />
         <mark key="]" line="7" column="38" />
@@ -137,6 +137,7 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="15" />
       </file>
+      <file name="$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/-1394518045/PyQt5/QtCore/QThread.py" timestamp="1506070934701" />
       <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/setup.py" timestamp="1505912663870">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="0" column="0" />
@@ -179,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/workers/productWorker.py" />
       <jump line="7" column="7" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/workers/productWorker.py" />
       <jump line="9" column="45" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/ClipboardWatcher.py" />
       <jump line="5" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/ClipboardWatcher.py" />
@@ -192,7 +192,6 @@
       <jump line="11" column="22" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/ClipboardWatcher.py" />
       <jump line="39" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
       <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
-      <jump line="38" column="8" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
       <jump line="41" column="11" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
       <jump line="20" column="19" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/workers/ProductWorker.py" />
       <jump line="12" column="8" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/workers/ProductWorker.py" />
@@ -206,7 +205,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/workers/ProductWorker.py" />
       <jump line="19" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
       <jump line="33" column="29" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
-      <jump line="40" column="7" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
       <jump line="16" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
       <jump line="49" column="30" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
       <jump line="13" column="8" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/workers/ProductWorkerThread.py" />
@@ -279,43 +277,46 @@
       <jump line="9" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/Worker" />
       <jump line="40" column="12" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/Worker" />
       <jump line="8" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/Worker" />
+      <jump line="12" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/workers/ProductWorkerThread.py" />
+      <jump line="38" column="40" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/components/ContentView.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>10</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>10</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBOYW1lLnNldFRleHQobmV3RGF0YVsnTmFtZSddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTAgLyAyMCA9IDAuNSA9IDUwJQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXR1cz1zZWxmLnNpZ25hbHMuc3RhdHVzLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlCcm9hZEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTAgLyAyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBub2luc3BlY3Rpb24gUHlCcm9hZEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5vaW5zcGVjdGlvbiBQeUJyb2FkRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gYXJnczogCiAgICAgICAgOnJldHVybjogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5vaW5zcGVjdGlvbiBQeUJyb2FkRXhjZXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByb2dyZXNzQmFyLnNldFRleHRWaXNpYmxlKFRydWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYWxfcGVyY2VudGFnZSA9IGQgLyB0ICogMTAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
