@@ -179,11 +179,11 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" timestamp="1506088572147">
-        <mark key="[" line="38" column="62" />
-        <mark key="]" line="38" column="74" />
-        <mark key="." line="38" column="74" />
-        <mark key="^" line="38" column="74" />
+      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" timestamp="1506089976455">
+        <mark key="[" line="177" column="55" />
+        <mark key="]" line="177" column="55" />
+        <mark key="." line="177" column="55" />
+        <mark key="^" line="177" column="55" />
       </file>
     </filemarks>
     <jumps>
@@ -290,40 +290,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>N</text>
+        <text>Q</text>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>Q</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZvcm1OYW1lRU4gPSBRTGluZUVkaXQoKQogICAgICAgIHNlbGYuZm9ybURlc2NyRU4gPSBRTGluZUVkaXQoKQogICAgICAgIHNlbGYuZm9ybUNvbXBFTiA9IFFMaW5lRWRpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxheW91dC5hZGRSb3coJ05hbWVFTjonLCBzZWxmLnBOYW1lKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBQcmljZSA9IFFMYWJlbCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyYW5zbGF0YWJsZUNvbnRlbnRXaWQgPSBRVGFiV2lkZ2V0KCkKCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnBOYW1lID0gUUxhYmVsKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlbkRlc2NyID0gZW5Tb3VwLnNlbGVjdCgnI3Nob3J0X2Rlc2NyaXB0aW9uX2NvbnRlbnQgPiBwJylbMF0udGV4dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnRyYW5zbAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluTGF5b3V0LmFkZFdpZGdldChzZWxmLmZvcm1Hcm91cEJveEVOKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnRyYW5zbGF0YWJsZUNvbnRlbnRXaWQgPSBRVGFiV2lkZ2V0KCkKCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmZvcm1QcmljZS5zZXRWYWx1ZShmbG9hdChzZWxmLmRhdGFbJ3ByaWNlJ10pKQogICAgICAgIHNlbGYuZm9ybVByaWNlLnNldE1pbmltdW0oMCkKICAgICAgICBzZWxmLmZvcm1QcmljZS5zZXRTaW5nbGVTdGVwKC41KQoKICAgICAgICBsYXlvdXQuYWRkUm93KFFMYWJlbCgnUHJpY2U6JyksIHNlbGYuZm9ybVByaWNlKQoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnRyYW5zbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
