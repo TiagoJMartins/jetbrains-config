@@ -230,7 +230,13 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="62" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" timestamp="1506347288383" />
+      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" timestamp="1506348933973">
+        <mark key="'" line="396" column="18" />
+        <mark key="[" line="396" column="12" />
+        <mark key="]" line="396" column="11" />
+        <mark key="." line="396" column="17" />
+        <mark key="^" line="396" column="11" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/users-ctrl/users-ctrl.js" timestamp="1505729849643">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="39" column="13" />
@@ -299,6 +305,12 @@
       </file>
       <file name="/GraphQL.result.json" timestamp="1506090118657">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/models/product.py" timestamp="1506350332822">
+        <mark key="'" line="31" column="18" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/directives/kd-alert/kd-alert.html" timestamp="1505401546497">
         <mark key="[" line="0" column="32" />
@@ -407,13 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="23" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/configs.ts" />
-      <jump line="17" column="36" filename="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/configs.ts" />
-      <jump line="12" column="11" filename="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/configs.ts" />
-      <jump line="17" column="1" filename="$USER_HOME$/www/work/skorr/skorr-api/src/configs.ts" />
-      <jump line="47" column="24" filename="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" />
-      <jump line="50" column="31" filename="$USER_HOME$/www/work/skorr/skorr-app/src/pages/networks/networks.ts" />
-      <jump line="1225" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/_tests/bag-service.spec.js" />
       <jump line="9" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/get.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/bulk-update.js" />
       <jump line="9" column="4" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/product-ctrl/product-ctrl.js" />
@@ -507,13 +512,20 @@
       <jump line="72" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
       <jump line="3" column="9" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" />
       <jump line="195" column="40" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick.html" />
+      <jump line="396" column="18" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
+      <jump line="22" column="8" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/models/product.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/models/product.py" />
+      <jump line="28" column="11" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/models/product.py" />
+      <jump line="5" column="8" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/models/product.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/models/product.py" />
+      <jump line="31" column="18" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/models/product.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2coJHNjb3BlLnByb21vdGlvbnNEYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fZGljdF9fLnVwZGF0ZShsb2NhbHMoKSkK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -525,16 +537,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>upload</text>
       </register>
       <register name="/" type="4">
         <text>ORDERS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0ic3VibWl0IiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IHB1bGwtcmlnaHQiIG5nLWNsaWNrPSJzdWJtaXQoKSI+U3VibWl0PC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRlc2NyaXB0aW9uID0gewogICAgICAgICAgICAnZW4nOiBOb25lLAogICAgICAgICAgICAncHQnOiBOb25lCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2coJHNjb3BlLnByb21vdGlvbnNEYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9fZGljdF9fLnVwZGF0ZShsb2NhbHMoKSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -560,16 +572,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUucHJvY2Vzc2luZyA9IHRydWU7CiAgICAgICAgJHNjb3BlLmVycm9yID0gbnVsbDsKCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBzZWxmLnB1YmxpY19pZHMgPSBbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLnByb3BlcnR5SXNFbnVtZXJhYmxlKCApCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBzZWxmLnB1YmxpY19pZHMgPSBbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc2QK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -586,16 +598,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbig9PiB7CiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
