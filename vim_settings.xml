@@ -230,12 +230,11 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="62" column="7" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" timestamp="1506348933973">
-        <mark key="'" line="396" column="18" />
-        <mark key="[" line="396" column="12" />
-        <mark key="]" line="396" column="11" />
-        <mark key="." line="396" column="17" />
-        <mark key="^" line="396" column="11" />
+      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" timestamp="1506355663914">
+        <mark key="[" line="115" column="48" />
+        <mark key="]" line="115" column="63" />
+        <mark key="." line="115" column="63" />
+        <mark key="^" line="115" column="63" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/users-ctrl/users-ctrl.js" timestamp="1505729849643">
         <mark key="[" line="32" column="0" />
@@ -306,11 +305,17 @@
       <file name="/GraphQL.result.json" timestamp="1506090118657">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/models/product.py" timestamp="1506350332822">
-        <mark key="'" line="31" column="18" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/threads/WorkerSignals.py" timestamp="1506354471504">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="29" />
+        <mark key="." line="9" column="29" />
+        <mark key="^" line="9" column="29" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/models/product.py" timestamp="1506354661508">
+        <mark key="[" line="39" column="30" />
+        <mark key="]" line="40" column="11" />
+        <mark key="." line="40" column="11" />
+        <mark key="^" line="40" column="11" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/directives/kd-alert/kd-alert.html" timestamp="1505401546497">
         <mark key="[" line="0" column="32" />
@@ -419,7 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/get.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/bulk-update.js" />
       <jump line="9" column="4" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/product-ctrl/product-ctrl.js" />
       <jump line="48" column="10" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/product-ctrl/product-ctrl.js" />
@@ -519,13 +523,14 @@
       <jump line="5" column="8" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/models/product.py" />
       <jump line="27" column="0" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/models/product.py" />
       <jump line="31" column="18" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/models/product.py" />
+      <jump line="34" column="26" filename="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/widgets/ProductWidget.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fZGljdF9fLnVwZGF0ZShsb2NhbHMoKSkK</text>
+      <register name="&quot;" type="4">
+        <text>formGenderMale</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -537,16 +542,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>upload</text>
+        <text>formGenderMale</text>
       </register>
       <register name="/" type="4">
         <text>ORDERS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRlc2NyaXB0aW9uID0gewogICAgICAgICAgICAnZW4nOiBOb25lLAogICAgICAgICAgICAncHQnOiBOb25lCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXQuYWRkUm93KFFMYWJlbCgnR2VuZGVyIE1hbGU6JyksIHNlbGYuZm9ybUdlbmRlck1hbGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9fZGljdF9fLnVwZGF0ZShsb2NhbHMoKSkK</text>
+        <text encoding="base64">ICAgICAgICBsYXlvdXQuYWRkUm93KFFMYWJlbCgnR2VuZGVyIEZlbWFsZTonKSwgc2VsZi5mb3JtR2VuZGVyRmVtYWxlKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -572,16 +577,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmZvcm1HZW5kZXIgPSBRQnV0dG9uR3JvdXAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBzZWxmLnB1YmxpY19pZHMgPSBbXQo=</text>
+        <text encoding="base64">CiAgICAgICAgc2VsZi5mb3JtR2VuZGVyLmFkZEJ1dHRvbihzZWxmLmZvcm1HZW5kZXJNYWxlKQogICAgICAgIHNlbGYuZm9ybUdlbmRlci5hZGRCdXR0b24oc2VsZi5mb3JtR2VuZGVyRmVtYWxlKQogICAgICAgIHNlbGYuZm9ybUdlbmRlci5zZXRFeGNsdXNpdmUoRmFsc2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBzZWxmLnB1YmxpY19pZHMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGEgPSBwcm9kdWN0X2RhdGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGEpCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -598,16 +603,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGEgPSBwcm9kdWN0X2RhdGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZWwgZHVtcFsnaW1hZ2VzJ10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnByb2R1Y3REYXRhID0gZGF0YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnOiB7CiAgICAgICAgICAgICAgICAnZW4nOiBlbk5hbWUsCiAgICAgICAgICAgICAgICAncHQnOiBwdE5hbWUKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJzogewogICAgICAgICAgICAgICAgJ2VuJzogZW5EZXNjciwKICAgICAgICAgICAgICAgICdwdCc6IHB0RGVzY3IKICAgICAgICAgICAgfSwKICAgICAgICAgICAgJ2NvbXBvc2l0aW9uJzogewogICAgICAgICAgICAgICAgJ2VuJzogZW5Db21wLAogICAgICAgICAgICAgICAgJ3B0JzogcHRDb21wCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICdwcmljZSc6IHByaWNlLAogICAgICAgICAgICAnb3JpZ2luYWxQcmljZSc6IG9yaWdQcmljZSwKICAgICAgICAgICAgJ2ltYWdlcyc6IGltYWdlcwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
