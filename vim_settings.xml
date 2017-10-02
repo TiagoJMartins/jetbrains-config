@@ -429,6 +429,13 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="7" column="20" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/utils/invoice-service.js" timestamp="1506941791158">
+        <mark key="'" line="283" column="70" />
+        <mark key="[" line="283" column="68" />
+        <mark key="]" line="283" column="73" />
+        <mark key="." line="283" column="73" />
+        <mark key="^" line="283" column="73" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-text/src/models/index.ts" timestamp="1505293707195">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="13" />
@@ -814,6 +821,7 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/order/ifthenpay-callback.js" timestamp="1506938987475" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/store-module.js" timestamp="1506606282060">
         <mark key="[" line="0" column="26" />
         <mark key="]" line="0" column="30" />
@@ -893,7 +901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/brands/brands-ui-states.js" />
       <jump line="111" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/services/store-service.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/getCategories.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/tag.js" />
@@ -993,13 +1000,14 @@
       <jump line="16" column="4" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/orders-ctrl/order-ctrl.js" />
       <jump line="21" column="9" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/order-service.js" />
       <jump line="14" column="44" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/generate-mb-reference.js" />
+      <jump line="283" column="70" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/utils/invoice-service.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>res</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1011,16 +1019,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ORDER</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLWlmPSJvcmRlci5fcGF5bWVudC5zdGF0dXMgIT09ICdhdXRob3JpemVkJyAmJiBvcmRlci5fcGF5bWVudC5tZXRob2QgPT09ICd0YiciCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBocmVmPSIiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0iYnRuIGJ0bi1zdWNjZXNzIGJ0bi14cyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLWNsaWNrPSJtYXJrQXNQYWlkKCkiCiAgICAgICAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIE1hcmsgYXMgUGFpZAogICAgICAgICAgICAgICAgICAgICAgICA8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdG90YWxTaGlwcGluZyArPSB2b3VjaGVySW5mby5kaXNjb3VudDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0b3RhbFNoaXBwaW5nKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1046,16 +1054,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG9yZGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5jbHVkZTogJ29yZGVyJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGJhZy5vcmRlci5nZXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldCB0b3RhbFNoaXBwaW5nID0gMDsK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1072,16 +1080,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBPcmRlci4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgbGV0IHRvdGFsU2hpcHBpbmcgPSBvcmRlckNvcHkuYmFnLnNoaXBwaW5nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGpzb24uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGlzY291bnQgPSB0b3RhbFNoaXBwaW5nIC8gb3JpZ2luYWxTaGlwcGluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBiYWcub3JkZXIuX3BheW1lbnQudXBkYXRlKG5ld1JlZnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIGxldCBvcmlnaW5hbFNoaXBwaW5nID0gdG90YWxTaGlwcGluZyArIHZvdWNoZXJJbmZvLmRpc2NvdW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
