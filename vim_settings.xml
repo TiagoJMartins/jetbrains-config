@@ -965,12 +965,12 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" timestamp="1507040988244">
-        <mark key="'" line="238" column="49" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="239" column="46" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" timestamp="1507044983284">
+        <mark key="'" line="214" column="48" />
+        <mark key="[" line="214" column="25" />
+        <mark key="]" line="217" column="33" />
+        <mark key="." line="217" column="33" />
+        <mark key="^" line="217" column="33" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/directives/kd-alert/kd-alert.html" timestamp="1505401546497">
         <mark key="[" line="0" column="32" />
@@ -1039,7 +1039,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/pages/_kd-brands.scss" />
       <jump line="41" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
       <jump line="21" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/layout/dnd.scss" />
       <jump line="62" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
@@ -1139,13 +1138,14 @@
       <jump line="207" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
       <jump line="116" column="46" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
       <jump line="238" column="49" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
+      <jump line="214" column="48" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3JlbW92ZSB0aGlzIHBscycpOwpjb25zdCBwcmV0dHlqc29uID0gcmVxdWlyZSgncHJldHR5anNvbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RvY2tTaXplcy5zdG9jayc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgJGd0OiAwCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1157,16 +1157,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>mongoUtils</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGlwZWxpbmUucHVzaCh7CiAgICAgICAgICAgICAgICAkc2tpcDogc2tpcAogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGlwZWxpbmUucHVzaCh7CiAgICAgICAgICAgICAgICAkbWF0Y2g6IHsKICAgICAgICAgICAgICAgICAgICAnJHN0b2NrU2l6ZXMuc3RvY2snOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICRndDogMAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3JlbW92ZSB0aGlzIHBscycpOwpjb25zdCBwcmV0dHlqc29uID0gcmVxdWlyZSgncHJldHR5anNvbicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnc3RvY2tTaXplcy5zdG9jayc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgJGd0OiAwCiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1192,16 +1192,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHByZXR0eWpzb24ucmVuZGVyKHApKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdceDFiWzMzbScsIHAsJ1x4MWJbMG0nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIHBpcGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgcHJldHR5anNvbiA9IHJlcXVpcmUoJycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGlwZWxpbmUucHVzaCh7CiAgICAgICAgICAgICAgICAkbWF0Y2g6IHsKICAgICAgICAgICAgICAgICAgICAnc3RvY2tTaXplcy5zdG9jayc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgJGd0OiAwCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9kdWN0OiAnJwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1218,16 +1218,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRtYXRjaDogewogICAgICAgICAgICAgICAgICAgICckc3RvY2tTaXplcy5zdG9jayc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgJGd0OiAwCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZWR1Y2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coY3Vyc29yKTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHBpcGVsaW5lLnB1c2goewogICAgICAgICAgICAgICAgJGdyb3VwOiB7CiAgICAgICAgICAgICAgICAgICAgX2lkOiAnJF9pZCcKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihwcm9kdWN0SWRzID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9kdWN0OiAnJCRDVVJSRU5UJwo=</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
