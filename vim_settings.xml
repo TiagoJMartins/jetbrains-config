@@ -185,6 +185,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1507132275944">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="56" />
+        <mark key="^" line="4" column="56" />
+        <mark key="." line="4" column="56" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/LoginDialog.py" timestamp="1506528876433">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="76" column="0" />
@@ -337,8 +343,8 @@
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, 10</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -350,7 +356,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, 10</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ORDERS</text>
@@ -359,7 +365,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnOiBzZWxmLm5hbWUsCiAgICAgICAgICAgICdkZXNjcmlwdGlvbic6IHNlbGYuZGVzY3JpcHRpb24sCiAgICAgICAgICAgICdjb21wb3NpdGlvbic6IHNlbGYuY29tcG9zaXRpb24sCiAgICAgICAgICAgICdwcmljZSc6IHNlbGYucHJpY2UsCiAgICAgICAgICAgICdvcmlnaW5hbFByaWNlJzogc2VsZi5vcmlnaW5hbFByaWNlLAogICAgICAgICAgICAnZ2VuZGVyJzogc2VsZi5nZW5kZXIsCiAgICAgICAgICAgICd0YWdzJzogc2VsZi50YWdzLAogICAgICAgICAgICAnc2l6ZXMnOiBzZWxmLnNpemVzLAogICAgICAgICAgICAncGFydG5lcklkJzogc2VsZi5wYXJ0bmVySWQsCiAgICAgICAgICAgICdkZWxpdmVyeSc6IHNlbGYuZGVsaXZlcnkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxheW91dC5hZGRXaWRnZXQoc2VsZi5zaWRlYmFyLCAyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -385,16 +391,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UElMCg==</text>
+        <text encoding="base64">cHJpbnQocmVxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -411,20 +417,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBAVE9ETyBDcmVhdGUgaW1hZ2VzLi4uCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdBY2NlcHQnOiAnYXBwbGljYXRpb24vanNvbicsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxheW91dC5hZGRXaWRnZXQoc2VsZi5zaWRlYmFyLCAyKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-                
-            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">UElMCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-                'data': prod
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
