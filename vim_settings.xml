@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/app-ctrl/app.html" timestamp="1506934965046">
-        <mark key="'" line="25" column="43" />
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/app-ctrl/app.html" timestamp="1507110954807">
+        <mark key="'" line="22" column="26" />
+        <mark key="[" line="256" column="0" />
+        <mark key="]" line="256" column="0" />
+        <mark key="." line="256" column="0" />
         <mark key="^" line="15" column="32" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/app-ctrl/app-ui-states.js" timestamp="1505401234620">
@@ -144,9 +144,6 @@
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/www/index.html" timestamp="1507029095931">
-        <mark key="'" line="15" column="22" />
-      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/wishlist/view/wishlist.html" timestamp="1507033629605">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="0" column="53" />
@@ -171,20 +168,17 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/products/directive/product-wall.html" timestamp="1506684459359">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-        <mark key="^" line="0" column="19" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/products/directive/product-wall.html" timestamp="1507110699139">
+        <mark key="[" line="10" column="52" />
+        <mark key="]" line="10" column="52" />
+        <mark key="." line="10" column="52" />
+        <mark key="^" line="10" column="52" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/www/templates/index.html" timestamp="1507030141949">
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="0" />
         <mark key="." line="168" column="0" />
         <mark key="^" line="166" column="37" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/utils/filter-service.js" timestamp="1507038266584">
-        <mark key="'" line="50" column="9" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/products/directive/product-wall-directive.js" timestamp="1505381503489">
         <mark key="[" line="14" column="26" />
@@ -211,12 +205,6 @@
         <mark key="." line="33" column="8" />
         <mark key="^" line="33" column="30" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/layout/_kd-footer-light.scss" timestamp="1507034398514">
-        <mark key="'" line="17" column="22" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/view/app.html" timestamp="1507034264690">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="39" />
@@ -229,9 +217,6 @@
         <mark key="]" line="61" column="73" />
         <mark key="." line="61" column="73" />
         <mark key="^" line="61" column="73" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/child.js" timestamp="1507037731598">
-        <mark key="'" line="52" column="32" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/app/api.py" timestamp="1506439723452">
         <mark key="[" line="69" column="52" />
@@ -252,6 +237,12 @@
         <mark key="]" line="144" column="1" />
         <mark key="." line="144" column="1" />
         <mark key="^" line="144" column="1" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/utils/mongo.js" timestamp="1507106812930">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="25" />
+        <mark key="^" line="24" column="25" />
+        <mark key="." line="24" column="25" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/store/store-ui-states.js" timestamp="1506614059595">
         <mark key="'" line="61" column="0" />
@@ -318,12 +309,12 @@
         <mark key="^" line="0" column="31" />
         <mark key="." line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/homepage/homepage-ui-states.js" timestamp="1507034022935">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/homepage/homepage-ui-states.js" timestamp="1507110765931">
         <mark key="'" line="12" column="20" />
-        <mark key="[" line="15" column="48" />
-        <mark key="]" line="15" column="48" />
-        <mark key="." line="15" column="48" />
-        <mark key="^" line="15" column="48" />
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="19" column="11" />
+        <mark key="." line="19" column="11" />
+        <mark key="^" line="19" column="11" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/tag-service.js" timestamp="1506698024728">
         <mark key="'" line="75" column="14" />
@@ -346,6 +337,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/getRelatedProducts.js" timestamp="1507109796376">
+        <mark key="[" line="47" column="29" />
+        <mark key="]" line="47" column="29" />
+        <mark key="^" line="47" column="29" />
+        <mark key="." line="47" column="29" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/product-ctrl/product-edit-ctrl.js" timestamp="1506673073048">
         <mark key="'" line="23" column="0" />
@@ -373,11 +370,11 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/get.js" timestamp="1507037358232">
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="18" column="49" />
-        <mark key="." line="18" column="49" />
-        <mark key="^" line="18" column="49" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/partner/get.js" timestamp="1507107976803">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="32" column="55" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/services/store-service.js" timestamp="1507104727326">
         <mark key="'" line="108" column="21" />
@@ -418,11 +415,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/product-ctrl/product-show.html" timestamp="1506699604018">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="34" column="30" />
-        <mark key="." line="41" column="75" />
-        <mark key="^" line="41" column="75" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/product-ctrl/product-show.html" timestamp="1507111136148">
+        <mark key="'" line="44" column="40" />
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/layout/_base.scss" timestamp="1507104657286">
         <mark key="'" line="159" column="0" />
@@ -459,6 +457,11 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="66" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/getByIdWithStockSizes.js" timestamp="1507109943366">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/payment/controller/payment-ctrl.js" timestamp="1506943230134">
         <mark key="'" line="64" column="12" />
         <mark key="[" line="231" column="0" />
@@ -466,13 +469,18 @@
         <mark key="." line="231" column="0" />
         <mark key="^" line="45" column="49" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/recommended-products/recommended-products.html" timestamp="1507109353152">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/www/index.html" timestamp="1506953501927">
         <mark key="[" line="35" column="44" />
         <mark key="]" line="35" column="67" />
         <mark key="." line="35" column="67" />
         <mark key="^" line="35" column="67" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1507020245411">
+      <file name="/GraphQL.result.json" timestamp="1507106611640">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/kide-backoffice-desktop/gui/MainWindow.py" timestamp="1506441728674">
@@ -487,9 +495,6 @@
         <mark key="]" line="888" column="44" />
         <mark key="." line="888" column="44" />
         <mark key="^" line="888" column="44" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/orders-ctrl/order-ctrl.js" timestamp="1506938324428">
-        <mark key="'" line="16" column="4" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/product-ctrl/product-new-ctrl.js" timestamp="1506597106248">
         <mark key="'" line="107" column="0" />
@@ -538,8 +543,12 @@
         <mark key="." line="4" column="13" />
         <mark key="^" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/orders-ctrl/order.html" timestamp="1506959190943">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/orders-ctrl/order.html" timestamp="1507111178420">
         <mark key="'" line="20" column="29" />
+        <mark key="[" line="473" column="38" />
+        <mark key="]" line="473" column="52" />
+        <mark key="^" line="473" column="52" />
+        <mark key="." line="473" column="52" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/directives/kd-alert/kd-alert.js" timestamp="1505401632219">
         <mark key="[" line="10" column="19" />
@@ -605,6 +614,12 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/get-stock-exists.js" timestamp="1507106670244">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="1" column="29" />
+        <mark key="." line="1" column="29" />
+        <mark key="^" line="1" column="29" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/tsconfig.json" timestamp="1505212848045">
         <mark key="[" line="8" column="33" />
         <mark key="]" line="8" column="33" />
@@ -635,12 +650,6 @@
         <mark key="]" line="2" column="31" />
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/shop-ui-states.js" timestamp="1506947456630">
-        <mark key="'" line="94" column="16" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-workers/skorr-worker-images/src/interfaces/work-item.interface.ts" timestamp="1505232635143">
         <mark key="[" line="0" column="27" />
@@ -674,12 +683,6 @@
         <mark key="]" line="25" column="39" />
         <mark key="." line="25" column="39" />
         <mark key="^" line="25" column="39" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/footer-light/footer-light-directive.js" timestamp="1507025449369">
-        <mark key="'" line="7" column="46" />
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="0" column="46" />
-        <mark key="." line="0" column="46" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products.html" timestamp="1507022525575">
         <mark key="'" line="21" column="107" />
@@ -739,8 +742,12 @@
         <mark key="." line="192" column="57" />
         <mark key="^" line="192" column="57" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/layout/_kd-footer.scss" timestamp="1507034425639">
-        <mark key="'" line="13" column="0" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/filter-out-of-stock.js" timestamp="1507108492399">
+        <mark key="'" line="9" column="57" />
+        <mark key="[" line="70" column="30" />
+        <mark key="]" line="70" column="29" />
+        <mark key="." line="70" column="29" />
+        <mark key="^" line="70" column="29" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-getters/src/worker-queues/work-item.interface.ts" timestamp="1505232201728">
         <mark key="[" line="0" column="27" />
@@ -800,23 +807,11 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/layout/dnd.scss" timestamp="1506953964459">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-consumers/skorr-instagram/src/interfaces/reaction.interface.ts" timestamp="1505135895764">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="31" />
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/utils/bag-service.js" timestamp="1506937688649">
-        <mark key="'" line="601" column="0" />
-        <mark key="[" line="677" column="0" />
-        <mark key="]" line="677" column="0" />
-        <mark key="." line="677" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-quick-ctrl.js" timestamp="1505820579444">
         <mark key="'" line="3" column="9" />
@@ -856,11 +851,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product.js" timestamp="1506609408002">
-        <mark key="[" line="98" column="34" />
-        <mark key="]" line="98" column="34" />
-        <mark key="." line="98" column="34" />
-        <mark key="^" line="98" column="34" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product.js" timestamp="1507108074041">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="63" column="4" />
+        <mark key="]" line="63" column="20" />
+        <mark key="." line="63" column="20" />
+        <mark key="^" line="63" column="20" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/pages/_kd-brands.scss" timestamp="1506949075318">
         <mark key="'" line="214" column="0" />
@@ -902,6 +898,13 @@
       <file name="/JSRegexp Fragment (get-collections.js:168).regexp" timestamp="1506679252523">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/populate-stocks.js" timestamp="1507110402714">
+        <mark key="'" line="30" column="13" />
+        <mark key="[" line="31" column="41" />
+        <mark key="]" line="31" column="41" />
+        <mark key="." line="31" column="41" />
+        <mark key="^" line="2" column="9" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/size-service.js" timestamp="1506672706281">
         <mark key="[" line="32" column="8" />
         <mark key="]" line="32" column="12" />
@@ -934,7 +937,7 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507038279511">
+      <file name="/Dummy.txt" timestamp="1507109111758">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/route-handlers/instagram/index.ts" timestamp="1505302726110">
@@ -947,6 +950,11 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1507109779946">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/store-module.js" timestamp="1506606282060">
         <mark key="[" line="0" column="26" />
@@ -965,12 +973,7 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" timestamp="1507105571173">
-        <mark key="'" line="209" column="48" />
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="213" column="0" />
-        <mark key="." line="213" column="0" />
-      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" timestamp="1507107213788" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/directives/kd-alert/kd-alert.html" timestamp="1505401546497">
         <mark key="[" line="0" column="32" />
         <mark key="]" line="0" column="37" />
@@ -1012,6 +1015,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="27" column="22" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/getRelatedProducts.js" timestamp="1507107980325" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/tag/get-collections.js" timestamp="1506694266602">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="10" />
@@ -1038,15 +1042,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/layout/dnd.scss" />
-      <jump line="62" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
-      <jump line="18" column="79" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products.html" />
-      <jump line="61" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
-      <jump line="22" column="19" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
-      <jump line="20" column="11" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
-      <jump line="40" column="32" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
       <jump line="94" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
       <jump line="87" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
@@ -1138,13 +1133,22 @@
       <jump line="116" column="46" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
       <jump line="238" column="49" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
       <jump line="214" column="48" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
+      <jump line="99" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product.js" />
+      <jump line="3" column="31" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/filter-out-of-stock.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/filter-out-of-stock.js" />
+      <jump line="14" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/filter-out-of-stock.js" />
+      <jump line="9" column="57" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/filter-out-of-stock.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/populate-stocks.js" />
+      <jump line="27" column="13" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/populate-stocks.js" />
+      <jump line="22" column="26" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/app-ctrl/app.html" />
+      <jump line="42" column="40" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/product-ctrl/product-show.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8a2QtbG9jYWxlIGJpbmQ9InByb2R1Y3QubmFtZSI+PC9rZC1sb2NhbGU+Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1156,16 +1160,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>skip</text>
+        <text>all</text>
       </register>
       <register name="/" type="4">
         <text>mongoUtils</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGlwZWxpbmUucHVzaCh7CiAgICAgICAgICAgICAgICAkc2tpcDogc2tpcAogICAgICAgICAgICB9KTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">JiYgIWhhc0NhdGVnb3J5KHByb2R1Y3QsICdwcm9tbycp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8a2QtbG9jYWxlIGJpbmQ9InByb2R1Y3QubmFtZSI+PC9rZC1sb2NhbGU+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1191,18 +1195,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcHJvZHVjdElkcyA9IFsKICAgICAgICAgICAgLy8gICAgICc1OTg5ZTRlZDdkNTEzNzAxMDA3NGYxOTUnLAogICAgICAgICAgICAvLyAgICAgJzU5ZDM1N2ExZDc0ZjczM2IwMDYwNGU2NCcKICAgICAgICAgICAgLy8gXTsKCg==</text>
+        <text encoding="base64">ICAgIDxhIGhyZWY9IiI+CiAgICA8L2E+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGlwZWxpbmUucHVzaCh7CiAgICAgICAgICAgICAgICAkc2tpcDogc2tpcAogICAgICAgICAgICB9KTsKICAgICAgICAgICAgCiAgICAgICAgICAgIHBpcGVsaW5lLnB1c2goewogICAgICAgICAgICAgICAgJGxpbWl0OiBvcHRzLmxpbWl0CiAgICAgICAgICAgIH0pOwoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxoMT4KICAgICAgICA8a2QtbG9jYWxlIGJpbmQ9InByb2R1Y3QubmFtZSI+PC9rZC1sb2NhbGU+CiAgICA8L2gxPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-                    _id: '$_id'
-                }</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1219,16 +1221,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIHJldHVybiBzZWxmLmdldFByb2R1Y3RzKCk7CiAgICAgICAgICAgIC8vIH0pCiAgICAgICAgICAgIC8vIC50aGVuKGZ1bmN0aW9uICgpIHsK</text>
+        <text encoding="base64">ICAgICAgICA8bGkgbmctaWY9IiFpc1BhcnRuZXIiPgogICAgICAgICAgPGEgbmctY2xpY2s9ImNhbGNQcm9kdWN0U3RvY2tzKCkiIGhyZWY9IiI+CiAgICAgICAgICAgIDxzcGFuPgogICAgICAgICAgICAgICAgQ2FjaGUgUHJvZHVjdCBTdG9ja3MKICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICA8c3BhbgogICAgICAgICAgICAgICAgY2xhc3M9InRyaWdnZXItcHJvZ3Jlc3MiCiAgICAgICAgICAgICAgICBuZy1jbGFzcz0iewogICAgICAgICAgICAgICAgICAgICctd29ya2luZyc6IHRyaWdnZXJTdGF0ZXMuY2FsY1Byb2R1Y3RzID09PSAnd29ya2luZycsCiAgICAgICAgICAgICAgICAgICAgJy1zdWNjZXNzJzogdHJpZ2dlclN0YXRlcy5jYWxjUHJvZHVjdHMgPT09ICdzdWNjZXNzJywKICAgICAgICAgICAgICAgICAgICAnLWVycm9yJzogdHJpZ2dlclN0YXRlcy5jYWxjUHJvZHVjdHMgPT09ICdlcnJvcicsCiAgICAgICAgICAgICAgICB9IgogICAgICAgICAgICA+CiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIDwvYT4KICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLmdldFByb2R1Y3RzKCk7CiAgICAgICAgICAgIH0pCiAgICAgICAgICAgIC50aGVuKGZ1bmN0aW9uICgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaHR0cHM6Ly9naXRodWIuY29tL2FuZ3VsYXItdWkvdWktcm91dGVyL2lzc3Vlcy8xMTY5Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRncm91cDogewogICAgICAgICAgICAgICAgICAgIF9pZDogJyRfaWQnCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJy1vdXRPZlN0b2NrJzogIXByb2R1Y3QuYXZhaWxhYmxlU2l6ZXMubGVuZ3RoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzcGFuIG5nLWlmPSIhcHJvZHVjdC5hdmFpbGFibGVTaXplcy5sZW5ndGgiIHRyYW5zbGF0ZT0iUHJvZHVjdFBhZ2UuT3V0T2ZTdG9jayI+PC9zcGFuPgo=</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
