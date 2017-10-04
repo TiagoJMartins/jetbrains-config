@@ -1027,7 +1027,12 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" timestamp="1507107213788" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" timestamp="1507114617822">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/directives/kd-alert/kd-alert.html" timestamp="1505401546497">
         <mark key="[" line="0" column="32" />
         <mark key="]" line="0" column="37" />
@@ -1096,8 +1101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
-      <jump line="100" column="12" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
       <jump line="93" column="23" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
       <jump line="96" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
       <jump line="119" column="8" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/partner-ctrl/partner-products-ctrl.js" />
@@ -1196,13 +1199,15 @@
       <jump line="42" column="40" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/product-ctrl/product-show.html" />
       <jump line="59" column="27" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/wishlist/utils/wishlist-service.js" />
       <jump line="60" column="12" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/wishlist/controller/wishlist-ctrl.js" />
+      <jump line="175" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgbW9uZ28gPSByZXF1aXJlKCcuLi91dGlscy9tb25nbycpOwo=</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -1223,7 +1228,7 @@
         <text encoding="base64">aGFzQ2F0ZWdvcnkocHJvZHVjdCwgJ25ldy1pbicpICYmICFoYXNDYXRlZ29yeShwcm9kdWN0LCAncHJvbW8nKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJHNjb3BlLnByb2R1Y3RzLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">Y29uc3QgbW9uZ28gPSByZXF1aXJlKCcuLi91dGlscy9tb25nbycpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1249,16 +1254,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJHNjb3BlLnByb2R1Y3RzLmxlbmd0aCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvZHVjdC5wb3B1bGF0ZVN0b2NrcyhbZC5wcm9kdWN0KCldKQogICAgICAgIC50aGVuKHAgPT4gewogICAgICAgICAgICBkLnByb2R1Y3QgPSBwOwogICAgICAgICAgICByZXR1cm4gZDsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUHJvZHVjdC5wb3B1bGF0ZVN0b2NrcyhbZC5wcm9kdWN0KCldKQogICAgICAgIC50aGVuKHAgPT4gewogICAgICAgICAgICBkLnByb2R1Y3QgPSBwOwogICAgICAgICAgICByZXR1cm4gZDsKICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVjaXNpb25zLm1hcChkID0+IHsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1275,16 +1280,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVjaXNpb25zLm1hcChkID0+IHsKICAgICAgICB9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdHMubWFwKHIgPT4gewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
