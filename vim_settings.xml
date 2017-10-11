@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/app-ctrl/app.html" timestamp="1507729857894">
-        <mark key="'" line="107" column="13" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/app-ctrl/app.html" timestamp="1507733109961">
+        <mark key="'" line="116" column="39" />
         <mark key="[" line="124" column="76" />
         <mark key="]" line="124" column="81" />
         <mark key="." line="124" column="81" />
@@ -60,6 +60,11 @@
         <mark key="." line="325" column="40" />
         <mark key="^" line="325" column="40" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/layout/_animations.scss" timestamp="1507128642564">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/layout/sidebar.scss" timestamp="1507729801788">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="17" column="28" />
@@ -112,6 +117,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="38" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/size-group-select/size-group-select.js" timestamp="1507127528489">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="36" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/size-group-select/size-group-select.html" timestamp="1507128541826">
         <mark key="[" line="19" column="37" />
@@ -180,6 +190,11 @@
         <mark key="." line="8" column="51" />
         <mark key="^" line="8" column="51" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/wishlist/getAccountWishlist.js" timestamp="1507113339438">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag.js" timestamp="1506935403778">
         <mark key="'" line="10" column="24" />
         <mark key="[" line="0" column="0" />
@@ -231,6 +246,11 @@
       </file>
       <file name="/Python Console" timestamp="1506442419303">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1506952432114">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/getRelatedProducts.js" timestamp="1507121667675">
         <mark key="[" line="54" column="20" />
@@ -351,12 +371,27 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="66" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/getByIdWithStockSizes.js" timestamp="1507109943366">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/payment/controller/payment-ctrl.js" timestamp="1506943230134">
         <mark key="'" line="64" column="12" />
         <mark key="[" line="231" column="0" />
         <mark key="]" line="237" column="9" />
         <mark key="." line="231" column="0" />
         <mark key="^" line="45" column="49" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/recommended-products/recommended-products.html" timestamp="1507109353152">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/www/index.html" timestamp="1507732495831">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1507719730596">
         <mark key="[" line="0" column="0" />
@@ -410,6 +445,13 @@
         <mark key="." line="246" column="40" />
         <mark key="^" line="246" column="40" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/bower.json" timestamp="1507732459293">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="22" />
+        <mark key="." line="29" column="22" />
+        <mark key="^" line="29" column="22" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/orders-ctrl/order.html" timestamp="1507718103678">
         <mark key="'" line="20" column="29" />
         <mark key="[" line="473" column="38" />
@@ -445,12 +487,12 @@
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" timestamp="1507729094172">
-        <mark key="'" line="22" column="34" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="22" />
-        <mark key="^" line="23" column="22" />
-        <mark key="." line="23" column="22" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" timestamp="1507733321039">
+        <mark key="'" line="3" column="40" />
+        <mark key="[" line="30" column="11" />
+        <mark key="]" line="30" column="11" />
+        <mark key="." line="30" column="11" />
+        <mark key="^" line="30" column="11" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/shop-ui-states.js" timestamp="1506947456630">
         <mark key="'" line="94" column="16" />
@@ -559,6 +601,11 @@
         <mark key="." line="49" column="21" />
         <mark key="^" line="40" column="46" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag/estimate-shipping.js" timestamp="1507119571790">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/size-ctrl/size-ui-states.js" timestamp="1507729873065">
         <mark key="'" line="63" column="20" />
         <mark key="[" line="20" column="39" />
@@ -626,7 +673,11 @@
         <mark key="." line="63" column="20" />
         <mark key="^" line="63" column="20" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/size-groups-ctrl/size-groups.html" timestamp="1507718733368" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/layout/_kd-navbar.scss" timestamp="1506945155681">
+        <mark key="[" line="350" column="15" />
+        <mark key="]" line="350" column="15" />
+        <mark key="." line="350" column="15" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/bag.json" timestamp="1506934882834">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="227" column="25" />
@@ -664,8 +715,23 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507726212874">
+      <file name="/Dummy.txt" timestamp="1507732859055">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/service/article-loader-service.js" timestamp="1507717140812">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/controller/app-ctrl.js" timestamp="1507033445102">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" timestamp="1507109779946">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/article-ctrl/articles-ctrl.js" timestamp="1507730225334">
         <mark key="[" line="17" column="0" />
@@ -676,6 +742,11 @@
         <mark key="]" line="10" column="58" />
         <mark key="." line="10" column="58" />
         <mark key="^" line="10" column="58" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/homepage/view/homepage.html" timestamp="1507027125949">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/getCategories.js" timestamp="1506678279362">
         <mark key="'" line="7" column="0" />
@@ -709,10 +780,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="310" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/pages/_kd-landing-page.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/pages/_kd-landing-page.scss" />
-      <jump line="856" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/pages/_kd-landing-page.scss" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/pages/_kd-landing-page.scss" />
       <jump line="48" column="36" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/footer-light/footer-light.html" />
       <jump line="26" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/pages/_kd-landing-page.scss" />
       <jump line="27" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/pages/_kd-landing-page.scss" />
@@ -809,13 +876,17 @@
       <jump line="19" column="20" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/size-ctrl/sizes.html" />
       <jump line="24" column="4" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/size-ctrl/size-ctrl.js" />
       <jump line="28" column="42" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/article-ctrl/articles.html" />
+      <jump line="19" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/bower.json" />
+      <jump line="3" column="40" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" />
+      <jump line="116" column="39" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/app-ctrl/app.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7e3NpemUub3JkZXJ9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -827,16 +898,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ui-sref=&quot;app.newSize&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Pagination</text>
+        <text>font</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHNjb3BlLnNpemVzLm1hcCgoc2l6ZSwgaSkgPT4gewogICAgICAgICAgICAgICAgc2l6ZS5vcmRlciA9IGk7CiAgICAgICAgICAgICAgICBkZWxldGUgc2l6ZS5wcm9kdWN0czsKICAgICAgICAgICAgICAgIHJldHVybiBTaXplU2VydmljZS51cGRhdGluZyhzaXplKTsKICAgICAgICAgICAgfSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7e3NpemUub3JkZXJ9fQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -862,16 +933,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRoPk9yZGVyPC90aD4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGV0ZSBzaXplLnByb2R1Y3RzOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2l6ZS5vcmRlciA9IGk7CiAgICAgICAgICAgIGRlbGV0ZSBzaXplLnByb2R1Y3RzOwo=</text>
+        <text encoding="base64">Ly8gQEZJWE1FOiBUaGlzIGlzIGEgcXVpY2sgZml4IGJlY2F1c2UgZm9udC1hd2Vzb21lIHJlbW92ZWQgYm93ZXIgc3VwcG9ydC4KCi5mYSB7CiAgICBmb250LXNpemU6IDI4cHg7Cn0K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -888,31 +959,30 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ci5mYSB7CiAgICBmb250LXNpemU6IGluaGVyaXQ7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHEuYWxsKCRzY29wZS5zaXplcy5tYXAoKHNpemUsIGkpID0+IHsKICAgICAgICAgICAgICAgIHNpemUub3JkZXIgPSBpOwogICAgICAgICAgICAgICAgZGVsZXRlIHNpemUucHJvZHVjdHM7CiAgICAgICAgICAgICAgICByZXR1cm4gU2l6ZVNlcnZpY2UudXBkYXRpbmcoc2l6ZSk7CiAgICAgICAgICAgIH0pKQogICAgICAgICAgICAudGhlbigoKSA9PiB7CiAgICAgICAgICAgICAgICAkc3RhdGUuZ28oJHN0YXRlLmN1cnJlbnQsIHt9LCB7IHJlbG9hZDogdHJ1ZSB9KTsKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLmNhdGNoKGUgPT4gewogICAgICAgICAgICAgICAgJHNjb3BlLmVycm9yID0gZS5kYXRhLmVycm9yLm1lc3NhZ2U7CiAgICAgICAgICAgIH0pCiAgICAgICAgICAgIC5maW5hbGx5KCgpID0+IHsKICAgICAgICAgICAgICAgICRzY29wZS5pc1Byb2Nlc3NpbmcgPSBmYWxzZTsKICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">QGltcG9ydCAiLi4vd3d3L2xpYi9hbmd1bGFyLWdyaWRzdGVyL2Rpc3QvYW5ndWxhci1ncmlkc3Rlci5jc3MiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLgo=</text>
+        <text encoding="base64">ICAgICAgPGxpbmsgaHJlZj0ibGliL2ZvbnQtYXdlc29tZS9jc3MvZm9udC1hd2Vzb21lLm1pbi5jc3MiIHR5cGU9InRleHQvY3NzIiByZWw9InN0eWxlc2hlZXQiIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJmb250LWF3ZXNvbWUiOiAiXjQuNy4wIgo=</text>
       </register>
       <register name=":" type="4">
         <text>78</text>
       </register>
     </registers>
     <search>
-      <last-search>Pagination</last-search>
+      <last-search>font</last-search>
       <last-offset />
-      <last-pattern>Pagination</last-pattern>
+      <last-pattern>font</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>brand</entry>
         <entry>docker build</entry>
         <entry>TAGS</entry>
         <entry>PRODUCTS</entry>
@@ -932,6 +1002,7 @@
         <entry>Strings</entry>
         <entry>pagination</entry>
         <entry>Pagination</entry>
+        <entry>font</entry>
       </history-search>
       <history-cmd>
         <entry>76</entry>
