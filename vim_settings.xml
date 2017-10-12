@@ -130,6 +130,12 @@
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/postcss.config.js" timestamp="1507797282127">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="38" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/size-group-select/size-group-select.html" timestamp="1507128541826">
         <mark key="[" line="19" column="37" />
         <mark key="]" line="19" column="42" />
@@ -260,10 +266,12 @@
         <mark key="^" line="21" column="3" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/webpack.config.js" timestamp="1507796556078">
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/webpack.config.js" timestamp="1507797495634">
+        <mark key="'" line="78" column="1" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="82" column="1" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/footer-light/footer-light.html" timestamp="1507034169300">
         <mark key="'" line="15" column="16" />
@@ -485,6 +493,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/JSRegexp Fragment (webpack.config.js:945).regexp" timestamp="1507797033924">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/constants.js" timestamp="1506935492103">
         <mark key="'" line="87" column="23" />
         <mark key="[" line="100" column="54" />
@@ -688,11 +699,11 @@
         <mark key="." line="28" column="51" />
         <mark key="^" line="28" column="51" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/package.json" timestamp="1507734973853">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="5" column="32" />
-        <mark key="^" line="5" column="32" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/package.json" timestamp="1507797751668">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="28" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-ui-states.js" timestamp="1505814893916">
         <mark key="'" line="5" column="37" />
@@ -766,7 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="12" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/pages/_kd-landing-page.scss" />
       <jump line="15" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/www/index.html" />
       <jump line="78" column="29" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/static-pages/static-pages-ui-states.js" />
       <jump line="161" column="39" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/static-pages/static-pages-ui-states.js" />
@@ -866,13 +876,14 @@
       <jump line="88" column="15" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
       <jump line="40" column="31" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/.eslintignore" />
+      <jump line="79" column="1" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/webpack.config.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKGlzUHJvZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -884,7 +895,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>copy</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>concat</text>
@@ -893,7 +904,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJ25vZGVfbW9kdWxlcy9mb250LWF3ZXNvbWUvc2Nzcy9mb250LWF3ZXNvbWUuc2NzcycsCiAgICAgICAgICAgICdub2RlX21vZHVsZXMvYm9vdHN0cmFwLXNhc3MvYXNzZXRzL3N0eWxlc2hlZXRzL19ib290c3RyYXAuc2NzcycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKGlzUHJvZCk7Cg==</text>
+        <text encoding="base64">Y29uc3QgSHRtbFdlYnBhY2tQbHVnaW4gPSByZXF1aXJlKCdodG1sLXdlYnBhY2stcGx1Z2luJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -919,16 +930,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5waXBlKHBsdW1iZXIoKSkK</text>
+        <text encoding="base64">ICAgICAgICBqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5waXBlKClqamoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -945,16 +956,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbmZpZy4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ZvbnQtYXdlc29tZScsCiAgICAgICAgICAgICdib290c3RyYXAtc2FzcycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FkbWluLWx0ZS9kaXN0L2Nzcy9BZG1pbkxURS5taW4uY3NzJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25vZGVfbW9kdWxlcy9mb250LWF3ZXNvbWUvc2Nzcy9mb250LWF3ZXNvbWUuc2NzcycsCiAgICAgICAgICAgICdub2RlX21vZHVsZXMvYm9vdHN0cmFwLXNhc3MvYXNzZXRzL3N0eWxlc2hlZXRzL19ib290c3RyYXAuc2NzcycsCg==</text>
+        <text encoding="base64">ICAgIGlmIChpc1Byb2QpIHsKICAgICAgICBjb25maWcuZGV2CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
