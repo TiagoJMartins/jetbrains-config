@@ -390,10 +390,11 @@
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/www/index.html" timestamp="1507735196724">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/www/index.html" timestamp="1507806327599">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="27" />
+        <mark key="." line="29" column="27" />
+        <mark key="^" line="29" column="27" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1507793346555">
         <mark key="[" line="0" column="0" />
@@ -494,10 +495,12 @@
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" timestamp="1507796274536">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" timestamp="1507806346051">
+        <mark key="'" line="8" column="48" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="4" column="8" />
       </file>
       <file name="/JSRegexp Fragment (webpack.config.js:945).regexp" timestamp="1507797033924">
         <mark key="[" line="0" column="0" />
@@ -544,12 +547,12 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" timestamp="1507803972307">
-        <mark key="'" line="28" column="24" />
-        <mark key="[" line="88" column="16" />
-        <mark key="]" line="89" column="12" />
-        <mark key="." line="89" column="12" />
-        <mark key="^" line="89" column="12" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" timestamp="1507806616583">
+        <mark key="'" line="91" column="10" />
+        <mark key="[" line="91" column="10" />
+        <mark key="]" line="91" column="18" />
+        <mark key="." line="91" column="18" />
+        <mark key="^" line="91" column="18" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/static-pages/static-pages-ui-states.js" timestamp="1507029916554">
         <mark key="'" line="161" column="39" />
@@ -784,25 +787,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/footer-light/footer-light.html" />
-      <jump line="159" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/layout/_base.scss" />
-      <jump line="17" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/layout/_kd-footer-light.scss" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/layout/_kd-footer.scss" />
-      <jump line="24" column="39" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/utils/filter-service.js" />
-      <jump line="180" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
-      <jump line="50" column="9" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/utils/filter-service.js" />
-      <jump line="52" column="32" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/child.js" />
-      <jump line="188" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
-      <jump line="183" column="56" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
-      <jump line="207" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
-      <jump line="116" column="46" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
-      <jump line="238" column="49" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
-      <jump line="214" column="48" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" />
-      <jump line="99" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product.js" />
-      <jump line="3" column="31" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/filter-out-of-stock.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/filter-out-of-stock.js" />
-      <jump line="14" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/filter-out-of-stock.js" />
-      <jump line="9" column="57" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/filter-out-of-stock.js" />
       <jump line="44" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/populate-stocks.js" />
       <jump line="27" column="13" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/populate-stocks.js" />
       <jump line="22" column="26" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/app-ctrl/app.html" />
@@ -870,7 +854,6 @@
       <jump line="28" column="42" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/article-ctrl/articles.html" />
       <jump line="19" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" />
       <jump line="15" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/bower.json" />
-      <jump line="3" column="40" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" />
       <jump line="116" column="39" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/app-ctrl/app.html" />
       <jump line="15" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
       <jump line="68" column="32" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
@@ -884,13 +867,33 @@
       <jump line="27" column="25" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/app.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/app.js" />
       <jump line="88" column="52" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/app.js" />
+      <jump line="16" column="29" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" />
+      <jump line="3" column="60" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" />
+      <jump line="4" column="49" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" />
+      <jump line="5" column="58" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" />
+      <jump line="6" column="43" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" />
+      <jump line="7" column="58" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" />
+      <jump line="8" column="48" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" />
+      <jump line="157" column="9" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
+      <jump line="23" column="12" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
+      <jump line="82" column="11" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
+      <jump line="84" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
+      <jump line="108" column="51" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
+      <jump line="110" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
+      <jump line="114" column="34" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
+      <jump line="115" column="42" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
+      <jump line="151" column="44" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
+      <jump line="163" column="32" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
+      <jump line="20" column="9" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
+      <jump line="154" column="37" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
+      <jump line="90" column="10" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z3VscC50YXNrKCdjb3B5LWxpYnMnLCAoKSA9PiB7CiAgICByZXR1cm4gZ3VscC5zcmMocGF0aHMuc3JjLmxpYnMubWFwKGxpYiA9PiBgbm9kZV9tb2R1bGVzLyR7bGlifWApKQogICAgLnBpcGUoY29weSgnd3d3L2xpYi8nKSk7Cn0pOwoK</text>
+      <register name="&quot;" type="4">
+        <text>copy</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -902,16 +905,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>copy</text>
       </register>
       <register name="/" type="4">
-        <text>concat</text>
+        <text>vendor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25vZGVfbW9kdWxlcy9mb250LWF3ZXNvbWUvc2Nzcy9mb250LWF3ZXNvbWUuc2NzcycsCiAgICAgICAgICAgICdub2RlX21vZHVsZXMvYm9vdHN0cmFwLXNhc3MvYXNzZXRzL3N0eWxlc2hlZXRzL19ib290c3RyYXAuc2NzcycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25vZGVfbW9kdWxlcy9mb250LWF3ZXNvbWUvZm9udHMvZm9udGF3ZXNvbWUtd2ViZm9udC53b2ZmJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z3VscC50YXNrKCdjb3B5LWxpYnMnLCAoKSA9PiB7CiAgICByZXR1cm4gZ3VscC5zcmMocGF0aHMuc3JjLmxpYnMubWFwKGxpYiA9PiBgbm9kZV9tb2R1bGVzLyR7bGlifWApKQogICAgLnBpcGUoY29weSgnd3d3L2xpYi8nKSk7Cn0pOwoK</text>
+        <text encoding="base64">ICAgIC5waXBlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -937,16 +940,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsaWJzOiBbCiAgICAgICAgICAgICdmb250LWF3ZXNvbWUnLAogICAgICAgICAgICAnYm9vdHN0cmFwLXNhc3MnLAogICAgICAgICAgICAnYW5ndWxhci11aS1ib290c3RyYXAnLAogICAgICAgICAgICAnYW5ndWxhci1ncmlkc3RlcicsCiAgICAgICAgICAgICdhZG1pbi1sdGUnLAogICAgICAgICAgICAndWktc2VsZWN0JywKICAgICAgICAgICAgJ2FuZ3VsYXIteGVkaXRhYmxlJywKICAgICAgICAgICAgJ2pzb25lZGl0b3InLAogICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAicGFyc2VyT3B0aW9ucyI6IHsKICAgICJzb3VyY2VUeXBlIjogIm1vZHVsZSIKICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZ3VsYXIgZnJvbSAnYW5ndWxhcic7Cgo=</text>
+        <text encoding="base64">QGltcG9ydCAiLi4vbm9kZV9tb2R1bGVzL2FuZ3VsYXItdWktYm9vdHN0cmFwL3VpLWJvb3RzdHJhcC1jc3AuY3NzIjsKQGltcG9ydCAiLi4vbm9kZV9tb2R1bGVzL2FuZ3VsYXItZ3JpZHN0ZXIvZGlzdC9hbmd1bGFyLWdyaWRzdGVyLm1pbi5jc3MiOwpAaW1wb3J0ICIuLi9ub2RlX21vZHVsZXMvYWRtaW4tbHRlL2Rpc3QvY3NzL0FkbWluTFRFLm1pbi5jc3MiOwpAaW1wb3J0ICIuLi9ub2RlX21vZHVsZXMvYWRtaW4tbHRlL2Rpc3QvY3NzL3NraW5zL3NraW4teWVsbG93Lm1pbi5jc3MiOwpAaW1wb3J0ICIuLi9ub2RlX21vZHVsZXMvdWktc2VsZWN0L2Rpc3Qvc2VsZWN0Lm1pbi5jc3MiOwpAaW1wb3J0ICIuLi9ub2RlX21vZHVsZXMvYW5ndWxhci14ZWRpdGFibGUvZGlzdC9jc3MveGVkaXRhYmxlLm1pbi5jc3MiOwpAaW1wb3J0ICIuLi9ub2RlX21vZHVsZXMvanNvbmVkaXRvci9kaXN0L2pzb25lZGl0b3IubWluLmNzcyI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgY29weSA9IHJlcXVpcmUoJ2d1bHAtY29weScpOwo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -963,31 +966,30 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZ3VsYXIgZnJvbSAnYW5ndWxhcic7Cg==</text>
+        <text encoding="base64">LnBpcGUoZ3VscC5zcmMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJzb3VyIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25vZGVfbW9kdWxlcy9hbmd1bGFyLXVpLWJvb3RzdHJhcC91aS1ib290c3RyYXAtY3NwLmNzcycsCiAgICAgICAgICAgICdub2RlX21vZHVsZXMvYW5ndWxhci1ncmlkc3Rlci9kaXN0L2FuZ3VsYXItZ3JpZHN0ZXIubWluLmNzcycsCiAgICAgICAgICAgICdub2RlX21vZHVsZXMvYWRtaW4tbHRlL2Rpc3QvY3NzL0FkbWluTFRFLm1pbi5jc3MnLAogICAgICAgICAgICAnbm9kZV9tb2R1bGVzL2FkbWluLWx0ZS9kaXN0L2Nzcy9za2lucy9za2luLXllbGxvdy5taW4uY3NzJywKICAgICAgICAgICAgJ25vZGVfbW9kdWxlcy91aS1zZWxlY3QvZGlzdC9zZWxlY3QubWluLmNzcycsCiAgICAgICAgICAgICdub2RlX21vZHVsZXMvYW5ndWxhci14ZWRpdGFibGUvZGlzdC9jc3MveGVkaXRhYmxlLm1pbi5jc3MnLAogICAgICAgICAgICAnbm9kZV9tb2R1bGVzL2pzb25lZGl0b3IvZGlzdC9qc29uZWRpdG9yLm1pbi5jc3MnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJzb3VyIgo=</text>
+        <text encoding="base64">Cmd1bHAudGFzaygnc3R5bGVzJywgKCkgPT4gewogICAgcmV0dXJuIGd1bHAuc3JjKHBhdGhzLnNyYy5zY3NzKQp9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiIgo=</text>
+        <text encoding="base64">ICAgIC5waXBlKHBsdW1iZXIoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>concat</last-search>
+      <last-search>vendor</last-search>
       <last-offset />
-      <last-pattern>concat</last-pattern>
+      <last-pattern>vendor</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>TAGS</entry>
         <entry>PRODUCTS</entry>
         <entry>voucher</entry>
         <entry>This voucher was already used</entry>
@@ -1007,6 +1009,7 @@
         <entry>Pagination</entry>
         <entry>font</entry>
         <entry>concat</entry>
+        <entry>vendor</entry>
       </history-search>
       <history-cmd>
         <entry>76</entry>
