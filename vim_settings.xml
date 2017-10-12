@@ -556,6 +556,13 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="22" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" timestamp="1507819033141">
+        <mark key="'" line="160" column="2" />
+        <mark key="[" line="172" column="19" />
+        <mark key="]" line="173" column="17" />
+        <mark key="^" line="173" column="17" />
+        <mark key="." line="173" column="17" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/static-pages/static-pages-ui-states.js" timestamp="1507029916554">
         <mark key="'" line="161" column="39" />
         <mark key="[" line="192" column="43" />
@@ -582,12 +589,12 @@
         <mark key="." line="11" column="30" />
         <mark key="^" line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/gulpfile.js" timestamp="1507815186461">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="258" column="9" />
-        <mark key="]" line="258" column="18" />
-        <mark key="^" line="258" column="18" />
-        <mark key="." line="258" column="18" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/gulpfile.js" timestamp="1507819016053">
+        <mark key="'" line="258" column="9" />
+        <mark key="[" line="260" column="17" />
+        <mark key="]" line="260" column="18" />
+        <mark key="." line="260" column="18" />
+        <mark key="^" line="260" column="17" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/services/product-service.js" timestamp="1506947545999">
         <mark key="'" line="40" column="5" />
@@ -808,8 +815,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="35" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/layout/_kd-products.scss" />
-      <jump line="8" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/service/product-service.js" />
       <jump line="218" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/app.js" />
       <jump line="5" column="29" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/filter-select/filter-select.html" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/filter-select/filter-select.html" />
@@ -908,13 +913,15 @@
       <jump line="150" column="51" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/gulpfile.js" />
       <jump line="27" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/gulpfile.js" />
       <jump line="11" column="53" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/auto-scroll/auto-scroll.js" />
+      <jump line="258" column="9" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/gulpfile.js" />
+      <jump line="160" column="2" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJib3dlciI6ICJ+MS43LjkiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -926,7 +933,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>vendor</text>
@@ -935,7 +942,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBBcnRpY2xlTG9hZGVyLmFydGljbGVzLmdldEN1cnJlbnQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJib3dlciI6ICJ+MS43LjkiLAo=</text>
+        <text encoding="base64">ICAgICAgICBwb3J0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -961,16 +968,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBib3dlci1kZXByZWNhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAiY2xvdWRpbmFyeS1hbmd1bGFyIjogIn4xLjAuMSIsCj09PT09PT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBib3dlci1kZXByZWNhdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9ydAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECi5idG4teHMgLmZhIHsKICAgIGZvbnQtc2l6ZTogMjhweDsKfQoKLm5hdmJhciAuZmEsCi5zaWRlYmFyIC5mYSB7CiAgICBmb250LXNpemU6IDIwcHg7Owo9PT09PT09Cg==</text>
+        <text encoding="base64">ICAgICJib3dlciI6ICJ+MS43LjkiLAo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -990,13 +997,13 @@
         <text encoding="base64">Pj4+Pj4+PiBib3dlci1kZXByZWNhdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECkBpbXBvcnQgIi4uL3d3dy9saWIvYm9vdHN0cmFwLXNhc3MvYXNzZXRzL3N0eWxlc2hlZXRzL19ib290c3RyYXAuc2NzcyI7CkBpbXBvcnQgIi4uL25vZGVfbW9kdWxlcy9hbmd1bGFyLXVpLWJvb3RzdHJhcC91aS1ib290c3RyYXAtY3NwLmNzcyI7CkBpbXBvcnQgIi4uL3d3dy9saWIvYW5ndWxhci1ncmlkc3Rlci9kaXN0L2FuZ3VsYXItZ3JpZHN0ZXIuY3NzIjsKPT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAiY2xvdWRpbmFyeS1hbmd1bGFyIjogIn4xLjAuMSIsCj09PT09PT0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBib3dlci1kZXByZWNhdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IGQ3NWZkNzc4OTM1NzIyZDIwYjZlNTc2MmVjMGMxNzZjYjIyZWY1MzgK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECi5idG4teHMgLmZhIHsKICAgIGZvbnQtc2l6ZTogMjhweDsKfQoKLm5hdmJhciAuZmEsCi5zaWRlYmFyIC5mYSB7CiAgICBmb250LXNpemU6IDIwcHg7Owo9PT09PT09Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
