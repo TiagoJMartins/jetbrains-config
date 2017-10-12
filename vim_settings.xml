@@ -495,12 +495,11 @@
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" timestamp="1507806346051">
-        <mark key="'" line="8" column="48" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="4" column="8" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" timestamp="1507808334998">
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+        <mark key="^" line="25" column="20" />
       </file>
       <file name="/JSRegexp Fragment (webpack.config.js:945).regexp" timestamp="1507797033924">
         <mark key="[" line="0" column="0" />
@@ -547,12 +546,12 @@
         <mark key="." line="8" column="22" />
         <mark key="^" line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" timestamp="1507806616583">
-        <mark key="'" line="91" column="10" />
-        <mark key="[" line="91" column="10" />
-        <mark key="]" line="91" column="18" />
-        <mark key="." line="91" column="18" />
-        <mark key="^" line="91" column="18" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" timestamp="1507807917284">
+        <mark key="'" line="126" column="33" />
+        <mark key="[" line="119" column="26" />
+        <mark key="]" line="119" column="31" />
+        <mark key="." line="119" column="31" />
+        <mark key="^" line="119" column="31" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/static-pages/static-pages-ui-states.js" timestamp="1507029916554">
         <mark key="'" line="161" column="39" />
@@ -713,11 +712,10 @@
         <mark key="." line="28" column="51" />
         <mark key="^" line="28" column="51" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/package.json" timestamp="1507797751668">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="28" />
-        <mark key="." line="4" column="28" />
-        <mark key="^" line="4" column="28" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/package.json" timestamp="1507807964240">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/promotion-ctrl/promotion-ui-states.js" timestamp="1505814893916">
         <mark key="'" line="5" column="37" />
@@ -726,7 +724,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507732859055">
+      <file name="/Dummy.txt" timestamp="1507807924976">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/service/article-loader-service.js" timestamp="1507717140812">
@@ -787,8 +785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/populate-stocks.js" />
-      <jump line="27" column="13" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/product/populate-stocks.js" />
       <jump line="22" column="26" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/app-ctrl/app.html" />
       <jump line="42" column="40" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/js/angular/controllers/product-ctrl/product-show.html" />
       <jump line="59" column="27" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/wishlist/utils/wishlist-service.js" />
@@ -887,13 +883,15 @@
       <jump line="20" column="9" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
       <jump line="154" column="37" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
       <jump line="90" column="10" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
+      <jump line="24" column="13" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/scss/main.scss" />
+      <jump line="126" column="33" filename="$USER_HOME$/www/work/kide/devel/kide-backoffice/gulpfile.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>copy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJzdGFydCI6ICJucG0gcnVuIHNlcnZlIiwK</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -905,16 +903,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>copy</text>
+        <text>sass</text>
       </register>
       <register name="/" type="4">
         <text>vendor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25vZGVfbW9kdWxlcy9mb250LWF3ZXNvbWUvZm9udHMvZm9udGF3ZXNvbWUtd2ViZm9udC53b2ZmJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25vZGVfbW9kdWxlcy9mb250LWF3ZXNvbWUvZm9udHMvZm9udGF3ZXNvbWUtd2ViZm9udC50dGYnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5waXBlCg==</text>
+        <text encoding="base64">ICAgICJzdGFydCI6ICJucG0gcnVuIHNlcnZlIiwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -940,13 +938,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25vZGVfbW9kdWxlcy9ib290c3RyYXAtc2Fzcy9mb250cy9nbHlwaGljb25zLWgnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25vZGVfbW9kdWxlcy9ib290c3RyYXAtc2Fzcy9mb250cy9mb250YXdlc29tZS13ZWJmb250LnR0ZicsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi4vbm9kZV9tb2R1bGVzL2FuZ3VsYXItdWktYm9vdHN0cmFwL3VpLWJvb3RzdHJhcC1jc3AuY3NzIjsKQGltcG9ydCAiLi4vbm9kZV9tb2R1bGVzL2FuZ3VsYXItZ3JpZHN0ZXIvZGlzdC9hbmd1bGFyLWdyaWRzdGVyLm1pbi5jc3MiOwpAaW1wb3J0ICIuLi9ub2RlX21vZHVsZXMvYWRtaW4tbHRlL2Rpc3QvY3NzL0FkbWluTFRFLm1pbi5jc3MiOwpAaW1wb3J0ICIuLi9ub2RlX21vZHVsZXMvYWRtaW4tbHRlL2Rpc3QvY3NzL3NraW5zL3NraW4teWVsbG93Lm1pbi5jc3MiOwpAaW1wb3J0ICIuLi9ub2RlX21vZHVsZXMvdWktc2VsZWN0L2Rpc3Qvc2VsZWN0Lm1pbi5jc3MiOwpAaW1wb3J0ICIuLi9ub2RlX21vZHVsZXMvYW5ndWxhci14ZWRpdGFibGUvZGlzdC9jc3MveGVkaXRhYmxlLm1pbi5jc3MiOwpAaW1wb3J0ICIuLi9ub2RlX21vZHVsZXMvanNvbmVkaXRvci9kaXN0L2pzb25lZGl0b3IubWluLmNzcyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25vZGVfbW9kdWxlcy9mb250LWF3ZXNvbWUvZm9udHMvZm9udGF3ZXNvbWUtd2ViZm9udC50dGYnLAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Y29uc3QgY29weSA9IHJlcXVpcmUoJ2d1bHAtY29weScpOwo=</text>
@@ -966,16 +964,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LnBpcGUoZ3VscC5zcmMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25vZGVfbW9kdWxlcy9ib290c3RyYXAvZm9udHMvZm9udGF3ZXNvbWUtd2ViZm9udC50dGYnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ25vZGVfbW9kdWxlcy9hbmd1bGFyLXVpLWJvb3RzdHJhcC91aS1ib290c3RyYXAtY3NwLmNzcycsCiAgICAgICAgICAgICdub2RlX21vZHVsZXMvYW5ndWxhci1ncmlkc3Rlci9kaXN0L2FuZ3VsYXItZ3JpZHN0ZXIubWluLmNzcycsCiAgICAgICAgICAgICdub2RlX21vZHVsZXMvYWRtaW4tbHRlL2Rpc3QvY3NzL0FkbWluTFRFLm1pbi5jc3MnLAogICAgICAgICAgICAnbm9kZV9tb2R1bGVzL2FkbWluLWx0ZS9kaXN0L2Nzcy9za2lucy9za2luLXllbGxvdy5taW4uY3NzJywKICAgICAgICAgICAgJ25vZGVfbW9kdWxlcy91aS1zZWxlY3QvZGlzdC9zZWxlY3QubWluLmNzcycsCiAgICAgICAgICAgICdub2RlX21vZHVsZXMvYW5ndWxhci14ZWRpdGFibGUvZGlzdC9jc3MveGVkaXRhYmxlLm1pbi5jc3MnLAogICAgICAgICAgICAnbm9kZV9tb2R1bGVzL2pzb25lZGl0b3IvZGlzdC9qc29uZWRpdG9yLm1pbi5jc3MnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25vZGVfbW9kdWxlcy9ib290c3RyYXAvZm9udHMvZ2x5cGhpY29ucy1oYWxmLnR0ZicsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cmd1bHAudGFzaygnc3R5bGVzJywgKCkgPT4gewogICAgcmV0dXJuIGd1bHAuc3JjKHBhdGhzLnNyYy5zY3NzKQp9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25vZGUnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5waXBlKHBsdW1iZXIoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
