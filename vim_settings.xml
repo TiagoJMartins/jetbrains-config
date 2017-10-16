@@ -138,11 +138,11 @@
         <mark key="^" line="3" column="50" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/www/templates/index.html" timestamp="1508149468862">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/www/templates/index.html" timestamp="1508159078843">
         <mark key="'" line="146" column="0" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/postcss.config.js" timestamp="1507797282127">
         <mark key="[" line="3" column="38" />
@@ -269,12 +269,6 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/module/products/products-module.js" timestamp="1508141048427">
-        <mark key="'" line="0" column="4" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/navigation/components/badge/badge.js" timestamp="1507900307833">
         <mark key="[" line="4" column="12" />
@@ -463,6 +457,12 @@
         <mark key="]" line="20" column="23" />
         <mark key="^" line="20" column="23" />
         <mark key="." line="20" column="23" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/module/shop/controllers/shop-categories.js" timestamp="1508140269019">
+        <mark key="'" line="319" column="0" />
+        <mark key="[" line="278" column="0" />
+        <mark key="]" line="278" column="12" />
+        <mark key="." line="278" column="12" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/service/children-service.js" timestamp="1507902300885">
         <mark key="[" line="0" column="14" />
@@ -716,7 +716,7 @@
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRzY29wZS5jaGVja291dC5ub25jZSA9IHBheWxvYWQubm9uY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -737,7 +737,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICd3d3cvbGliL2JyYWludHJlZS1hbmd1bGFyL2xpYi9icmFpbnRyZWUtYW5ndWxhci5qcycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRzY29wZS5jaGVja291dC5ub25jZSA9IHBheWxvYWQubm9uY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -763,16 +763,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRzY29wZS5zdWJtaXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRzY29wZS5jaGVja291dC5ub25jZSA9IHBheWxvYWQubm9uY2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJicmFpbnRyZWUtd2ViIjogIioiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICRzY29wZS5zdWJtaXQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJicmFpbnRyZWUtYW5ndWxhciI6ICIyLjAuMCIsCg==</text>
+        <text encoding="base64">ICAgICJicmFpbnRyZWUtd2ViIjogIioiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICJicmFpbnRyZWUtYW5ndWxhciI6ICIyLjAuMCIsCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -798,7 +798,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
