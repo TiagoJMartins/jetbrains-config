@@ -101,10 +101,9 @@
         <mark key="." line="0" column="77" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/app.js" timestamp="1508150028348">
-        <mark key="[" line="123" column="15" />
-        <mark key="]" line="124" column="17" />
-        <mark key="." line="124" column="17" />
-        <mark key="^" line="124" column="17" />
+        <mark key="]" line="113" column="17" />
+        <mark key="." line="113" column="17" />
+        <mark key="^" line="113" column="17" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/products/directive/product-wall.html" timestamp="1507120646282">
         <mark key="[" line="9" column="22" />
@@ -171,11 +170,11 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/bower.json" timestamp="1508145546124">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="27" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/bower.json" timestamp="1508154120751">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="25" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/module/homepage/directive/animation-directive.js" timestamp="1507888110179">
         <mark key="'" line="7" column="0" />
@@ -241,7 +240,7 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="32" column="55" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/payment/view/payment.html" timestamp="1508152634459">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/payment/view/payment.html" timestamp="1508154519244">
         <mark key="'" line="19" column="59" />
         <mark key="[" line="21" column="40" />
         <mark key="]" line="21" column="63" />
@@ -284,7 +283,7 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/payment/controller/payment-ctrl.js" timestamp="1508152782579">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/payment/controller/payment-ctrl.js" timestamp="1508153968488">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="124" column="28" />
         <mark key="]" line="124" column="55" />
@@ -426,12 +425,12 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/gulpfile.js" timestamp="1508149052244">
-        <mark key="'" line="258" column="9" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="41" column="53" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/gulpfile.js" timestamp="1508154605043">
+        <mark key="'" line="256" column="9" />
+        <mark key="[" line="48" column="57" />
+        <mark key="]" line="48" column="63" />
+        <mark key="." line="48" column="63" />
+        <mark key="^" line="48" column="63" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/auto-scroll/auto-scroll.js" timestamp="1507815711887">
         <mark key="[" line="18" column="0" />
@@ -713,7 +712,7 @@
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>$scope.submit</text>
+        <text>angular</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -725,13 +724,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$scope.submit</text>
+        <text>angular</text>
       </register>
       <register name="/" type="4">
         <text>$braintree</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcm9vdFNjb3BlLnN0YXRlTG9hZGluZyA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd3d3cvbGliL2JyYWludHJlZS1hbmd1bGFyL2xpYi9icmFpbnRyZWUtYW5ndWxhci5qcycsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iLXBheXBhbC1tZXNzYWdlIj57eyAnQ2FydFBhZ2UuUGF5bWVudFRhYi5QYXltZW50TWVzc2FnZVBheXBhbCcgfCB0cmFuc2xhdGUgfX08L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJyYWludHJlZS1wYXlwYWwgb3B0aW9ucz0ib3B0aW9ucyI+PC9icmFpbnRyZWUtcGF5cGFsPgo=</text>
