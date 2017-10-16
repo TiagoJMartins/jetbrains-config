@@ -282,12 +282,12 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/payment/controller/payment-ctrl.js" timestamp="1508156253874">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/payment/controller/payment-ctrl.js" timestamp="1508156883690">
         <mark key="'" line="61" column="27" />
         <mark key="[" line="113" column="31" />
-        <mark key="]" line="113" column="35" />
-        <mark key="." line="113" column="35" />
-        <mark key="^" line="113" column="35" />
+        <mark key="]" line="113" column="38" />
+        <mark key="." line="113" column="38" />
+        <mark key="^" line="113" column="38" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/www/index.html" timestamp="1507811658494">
         <mark key="[" line="46" column="20" />
@@ -716,7 +716,7 @@
         <text>dwdwdwdwJxx</text>
       </register>
       <register name="&quot;" type="4">
-        <text>checkout</text>
+        <text>vault</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -728,7 +728,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>checkout</text>
+        <text>vault</text>
       </register>
       <register name="/" type="4">
         <text>$braintree</text>
