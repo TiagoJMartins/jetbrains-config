@@ -99,7 +99,6 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/cloudinary.config.js" timestamp="1508141682736" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/module/homepage/directive/block-height-directive.js" timestamp="1507888024521">
         <mark key="[" line="0" column="77" />
         <mark key="]" line="0" column="77" />
@@ -150,7 +149,6 @@
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/utils/filter-service.js" timestamp="1508166906469" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-backoffice/postcss.config.js" timestamp="1507797282127">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="3" column="39" />
@@ -188,7 +186,6 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/utils/mongo.js" timestamp="1508168981845" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/.nvmrc" timestamp="1507814859955">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -210,12 +207,12 @@
       <file name="/Python Console" timestamp="1506442419303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/getRelatedProducts.js" timestamp="1508170192345">
-        <mark key="'" line="135" column="30" />
-        <mark key="[" line="76" column="89" />
-        <mark key="]" line="77" column="52" />
-        <mark key="." line="77" column="52" />
-        <mark key="^" line="77" column="52" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/getRelatedProducts.js" timestamp="1508230125584">
+        <mark key="'" line="136" column="30" />
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="18" column="32" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/size-group-select/size-group-select.js" timestamp="1508141265075">
         <mark key="[" line="5" column="22" />
@@ -609,14 +606,12 @@
       <file name="/Dummy.txt" timestamp="1508166517507">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/vendor.js" timestamp="1508141560191" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/module/shop/views/products.html" timestamp="1507126454398">
         <mark key="[" line="10" column="39" />
         <mark key="]" line="10" column="58" />
         <mark key="." line="10" column="58" />
         <mark key="^" line="10" column="58" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/fetch.js" timestamp="1508166513276" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/service/footer-service.js" timestamp="1507900456708">
         <mark key="'" line="27" column="4" />
         <mark key="[" line="2" column="4" />
@@ -630,7 +625,6 @@
       <file name="/JSRegexp Fragment (webpack.config.js:1185).regexp" timestamp="1507880968300">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/module/shop/views/products.html" timestamp="1508141332255" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/navigation/components/index.js" timestamp="1507900230179">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -744,8 +738,8 @@
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.length</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocHJvZHVjdCk7Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -757,7 +751,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.length</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text>$braintree</text>
@@ -766,7 +760,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICAgICAgICAgIGRiLmNvbGxlY3Rpb24oJ3Byb2R1Y3QnKS5maW5kKHF1ZXJ5T2JqKQogICAgICAgICAgICAgICAgLnNvcnQoewogICAgICAgICAgICAgICAgICAgICdyYW5kT3JkZXInOiAtMQogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIC50b0FycmF5KChlcnIsIGN1cnNvcikgPT4gewogICAgICAgICAgICAgICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVqZWN0KGVycik7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVzb2x2ZShjdXJzb3IubWFwKGkgPT4gaS5faWQpKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXRyaWV2ZWRQcm9kdWN0cyA9IDsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocHJvZHVjdCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -792,16 +786,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXRyaWV2ZWRQcm9kdWN0cyA9IDsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXRyaWV2ZWRQcm9kdWN0cyA9IFsKICAgICAgICAgICAgICAgICAgICAgICAgLi4ucmV0cmlldmVkUHJvZHVjdHMsCiAgICAgICAgICAgICAgICAgICAgICAgIC4uLnJlc3VsdAogICAgICAgICAgICAgICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXRyaWV2ZWRQcm9kdWN0cyA9IFsKICAgICAgICAgICAgICAgICAgICAgICAgLi4ucmV0cmlldmVkUHJvZHVjdHMsCiAgICAgICAgICAgICAgICAgICAgICAgIC4uLnJlc3VsdAogICAgICAgICAgICAgICAgICAgIF07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -818,16 +812,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV1c2x0Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV1c2x0Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxdWVyeU9iai5faWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxdWVyeU9iai4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBxdWVyeU9iai5faWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
