@@ -282,7 +282,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" timestamp="1508854247231">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" timestamp="1508855722500">
         <mark key="'" line="7" column="14" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -393,7 +393,12 @@
         <mark key="." line="9" column="51" />
         <mark key="^" line="9" column="51" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" timestamp="1508854253828" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" timestamp="1508855732087">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+        <mark key="^" line="9" column="24" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/favorite/favorite.js" timestamp="1508769322678">
         <mark key="'" line="8" column="16" />
         <mark key="[" line="2" column="0" />
@@ -465,12 +470,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/pages/_kd-front-page.scss" timestamp="1508763789841">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="53" column="40" />
-        <mark key="]" line="53" column="35" />
-        <mark key="." line="53" column="35" />
-        <mark key="^" line="53" column="35" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/pages/_kd-front-page.scss" timestamp="1508855943304">
+        <mark key="'" line="184" column="21" />
+        <mark key="[" line="205" column="53" />
+        <mark key="]" line="206" column="29" />
+        <mark key="." line="206" column="29" />
+        <mark key="^" line="206" column="29" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/fullscreen-image/fullscreen-image-directive.js" timestamp="1508769158770">
         <mark key="'" line="10" column="16" />
@@ -517,6 +522,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/emails.js" timestamp="1508855590011" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directives/fullscreen-image/fullscreen-image.directive.js" timestamp="1508839821784">
         <mark key="'" line="28" column="39" />
         <mark key="[" line="0" column="24" />
@@ -696,12 +702,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/vendor.js" timestamp="1508853603829">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/vendor.js" timestamp="1508856175626">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="6" column="50" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/service/session-service.js" timestamp="1508834739431">
         <mark key="'" line="294" column="0" />
@@ -768,9 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/lightbox/lightbox.js" />
-      <jump line="6" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/lightbox/lightbox.js" />
-      <jump line="12" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/lightbox/lightbox.js" />
       <jump line="5" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/magic-wand/magic-wand.js" />
       <jump line="82" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/magic-wand/magic-wand.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/magic-wand/magic-wand.js" />
@@ -868,13 +871,16 @@
       <jump line="20" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/vendor.js" />
       <jump line="34" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/vendor.js" />
       <jump line="4" column="7" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Dockerfile" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/pages/_kd-front-page.scss" />
+      <jump line="184" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/pages/_kd-front-page.scss" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/vendor.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -886,16 +892,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">d2luZG93LlNuYXAgPSA=</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>overlay</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmV3IE9mZmxpbmVQbHVnaW4oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IE9mZmxpbmVQbHVnaW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -921,13 +927,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IE9mZmxpbmVQbHVnaW4oKQo=</text>
+        <text encoding="base64">cmVxdWlyZSgnc25hcHN2Zy9kaXN0L3NuYXAuc3ZnLW1pbicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IE9mZmxpbmVQbHVnaW4oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZSgnb2ZmbGluZS1wbHVnaW4vcnVudGltZScpLmluc3RhbGwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IE9mZmxpbmVQbHVnaW4oKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -947,31 +953,30 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CnJlcXVpcmUoJ29mZmxpbmUtcGx1Z2luL3J1bnRpbWUnKS5pbnN0YWxsKCk7Cg==</text>
+        <text encoding="base64">cmVxdWlyZSgnb2ZmbGluZS1wbHVnaW4vcnVudGltZScpLmluc3RhbGwoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXByZXNzOiB7CiAgICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkcm9wX2NvbnNvbGU6Cg==</text>
+        <text encoding="base64">CnJlcXVpcmUoJ29mZmxpbmUtcGx1Z2luL3J1bnRpbWUnKS5pbnN0YWxsKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib29sZWFuczogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBjb25kaXRpb25hbHM6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXByZXNzOiB7CiAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
-        <text>161</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>overlay</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>overlay</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tree</entry>
         <entry>$braintree</entry>
         <entry>info</entry>
         <entry>center-menu</entry>
@@ -991,9 +996,9 @@
         <entry>media-tile</entry>
         <entry>PopupService</entry>
         <entry>console</entry>
+        <entry>overlay</entry>
       </history-search>
       <history-cmd>
-        <entry>123</entry>
         <entry>95</entry>
         <entry>624</entry>
         <entry>92</entry>
@@ -1013,6 +1018,7 @@
         <entry>281</entry>
         <entry>76</entry>
         <entry>161</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
