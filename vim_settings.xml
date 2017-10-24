@@ -116,6 +116,12 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/layout/_base.scss" timestamp="1508831821536">
+        <mark key="'" line="260" column="27" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/layout/_kd-full-media.scss" timestamp="1508763560051">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -317,12 +323,11 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/webpack.config.js" timestamp="1508841125469">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/webpack.config.js" timestamp="1508842530072">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="12" />
-        <mark key="^" line="136" column="44" />
-        <mark key="." line="137" column="12" />
+        <mark key="[" line="128" column="48" />
+        <mark key="]" line="128" column="48" />
+        <mark key="." line="128" column="48" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/layout/_kd-products.scss" timestamp="1508763312904">
         <mark key="'" line="0" column="0" />
@@ -442,7 +447,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="1" column="51" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/gulpfile.js" timestamp="1508771822085">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/gulpfile.js" timestamp="1508842945706">
         <mark key="'" line="42" column="38" />
         <mark key="[" line="248" column="48" />
         <mark key="]" line="249" column="8" />
@@ -688,12 +693,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/vendor.js" timestamp="1508841238423">
-        <mark key="'" line="20" column="24" />
-        <mark key="[" line="35" column="43" />
-        <mark key="]" line="35" column="43" />
-        <mark key="." line="35" column="43" />
-        <mark key="^" line="35" column="43" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/vendor.js" timestamp="1508842801738">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/service/session-service.js" timestamp="1508834739431">
         <mark key="'" line="294" column="0" />
@@ -760,7 +765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/product-slider/product-slider.js" />
       <jump line="1" column="39" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/form-errors/form-errors.js" />
       <jump line="3" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/lightbox/lightbox.js" />
       <jump line="6" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/lightbox/lightbox.js" />
@@ -860,13 +864,14 @@
       <jump line="13" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/webpack.config.js" />
       <jump line="7" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" />
       <jump line="20" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/vendor.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/vendor.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -878,7 +883,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -913,16 +918,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGx1Z2luczogWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2FuZ3VsYXJqcy1hbm5vdGF0ZScsCiAgICAgICAgICAgICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">CnJlcXVpcmUoJ29mZmxpbmUtcGx1Z2luL3J1bnRpbWUnKS5pbnN0YWxsKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmltcG9ydCB7CiAgICBlbmdsaXNoLAogICAgcG9ydHVndWVzZSAKfSBmcm9tICcuLi9pMThuJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXByZXNzOiB7CiAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmV4cG9ydCBlbmdsaXNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkcm9wX2NvbnNvbGU6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFRyYW5zbGF0aW9uUFQgZnJvbSAnLi4vaTE4bi9wdC5qc29uJzsKaW1wb3J0IFRyYW5zbGF0aW9uRU4gZnJvbSAnLi4vaTE4bi9lbi5qc29uJzsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib29sZWFuczogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBjb25kaXRpb25hbHM6IHRydWUsCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -939,16 +944,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9lbi5qc29uJzsKZXhwb3J0ICogZnJvbSAnLi9wdC5qc29uJzsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWFkX2NvZGU6IHRydWUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmltcG9ydCB7IAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmltcHJ0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
