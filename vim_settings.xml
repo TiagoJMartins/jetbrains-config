@@ -497,6 +497,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Dockerfile" timestamp="1508843739634">
+        <mark key="'" line="4" column="7" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/.eslintrc" timestamp="1508834476694">
         <mark key="'" line="13" column="13" />
         <mark key="[" line="23" column="34" />
@@ -765,7 +772,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="39" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/form-errors/form-errors.js" />
       <jump line="3" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/lightbox/lightbox.js" />
       <jump line="6" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/lightbox/lightbox.js" />
       <jump line="12" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/lightbox/lightbox.js" />
@@ -865,13 +871,14 @@
       <jump line="7" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" />
       <jump line="20" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/vendor.js" />
       <jump line="34" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/vendor.js" />
+      <jump line="4" column="7" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Dockerfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -883,7 +890,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
