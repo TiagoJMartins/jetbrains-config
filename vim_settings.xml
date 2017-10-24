@@ -17,12 +17,6 @@
         <mark key="^" line="9" column="16" />
         <mark key="." line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/navigation/components/back/back.js" timestamp="1508829805236">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="16" />
-      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/js/kide/directive/navigation/navigation.html" timestamp="1508500079281">
         <mark key="'" line="55" column="47" />
         <mark key="[" line="73" column="35" />
@@ -72,6 +66,7 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directives/navigation/components/index.js" timestamp="1508838819657" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/module/onboarding/onboarding-ui-states.js" timestamp="1508768398465">
         <mark key="'" line="66" column="17" />
         <mark key="[" line="60" column="44" />
@@ -120,12 +115,6 @@
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/layout/_base.scss" timestamp="1508831821536">
-        <mark key="'" line="260" column="27" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/layout/_kd-full-media.scss" timestamp="1508763560051">
         <mark key="'" line="0" column="0" />
@@ -193,6 +182,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/dist/icons-aed64c6c9877ca3adeb733d12f2258e5/manifest.webapp" timestamp="1508841160706" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/shop/getRelatedProducts.js" timestamp="1508743255739">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="162" column="41" />
@@ -256,6 +246,7 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/public/manifest.json" timestamp="1508840605337" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/scss/layout/_kd-hint-bar.scss" timestamp="1508419701017">
         <mark key="'" line="6" column="15" />
         <mark key="[" line="12" column="0" />
@@ -291,12 +282,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" timestamp="1508837123516">
-        <mark key="'" line="379" column="0" />
-        <mark key="[" line="280" column="0" />
-        <mark key="]" line="280" column="0" />
-        <mark key="." line="280" column="0" />
-        <mark key="^" line="9" column="57" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" timestamp="1508841213539">
+        <mark key="'" line="7" column="14" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="301" column="30" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/pages/_kd-static-pages.scss" timestamp="1508763481878">
         <mark key="'" line="0" column="0" />
@@ -325,6 +316,13 @@
         <mark key="]" line="161" column="0" />
         <mark key="^" line="0" column="17" />
         <mark key="." line="161" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/webpack.config.js" timestamp="1508841125469">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="12" />
+        <mark key="^" line="136" column="44" />
+        <mark key="." line="137" column="12" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/layout/_kd-products.scss" timestamp="1508763312904">
         <mark key="'" line="0" column="0" />
@@ -359,6 +357,13 @@
         <mark key="]" line="8" column="15" />
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/services/index.js" timestamp="1508839254416">
+        <mark key="'" line="31" column="15" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/layout/_kd-card.scss" timestamp="1508756712403">
         <mark key="'" line="94" column="20" />
@@ -412,6 +417,9 @@
         <mark key="^" line="1" column="53" />
         <mark key="." line="1" column="53" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/modules/index.js" timestamp="1508839145306">
+        <mark key="'" line="20" column="2" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/service/anchorSmoothScroll-directive.js" timestamp="1508765584434">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="50" column="0" />
@@ -419,12 +427,7 @@
         <mark key="^" line="0" column="23" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/service/hint-bar-service.js" timestamp="1508836191494">
-        <mark key="[" line="0" column="54" />
-        <mark key="]" line="0" column="54" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="54" />
-      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/dist/icons-aed64c6c9877ca3adeb733d12f2258e5/manifest.json" timestamp="1508840748065" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/module/static-pages/controller/welcome-bon-mignon-ctrl.js" timestamp="1508773605258">
         <mark key="'" line="1" column="14" />
         <mark key="[" line="13" column="0" />
@@ -456,6 +459,11 @@
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/popup/popup-directive.js" timestamp="1508765488834">
         <mark key="'" line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/i18n/index.js" timestamp="1508839515587">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/pages/_kd-front-page.scss" timestamp="1508763789841">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="53" column="40" />
@@ -470,11 +478,12 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/package.json" timestamp="1508834361221">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="30" />
-        <mark key="." line="6" column="30" />
-        <mark key="^" line="6" column="30" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/package.json" timestamp="1508839799105">
+        <mark key="'" line="59" column="44" />
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+        <mark key="^" line="6" column="36" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/pages/_kd-product.scss" timestamp="1508763497992">
         <mark key="'" line="0" column="0" />
@@ -499,6 +508,13 @@
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directives/fullscreen-image/fullscreen-image.directive.js" timestamp="1508839821784">
+        <mark key="'" line="28" column="39" />
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="54" />
+        <mark key="^" line="0" column="54" />
+        <mark key="." line="0" column="54" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/module/profile/controllers/profile-edit-ctrl.js" timestamp="1508768130086">
         <mark key="'" line="30" column="0" />
@@ -627,6 +643,13 @@
         <mark key="." line="77" column="53" />
         <mark key="^" line="77" column="53" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directives/navigation/components/link/link.directive.js" timestamp="1508838789159">
+        <mark key="'" line="25" column="29" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+      </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/module/delivery/controller/delivery-ctrl.js" timestamp="1508766015193">
         <mark key="'" line="125" column="0" />
         <mark key="[" line="0" column="0" />
@@ -648,7 +671,14 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508837218964">
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directives/index.js" timestamp="1508839615265">
+        <mark key="'" line="62" column="4" />
+        <mark key="[" line="14" column="73" />
+        <mark key="]" line="14" column="82" />
+        <mark key="^" line="14" column="82" />
+        <mark key="." line="14" column="82" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508840022789">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/layout/_kd-category-select.scss" timestamp="1508763372852">
@@ -658,12 +688,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/vendor.js" timestamp="1508830535597">
-        <mark key="'" line="7" column="30" />
-        <mark key="[" line="8" column="54" />
-        <mark key="]" line="8" column="54" />
-        <mark key="." line="8" column="54" />
-        <mark key="^" line="8" column="54" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/vendor.js" timestamp="1508841238423">
+        <mark key="'" line="20" column="24" />
+        <mark key="[" line="35" column="43" />
+        <mark key="]" line="35" column="43" />
+        <mark key="." line="35" column="43" />
+        <mark key="^" line="35" column="43" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/service/session-service.js" timestamp="1508834739431">
         <mark key="'" line="294" column="0" />
@@ -730,28 +760,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/module/onboarding/onboarding-ui-states.js" />
-      <jump line="65" column="7" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/module/onboarding/onboarding-ui-states.js" />
-      <jump line="66" column="17" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/module/onboarding/onboarding-ui-states.js" />
-      <jump line="3" column="2" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/module/onboarding/services/onboarding-service.js" />
-      <jump line="81" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" />
-      <jump line="2" column="15" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/overlaymenu/overlaymenu-directive.js" />
-      <jump line="4" column="28" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/overlaymenu/overlaymenu-directive.js" />
-      <jump line="82" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/page-head/page-head-directive.js" />
-      <jump line="10" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/pinch-zoom/pinch-zoom.js" />
-      <jump line="205" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/pinch-zoom/pinch-zoom.js" />
-      <jump line="85" column="27" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" />
-      <jump line="88" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" />
-      <jump line="8" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/fullscreen-image/fullscreen-image-directive.js" />
-      <jump line="6" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/favorite/favorite.js" />
-      <jump line="95" column="19" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/accordion/accordion.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/accordion/accordion.js" />
-      <jump line="4" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/accordion/accordion-item.js" />
-      <jump line="4" column="12" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/drawer-menu/drawer-menu.js" />
-      <jump line="14" column="16" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/drawer-menu/drawer-menu.js" />
-      <jump line="72" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/drawer-menu/drawer-menu.js" />
       <jump line="3" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/product-slider/product-slider.js" />
       <jump line="1" column="39" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/form-errors/form-errors.js" />
       <jump line="3" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directive/lightbox/lightbox.js" />
@@ -830,13 +838,35 @@
       <jump line="50" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/service/dialog-service.js" />
       <jump line="160" column="8" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/service/dialog-service.js" />
       <jump line="17" column="18" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/module/brands/brands-ui-states.js" />
+      <jump line="23" column="29" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directives/navigation/components/link/link.directive.js" />
+      <jump line="2" column="2" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directives/index.js" />
+      <jump line="0" column="34" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directives/index.js" />
+      <jump line="62" column="4" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directives/index.js" />
+      <jump line="2" column="2" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/modules/index.js" />
+      <jump line="7" column="15" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/services/index.js" />
+      <jump line="304" column="26" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" />
+      <jump line="59" column="44" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/package.json" />
+      <jump line="28" column="39" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/directives/fullscreen-image/fullscreen-image.directive.js" />
+      <jump line="60" column="39" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/webpack.config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/webpack.config.js" />
+      <jump line="126" column="23" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/webpack.config.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/webpack.config.js" />
+      <jump line="127" column="34" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/webpack.config.js" />
+      <jump line="27" column="4" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/webpack.config.js" />
+      <jump line="33" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/webpack.config.js" />
+      <jump line="62" column="12" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/webpack.config.js" />
+      <jump line="56" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/webpack.config.js" />
+      <jump line="116" column="29" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/webpack.config.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/webpack.config.js" />
+      <jump line="7" column="14" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" />
+      <jump line="20" column="24" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/vendor.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>dwdwdwdwJxx</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudCwgdG9TdGF0ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="i" type="4">
         <keys>
@@ -848,16 +878,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFdlbGNvbWVCb25NaWdub25DdHJsIGZyb20gJy4vY29udHJvbGxlci93ZWxjb21lLWJvbi1taWdub24tY3RybCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IE9mZmxpbmVQbHVnaW4oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudCwgdG9TdGF0ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -883,16 +913,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2FzZCcpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGx1Z2luczogWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2FuZ3VsYXJqcy1hbm5vdGF0ZScsCiAgICAgICAgICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygnYXNkJyk7Cg==</text>
+        <text encoding="base64">CmltcG9ydCB7CiAgICBlbmdsaXNoLAogICAgcG9ydHVndWVzZSAKfSBmcm9tICcuLi9pMThuJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCRzdGF0ZS5nZXQoKSk7Cg==</text>
+        <text encoding="base64">CmV4cG9ydCBlbmdsaXNoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRzdGF0ZS5nZXQoKQo=</text>
+        <text encoding="base64">aW1wb3J0IFRyYW5zbGF0aW9uUFQgZnJvbSAnLi4vaTE4bi9wdC5qc29uJzsKaW1wb3J0IFRyYW5zbGF0aW9uRU4gZnJvbSAnLi4vaTE4bi9lbi5qc29uJzsKCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -909,16 +939,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JHN0YXRlLmdldCgpCg==</text>
+        <text encoding="base64">ZXhwb3J0ICogZnJvbSAnLi9lbi5qc29uJzsKZXhwb3J0ICogZnJvbSAnLi9wdC5qc29uJzsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nbwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICd1aS5yb3V0ZXInLAo=</text>
+        <text encoding="base64">CmltcG9ydCB7IAp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CmltcHJ0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>76</text>
