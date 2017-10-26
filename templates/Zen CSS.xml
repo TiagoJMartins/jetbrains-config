@@ -62,4 +62,13 @@
   <template name="op" value="opacity: $END$;" description="opacity:...;" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
+  <template name="maw" value="max-width: $END$" description="max-width:...;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="miw" value="min-width: $END$" description="min-width:...;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="wid" value="width: $END$;" description="width:...;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
 </templateSet>
