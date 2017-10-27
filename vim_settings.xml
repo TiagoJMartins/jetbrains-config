@@ -10,10 +10,20 @@
         <mark key="." line="50" column="23" />
         <mark key="^" line="50" column="22" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" timestamp="1509094371040">
-        <mark key="." line="22" column="24" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/configs.dev.js" timestamp="1509118463874">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/modules/product/product-ui-states.js" timestamp="1509112897548" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" timestamp="1509118474629">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="64" column="120" />
+        <mark key="]" line="64" column="119" />
+        <mark key="." line="64" column="119" />
+        <mark key="^" line="64" column="119" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/modules/product/product-ui-states.js" timestamp="1509117057235" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/l@e.viewer-request.js" timestamp="1509103208248">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -28,6 +38,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="10" column="47" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/configs.prod.js" timestamp="1509118248812" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/layout/_kd-filter-select.scss" timestamp="1509112950130" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/services/drawermenu.service.js" timestamp="1509093978716">
         <mark key="'" line="18" column="0" />
@@ -49,40 +60,54 @@
       <jump line="37" column="23" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/l@e.viewer-request.js" />
       <jump line="49" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/l@e.viewer-request.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/l@e.viewer-request.js" />
+      <jump line="58" column="120" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" />
+      <jump line="92" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" />
+      <jump line="6" column="48" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/configs.dev.js" />
+      <jump line="63" column="40" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" />
+      <jump line="64" column="85" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" />
+      <jump line="74" column="18" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" />
     </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICAgICAgc3RhZ2UoJ0J1aWxkIEFwcGxpY2F0aW9uJykgewogICAgICAgICAgICBzdGVwcyB7CiAgICAgICAgICAgICAgICBzaCAnbnBtIHJ1biBidWlsZCcKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gd2luZG93LmNvbmZpZ3MuU0VOVFJZX0RTTiA9ICdodHRwczovLzdiNGMxM2IzNjEzNjRlYzA4NjcwZDIxNTU0NmNlNDVmQHNlbnRyeS5pby8xMjkxNDMnOwovLyB3aW5kb3cuY29uZmlncy5HVE1fQ09OVEFJTkVSID0gJ0dUTS1LTEo0Wk0nOwovLyB3aW5kb3cuY29uZmlncy5QSU5URVJFU1RfSUQgPSAnMjYxOTQ2OTEzNDM0Nic7Ci8vIHdpbmRvdy5jb25maWdzLkZCX1BJWEVMID0gJzEwMDI3ODk0NTMxMTc3MDMnOwovLyB3aW5kb3cuY29uZmlncy5NSVhQQU5FTF9JRCA9ICcxMGE0N2FiZGJlMjhlNmY1NWIzNTI0MjY3ZDVlMDY5ZSc7Ci8vIHdpbmRvdy5jb25maWdzLlNtb29jaEFwcFRva2VuID0gJ2RjOTU2M3FocGZ3emV4NWJsa29raWYzMDgnOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gd2luZG93LmNvbmZpZ3MuU0VOVFJZX0RTTiA9ICdodHRwczovLzdiNGMxM2IzNjEzNjRlYzA4NjcwZDIxNTU0NmNlNDVmQHNlbnRyeS5pby8xMjkxNDMnOwovLyB3aW5kb3cuY29uZmlncy5HVE1fQ09OVEFJTkVSID0gJ0dUTS1LTEo0Wk0nOwovLyB3aW5kb3cuY29uZmlncy5QSU5URVJFU1RfSUQgPSAnMjYxOTQ2OTEzNDM0Nic7Ci8vIHdpbmRvdy5jb25maWdzLkZCX1BJWEVMID0gJzEwMDI3ODk0NTMxMTc3MDMnOwovLyB3aW5kb3cuY29uZmlncy5NSVhQQU5FTF9JRCA9ICcxMGE0N2FiZGJlMjhlNmY1NWIzNTI0MjY3ZDVlMDY5ZSc7Ci8vIHdpbmRvdy5jb25maWdzLlNtb29jaEFwcFRva2VuID0gJ2RjOTU2M3FocGZ3emV4NWJsa29raWYzMDgnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICdzc2ggJHtERVZfU0VSVkVSX0xPQ0FUSU9OfSAicHVsbC1pbWFnZXMgJiYgZG9ja2VyLWNvbXBvc2UgZG93biAmJiBkb2NrZXItY29tcG9zZSB1cCAtZCInCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIFNwZWxsQ2hlY2tpbmdJbnNwZWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICcke1BST0RfU0VSVkVSX0RFUExPWU1FTlR9Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2luZG93LmNvbmZpZ3MuQ09OVEVTVF9DVEEgPSAnaHR0cHM6Ly9raWRlZmFzaGlvbi5jb20nOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBjYWxsYmFjayhudWxsLCByZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG12IHNyYwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChjb25maWdzLmZsYWdnZWRVc2VyQWdlbnRzLmluY2x1ZGVzKHVhKSkgewogICAgICAgIAogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICdtdiAnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIFNwZWxsQ2hlY2tpbmdJbnNwZWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFnZSgnQnVpbGQgQXBwbGljYXRpb24nKSB7CiAgICAgICAgICAgIHN0ZXBzIHsKICAgICAgICAgICAgICAgIHNoICducG0gcnVuIGJ1aWxkJwogICAgICAgICAgICB9CiAgICAgICAgfQoK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
