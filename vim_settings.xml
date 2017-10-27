@@ -3,15 +3,50 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1509093709423" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" timestamp="1509093982065">
+        <mark key="'" line="41" column="26" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" timestamp="1509093937109">
+        <mark key="." line="22" column="24" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/services/drawermenu.service.js" timestamp="1509093978716">
+        <mark key="'" line="18" column="0" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="18" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/services/drawermenu.service.js" />
+      <jump line="41" column="26" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" />
+    </jumps>
     <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
