@@ -13,7 +13,22 @@
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" timestamp="1509094371040">
         <mark key="." line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/modules/product/product-ui-states.js" timestamp="1509096987267" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/modules/product/product-ui-states.js" timestamp="1509100037995" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/l@e.viewer-request.js" timestamp="1509101618760">
+        <mark key="'" line="39" column="29" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/lambda@edge.js" timestamp="1509100315904">
+        <mark key="'" line="12" column="8" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="10" column="47" />
+      </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/scss/layout/_kd-filter-select.scss" timestamp="1509100112532" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/services/drawermenu.service.js" timestamp="1509093978716">
         <mark key="'" line="18" column="0" />
       </file>
@@ -21,13 +36,50 @@
     <jumps>
       <jump line="18" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/services/drawermenu.service.js" />
       <jump line="41" column="26" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" />
+      <jump line="12" column="8" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/lambda@edge.js" />
+      <jump line="1" column="2" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/l@e.viewer-request.js" />
+      <jump line="13" column="17" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/l@e.viewer-request.js" />
+      <jump line="24" column="21" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/l@e.viewer-request.js" />
+      <jump line="40" column="22" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/l@e.viewer-request.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/l@e.viewer-request.js" />
+      <jump line="27" column="13" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/l@e.viewer-request.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/l@e.viewer-request.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/l@e.viewer-request.js" />
+      <jump line="41" column="29" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/l@e.viewer-request.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgKi8K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIFNwZWxsQ2hlY2tpbmdJbnNwZWN0aW9uCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICBjYWxsYmFjayhudWxsLCByZXNwb25zZSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIChjb25maWdzLmZsYWdnZWRVc2VyQWdlbnRzLmluY2x1ZGVzKHVhKSkgewogICAgICAgIAogICAgfQoK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gbm9pbnNwZWN0aW9uIFNwZWxsQ2hlY2tpbmdJbnNwZWN0aW9uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text />
       </register>
     </registers>
     <search>
@@ -61,6 +113,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
