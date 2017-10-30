@@ -9,8 +9,6 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Config/README.md" timestamp="1509360470114" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Themes/ApplicationStyles.js" timestamp="1509361408943" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Config/DebugConfig.js" timestamp="1509360473688">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="20" />
@@ -23,16 +21,14 @@
         <mark key="^" line="10" column="82" />
         <mark key="." line="10" column="82" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/ScreenTrackingMiddleware.js" timestamp="1509361860795" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/NavigationRedux.js" timestamp="1509361864590" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/App.js" timestamp="1509362673623" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/AlertMessage.story.js" timestamp="1509361287751" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.flowconfig" timestamp="1509373878054" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/StatsScreen.js" timestamp="1509363517125">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="31" />
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.babelrc" timestamp="1509373921374" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/AppNavigation.js" timestamp="1509373109304">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="17" column="20" />
@@ -45,14 +41,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Config/AppConfig.js" timestamp="1509359793527" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/Styles/README.md" timestamp="1509360517407" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" timestamp="1509360222079">
-        <mark key="'" line="21" column="48" />
-        <mark key="[" line="23" column="48" />
-        <mark key="]" line="23" column="48" />
-        <mark key="." line="23" column="48" />
-        <mark key="^" line="23" column="48" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" timestamp="1509373887186">
+        <mark key="'" line="32" column="48" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.gitattributes" timestamp="1509357423536">
         <mark key="[" line="1" column="19" />
@@ -63,7 +56,6 @@
       <file name="/Dummy.txt" timestamp="1509362347035">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/RootContainer.js" timestamp="1509362710758" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Styles/NavigationStyles.js" timestamp="1509372998513">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="37" />
@@ -76,14 +68,7 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/SearchRedux.js" timestamp="1509362441582" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Config/ReduxPersist.js" timestamp="1509360502991" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Themes/README.md" timestamp="1509361414334" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/StartupRedux.js" timestamp="1509362437502" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" timestamp="1509362435694" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/AlertMessage.js" timestamp="1509361386369" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.env.example" timestamp="1509359700486" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Config/index.js" timestamp="1509360431160" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App.js" timestamp="1509373924948" />
     </filemarks>
     <jumps>
       <jump line="18" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/services/drawermenu.service.js" />
@@ -137,41 +122,41 @@
       <jump line="18" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/AppNavigation.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>transparent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgICJzdGFydCI6ICJyZWFjdC1uYXRpdmUgc3RhcnQiLAogICAgImFuZHJvaWQiOiAicmVhY3QtbmF0aXZlIHJ1bi1hbmRyb2lkIiwKICAgICJpb3MiOiAicmVhY3QtbmF0aXZlIHJ1bi1pb3MiLAogICAgInRlc3QiOiAibm9kZSBub2RlX21vZHVsZXMvamVzdC9iaW4vamVzdC5qcyAtLXdhdGNoIgogIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>transparent</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBMYXVuY2hTY3JlZW46IHsgc2NyZWVuOiBMYXVuY2hTY3JlZW4gfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBoZWFkZXI6IHsKICB9LAo=</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgICJzdGFydCI6ICJyZWFjdC1uYXRpdmUgc3RhcnQiLAogICAgImFuZHJvaWQiOiAicmVhY3QtbmF0aXZlIHJ1bi1hbmRyb2lkIiwKICAgICJpb3MiOiAicmVhY3QtbmF0aXZlIHJ1bi1pb3MiLAogICAgInRlc3QiOiAibm9kZSBub2RlX21vZHVsZXMvamVzdC9iaW4vamVzdC5qcyAtLXdhdGNoIgogIH0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogQ29sb3JzLnRyYW5zcGFyZW50Cg==</text>
+        <text encoding="base64">ICAibGljZW5zZSI6ICJJU0MiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGhlYWRlclN0eWxlOiBzdHlsZXMuaGVhZGVyLAo=</text>
+        <text encoding="base64">ICAia2V5d29yZHMiOiBbXSwKICAiYXV0aG9yIjogIiIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBUaGlzIHByb2JhYmx5IGlzbid0IHdoYXQgeW91ciBhcHAgaXMgZ29pbmcgdG8gbG9vayBsaWtlLiBVbmxlc3MgeW91ciBkZXNpZ25lciBoYW5kZWQgeW91IHRoaXMgc2NyZWVuIGFuZCwgaW4gdGhhdCBjYXNlLCBjb25ncmF0cyEgWW91J3JlIHJlYWR5IHRvIHNoaXAuIEZvciBldmVyeW9uZSBlbHNlLCB0aGlzIGlzIHdoZXJlIHlvdSdsbCBzZWUgYSBsaXZlIHByZXZpZXcgb2YgeW91ciBmdWxseSBmdW5jdGlvbmluZyBhcHAgdXNpbmcgSWduaXRlLgo=</text>
+        <text encoding="base64">ICAibWFpbiI6ICJpbmRleC5qcyIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2Nyb2xsVmlldywgVGV4dCwgSW1hZ2UsIFZpZXcgfSBmcm9tICdyZWFjdC1uYXRpdmUnCgo=</text>
+        <text encoding="base64">ICAiZGVzY3JpcHRpb24iOiAiIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBMYXVuY2hTY3JlZW5uOiB7IHNjcmVlbjogTGF1bmNoU2NyZWVuIH0sCg==</text>
+        <text encoding="base64">ICBoZWFkZXI6IHsKICB9LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBEZWZhdWx0IGNvbmZpZyBmb3IgYWxsIHNjcmVlbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBMYXVuY2hTY3JlZW5zOiB7IHNjcmVlbjogTGF1bmNoU2NyZWVuIH0K</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogQ29sb3JzLnRyYW5zcGFyZW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
