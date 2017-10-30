@@ -3,18 +3,33 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/configs.dev.js" timestamp="1509118463874">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="2" column="56" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1509358453832">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/index.js" timestamp="1509357438583" />
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/services/drawermenu.service.js" timestamp="1509093978716">
+        <mark key="'" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.editorconfig" timestamp="1509357954728">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="10" column="15" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="17" column="6" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.flowconfig" timestamp="1509357412343" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/app.js" timestamp="1509094410619">
         <mark key="'" line="41" column="26" />
         <mark key="[" line="50" column="22" />
         <mark key="]" line="50" column="23" />
         <mark key="." line="50" column="23" />
         <mark key="^" line="50" column="22" />
-      </file>
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/configs.dev.js" timestamp="1509118463874">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="2" column="56" />
       </file>
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" timestamp="1509119905041">
         <mark key="'" line="3" column="0" />
@@ -30,6 +45,8 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.buckconfig" timestamp="1509357402047" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.env.example" timestamp="1509357357311" />
       <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/lambda@edge.js" timestamp="1509100315904">
         <mark key="'" line="12" column="8" />
         <mark key="[" line="17" column="0" />
@@ -37,9 +54,18 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" timestamp="1509355832490" />
-      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/app/services/drawermenu.service.js" timestamp="1509093978716">
-        <mark key="'" line="18" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" timestamp="1509358848566">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="19" column="52" />
+        <mark key="]" line="19" column="52" />
+        <mark key="." line="19" column="52" />
+        <mark key="^" line="19" column="52" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.gitattributes" timestamp="1509357423536">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -69,43 +95,64 @@
       <jump line="74" column="18" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" />
       <jump line="4" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/kide/devel/kide-webapp/Jenkinsfile" />
+      <jump line="12" column="6" filename="$USER_HOME$/www/work/skorr/skorr-mobile/.editorconfig" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/.editorconfig" />
+      <jump line="30" column="8" filename="$USER_HOME$/www/work/skorr/skorr-mobile/ignite/Examples/Components/animatableExample.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/ignite/Examples/Components/animatableExample.js" />
+      <jump line="45" column="17" filename="$USER_HOME$/www/work/skorr/skorr-mobile/ignite/Examples/Components/animatableExample.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/ignite/Examples/Components/animatableExample.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/ignite/Examples/Components/animatableExample.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/ignite/Examples/Components/animatableExample.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/ignite/Examples/Components/animatableExample.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/ignite/Examples/Components/animatableExample.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/ignite/Examples/Components/animatableExample.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/ignite/Examples/Components/animatableExample.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/ignite/Examples/Components/animatableExample.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/ignite/Examples/Components/animatableExample.js" />
+      <jump line="76" column="11" filename="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" />
+      <jump line="24" column="13" filename="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" />
+      <jump line="109" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgc3RhZ2UoJ0J1aWxkIEFwcGxpY2F0aW9uJykgewogICAgICAgICAgICBzdGVwcyB7CiAgICAgICAgICAgICAgICBzaCAnbnBtIHJ1biBidWlsZCcKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gd2luZG93LmNvbmZpZ3MuU0VOVFJZX0RTTiA9ICdodHRwczovLzdiNGMxM2IzNjEzNjRlYzA4NjcwZDIxNTU0NmNlNDVmQHNlbnRyeS5pby8xMjkxNDMnOwovLyB3aW5kb3cuY29uZmlncy5HVE1fQ09OVEFJTkVSID0gJ0dUTS1LTEo0Wk0nOwovLyB3aW5kb3cuY29uZmlncy5QSU5URVJFU1RfSUQgPSAnMjYxOTQ2OTEzNDM0Nic7Ci8vIHdpbmRvdy5jb25maWdzLkZCX1BJWEVMID0gJzEwMDI3ODk0NTMxMTc3MDMnOwovLyB3aW5kb3cuY29uZmlncy5NSVhQQU5FTF9JRCA9ICcxMGE0N2FiZGJlMjhlNmY1NWIzNTI0MjY3ZDVlMDY5ZSc7Ci8vIHdpbmRvdy5jb25maWdzLlNtb29jaEFwcFRva2VuID0gJ2RjOTU2M3FocGZ3emV4NWJsa29raWYzMDgnOwo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gd2luZG93LmNvbmZpZ3MuU0VOVFJZX0RTTiA9ICdodHRwczovLzdiNGMxM2IzNjEzNjRlYzA4NjcwZDIxNTU0NmNlNDVmQHNlbnRyeS5pby8xMjkxNDMnOwovLyB3aW5kb3cuY29uZmlncy5HVE1fQ09OVEFJTkVSID0gJ0dUTS1LTEo0Wk0nOwovLyB3aW5kb3cuY29uZmlncy5QSU5URVJFU1RfSUQgPSAnMjYxOTQ2OTEzNDM0Nic7Ci8vIHdpbmRvdy5jb25maWdzLkZCX1BJWEVMID0gJzEwMDI3ODk0NTMxMTc3MDMnOwovLyB3aW5kb3cuY29uZmlncy5NSVhQQU5FTF9JRCA9ICcxMGE0N2FiZGJlMjhlNmY1NWIzNTI0MjY3ZDVlMDY5ZSc7Ci8vIHdpbmRvdy5jb25maWdzLlNtb29jaEFwcFRva2VuID0gJ2RjOTU2M3FocGZ3emV4NWJsa29raWYzMDgnOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICdzc2ggJHtERVZfU0VSVkVSX0xPQ0FUSU9OfSAicHVsbC1pbWFnZXMgJiYgZG9ja2VyLWNvbXBvc2UgZG93biAmJiBkb2NrZXItY29tcG9zZSB1cCAtZCInCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICcke1BST0RfU0VSVkVSX0RFUExPWU1FTlR9Jwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">d2luZG93LmNvbmZpZ3MuQ09OVEVTVF9DVEEgPSAnaHR0cHM6Ly9raWRlZmFzaGlvbi5jb20nOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG12IHNyYwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICdtdiAnCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFnZSgnQnVpbGQgQXBwbGljYXRpb24nKSB7CiAgICAgICAgICAgIHN0ZXBzIHsKICAgICAgICAgICAgICAgIHNoICducG0gcnVuIGJ1aWxkJwogICAgICAgICAgICB9CiAgICAgICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">WyouZ3JhZGxlXQppbmRlbnRfc2l6ZSA9IDQK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJ0c2MiOiAidHNjIiwKICAgICJjbGVhbiI6ICJyaW1yYWYgYXJ0aWZhY3RzIiwKICAgICJidWlsZCIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJhbmRyb2lkOnNoYWtlIjogIiRBTkRST0lEX0hPTUUvcGxhdGZvcm0tdG9vbHMvYWRiIGRldmljZXMgfCBncmVwICdcXHQnIHwgYXdrICd7cHJpbnQgJDF9JyB8IHNlZCAncy9cXHMvL2cnIHwgeGFyZ3MgLUkge30gJEFORFJPSURfSE9NRS9wbGF0Zm9ybS10b29scy9hZGIgLXMge30gc2hlbGwgaW5wdXQga2V5ZXZlbnQgODIiLAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJhbmRyb2lkOmRldmljZXMiOiAiJEFORFJPSURfSE9NRS9wbGF0Zm9ybS10b29scy9hZGIgZGV2aWNlcyIsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJuZXdjbGVhciI6ICJybSAtcmYgJFRNUERJUi9yZWFjdC0qICYmIHdhdGNobWFuIHdhdGNoLWRlbC1hbGwgJiYgcm0gLXJmIGlvcy9idWlsZCAmJiBybSAtcmYgbm9kZV9tb2R1bGVzLyAmJiBucG0gY2FjaGUgY2xlYW4gLS1mb3JjZSAmJiBucG0gaSIsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICJjbGVhbiI6ICIiLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJjbGVhbiI6ICIiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gQGZsb3cKCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -114,7 +161,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -145,6 +194,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
