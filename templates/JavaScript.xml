@@ -90,4 +90,10 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="impt" value="import $END$ from '$PACKAGE$'" description="import" toReformat="false" toShortenFQNames="true">
+    <variable name="PACKAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
