@@ -36,6 +36,11 @@
         <mark key="." line="43" column="45" />
         <mark key="^" line="43" column="45" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/I18n/I18n.js" timestamp="1509707462445">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/HOC/WrapRootScreen/WrapRootScreen.styles.js" timestamp="1509616055157">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -95,6 +100,11 @@
         <mark key="]" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.flowconfig" timestamp="1509707487652">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/StatsScreen.js" timestamp="1509375226071">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="31" />
@@ -117,6 +127,13 @@
         <mark key="." line="19" column="55" />
         <mark key="^" line="19" column="55" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" timestamp="1509707550910">
+        <mark key="'" line="36" column="28" />
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.gitattributes" timestamp="1509357423536">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="2" column="14" />
@@ -128,7 +145,7 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509638082381">
+      <file name="/Dummy.txt" timestamp="1509712186483">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/ProfileScreen/ProfileScreen.styles.js" timestamp="1509618496081">
@@ -225,12 +242,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1509704736335">
-        <mark key="'" line="76" column="52" />
-        <mark key="[" line="115" column="46" />
-        <mark key="]" line="115" column="47" />
-        <mark key="." line="115" column="47" />
-        <mark key="^" line="115" column="47" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1509712223213">
+        <mark key="'" line="60" column="25" />
+        <mark key="[" line="62" column="45" />
+        <mark key="]" line="62" column="46" />
+        <mark key="." line="62" column="46" />
+        <mark key="^" line="62" column="46" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/Tests/Sagas/StartupSagaTest.js" timestamp="1509612999184">
         <mark key="'" line="3" column="0" />
@@ -251,10 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="62" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" />
-      <jump line="21" column="12" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/PokemonSagas.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/PokemonSagas.js" />
@@ -315,14 +328,12 @@
       <jump line="30" column="26" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="3" column="40" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="64" column="12" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
-      <jump line="60" column="25" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="49" column="15" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="59" column="19" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="72" column="30" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="55" column="24" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
-      <jump line="70" column="46" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="57" column="2" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="56" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
@@ -342,7 +353,6 @@
       <jump line="73" column="17" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="76" column="11" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="47" column="19" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
-      <jump line="22" column="25" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="50" column="21" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="137" column="2" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="85" column="41" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
@@ -351,43 +361,50 @@
       <jump line="38" column="76" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="82" column="37" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="67" column="52" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
+      <jump line="121" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
+      <jump line="29" column="17" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
+      <jump line="70" column="18" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
+      <jump line="22" column="11" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
+      <jump line="36" column="28" filename="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" />
+      <jump line="51" column="39" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
+      <jump line="60" column="25" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLnRyb24uZGlzcGxheSh7CiAgICAgICAgICBuYW1lOiAnVEVSTUlOQVRJT04gUkVRJywKICAgICAgICAgIHZhbHVlOiBnZXN0dXJlU3RhdGUsCiAgICAgICAgICBwcmV2aWV3OiBKU09OLnN0cmluZ2lmeSh7CiAgICAgICAgICAgIHg6IGdlc3R1cmVTdGF0ZS5tb3ZlWC50b0ZpeGVkKDMpLAogICAgICAgICAgICB5OiBnZXN0dXJlU3RhdGUubW92ZVkudG9GaXhlZCgzKQogICAgICAgICAgfSksCiAgICAgICAgICBpbXBvcnRhbnQ6IHRydWUKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5kaXNwbGF5KHsKICAgICAgbmFtZTogYFNDUk9MTCAke2dvaW5nRG93biA/ICdET1dOJyA6ICdVUCd9YCwKICAgICAgcHJldmlldzogbmF0aXZlRXZlbnQuY29udGVudE9mZnNldC55LAogICAgICBpbXBvcnRhbnQ6IHRydWUKICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25SZWZyZXNoPXt0aGlzLm9uU30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByZXZpZXc6IHRoaXMuaXNTd2lwaW5nVmVydGljYWxseShnZXN0dXJlU3RhdGUpLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoIWdvaW5nRG93biAmJiBjdXJyZW50T2Zmc2V0ID09PSAwKSB7CiAgICAgIEFuaW1hdGVkLnNwcmluZyh0aGlzLmhlYWRlckhlaWdodCwgewogICAgICAgIHRvVmFsdWU6IGhlYWRlck1ldHJpY3MuY29sbGFwc2VkLAogICAgICAgIHNwZWVkOiB0aGlzLkhFQURFUl9BTklNQVRJT05fU1BFRUQgLyAyLAogICAgICAgIGJvdW5jaW5lc3M6IHRoaXMuSEVBREVSX0FOSU1BVElPTl9CT1VOQ0lORVNTCiAgICAgIH0pLnN0YXJ0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGRyYWdVcCB8fCBkcmFnRG93bgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlzU3dpcGluZ1ZlcnRpY2FsbHkoZ2VzdHVyZVN0YXRlKQo=</text>
+        <text encoding="base64">ICAgICAga3d3Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRpcmVjdGlvbnMgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgaWYgKGRyYWdEb3duIHx8IGRyYWdVcCAmJikK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgQW5pbWF0ZWQuc3ByaW5nKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
