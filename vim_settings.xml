@@ -145,7 +145,7 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509712186483">
+      <file name="/Dummy.txt" timestamp="1509722121464">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/ProfileScreen/ProfileScreen.styles.js" timestamp="1509618496081">
@@ -218,6 +218,13 @@
         <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="14" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-api/common/models/utils/invoice-service.js" timestamp="1510049575853">
+        <mark key="'" line="288" column="20" />
+        <mark key="[" line="343" column="0" />
+        <mark key="]" line="343" column="0" />
+        <mark key="." line="343" column="0" />
+        <mark key="^" line="293" column="47" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/HOC/WrapRootScreen/WrapRootScreen.hoc.js" timestamp="1509616347185">
         <mark key="'" line="1" column="33" />
         <mark key="[" line="8" column="15" />
@@ -242,11 +249,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1509718444870">
-        <mark key="[" line="61" column="47" />
-        <mark key="]" line="61" column="55" />
-        <mark key="." line="61" column="55" />
-        <mark key="^" line="61" column="55" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1509726621278">
+        <mark key="'" line="127" column="121" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="99" column="107" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="86" column="94" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/Tests/Sagas/StartupSagaTest.js" timestamp="1509612999184">
         <mark key="'" line="3" column="0" />
@@ -267,13 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/PokemonSagas.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/PokemonSagas.js" />
-      <jump line="9" column="12" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/PokemonSagas.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/PokemonSagas.js" />
-      <jump line="14" column="17" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/PokemonRedux.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/index.js" />
       <jump line="14" column="21" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/RootContainer/RootContainer.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" />
       <jump line="19" column="1" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" />
@@ -367,46 +368,53 @@
       <jump line="36" column="28" filename="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" />
       <jump line="51" column="39" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="60" column="25" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
+      <jump line="151" column="15" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
+      <jump line="39" column="3" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
+      <jump line="150" column="53" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
+      <jump line="141" column="1" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
+      <jump line="75" column="20" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
+      <jump line="127" column="121" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
+      <jump line="288" column="20" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/utils/invoice-service.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbnZvaWNlU3RyaW5nQXJyYXkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>!==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2coSlNPTi5zdHJpbmdpZnkodGhpcy5oZWFkZXJIZWlnaHQpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codm91Y2hlckluZm8uZGlzY291bnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbnZvaWNlU3RyaW5nQXJyYXkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0b3RhbFNoaXBwaW5nLCB2YXRNdWx0aXBsaWVyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZGlzY291bnQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codm91Y2hlckluZm8uZGlzY291bnQpOwogICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh2b3VjaGVySW5mby5kaXNjb3VudCAvIDEwMCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChnb2luZ0Rvd24pIHsKICAgICAgdGhpcy5hbmltYXRpbmdTY3JvbGwgPSB0cnVlCgogICAgICBBbmltYXRlZC5zcHJpbmcodGhpcy5oZWFkZXJIZWlnaHQsIHsKICAgICAgICB0b1ZhbHVlOiBoZWFkZXJNZXRyaWNzLmNsb3NlZCwKICAgICAgICBzcGVlZDogdGhpcy5IRUFERVJfQU5JTUFUSU9OX1NQRUVEIC8gMiwKICAgICAgICBib3VuY2luZXNzOiB0aGlzLkhFQURFUl9BTklNQVRJT05fQk9VTkNJTkVTUwogICAgICB9KS5zdGFydChhbmltYXRpb25Db21wbGV0ZSkKICAgIH0gZWxzZSBpZiAoIWdvaW5nRG93biAmJiBjdXJyZW50T2Zmc2V0IDwgMTApIHsKICAgICAgQW5pbWF0ZWQuc3ByaW5nKHRoaXMuaGVhZGVySGVpZ2h0LCB7CiAgICAgICAgdG9WYWx1ZTogaGVhZGVyTWV0cmljcy5jb2xsYXBzZWQsCiAgICAgICAgc3BlZWQ6IHRoaXMuSEVBREVSX0FOSU1BVElPTl9TUEVFRCAvIDIsCiAgICAgICAgYm91bmNpbmVzczogdGhpcy5IRUFERVJfQU5JTUFUSU9OX0JPVU5DSU5FU1MKICAgICAgfSkuc3RhcnQoYW5pbWF0aW9uQ29tcGxldGUpCiAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZGlzY291bnQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2codm91Y2hlckluZm8uZGlzY291bnQpOwogICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh2b3VjaGVySW5mby5kaXNjb3VudCAvIDEwMCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coZGlzY291bnQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgdGhpcy5zY3JvbGxBbmltYXRpb25DYWxsYmFjayA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdcblxuXG5cbicpOwogICAgICAgICAgICAgICAgY29uc29sZS5sb2cocGFyc2VkKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>161</text>
       </register>
     </registers>
     <search>
@@ -417,6 +425,7 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
+        <entry>161</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -463,6 +472,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
