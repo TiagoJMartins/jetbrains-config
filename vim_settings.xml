@@ -83,11 +83,10 @@
         <mark key="^" line="10" column="82" />
         <mark key="." line="10" column="82" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/index.js" timestamp="1509620204885">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="23" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/index.js" timestamp="1510062106262">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/FixtureApi.js" timestamp="1509613513524">
         <mark key="[" line="3" column="2" />
@@ -185,18 +184,17 @@
         <mark key="]" line="8" column="2" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" timestamp="1509699345143">
-        <mark key="'" line="11" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" timestamp="1510062053961">
+        <mark key="'" line="21" column="16" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="34" column="3" />
         <mark key="^" line="55" column="30" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleStatsHeader/CollapsibleStatsHeader.js" timestamp="1509624964060">
-        <mark key="'" line="13" column="1" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleStatsHeader/CollapsibleStatsHeader.js" timestamp="1510062117250">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/MainScreenHeader/MainScreenHeader.js" timestamp="1509619309733">
         <mark key="'" line="6" column="32" />
@@ -249,12 +247,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1510060213669">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1510062006051">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="23" column="27" />
-        <mark key="]" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-        <mark key="^" line="23" column="29" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="39" column="39" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/Tests/Sagas/StartupSagaTest.js" timestamp="1509612999184">
         <mark key="'" line="3" column="0" />
@@ -275,9 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="47" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" />
-      <jump line="9" column="24" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" />
-      <jump line="2" column="40" filename="$USER_HOME$/www/work/skorr/skorr-mobile/Tests/Sagas/GithubSagaTest.js" />
       <jump line="15" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/Tests/Redux/PokemonReduxTest.js" />
       <jump line="24" column="27" filename="$USER_HOME$/www/work/skorr/skorr-mobile/Tests/Redux/PokemonReduxTest.js" />
@@ -316,7 +311,6 @@
       <jump line="32" column="11" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" />
       <jump line="44" column="31" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" />
       <jump line="20" column="22" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" />
-      <jump line="21" column="11" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" />
       <jump line="28" column="8" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" />
       <jump line="29" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" />
       <jump line="33" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" />
@@ -375,57 +369,70 @@
       <jump line="71" column="31" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="86" column="62" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="14" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
+      <jump line="21" column="16" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/index.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="4">
-        <text>headerMetrics.closed - this.state.headerHeightValue</text>
+      <register name="/" type="4">
+        <text>console</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIH0pLnN0YXJ0KCgpID0+IHRoaXMub25IZWFkZXJIZWlnaHRDaGFuZ2VkKHsKICAgICAgdmFsdWU6IGhlYWRlck1ldHJpY3MuY29sbGFwc2VkCiAgICB9KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt0aGlzLnN0YXRlLmhlYWRlckhlaWdodFZhbHVlfQo=</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvcGFjaXR5OiAwLjMsCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVGV4dCB9IGZyb20gJ3JlYWN0LW5hdGl2ZScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICB0aGlzLnN0YXRlID0gewogICAgICBoZWFkZXJIZWlnaHRWYWx1ZTogaGVhZGVyTWV0cmljcy5jb2xsYXBzZWQKICAgIH0K</text>
+        <text encoding="base64">CmV4cG9ydCBkZWZhdWx0IGNsYXNzIENvbGxhcHNpYmxlU3RhdHNIZWFkZXIgZXh0ZW5kcyBDb21wb25lbnQgewogIHJlbmRlciAoKSB7CiAgICByZXR1cm4gKAogICAgICA8Q29sbGFwc2libGVIZWFkZXJGcmFtZT4KICAgICAgICA8VGV4dCBzdHlsZT17e2NvbG9yOiAnd2hpdGUnLCBmb250U2l6ZTogNTB9fT4KICAgICAgICAgIERhc2hib2FyZCBTdGF0cwogICAgICAgIDwvVGV4dD4KICAgICAgPC9Db2xsYXBzaWJsZUhlYWRlckZyYW1lPgogICAgKQogIH0KfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBvbkhlYWRlckhlaWdodENoYW5nZWQgPSAoe3ZhbHVlfSkgPT4geyAKICAgIHJldHVybiB0aGlzLnNldFN0YXRlKHsuLi50aGlzLnN0YXRlLCB9KQogIH0KCg==</text>
+        <text encoding="base64">aW1wb3J0IENvbGxhcHNpYmxlSGVhZGVyRnJhbWUgZnJvbSAnLi4vQ29sbGFwc2libGVIZWFkZXJGcmFtZS9Db2xsYXBzaWJsZUhlYWRlckZyYW1lJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS50cm9uLmxvZyh2YWwudmFsdWUpCgo=</text>
+        <text encoding="base64">ICBDb2xsYXBzaWJsZUhlYWRlckZyYW1lLAogIENvbGxhcHNpYmxlU3RhdHNIZWFkZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IENvbGxhcHNpYmxlSGVhZGVyRnJhbWUgZnJvbSAnLi9Db2xsYXBzaWJsZUhlYWRlckZyYW1lL0NvbGxhcHNpYmxlSGVhZGVyRnJhbWUnCmltcG9ydCBDb2xsYXBzaWJsZVN0YXRzSGVhZGVyIGZyb20gJy4vQ29sbGFwc2libGVTdGF0c0hlYWRlci9Db2xsYXBzaWJsZVN0YXRzSGVhZGVyJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2coJ09QRU5JTkcnKQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2coJ0NMT1NJTkcnKQoK</text>
       </register>
       <register name=":" type="4">
-        <text>161</text>
+        <text>35</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>console</last-search>
+      <last-offset />
+      <last-pattern>console</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>console</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
         <entry>161</entry>
+        <entry>35</entry>
       </history-cmd>
       <history-expr />
       <history-input />
