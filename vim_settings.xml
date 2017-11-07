@@ -249,12 +249,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1510055966856">
-        <mark key="'" line="71" column="31" />
-        <mark key="[" line="142" column="45" />
-        <mark key="]" line="142" column="44" />
-        <mark key="." line="142" column="44" />
-        <mark key="^" line="142" column="44" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1510060213669">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="23" column="29" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/Tests/Sagas/StartupSagaTest.js" timestamp="1509612999184">
         <mark key="'" line="3" column="0" />
@@ -275,8 +275,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" />
-      <jump line="19" column="1" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" />
       <jump line="0" column="47" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" />
       <jump line="9" column="24" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" />
       <jump line="2" column="40" filename="$USER_HOME$/www/work/skorr/skorr-mobile/Tests/Sagas/GithubSagaTest.js" />
@@ -375,46 +373,45 @@
       <jump line="127" column="121" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="288" column="20" filename="$USER_HOME$/www/work/kide/devel/kide-api/common/models/utils/invoice-service.js" />
       <jump line="71" column="31" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
+      <jump line="86" column="62" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>5</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0b3A6IHRoaXMuc2Nyb2xsWS5pbnRlcnBvbGF0ZSh7CiAgICAgICAgICAgICAgICBpbnB1dFJhbmdlOiBbMCwgdGhpcy5oZWFkZXJIZWlnaHRWYWx1ZV0sCiAgICAgICAgICAgICAgICBvdXRwdXRSYW5nZTogWzAsIGhlYWRlck1ldHJpY3MuY2xvc2VkIC0gdGhpcy5oZWFkZXJIZWlnaHRWYWx1ZV0sCiAgICAgICAgICAgICAgICBleHRyYXBvbGF0ZTogJ2NsYW1wJwogICAgICAgICAgICAgIH0pLAo=</text>
+      <register name="0" type="4">
+        <text>headerMetrics.closed - this.state.headerHeightValue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmdUb3A6IHRoaXMuc2Nyb2xsWS5pbnRlcnBvbGF0ZSh7CiAgICAgICAgICAgICAgICAgIGlucHV0UmFuZ2U6IFswLCB0aGlzLmhlYWRlckhlaWdodFZhbHVlXSwKICAgICAgICAgICAgICAgICAgb3V0cHV0UmFuZ2U6IFt0aGlzLmhlYWRlckhlaWdodFZhbHVlLCBoZWFkZXJNZXRyaWNzLmNsb3NlZCArIHRoaXMuaGVhZGVySGVpZ2h0VmFsdWVdLAogICAgICAgICAgICAgICAgICBleHRyYXBvbGF0ZTogJ2NsYW1wJwogICAgICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt0aGlzLnN0YXRlLmhlYWRlckhlaWdodFZhbHVlfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmdpblRvcDogCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBvcGFjaXR5OiAwLjMsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDogdGhpcy5oZWFkZXJIZWlnaHQsCg==</text>
+        <text encoding="base64">CiAgICB0aGlzLnN0YXRlID0gewogICAgICBoZWFkZXJIZWlnaHRWYWx1ZTogaGVhZGVyTWV0cmljcy5jb2xsYXBzZWQKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmdpblRvcDogdGhpcy5oZWFkZXJIZWlnaHQK</text>
+        <text encoding="base64">ICBvbkhlYWRlckhlaWdodENoYW5nZWQgPSAoe3ZhbHVlfSkgPT4geyAKICAgIHJldHVybiB0aGlzLnNldFN0YXRlKHsuLi50aGlzLnN0YXRlLCB9KQogIH0KCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>.interpolate({
-                  inputRange: [headerMetrics.closed, this.headerHeightValue],
-                  outputRange: [headerMetrics.closed, this.headerHeightValue]
-                })</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS50cm9uLmxvZyh2YWwudmFsdWUpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgb3V0cHV0UmFuZ2U6IFtdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmdpblRvcDogdGhpcy5zY3JvbGxZLmludGVycG9sYXRlKHsKICAgICAgICAgICAgICAgICAgaW5wdXRSYW5nZTogWzAsIHRoaXMuaGVhZGVySGVpZ2h0VmFsdWVdLAogICAgICAgICAgICAgICAgICBvdXRwdXRSYW5nZTogW3RoaXMuaGVhZGVySGVpZ2h0VmFsdWUsIGhlYWRlck1ldHJpY3MuY2xvc2VkXSwKICAgICAgICAgICAgICAgICAgZXh0cmFwb2xhdGU6ICdjbGFtcCcKICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pLnN0YXJ0KCgpID0+IHsKICAgICAgdGhpcy5oZWFkZXJIZWlnaHRWYWx1ZSA9IGhlYWRlck1ldHJpY3Mub3BlbgogICAgfSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5oZWFkZXJIZWlnaHRWYWx1ZSA9IGhlYWRlck1ldHJpY3MuY29sbGFwc2VkCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>161</text>
