@@ -130,7 +130,7 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.styles.js" timestamp="1510133272853">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.styles.js" timestamp="1510143368077">
         <mark key="'" line="25" column="11" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -162,12 +162,11 @@
         <mark key="." line="9" column="66" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1510133276279">
-        <mark key="'" line="70" column="34" />
-        <mark key="[" line="91" column="36" />
-        <mark key="]" line="91" column="36" />
-        <mark key="." line="91" column="36" />
-        <mark key="^" line="91" column="36" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1510143446964">
+        <mark key="[" line="80" column="21" />
+        <mark key="]" line="80" column="21" />
+        <mark key="." line="80" column="21" />
+        <mark key="^" line="80" column="21" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/Tests/Sagas/StartupSagaTest.js" timestamp="1509612999184">
         <mark key="'" line="3" column="0" />
@@ -195,7 +194,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/ProfileScreen/ProfileScreen.js" timestamp="1510134334077">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/ProfileScreen/ProfileScreen.js" timestamp="1510136516294">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="12" column="22" />
         <mark key="]" line="12" column="23" />
@@ -238,7 +237,6 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/AppNavigation.js" timestamp="1510130588451" />
       <file name="/JavaScript Console" timestamp="1509440424349">
         <mark key="[" line="0" column="0" />
       </file>
@@ -269,11 +267,11 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Styles/NavigationStyles.js" timestamp="1510130812927">
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="15" />
-        <mark key="." line="21" column="15" />
-        <mark key="^" line="21" column="15" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Styles/NavigationStyles.js" timestamp="1510143237105">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/index.js" timestamp="1509615138440">
         <mark key="[" line="8" column="12" />
@@ -417,10 +415,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZsZXg6IDEsCiAgICB3aWR0aDogJzEwMCUnLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZ1RvcDogTWV0cmljcy5uYXZCYXJIZWlnaHQK</text>
       </register>
       <register name="-" type="4">
-        <text>'#8287FF'</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -429,31 +427,31 @@
         <text encoding="base64">ICBvcGVuOiBNZXRyaWNzLnNjcmVlbkhlaWdodCAvIDEuMzI1LAogIGNvbGxhcHNlZDogTWV0cmljcy5zY3JlZW5IZWlnaHQgLyAyLjU1LAogIGNsb3NlZDogTWV0cmljcy5uYXZCYXJIZWlnaHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZsZXg6IDEsCiAgICB3aWR0aDogJzEwMCUnLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZ1RvcDogTWV0cmljcy5uYXZCYXJIZWlnaHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhoZWFkZXJNZXRyaWNzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZ1RvcDogTWV0cmljcy5uYXZCYXJIZWlnaHQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC4uLnRoaXMuc3RhdGUsCg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNvbnN0IGhlYWRlck1ldHJpY3MgPSBNZXRyaWNzLmhlYWRlcgo=</text>
+        <text encoding="base64">PT09PT09PQogICAgICA8VmlldyBzdHlsZT17c3R5bGVzLm1haW5Db250YWluZXJ9PgogICAgICAgIDxHZXN0dXJlUmVjb2duaXplcgogICAgICAgICAgb25Td2lwZVVwPXt0aGlzLm9uSGVhZGVyU3dpcGVVcH0KICAgICAgICAgIG9uU3dpcGVEb3duPXt0aGlzLm9uSGVhZGVyU3dpcGVEb3dufQogICAgICAgICAgdmVsb2NpdHlUaHJlc2hvbGQ9ezAuMX0KPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgaGVhZGVyOiB7CiAgfQo=</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9wZW46IHRoaXMuc2NyZWVuSGVpZ2h0IC8gMS4zMjUsCiAgICBjb2xsYXBzZWQ6IHRoaXMuc2NyZWVuSGVpZ2h0IC8gMi41NSwKICAgIGNsb3NlZDogdGhpcy5uYXZCYXJIZWlnaHQK</text>
+        <text encoding="base64">ICAgIGZvbnRTaXplOiAzMiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGhlYWRlck1ldHJpY3MgPSB7CiAgCn0K</text>
+        <text encoding="base64">ICAgIGZvbnRTaXplOiAyOAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNvbnN0IAo=</text>
+        <text encoding="base64">ICAgIGZsZXg6IDEsCiAgICB3aWR0aDogJzEwMCUnLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicK</text>
       </register>
       <register name=":" type="4">
         <text>35</text>
