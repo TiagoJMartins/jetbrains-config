@@ -95,12 +95,11 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorrDisplay/RoundSkorrDisplay.styles.js" timestamp="1510157362562">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorrDisplay/RoundSkorrDisplay.styles.js" timestamp="1510160512812">
         <mark key="'" line="30" column="22" />
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="33" column="29" />
-        <mark key="." line="33" column="29" />
-        <mark key="^" line="33" column="29" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/AlertMessage/AlertMessage.js" timestamp="1510151413404" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/ProfileScreen/ProfileScreen.styles.js" timestamp="1509618496081">
@@ -255,12 +254,12 @@
       <file name="/JavaScript Console" timestamp="1509440424349">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorrDisplay/RoundSkorrDisplay.js" timestamp="1510157225434">
-        <mark key="'" line="30" column="14" />
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="14" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorrDisplay/RoundSkorrDisplay.js" timestamp="1510161221493">
+        <mark key="'" line="61" column="28" />
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="16" />
+        <mark key="." line="27" column="37" />
+        <mark key="^" line="25" column="17" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" timestamp="1510064967005">
         <mark key="'" line="36" column="28" />
@@ -275,7 +274,7 @@
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/SkorrIcons/config.json" timestamp="1510068975511">
         <mark key="'" line="61" column="16" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Themes/Fonts.js" timestamp="1510152595866">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Themes/Fonts.js" timestamp="1510157566306">
         <mark key="'" line="55" column="15" />
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="19" />
@@ -340,7 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="11" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" />
       <jump line="44" column="31" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" />
       <jump line="20" column="22" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" />
       <jump line="28" column="8" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" />
@@ -440,46 +438,47 @@
       <jump line="30" column="22" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorrDisplay/RoundSkorrDisplay.styles.js" />
       <jump line="7" column="19" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorrDisplay/RoundSkorrDisplay.js" />
       <jump line="24" column="14" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorrDisplay/RoundSkorrDisplay.js" />
+      <jump line="47" column="28" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorrDisplay/RoundSkorrDisplay.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>: this.CIRCLE_PERIMETER / 4</text>
       </register>
       <register name="-" type="4">
-        <text>75</text>
+        <text>: this.CIRCLE_PERIMETER / 4</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlaWdodD17Q2lyY2xlTWV0cmljcy5oZWlnaHR9Cg==</text>
+      <register name="0" type="4">
+        <text>2 * Math.PI * CircleMetrics.circleRadius</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBDSVJDTEVfQ0VOVEVSX1BPSU5UID0gQ2lyY2xlTWV0cmljcy53aWR0aCAvIDIKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpZHRoPXsxNTB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpZHRoPXsxNTB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3Ryb2tlT3BhY2l0eT17MC41fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgQ0lSQ0xFX0NFTlRFUl9QT0lOVCA9IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>35</text>
