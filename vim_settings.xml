@@ -130,11 +130,11 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.styles.js" timestamp="1510131935684">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.styles.js" timestamp="1510133272853">
         <mark key="'" line="25" column="11" />
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="31" />
-        <mark key="." line="7" column="31" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
         <mark key="^" line="7" column="31" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/HOC/WrapRootScreen/WrapRootScreen.hoc.js" timestamp="1509616347185">
@@ -161,11 +161,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1510132060002">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1510133276279">
         <mark key="'" line="70" column="34" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+        <mark key="[" line="91" column="36" />
+        <mark key="]" line="91" column="36" />
+        <mark key="." line="91" column="36" />
+        <mark key="^" line="91" column="36" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/Tests/Sagas/StartupSagaTest.js" timestamp="1509612999184">
         <mark key="'" line="3" column="0" />
@@ -414,8 +415,8 @@
       <jump line="25" column="11" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.styles.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'#8287FF'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZsZXg6IDEsCiAgICB3aWR0aDogJzEwMCUnLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicK</text>
       </register>
       <register name="-" type="4">
         <text>'#8287FF'</text>
@@ -427,35 +428,31 @@
         <text encoding="base64">ICBvcGVuOiBNZXRyaWNzLnNjcmVlbkhlaWdodCAvIDEuMzI1LAogIGNvbGxhcHNlZDogTWV0cmljcy5zY3JlZW5IZWlnaHQgLyAyLjU1LAogIGNsb3NlZDogTWV0cmljcy5uYXZCYXJIZWlnaHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhoZWFkZXJNZXRyaWNzKQo=</text>
+        <text encoding="base64">ICAgIGZsZXg6IDEsCiAgICB3aWR0aDogJzEwMCUnLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC4uLnRoaXMuc3RhdGUsCg==</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhoZWFkZXJNZXRyaWNzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmNvbnN0IGhlYWRlck1ldHJpY3MgPSBNZXRyaWNzLmhlYWRlcgo=</text>
+        <text encoding="base64">ICAgIC4uLnRoaXMuc3RhdGUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgaGVhZGVyOiB7CiAgfQo=</text>
+        <text encoding="base64">CmNvbnN0IGhlYWRlck1ldHJpY3MgPSBNZXRyaWNzLmhlYWRlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CiAgaGVhZGVyOiB7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9wZW46IHRoaXMuc2NyZWVuSGVpZ2h0IC8gMS4zMjUsCiAgICBjb2xsYXBzZWQ6IHRoaXMuc2NyZWVuSGVpZ2h0IC8gMi41NSwKICAgIGNsb3NlZDogdGhpcy5uYXZCYXJIZWlnaHQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGhlYWRlck1ldHJpY3MgPSB7CiAgCn0K</text>
+        <text encoding="base64">ICAgIG9wZW46IHRoaXMuc2NyZWVuSGVpZ2h0IC8gMS4zMjUsCiAgICBjb2xsYXBzZWQ6IHRoaXMuc2NyZWVuSGVpZ2h0IC8gMi41NSwKICAgIGNsb3NlZDogdGhpcy5uYXZCYXJIZWlnaHQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNvbnN0IAo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGhlYWRlck1ldHJpY3MgPSB7CiAgCn0K</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-  open: Metrics.screenHeight / 1.325,
-  collapsed: Metrics.screenHeight / 2.55,
-  closed: Metrics.navBarHeight
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">CmNvbnN0IAo=</text>
       </register>
       <register name=":" type="4">
         <text>35</text>
