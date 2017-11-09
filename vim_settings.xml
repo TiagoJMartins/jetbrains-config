@@ -101,7 +101,6 @@
         <mark key="]" line="7" column="18" />
         <mark key="." line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/AlertMessage/AlertMessage.js" timestamp="1510151413404" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/ProfileScreen/ProfileScreen.styles.js" timestamp="1509618496081">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="23" />
@@ -176,7 +175,7 @@
         <mark key="." line="9" column="66" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1510153069891">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1510215216860">
         <mark key="'" line="9" column="28" />
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="37" />
@@ -254,12 +253,12 @@
       <file name="/JavaScript Console" timestamp="1509440424349">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorrDisplay/RoundSkorrDisplay.js" timestamp="1510161221493">
-        <mark key="'" line="61" column="28" />
-        <mark key="[" line="27" column="16" />
-        <mark key="]" line="27" column="16" />
-        <mark key="." line="27" column="37" />
-        <mark key="^" line="25" column="17" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorrDisplay/RoundSkorrDisplay.js" timestamp="1510215765614">
+        <mark key="'" line="69" column="28" />
+        <mark key="[" line="32" column="6" />
+        <mark key="]" line="32" column="6" />
+        <mark key="^" line="25" column="42" />
+        <mark key="." line="32" column="6" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" timestamp="1510064967005">
         <mark key="'" line="36" column="28" />
@@ -442,10 +441,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: this.CIRCLE_PERIMETER / 4</text>
+        <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="-" type="4">
-        <text>: this.CIRCLE_PERIMETER / 4</text>
+        <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -454,31 +453,31 @@
         <text>2 * Math.PI * CircleMetrics.circleRadius</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCBkYXNoT2Zmc2V0ID0gdGhpcy5DSVJDTEVfUEVSSU1FVEVSIC0gKHRoaXMuQ0lSQ0xFX1BFUklNRVRFUiAvIDQpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCBkYXNoT2Zmc2V0ID0gdGhpcy5DSVJDTEVfUEVSSU1FVEVSIC0gKHRoaXMuQ0lSQ0xFX1BFUklNRVRFUiAvIDQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgRGEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIChzY29yZSA9PT0gMTAwKSAK</text>
       </register>
       <register name=":" type="4">
         <text>35</text>
