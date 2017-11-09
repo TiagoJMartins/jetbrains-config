@@ -142,7 +142,7 @@
         <mark key="." line="9" column="66" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1510243974258">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1510246404945">
         <mark key="'" line="141" column="21" />
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
@@ -225,12 +225,11 @@
         <mark key="." line="31" column="19" />
         <mark key="^" line="31" column="19" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/MainSkorrProgressChart/MainSkorrProgressChart.js" timestamp="1510243669028">
-        <mark key="'" line="28" column="8" />
-        <mark key="[" line="45" column="27" />
-        <mark key="]" line="45" column="29" />
-        <mark key="^" line="45" column="29" />
-        <mark key="." line="45" column="29" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/MainSkorrProgressChart/MainSkorrProgressChart.js" timestamp="1510247541555">
+        <mark key="'" line="17" column="2" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1509440424349">
         <mark key="[" line="0" column="0" />
@@ -318,7 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="25" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="21" column="36" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="90" column="17" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
       <jump line="73" column="17" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
@@ -418,49 +416,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/MainSkorrProgressChart/MainSkorrProgressChart.js" />
       <jump line="26" column="7" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/MainSkorrProgressChart/MainSkorrProgressChart.js" />
       <jump line="28" column="8" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/MainSkorrProgressChart/MainSkorrProgressChart.js" />
+      <jump line="25" column="2" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/MainSkorrProgressChart/MainSkorrProgressChart.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB6SW5kZXg6IDEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>`${d.x, 2)}, ${round(d.y, 2)}`</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB6SW5kZXg6IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gQEZJWE1FOiBUaGlzIHdvdWxkIHN0eWxlIHRoZSBsYXN0IHNjYXR0ZXIgcG9pbnQgZGlmZmVyZW50bHkgZnJvbSB0aGUgcmVzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB6SW5kZXg6IDEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB6SW5kZXg6IDAsCg==</text>
+        <text encoding="base64">Ly8gQFRPRE86IEFwcCBpcyB0aHJvd2luZyBhbiBlcnJvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpY3RvcnlDdXJzb3JDb250YWluZXIKICAgICAgICAgICAgICBjdXJzb3JEaW1lbnNpb249eyd5J30KICAgICAgICAgICAgICBjdXJzb3JMYWJlbD17ZCA9PiBkLnl9CiAgICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gQEZJWE1FOiBUaGlzIHdvdWxkIHN0eWxlIHRoZSBsYXN0IHNjYXR0ZXIgcG9pbnQgZGlmZmVyZW50bHkgZnJvbSB0aGUgcmVzdAogICAgICAgICAgICAgICAgICAvLyBmaWxsOiBkID0+IGQueSA9PT0gdGhpcy5zdGF0ZS5kYXRhW3RoaXMuc3RhdGUuZGF0YS5sZW5ndGggLSAxXS55ID8gJ25vbmUnIDogQ29sb3JzLnNub3csCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvblRvdWNoU3RhcnQ9eygpID0+IHsgY29uc29sZS5sb2coJ3RvdWNoIHN0YXJ0JykgfX0KICAgICAgICAgICAgICBvblRvdWNoRW5kPXsoKSA9PiB7IGNvbnNvbGUubG9nKCd0b3VjaCBlbmQnKSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgLy8gQEZJWE1FOiBUaGlzIHdvdWxkIHN0eWxlIHRoZSBsYXN0IGxhYmVsIGRpZmZlcmVudGx5IGZyb20gdGhlIHJlc3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZm9udFNpemU6IDEwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZm9udFNpemU6IGQgPT4gZC55ID09PSB0aGlzLnN0YXRlLmRhdGFbdGhpcy5zdGF0ZS5kYXRhLmxlbmd0aCAtIDFdLnkgPyAyMCA6IDEwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0eWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZmlsbDogZCA9PiBkLnkgPT09IHRoaXMuc3RhdGUuZGF0YVt0aGlzLnN0YXRlLmRhdGEubGVuZ3RoIC0gMV0ueSA/ICdub25lJyA6IENvbG9ycy5zbm93LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPFZpY3RvcnlDaGFydAogICAgICAgIGRvbWFpblBhZGRpbmc9ezB9CiAgICAgICAgY29udGFpbmVyQ29tcG9uZW50PXsKICAgICAgICAgIDxWaWN0b3J5Q3Vyc29yQ29udGFpbmVyCiAgICAgICAgICAgIGN1cnNvckRpbWVuc2lvbj17J3knfQogICAgICAgICAgICBjdXJzb3JMYWJlbD17ZCA9PiBkLnl9CiAgICAgICAgICAgIG9uVG91Y2hTdGFydD17KCkgPT4geyBjb25zb2xlLmxvZygndG91Y2ggc3RhcnQnKSB9fQogICAgICAgICAgICBvblRvdWNoRW5kPXsoKSA9PiB7IGNvbnNvbGUubG9nKCd0b3VjaCBlbmQnKSB9fQogICAgICAgICAgLz4KICAgICAgICB9CiAgICAgID4KICAgICAgICA8VmljdG9yeUF4aXMKICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgIHRpY2tMYWJlbHM6IHsKICAgICAgICAgICAgICBmaWxsOiAnd2hpdGUnLAogICAgICAgICAgICAgIG9wYWNpdHk6IDAuNwogICAgICAgICAgICB9LAogICAgICAgICAgICAvLyBncmlkOiB7CiAgICAgICAgICAgIC8vICAgc3Ryb2tlOiAnd2hpdGUnLAogICAgICAgICAgICAvLyAgIG9wYWNpdHk6IDAuNwogICAgICAgICAgICAvLyB9LAogICAgICAgICAgICBheGlzOiB7CiAgICAgICAgICAgICAgc3Ryb2tlOiAnbm9uZScKICAgICAgICAgICAgfQogICAgICAgICAgfX0KICAgICAgICAgIHRpY2tWYWx1ZXM9e1sxLCAyLCAzLCA0XX0KICAgICAgICAgIHRpY2tGb3JtYXQ9e1snTm92IDknLCAnTm92IDEyJywgJ05vdiAxNScsICdOb3YgMTknXX0KICAgICAgICAvPgogICAgICAgIDxWaWN0b3J5R3JvdXAgZGF0YT17dGhpcy5zdGF0ZS5kYXRhfSA+CiAgICAgICAgICA8VmljdG9yeUxpbmUKICAgICAgICAgICAgaW50ZXJwb2xhdGlvbj17J2NhdG11bGxSb20nfQogICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgIGRhdGE6IHsKICAgICAgICAgICAgICAgIHN0cm9rZTogQ29sb3JzLnNub3csCiAgICAgICAgICAgICAgICBzdHJva2VXaWR0aDogNAogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfX0KICAgICAgICAgIC8+CiAgICAgICAgICA8VmljdG9yeVNjYXR0ZXIKICAgICAgICAgICAgc2l6ZT17NX0KICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICBkYXRhOiB7CiAgICAgICAgICAgICAgICBmaWxsOiBDb2xvcnMuc25vdwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfX0KICAgICAgICAgIC8+CiAgICAgICAgPC9WaWN0b3J5R3JvdXA+CiAgICAgIDwvVmljdG9yeUNoYXJ0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZmlsbDogZCA9PiBkLnkgPT09IHRoaXMuc3RhdGUuZGF0YVt0aGlzLnN0YXRlLmRhdGEubGVuZ3RoIC0gMV0ueSA/ICdyZWQnIDogQ29sb3JzLnNub3cK</text>
       </register>
       <register name=":" type="4">
-        <text>109</text>
+        <text>61</text>
       </register>
     </registers>
     <search>
@@ -480,6 +479,7 @@
         <entry>102</entry>
         <entry>35</entry>
         <entry>109</entry>
+        <entry>61</entry>
       </history-cmd>
       <history-expr />
       <history-input />
