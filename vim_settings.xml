@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Fixtures/pokemon.json" timestamp="1509613031921">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="4" />
+        <mark key="." line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/PokemonRedux.js" timestamp="1509613376785">
         <mark key="'" line="16" column="1" />
         <mark key="[" line="43" column="46" />
@@ -28,12 +34,24 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeader/CollapsibleHeader.js" timestamp="1510328780864">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeader/CollapsibleHeader.js" timestamp="1510332757536">
         <mark key="'" line="6" column="59" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="106" column="97" />
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="26" />
+        <mark key="." line="20" column="26" />
+        <mark key="^" line="20" column="26" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/HOC/index.js" timestamp="1509615866454">
+        <mark key="[" line="0" column="64" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" timestamp="1509613294689">
+        <mark key="[" line="26" column="45" />
+        <mark key="]" line="26" column="45" />
+        <mark key="^" line="26" column="45" />
+        <mark key="." line="26" column="45" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/index.js" timestamp="1510328718007">
         <mark key="'" line="0" column="0" />
@@ -43,10 +61,41 @@
         <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/I18n/index.js" timestamp="1510328759566" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.babelrc" timestamp="1510152461968">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="45" />
+        <mark key="^" line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Themes/Metrics.js" timestamp="1510131776377">
+        <mark key="[" line="37" column="10" />
+        <mark key="]" line="37" column="16" />
+        <mark key="." line="37" column="16" />
+        <mark key="^" line="37" column="16" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/Counter/Counter.js" timestamp="1510225762054">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="27" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/NavigationBar.js" timestamp="1510068861838">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="33" />
+        <mark key="^" line="6" column="33" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/SectionTitle/SectionTitle.js" timestamp="1510333220473">
+        <mark key="'" line="32" column="39" />
+        <mark key="[" line="32" column="54" />
+        <mark key="]" line="32" column="54" />
+        <mark key="." line="32" column="54" />
+        <mark key="^" line="32" column="36" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.gitattributes" timestamp="1509357423536">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="14" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorrDisplay/RoundSkorrDisplay.styles.js" timestamp="1510229526061">
         <mark key="'" line="9" column="36" />
@@ -60,11 +109,18 @@
         <mark key="]" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" timestamp="1510330933824">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Config/ReactotronConfig.js" timestamp="1509612910392">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" timestamp="1510334391783">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
+        <mark key="[" line="74" column="23" />
+        <mark key="]" line="74" column="23" />
+        <mark key="." line="74" column="23" />
+        <mark key="^" line="34" column="21" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" timestamp="1510062053961">
         <mark key="'" line="21" column="16" />
@@ -73,12 +129,17 @@
         <mark key="^" line="55" column="30" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.styles.js" timestamp="1510331464424">
-        <mark key="'" line="21" column="23" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="60" />
-        <mark key="." line="10" column="38" />
-        <mark key="^" line="10" column="38" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/Tests/Services/FixtureAPITest.js" timestamp="1509616555652">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.styles.js" timestamp="1510333382889">
+        <mark key="[" line="26" column="60" />
+        <mark key="]" line="26" column="60" />
+        <mark key="." line="26" column="60" />
+        <mark key="^" line="26" column="63" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/java/com/skorr/MainApplication.java" timestamp="1510328996073">
         <mark key="[" line="5" column="0" />
@@ -92,12 +153,30 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1510331391651">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Themes/Images.js" timestamp="1510227506372">
+        <mark key="[" line="1" column="50" />
+        <mark key="]" line="2" column="57" />
+        <mark key="." line="2" column="57" />
+        <mark key="^" line="2" column="57" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/index.js" timestamp="1509618637849">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/StatsScreen/StatsScreen.js" timestamp="1510134317438">
+        <mark key="[" line="9" column="50" />
+        <mark key="]" line="9" column="66" />
+        <mark key="." line="9" column="66" />
+        <mark key="^" line="9" column="66" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1510334653211">
         <mark key="'" line="187" column="36" />
-        <mark key="[" line="79" column="18" />
-        <mark key="]" line="79" column="18" />
-        <mark key="^" line="79" column="18" />
-        <mark key="." line="79" column="18" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="325" column="21" />
+        <mark key="^" line="87" column="39" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/Tests/Sagas/StartupSagaTest.js" timestamp="1509612999184">
         <mark key="'" line="3" column="0" />
@@ -130,6 +209,12 @@
         <mark key="^" line="26" column="40" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/kide/devel/kide-webapp/src/configs.dev.js" timestamp="1509118463874">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="2" column="56" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/ProfileScreen/ProfileScreen.js" timestamp="1510136516294">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="12" column="22" />
@@ -150,7 +235,37 @@
         <mark key="]" line="67" column="29" />
         <mark key="." line="2" column="40" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Config/DebugConfig.js" timestamp="1509613545698">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/storybook/storybook.js" timestamp="1509361371826">
+        <mark key="[" line="10" column="65" />
+        <mark key="]" line="10" column="82" />
+        <mark key="^" line="10" column="82" />
+        <mark key="." line="10" column="82" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/FixtureApi.js" timestamp="1509613513524">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+        <mark key="^" line="3" column="11" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/FullButton/FullButton.styles.js" timestamp="1510330949923" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/StatsScreen.js" timestamp="1509375226071">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/AppNavigation.js" timestamp="1510242874771">
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
+        <mark key="^" line="31" column="19" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/MainSkorrProgressChart/MainSkorrProgressChart.js" timestamp="1510308028917">
         <mark key="'" line="17" column="2" />
         <mark key="[" line="10" column="0" />
@@ -204,6 +319,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="22" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Styles/NavigationStyles.js" timestamp="1510143237105">
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/index.js" timestamp="1510308829511">
         <mark key="'" line="9" column="7" />
         <mark key="[" line="7" column="42" />
@@ -238,6 +359,12 @@
         <mark key="." line="343" column="0" />
         <mark key="^" line="293" column="47" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorr/RoundSkorr.js" timestamp="1510151442593">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeader/CollapsibleHeader.styles.js" timestamp="1510315253071">
         <mark key="[" line="62" column="11" />
         <mark key="]" line="62" column="11" />
@@ -253,7 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="28" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorrDisplay/RoundSkorrDisplay.js" />
       <jump line="35" column="76" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorrDisplay/RoundSkorrDisplay.js" />
       <jump line="29" column="26" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorrDisplay/RoundSkorrDisplay.js" />
       <jump line="64" column="22" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorrDisplay/RoundSkorrDisplay.js" />
@@ -353,46 +479,47 @@
       <jump line="21" column="23" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.styles.js" />
       <jump line="7" column="13" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/index.js" />
+      <jump line="32" column="39" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/SectionTitle/SectionTitle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLm1haW5Db250YWluZXJDb250ZW50fT4KICAgICAgICAgICAgICAgIDxTZWN0aW9uVGl0bGUKICAgICAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICBwYWRkaW5nSG9yaXpvbnRhbDogMjAKICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgICAgdGl0bGU9e0kxOG4udCgnZGFzaGJvYXJkLmZhdm9yaXRlcy50aXRsZScpfQogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29udGVudEl0ZW19PgogICAgICAgICAgICAgICAgICA8U2Nyb2xsVmlldwogICAgICAgICAgICAgICAgICAgIGhvcml6b250YWwKICAgICAgICAgICAgICAgICAgICBzaG93c0hvcml6b250YWxTY3JvbGxJbmRpY2F0b3I9e2ZhbHNlfQogICAgICAgICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMuc2Nyb2xsYWJsZUNvbnRlbnR9CiAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICA8Um91bmRNZWRpYVNjb3JlIGxhYmVsPSdSb25hbGRvJyBzY29yZUxhYmVsPSc5NCcgZ3JhZGllbnRDb2xvcj17WycjZmZjNzAwJywgJyNmZjAwZTEnXX0gbWVkaWE9e3JlcXVpcmUoJy4uLy4uLy4uL0ltYWdlcy9jZWxlYnJpdHktc29jaWFsLnBuZycpfSAvPgogICAgICAgICAgICAgICAgICAgIDxSb3VuZE1lZGlhU2NvcmUgbGFiZWw9J0pheS1aJyBzY29yZUxhYmVsPSc4OCcgZ3JhZGllbnRDb2xvcj17WycjYjg2YWYwJywgJyM4ZGIzZjEnXX0gbWVkaWE9e3JlcXVpcmUoJy4uLy4uLy4uL0ltYWdlcy9qYXl6LXNvY2lhbC5wbmcnKX0gLz4KICAgICAgICAgICAgICAgICAgICA8Um91bmRNZWRpYVNjb3JlIGxhYmVsPSdCZXlvbmNlJyBzY29yZUxhYmVsPSc4NycgZ3JhZGllbnRDb2xvcj17WycjMDNmN2UwJywgJyM0MGM0ZmYnXX0gbWVkaWE9e3JlcXVpcmUoJy4uLy4uLy4uL0ltYWdlcy9iZXlvbmNlLXNvY2lhbC5wbmcnKX0gLz4KICAgICAgICAgICAgICAgICAgICA8Um91bmRNZWRpYVNjb3JlIGxhYmVsPSdEcmFrZScgc2NvcmVMYWJlbD0nOTEnIGdyYWRpZW50Q29sb3I9e1snI2I4NmFmMCcsICcjOGRiM2YxJ119IG1lZGlhPXtyZXF1aXJlKCcuLi8uLi8uLi9JbWFnZXMvZHJha2Utc29jaWFsLnBuZycpfSAvPgogICAgICAgICAgICAgICAgICAgIDxSb3VuZE1lZGlhU2NvcmUgbGFiZWw9J1JvbmFsZG8nIHNjb3JlTGFiZWw9Jzk5JyBncmFkaWVudENvbG9yPXtbJyMwM2Y3ZTAnLCAnIzQwYzRmZiddfSBtZWRpYT17cmVxdWlyZSgnLi4vLi4vLi4vSW1hZ2VzL2NlbGVicml0eS1zb2NpYWwucG5nJyl9IC8+CiAgICAgICAgICAgICAgICAgICAgPFJvdW5kTWVkaWFTY29yZSBsYWJlbD0nSmF5LVonIHNjb3JlTGFiZWw9Jzg4JyBncmFkaWVudENvbG9yPXtbJyNmZmM3MDAnLCAnI2ZmMDBlMSddfSBtZWRpYT17cmVxdWlyZSgnLi4vLi4vLi4vSW1hZ2VzL2NlbGVicml0eS1zb2NpYWwucG5nJyl9IC8+CiAgICAgICAgICAgICAgICAgIDwvU2Nyb2xsVmlldz4KICAgICAgICAgICAgICAgIDwvVmlldz4KICAgICAgICAgICAgICA8L1ZpZXc+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdIb3Jpem9udGFsOiBNZXRyaWNzLmd1dHRlckNvbnRlbnRDb250YWluZXJQYWRkaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8VmlldyBzdHlsZT17c3R5bGVzLm1haW5Db250YWluZXJDb250ZW50fT4KICAgICAgICAgICAgICAgIDxTZWN0aW9uVGl0bGUKICAgICAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICBwYWRkaW5nSG9yaXpvbnRhbDogMjAKICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgICAgdGl0bGU9e0kxOG4udCgnZGFzaGJvYXJkLmZhdm9yaXRlcy50aXRsZScpfQogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29udGVudEl0ZW19PgogICAgICAgICAgICAgICAgICA8U2Nyb2xsVmlldwogICAgICAgICAgICAgICAgICAgIGhvcml6b250YWwKICAgICAgICAgICAgICAgICAgICBzaG93c0hvcml6b250YWxTY3JvbGxJbmRpY2F0b3I9e2ZhbHNlfQogICAgICAgICAgICAgICAgICAgIHN0eWxlPXtzdHlsZXMuc2Nyb2xsYWJsZUNvbnRlbnR9CiAgICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgICA8Um91bmRNZWRpYVNjb3JlIGxhYmVsPSdSb25hbGRvJyBzY29yZUxhYmVsPSc5NCcgZ3JhZGllbnRDb2xvcj17WycjZmZjNzAwJywgJyNmZjAwZTEnXX0gbWVkaWE9e3JlcXVpcmUoJy4uLy4uLy4uL0ltYWdlcy9jZWxlYnJpdHktc29jaWFsLnBuZycpfSAvPgogICAgICAgICAgICAgICAgICAgIDxSb3VuZE1lZGlhU2NvcmUgbGFiZWw9J0pheS1aJyBzY29yZUxhYmVsPSc4OCcgZ3JhZGllbnRDb2xvcj17WycjYjg2YWYwJywgJyM4ZGIzZjEnXX0gbWVkaWE9e3JlcXVpcmUoJy4uLy4uLy4uL0ltYWdlcy9qYXl6LXNvY2lhbC5wbmcnKX0gLz4KICAgICAgICAgICAgICAgICAgICA8Um91bmRNZWRpYVNjb3JlIGxhYmVsPSdCZXlvbmNlJyBzY29yZUxhYmVsPSc4NycgZ3JhZGllbnRDb2xvcj17WycjMDNmN2UwJywgJyM0MGM0ZmYnXX0gbWVkaWE9e3JlcXVpcmUoJy4uLy4uLy4uL0ltYWdlcy9iZXlvbmNlLXNvY2lhbC5wbmcnKX0gLz4KICAgICAgICAgICAgICAgICAgICA8Um91bmRNZWRpYVNjb3JlIGxhYmVsPSdEcmFrZScgc2NvcmVMYWJlbD0nOTEnIGdyYWRpZW50Q29sb3I9e1snI2I4NmFmMCcsICcjOGRiM2YxJ119IG1lZGlhPXtyZXF1aXJlKCcuLi8uLi8uLi9JbWFnZXMvZHJha2Utc29jaWFsLnBuZycpfSAvPgogICAgICAgICAgICAgICAgICAgIDxSb3VuZE1lZGlhU2NvcmUgbGFiZWw9J1JvbmFsZG8nIHNjb3JlTGFiZWw9Jzk5JyBncmFkaWVudENvbG9yPXtbJyMwM2Y3ZTAnLCAnIzQwYzRmZiddfSBtZWRpYT17cmVxdWlyZSgnLi4vLi4vLi4vSW1hZ2VzL2NlbGVicml0eS1zb2NpYWwucG5nJyl9IC8+CiAgICAgICAgICAgICAgICAgICAgPFJvdW5kTWVkaWFTY29yZSBsYWJlbD0nSmF5LVonIHNjb3JlTGFiZWw9Jzg4JyBncmFkaWVudENvbG9yPXtbJyNmZmM3MDAnLCAnI2ZmMDBlMSddfSBtZWRpYT17cmVxdWlyZSgnLi4vLi4vLi4vSW1hZ2VzL2NlbGVicml0eS1zb2NpYWwucG5nJyl9IC8+CiAgICAgICAgICAgICAgICAgIDwvU2Nyb2xsVmlldz4KICAgICAgICAgICAgICAgIDwvVmlldz4KICAgICAgICAgICAgICA8L1ZpZXc+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlcldpZHRoOiAxLAogICAgYm9yZGVyQ29sb3I6ICdncmVlbicsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdIb3Jpem9udGFsOiBNZXRyaWNzLmd1dHRlckNvbnRlbnRDb250YWluZXJQYWRkaW5nCg==</text>
+        <text encoding="base64">ICAgIGJvcmRlcldpZHRoOiAxLAogICAgYm9yZGVyQ29sb3I6ICdibHVlJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGJvcmRlcldpZHRoOiAxLAogICAgLy8gYm9yZGVyQ29sb3I6ICdyZWQnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZW5kZXIgKCkgewogICAgcmV0dXJuIG51bGwKICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdIb3Jpem9udGFsOiBNZXRyaWNzLmd1dHRlckNvbnRlbnRDb250YWluZXJQYWRkaW5nLAo=</text>
+        <text encoding="base64">ICAgICAgPFZpZXc+CiAgICAgICAgCiAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IE1ldHJpY3MuZ3V0dGVyTWFyZ2luSG9yaXpvbnRhbAo=</text>
+        <text encoding="base64">ICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy50ZXh0VGl0bGV9PgogICAgICAgIHt0aGlzLnByb3BzLnRpdGxlfQogICAgICA8L1RleHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIDIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdIb3Jpem9udGFsOiBNZXRyaWNzLmd1dHRlckNvbnRlbnRDb250YWluZXJQYWRkaW5nLAogICAgcGFkZGluZ1ZlcnRpY2FsOiBNZXRyaWNzLmd1dHRlckNvbnRlbnRDb250YWluZXJQYWRkaW5nLAo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbkhvcml6b250YWw6IE1ldHJpY3MuZ3V0dGVyQ29udGVudENvbnRhaW5lclBhZGRpbmcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2ZWxvcC1za3ItMTQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>61</text>
