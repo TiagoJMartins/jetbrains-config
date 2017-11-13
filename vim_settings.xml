@@ -114,12 +114,12 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" timestamp="1510568213084">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="54" column="24" />
-        <mark key="]" line="55" column="32" />
-        <mark key="^" line="55" column="32" />
-        <mark key="." line="55" column="32" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" timestamp="1510576758514">
+        <mark key="'" line="204" column="62" />
+        <mark key="[" line="48" column="107" />
+        <mark key="]" line="48" column="106" />
+        <mark key="." line="48" column="106" />
+        <mark key="^" line="48" column="106" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" timestamp="1510062053961">
         <mark key="'" line="21" column="16" />
@@ -297,7 +297,7 @@
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/AnimatedCircleProgress/AnimatedCircleProgress.js" timestamp="1510322861399">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/AnimatedCircleProgress/AnimatedCircleProgress.js" timestamp="1510573021913">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="66" column="13" />
         <mark key="." line="88" column="10" />
@@ -370,12 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="36" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/RoundSkorrDisplay/RoundSkorrDisplay.styles.js" />
-      <jump line="110" column="39" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
-      <jump line="34" column="46" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
-      <jump line="81" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
-      <jump line="176" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
-      <jump line="24" column="21" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/I18n/languages/english.json" />
       <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/I18n/languages/english.json" />
       <jump line="2" column="2" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/I18n/languages/english.json" />
       <jump line="115" column="14" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" />
@@ -424,9 +418,7 @@
       <jump line="104" column="58" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeader/CollapsibleHeader.js" />
       <jump line="109" column="18" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeader/CollapsibleHeader.js" />
       <jump line="6" column="59" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeader/CollapsibleHeader.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
       <jump line="81" column="15" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
       <jump line="29" column="13" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
       <jump line="9" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
@@ -462,7 +454,6 @@
       <jump line="88" column="18" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
       <jump line="122" column="11" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
-      <jump line="26" column="23" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
       <jump line="57" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
       <jump line="76" column="20" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
       <jump line="10" column="7" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
@@ -470,46 +461,55 @@
       <jump line="82" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
       <jump line="6" column="15" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
+      <jump line="74" column="17" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
+      <jump line="25" column="7" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
+      <jump line="26" column="8" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
+      <jump line="198" column="8" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
+      <jump line="114" column="9" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
+      <jump line="111" column="22" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
+      <jump line="95" column="13" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
+      <jump line="197" column="62" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgeyB4OiA0LCB5OiA0MiwgbmFtZTogJ05vdiAxOScgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsT3BhY2l0eT17dGhpcy5faG9yaXpBeGlzTGFiZWxPcGFjaXR5W2ldfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgeyB4OiA1LCB5OiA1NSwgbmFtZTogJ05vdiAxOScgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgeFNjYWxlIH0gPSB0aGlzLmNyZWF0ZVNjYWxlcygpCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHlTY2FsZSg0MikpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsT3BhY2l0eT17MC41fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgeFNjYWxlLCB5U2NhbGUgfSA9IHRoaXMuY3JlYXRlU2NhbGVzKCkKCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2lyY2xlJywgaSwgcmFkaXVzKQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5kb21haW4oMjEsIDQ0KSAvLyBAVE9ETzogVGhpcyBzaG91bGQgd29yayBmb3IgYW55IHZhbHVlcyBpbiB0aGlzLnByb3BzLmRhdGEK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC5yYW5nZSgxLCA0KQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgY3JlYXRlU2NhbGVzID0gKCkgPT4gewogIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4geyB4U2NhbGUsIHlTY2FsZSB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEFuaW1hdGVkLnBhcmFsbGVsKFsKICAgICAgQW5pbWF0ZWQuc3RhZ2dlcigxMDAsIHNjYXR0ZXJQb2ludHNTY2FsZUFuaW1hdGlvbnMpLAoKICAgICAgQW5pbWF0ZWQuc2VxdWVuY2UoWwogICAgICAgIC8vIEFuaW1hdGVkLmRlbGF5KDMwMCksCiAgICAgICAgLy8gQW5pbWF0ZWQudGltaW5nKHRoaXMuc3RhdGUubGluZU9mZnNldCwgewogICAgICAgIC8vICAgdG9WYWx1ZTogMCwKICAgICAgICAvLyAgIGR1cmF0aW9uOiA1MDAsCiAgICAgICAgLy8gICBlYXNpbmc6IEVhc2luZy5jdWJpYwogICAgICAgIC8vIH0pCiAgICAgIF0pCiAgICBdKS5zdGFydCgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgQW5pbWF0ZWQudGltaW5nKHRoaXMuc3RhdGUubGluZU9mZnNldCwgewogICAgICAgIHRvVmFsdWU6IDAsCiAgICAgICAgZHVyYXRpb246IDE1MDAsCiAgICAgICAgZWFzaW5nOiBFYXNpbmcuY3ViaWMKICAgICAgfSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsKICAgICAgcGFkZGluZ0hvcml6b250YWwsCiAgICAgIHBhZGRpbmdWZXJ0aWNhbCwKICAgICAgaGVpZ2h0LAogICAgICB3aWR0aAogICAgfSA9IENoYXJ0TWV0cmljcwo=</text>
+        <text encoding="base64">ICAgICAgQW5pbWF0ZWQuZGVsYXkoCiAgICAgICAgCiAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>61</text>
