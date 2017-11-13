@@ -9,7 +9,7 @@
         <mark key="." line="1" column="4" />
         <mark key="^" line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/build.gradle" timestamp="1510583172490">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/build.gradle" timestamp="1510583981022">
         <mark key="[" line="130" column="94" />
         <mark key="]" line="131" column="47" />
         <mark key="." line="131" column="47" />
@@ -120,12 +120,12 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" timestamp="1510582842524">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" timestamp="1510584203989">
         <mark key="'" line="205" column="62" />
-        <mark key="[" line="163" column="16" />
-        <mark key="]" line="163" column="17" />
-        <mark key="." line="163" column="17" />
-        <mark key="^" line="84" column="30" />
+        <mark key="[" line="185" column="23" />
+        <mark key="]" line="185" column="24" />
+        <mark key="." line="185" column="24" />
+        <mark key="^" line="88" column="17" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" timestamp="1510062053961">
         <mark key="'" line="21" column="16" />
@@ -479,7 +479,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0sIDUwMCkK</text>
       </register>
       <register name="-" type="4">
         <text>this.removeEventListeners</text>
@@ -491,31 +491,31 @@
         <text encoding="base64">ICAgIGNvbnN0IGxpbmVIZWlnaHRBbmltYXRpb25zID0gdGhpcy5zdGF0ZS5ncmlkTGluZUhlaWdodC5tYXAoYXYgPT4gQW5pbWF0ZWQudGltaW5nKGF2LCB7CiAgICAgIHRvVmFsdWU6IENoYXJ0TWV0cmljcy5oZWlnaHQgLSAyNSwKICAgICAgZHVyYXRpb246IDIwMCwKICAgICAgZWFzaW5nOiBFYXNpbmcuZWFzZU91dAogICAgfSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0sIDUwMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RhdGUuc2NhdHRlclBvaW50c1NjYWxlLmZvckVhY2goYW5pbSA9PiB7CiAgICAgIGFuaW0ucmVtb3ZlQWxsTGlzdGVuZXJzKCkKICAgIH0pCgogICAgdGhpcy5zdGF0ZS5ncmlkTGluZUhlaWdodC5mb3JFYWNoKGFuaW0gPT4gewogICAgICBhbmltLnJlbW92ZUFsbExpc3RlbmVycygpCiAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFJlY3QKICAgICAgICAgICAgICB4PXswfQogICAgICAgICAgICAgIHk9ezB9CiAgICAgICAgICAgICAgd2lkdGg9e0NoYXJ0TWV0cmljcy53aWR0aH0KICAgICAgICAgICAgICBoZWlnaHQ9e0NoYXJ0TWV0cmljcy5oZWlnaHR9CiAgICAgICAgICAgICAgc3Ryb2tlV2lkdGg9ezJ9CiAgICAgICAgICAgICAgc3Ryb2tlPXsncmVkJ30KICAgICAgICAgICAgICBmaWxsPXsnbm9uZSd9CiAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIEFuaW1hdGVkLnRpbWluZyh0aGlzLnN0YXRlLmxpbmVPZmZzZXQsIHsKICAgICAgICAgIC8vICAgdG9WYWx1ZTogMCwKICAgICAgICAgIC8vICAgZHVyYXRpb246IDI1MDAsCiAgICAgICAgICAvLyAgIGVhc2luZzogRWFzaW5nLmVhc2VJbk91dAogICAgICAgICAgLy8gfSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhzY2F0dGVyRGF0YSkK</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUuc2NhdHRlclBvaW50c1NjYWxlLmZvckVhY2goYW5pbSA9PiB7CiAgICAgIGFuaW0ucmVtb3ZlQWxsTGlzdGVuZXJzKCkKICAgIH0pCgogICAgdGhpcy5zdGF0ZS5ncmlkTGluZUhlaWdodC5mb3JFYWNoKGFuaW0gPT4gewogICAgICBhbmltLnJlbW92ZUFsbExpc3RlbmVycygpCiAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgY29uc29sZS5sb2coc2NhdHRlckRhdGEpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpLCBoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>61</text>
