@@ -9,6 +9,12 @@
         <mark key="." line="1" column="4" />
         <mark key="^" line="1" column="4" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/build.gradle" timestamp="1510583172490">
+        <mark key="[" line="130" column="94" />
+        <mark key="]" line="131" column="47" />
+        <mark key="." line="131" column="47" />
+        <mark key="^" line="131" column="47" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/PokemonRedux.js" timestamp="1509613376785">
         <mark key="'" line="16" column="1" />
         <mark key="[" line="43" column="46" />
@@ -114,12 +120,12 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" timestamp="1510576758514">
-        <mark key="'" line="204" column="62" />
-        <mark key="[" line="48" column="107" />
-        <mark key="]" line="48" column="106" />
-        <mark key="." line="48" column="106" />
-        <mark key="^" line="48" column="106" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" timestamp="1510582842524">
+        <mark key="'" line="205" column="62" />
+        <mark key="[" line="163" column="16" />
+        <mark key="]" line="163" column="17" />
+        <mark key="." line="163" column="17" />
+        <mark key="^" line="84" column="30" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/CollapsibleHeaderFrame/CollapsibleHeaderFrame.js" timestamp="1510062053961">
         <mark key="'" line="21" column="16" />
@@ -472,44 +478,44 @@
       <jump line="197" column="62" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProgressChart/ProgressChart.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>this.removeEventListeners</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsT3BhY2l0eT17dGhpcy5faG9yaXpBeGlzTGFiZWxPcGFjaXR5W2ldfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxpbmVIZWlnaHRBbmltYXRpb25zID0gdGhpcy5zdGF0ZS5ncmlkTGluZUhlaWdodC5tYXAoYXYgPT4gQW5pbWF0ZWQudGltaW5nKGF2LCB7CiAgICAgIHRvVmFsdWU6IENoYXJ0TWV0cmljcy5oZWlnaHQgLSAyNSwKICAgICAgZHVyYXRpb246IDIwMCwKICAgICAgZWFzaW5nOiBFYXNpbmcuZWFzZU91dAogICAgfSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgeFNjYWxlIH0gPSB0aGlzLmNyZWF0ZVNjYWxlcygpCgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsT3BhY2l0eT17MC41fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2lyY2xlJywgaSwgcmFkaXVzKQoK</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RhdGUuc2NhdHRlclBvaW50c1NjYWxlLmZvckVhY2goYW5pbSA9PiB7CiAgICAgIGFuaW0ucmVtb3ZlQWxsTGlzdGVuZXJzKCkKICAgIH0pCgogICAgdGhpcy5zdGF0ZS5ncmlkTGluZUhlaWdodC5mb3JFYWNoKGFuaW0gPT4gewogICAgICBhbmltLnJlbW92ZUFsbExpc3RlbmVycygpCiAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFuaW1hdGVkLnBhcmFsbGVsKFsKICAgICAgQW5pbWF0ZWQuc3RhZ2dlcigxMDAsIHNjYXR0ZXJQb2ludHNTY2FsZUFuaW1hdGlvbnMpLAoKICAgICAgQW5pbWF0ZWQuc2VxdWVuY2UoWwogICAgICAgIC8vIEFuaW1hdGVkLmRlbGF5KDMwMCksCiAgICAgICAgLy8gQW5pbWF0ZWQudGltaW5nKHRoaXMuc3RhdGUubGluZU9mZnNldCwgewogICAgICAgIC8vICAgdG9WYWx1ZTogMCwKICAgICAgICAvLyAgIGR1cmF0aW9uOiA1MDAsCiAgICAgICAgLy8gICBlYXNpbmc6IEVhc2luZy5jdWJpYwogICAgICAgIC8vIH0pCiAgICAgIF0pCiAgICBdKS5zdGFydCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIEFuaW1hdGVkLnRpbWluZyh0aGlzLnN0YXRlLmxpbmVPZmZzZXQsIHsKICAgICAgICAgIC8vICAgdG9WYWx1ZTogMCwKICAgICAgICAgIC8vICAgZHVyYXRpb246IDI1MDAsCiAgICAgICAgICAvLyAgIGVhc2luZzogRWFzaW5nLmVhc2VJbk91dAogICAgICAgICAgLy8gfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBjb25zb2xlLmxvZyhzY2F0dGVyRGF0YSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQW5pbWF0ZWQudGltaW5nKHRoaXMuc3RhdGUubGluZU9mZnNldCwgewogICAgICAgIHRvVmFsdWU6IDAsCiAgICAgICAgZHVyYXRpb246IDE1MDAsCiAgICAgICAgZWFzaW5nOiBFYXNpbmcuY3ViaWMKICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIAogICAgY29uc29sZS5sb2coc2NhdHRlckRhdGEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQW5pbWF0ZWQuZGVsYXkoCiAgICAgICAgCiAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpLCBoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>61</text>
