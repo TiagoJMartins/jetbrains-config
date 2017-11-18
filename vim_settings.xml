@@ -17,6 +17,13 @@
         <mark key="." line="58" column="58" />
         <mark key="^" line="58" column="58" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/SpinnerRedux.js" timestamp="1511008878037">
+        <mark key="'" line="4" column="26" />
+        <mark key="[" line="24" column="41" />
+        <mark key="]" line="24" column="41" />
+        <mark key="." line="24" column="41" />
+        <mark key="^" line="24" column="41" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/PokemonRedux.js" timestamp="1510914752646">
         <mark key="'" line="16" column="1" />
         <mark key="[" line="25" column="9" />
@@ -480,8 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="19" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Fixtures/UserStats/me.json" />
-      <jump line="136" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Fixtures/UserStats/me.json" />
       <jump line="57" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/UserInfoScreen/UserInfoScreen.js" />
       <jump line="96" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/UserInfoScreen/UserInfoScreen.js" />
       <jump line="105" column="3" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Fixtures/UserStats/ronaldo.json" />
@@ -580,6 +585,8 @@
       <jump line="20" column="19" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/FixtureApi.js" />
       <jump line="13" column="15" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/GlobalSpinner/GlobalSpinner.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/GlobalSpinner/GlobalSpinner.js" />
+      <jump line="10" column="29" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/SpinnerRedux.js" />
+      <jump line="4" column="26" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/SpinnerRedux.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -592,34 +599,34 @@
         <text>showLabel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdlbmQgdHJhbnNpdGlvbicpOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IGJlZ2luU3BpbiA9IChzdGF0ZSkgPT4gc3RhdGUubWVyZ2UoewogIHNwaW5uaW5nOiB0cnVlCn0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVmlldyB9IGZyb20gJ3JlYWN0LW5hdGl2ZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">CmV4Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3sKICAgICAgICBmbGV4OiAxCiAgICAgIH19Pgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8R2xvYmFsU3Bpbm5lciAvPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgVmlldyB9IGZyb20gJ3JlYWN0LW5hdGl2ZScK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIHRoaXMuCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3sKICAgICAgICBmbGV4OiAxCiAgICAgIH19Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8R2xvYmFsU3Bpbm5lciAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>52</text>
