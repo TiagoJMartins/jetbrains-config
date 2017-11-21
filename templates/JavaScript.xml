@@ -96,4 +96,16 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="ncomp" value="import React, { Component } from 'react'&#10;import { View, Text } from 'react-native'&#10;&#10;export class $className$ extends Component {&#10;  render () {&#10;    return (&#10;      &lt;View&gt;&#10;        &lt;Text&gt;&#10;          $className$&#10;        &lt;/Text&gt;&#10;      &lt;/View&gt;&#10;    )&#10;  }&#10;}&#10;&#10;export default $className$&#10;" description="React Component as Class" toReformat="false" toShortenFQNames="true">
+    <variable name="className" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="nst" value="import { StyleSheet } from 'react-native'&#10;&#10;export default StyleSheet.create({&#10;  $end$&#10;})" description="New React Native StyleSheet" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
