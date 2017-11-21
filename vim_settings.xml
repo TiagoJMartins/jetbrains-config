@@ -302,8 +302,11 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/workbench/skorr-onboarding-api/src/main/kotlin/HelloWorld.kt" timestamp="1511260679851">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/workbench/skorr-onboarding-api/src/main/kotlin/HelloWorld.kt" timestamp="1511260805369">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="49" />
+        <mark key="." line="5" column="49" />
+        <mark key="^" line="5" column="49" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/I18n/languages/english.json" timestamp="1511176180669">
         <mark key="'" line="1" column="0" />
@@ -378,6 +381,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/workbench/mavenonboardingapi/src/main/kotlin/social/skorr/maven-onboarding-api/Main.kt" timestamp="1511263578976">
+        <mark key="'" line="32" column="4" />
+        <mark key="[" line="74" column="23" />
+        <mark key="]" line="74" column="25" />
+        <mark key="." line="74" column="25" />
+        <mark key="^" line="74" column="25" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProfileActionItem/ProfileActionItem.styles.js" timestamp="1511196949069">
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="16" />
@@ -439,6 +449,12 @@
         <mark key="]" line="142" column="12" />
         <mark key="." line="138" column="0" />
         <mark key="^" line="64" column="13" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/workbench/mavenonboardingapi/pom.xml" timestamp="1511262795147">
+        <mark key="[" line="48" column="53" />
+        <mark key="]" line="49" column="25" />
+        <mark key="^" line="49" column="25" />
+        <mark key="." line="49" column="25" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProfileHeader/ProfileHeader.styles.js" timestamp="1511179980139">
         <mark key="'" line="14" column="16" />
@@ -597,9 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="32" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/AppNavigation.js" />
-      <jump line="5" column="9" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/AppNavigation.js" />
-      <jump line="46" column="4" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/AppNavigation.js" />
       <jump line="15" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/index.js" />
       <jump line="30" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/index.js" />
       <jump line="21" column="1" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/GlobalSpinner/GlobalSpinner.js" />
@@ -697,13 +710,16 @@
       <jump line="18" column="40" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProfileHeader/ProfileHeader.styles.js" />
       <jump line="14" column="16" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProfileHeader/ProfileHeader.styles.js" />
       <jump line="11" column="11" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/DashboardHeaderChartDisplay/DashboardHeaderChartDisplay.styles.js" />
+      <jump line="15" column="39" filename="$USER_HOME$/www/work/skorr/workbench/mavenonboardingapi/src/main/kotlin/social/skorr/maven-onboarding-api/Main.kt" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/workbench/mavenonboardingapi/src/main/kotlin/social/skorr/maven-onboarding-api/Main.kt" />
+      <jump line="32" column="4" filename="$USER_HOME$/www/work/skorr/workbench/mavenonboardingapi/src/main/kotlin/social/skorr/maven-onboarding-api/Main.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>showLabel</text>
@@ -712,31 +728,31 @@
         <text encoding="base64">ICAgIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYXJvdW5kJywKICAgIHdpZHRoOiAnODUlJywKICAgIG1hcmdpbkhvcml6b250YWw6IDIwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcldpZHRoOiAxLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvcmRlckNvbG9yOiAncmVkJywK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hcmdpblRvcDogMzUsCg==</text>
+        <text encoding="base64">ICAgIHZhbCBhcHAgPSBKYXZhbGluLmNyZWF0ZSgpLnBvcnQoNzAwMCkuc3RhcnQoKQoKICAgIGFwcC5nZXQoIi8iKSB7IGN0eCAtPiBjdHgucmVzdWx0KCIiKSB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcGxpY2F0aW9uU3R5bGVzIGZyb20gJy4uLy4uL1RoZW1lcy9BcHBsaWNhdGlvblN0eWxlcycK</text>
+        <text encoding="base64">ICAgICAgICB1c2Vycy52YWx1ZXMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZsZXg6IDEsCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgLiA9IHVzZXJzCiAgICAgICAgcmV0dXJuIC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAnMTAwJScsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbkhvcml6b250YWw6IDIwCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbkhvcml6b250YWw6IDIwLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHdpZHRoOiBNZXRyaWNzLnNjcmVlbldpZHRoIC8gNCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>52</text>
