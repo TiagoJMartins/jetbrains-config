@@ -121,8 +121,8 @@
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="40" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.styles.js" timestamp="1511352135878">
-        <mark key="[" line="34" column="12" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.styles.js" timestamp="1511363125737">
+        <mark key="[" line="34" column="11" />
         <mark key="]" line="34" column="13" />
         <mark key="." line="34" column="13" />
         <mark key="^" line="34" column="13" />
@@ -477,9 +477,12 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" timestamp="1511360987117">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" timestamp="1511362918742">
         <mark key="'" line="100" column="9" />
+        <mark key="[" line="74" column="29" />
+        <mark key="]" line="74" column="0" />
         <mark key="^" line="15" column="66" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/AnimatedCircleProgress/AnimatedCircleProgress.js" timestamp="1511281672252">
         <mark key="'" line="83" column="18" />
@@ -705,11 +708,11 @@
       <jump line="96" column="9" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFuaW1hdGlvbj17J3pvb21Jbid9CiAgICAgICAgICBkdXJhdGlvbj17dGhpcy5BTklNQVRJT05fQ09ORklHUy5EVVJBVElPTn0KICAgICAgICAgIGVhc2luZz17dGhpcy5BTklNQVRJT05fQ09ORklHUy5FQVNJTkd9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>TouchableOpacity</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>showLabel</text>
