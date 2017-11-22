@@ -338,6 +338,12 @@
         <mark key="." line="13" column="22" />
         <mark key="^" line="13" column="22" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/java/com/skorr/modules/toast.java" timestamp="1511370040011">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/UserStats/UserStats.styles.js" timestamp="1511181837071">
         <mark key="'" line="1" column="18" />
         <mark key="[" line="14" column="0" />
@@ -441,6 +447,11 @@
         <mark key="]" line="1" column="30" />
         <mark key="." line="1" column="30" />
         <mark key="^" line="1" column="30" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/java/com/skorr/modules/toast/ToastModule.java" timestamp="1511370293873">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Themes/Fonts.js" timestamp="1511180875108">
         <mark key="'" line="2" column="6" />
@@ -716,11 +727,11 @@
       <jump line="96" column="9" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">UmVhY3RDb250ZXh0QmFzZUphdmFNb2R1bGUg</text>
       </register>
       <register name="/" type="4">
         <text>showLabel</text>
@@ -729,31 +740,31 @@
         <text encoding="base64">ICAgIGNvbnN0IHsKICAgICAgc2NyZWVuUHJvcHM6IHsKICAgICAgICBuZXh0T25ib2FyZGluZ1N0ZXAsCiAgICAgICAgc2tpcE9uYm9hcmRpbmcKICAgICAgfSwKICAgICAgbmF2aWdhdGlvbgogICAgfSA9IHRoaXMucHJvcHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbmF2aWdhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0T25ib2FyZGluZ1N0ZXAsCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbmF2aWdhdGlvbgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBza2lwT25ib2FyZGluZwo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFRvYXN0TW9kdWxlIGV4dGVuZHMgUmVhY3RDb250ZXh0QmFzZUphdmFNb2R1bGUgewp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgYW5pbWF0aW9uT2Zmc2V0ID0gMTE2Ngo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYW5pbWF0aW9uU3RhcnQgPSA3MzgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgYW5pbWF0aW9uU3RhcnQgPSA3MzgK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>52</text>
