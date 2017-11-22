@@ -121,11 +121,11 @@
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="40" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.styles.js" timestamp="1511363125737">
-        <mark key="[" line="34" column="11" />
-        <mark key="]" line="34" column="13" />
-        <mark key="." line="34" column="13" />
-        <mark key="^" line="34" column="13" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.styles.js" timestamp="1511364198706">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="13" />
+        <mark key="." line="26" column="13" />
+        <mark key="^" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/FanInfoComponent/FanInfoComponent.js" timestamp="1511181054971">
         <mark key="'" line="80" column="0" />
@@ -477,7 +477,7 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" timestamp="1511362918742">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" timestamp="1511364227839">
         <mark key="'" line="100" column="9" />
         <mark key="[" line="74" column="29" />
         <mark key="]" line="74" column="0" />
@@ -511,6 +511,12 @@
         <mark key="]" line="13" column="81" />
         <mark key="." line="13" column="81" />
         <mark key="^" line="13" column="81" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Styles/NavigationStyles.js" timestamp="1511364118755">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
+        <mark key="^" line="15" column="15" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/KPIDisplay/KPIDisplay.styles.js" timestamp="1511181700886">
         <mark key="'" line="20" column="15" />
@@ -708,44 +714,44 @@
       <jump line="96" column="9" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogQ29sb3JzLnNub3cK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>transparent</text>
       </register>
       <register name="/" type="4">
         <text>showLabel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVhc2luZz17dGhpcy5BTklNQVRJT05fQ09ORklHUy5FQVNJTkd9Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogQ29sb3JzLnNub3cK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFuaW1hdGlvbj17J3pvb21Jbid9CiAgICAgICAgICBkdXJhdGlvbj17dGhpcy5BTklNQVRJT05fQ09ORklHUy5EVVJBVElPTn0KICAgICAgICAgIGVhc2luZz17dGhpcy5BTklNQVRJT05fQ09ORklHUy5FQVNJTkd9Cg==</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiAnYWJzb2x1dGUnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBBTklNQVRJT05fQ09ORklHUyA9IHsKICAgIERVUkFUSU9OOiAxNTAwCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFuaW1hdGlvbj17J3pvb21Jbid9CiAgICAgICAgICBkdXJhdGlvbj17dGhpcy5BTklNQVRJT05fQ09ORklHUy5EVVJBVElPTn0KICAgICAgICAgIGVhc2luZz17dGhpcy5BTklNQVRJT05fQ09ORklHUy5FQVNJTkd9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogNzAsCg==</text>
+        <text encoding="base64">ICBBTklNQVRJT05fQ09ORklHUyA9IHsKICAgIERVUkFUSU9OOiAxNTAwCiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogRGltZW5zaW9ucy5nZXQoKSAvIDMsCg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDogNzAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhcnQgbXkgU2tvcnIK</text>
+        <text encoding="base64">ICAgIGhlaWdodDogRGltZW5zaW9ucy5nZXQoKSAvIDMsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RhcnQgbXkgU2tvcnIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvcmRlcldpZHRoOiAxLAogICAgYm9yZGVyQ29sb3I6ICdyZWQnCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25MYXlvdXQ9e3RoaXMuYmFja2dyb3VuZEljb25zUmVhZHl9Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlcldpZHRoOiAxLAogICAgYm9yZGVyQ29sb3I6ICdyZWQnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgYmFja2dyb3VuZEljb25zUmVhZHkgPSAoeyBuYXRpdmVFdmVudCB9KSA9PiB7CiAgICBjb25zdCB7IHdpZHRoIH0gPSBuYXRpdmVFdmVudC5sYXlvdXQKCiAgICB0aGlzLnRyYW5zbGF0ZUFuaW1hdGlvbiA9IG5ldyBBbmltYXRlZC5WYWx1ZSh3aWR0aCkKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25MYXlvdXQ9e3RoaXMuYmFja2dyb3VuZEljb25zUmVhZHl9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>52</text>
