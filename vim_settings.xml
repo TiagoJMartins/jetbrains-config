@@ -23,6 +23,9 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="/a.dummy" timestamp="1511452228403">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/SocialIcon/SocialIcon.js" timestamp="1510844093877">
         <mark key="'" line="5" column="22" />
         <mark key="[" line="41" column="25" />
@@ -30,12 +33,12 @@
         <mark key="." line="41" column="24" />
         <mark key="^" line="41" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.babelrc" timestamp="1511046079822">
-        <mark key="'" line="7" column="34" />
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="34" />
-        <mark key="." line="6" column="34" />
-        <mark key="^" line="6" column="35" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.babelrc" timestamp="1511450594496">
+        <mark key="'" line="10" column="34" />
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="34" />
+        <mark key="^" line="10" column="34" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Themes/Metrics.js" timestamp="1511443509252">
         <mark key="'" line="16" column="25" />
@@ -225,6 +228,12 @@
         <mark key="]" line="142" column="12" />
         <mark key="." line="138" column="0" />
         <mark key="^" line="64" column="13" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" timestamp="1511453128312">
+        <mark key="[" line="136" column="21" />
+        <mark key="]" line="137" column="11" />
+        <mark key="^" line="137" column="11" />
+        <mark key="." line="137" column="11" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProfileHeader/ProfileHeader.styles.js" timestamp="1511179980139">
         <mark key="'" line="14" column="16" />
@@ -508,11 +517,11 @@
         <mark key="." line="30" column="13" />
         <mark key="^" line="30" column="13" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/RehydrationServices.js" timestamp="1511446336259">
-        <mark key="[" line="9" column="64" />
-        <mark key="]" line="9" column="63" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/RehydrationServices.js" timestamp="1511449653764">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
         <mark key="^" line="9" column="63" />
-        <mark key="." line="9" column="63" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/StatsScreen/StatsScreen.js" timestamp="1511279233926">
         <mark key="'" line="41" column="0" />
@@ -540,6 +549,13 @@
         <mark key="]" line="13" column="22" />
         <mark key="." line="13" column="22" />
         <mark key="^" line="13" column="22" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" timestamp="1511456876692">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="95" column="42" />
+        <mark key="]" line="95" column="42" />
+        <mark key="." line="95" column="42" />
+        <mark key="^" line="95" column="42" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/ProfileScreen/ProfileScreen.js" timestamp="1511180018940">
         <mark key="'" line="19" column="0" />
@@ -587,7 +603,7 @@
         <mark key="^" line="62" column="46" />
         <mark key="." line="62" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511446310518">
+      <file name="/Dummy.txt" timestamp="1511449536488">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/HeaderComponents/index.js" timestamp="1510671763414">
@@ -604,11 +620,12 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" timestamp="1511446863415">
-        <mark key="[" line="61" column="9" />
-        <mark key="]" line="61" column="9" />
-        <mark key="." line="61" column="9" />
-        <mark key="^" line="60" column="35" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" timestamp="1511456620078">
+        <mark key="'" line="201" column="37" />
+        <mark key="[" line="38" column="15" />
+        <mark key="]" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="18" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/User/UserSchemas.js" timestamp="1510911886516">
         <mark key="'" line="7" column="0" />
@@ -667,31 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Routers/OnboardingNavigator.js" />
-      <jump line="22" column="17" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/AppNavigation.js" />
-      <jump line="12" column="34" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
-      <jump line="0" column="7" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/index.js" />
-      <jump line="0" column="28" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/index.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/AppNavigation.js" />
-      <jump line="16" column="2" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/PrimaryNavigator.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/PrimaryNavigator.js" />
-      <jump line="9" column="3" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/PrimaryNavigator.js" />
-      <jump line="0" column="26" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/PrimaryNavigator.js" />
-      <jump line="5" column="7" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/AppNavigation.js" />
-      <jump line="16" column="28" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
-      <jump line="22" column="5" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
-      <jump line="46" column="3" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
-      <jump line="38" column="20" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
-      <jump line="43" column="23" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
-      <jump line="19" column="22" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/ReduxNavigation.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/ReduxNavigation.js" />
-      <jump line="4" column="10" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/RoundedButton/RoundedButton.styles.js" />
-      <jump line="12" column="28" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/RoundedButton/RoundedButton.js" />
-      <jump line="21" column="46" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/RoundedButton/RoundedButton.js" />
-      <jump line="10" column="14" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/RoundedButton/RoundedButton.styles.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/RoundedButton/RoundedButton.styles.js" />
       <jump line="17" column="2" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/RoundedButton/RoundedButton.styles.js" />
       <jump line="18" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/RoundedButton/RoundedButton.styles.js" />
@@ -767,47 +759,71 @@
       <jump line="17" column="10" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" />
       <jump line="3" column="25" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" />
       <jump line="1" column="17" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" />
+      <jump line="8" column="11" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="10" column="2" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="28" column="9" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="169" column="25" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" />
+      <jump line="26" column="73" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" />
+      <jump line="181" column="37" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" />
+      <jump line="11" column="2" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="17" column="2" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="14" column="8" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="13" column="20" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="32" column="24" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="48" column="9" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="49" column="7" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="50" column="9" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="52" column="34" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="69" column="17" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="86" column="15" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="21" column="25" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="87" column="30" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/HOC/WithLoadingIndicator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB3aWR0aDogJzEwMCUnLAogICAgICAgICAgICAgIGhlaWdodDogJzEwMCUnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>showLabel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB3aWR0aDogJzEwMCUnLAogICAgICAgICAgICAgIGhlaWdodDogJzEwMCUnLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>else { // Android
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYW5pbWF0aW9uPXsnZmFkZUluJ30KICAgICAgICAgICAgICAgICAgZHVyYXRpb249ezIwMH0KICAgICAgICAgICAgICAgICAgZGVsYXk9e29wdHMuZGVsYXl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVtYWlsID0gJycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVtYWlsID0gYXdhaXQgQWNjb3VudHNNYW5hZ2VyLm9wZW5QaWNrZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICBmbGV4OiAxLAogICAgICAgICAgICAgICAgICAgIG9wYWNpdHk6IDEsCiAgICAgICAgICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnb3JhbmdlJywKICAgICAgICAgICAgICAgICAgICBib3JkZXJXaWR0aDogMjAsCiAgICAgICAgICAgICAgICAgICAgYm9yZGVyQ29sb3I6ICdsaW1lJwogICAgICAgICAgICAgICAgICB9fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBrZXlNYXA6IHsKICAgIG1haW5FbWFpbEFkZHJlc3M6ICdtYWluRW1haWxBZGRyZXNzJwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8QS5UCiAgICAgICAgICAgICAgICBkaXNhYmxlZD17IW9wdHMuZGlzbWlzc2FibGV9CiAgICAgICAgICAgICAgICBvblByZXNzPXt0aGlzLmRpc21pc3N9CiAgICAgICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgICAgICBmbGV4OiAxLAogICAgICAgICAgICAgICAgICBvcGFjaXR5OiAxLAogICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICdvcmFuZ2UnLAogICAgICAgICAgICAgICAgICBib3JkZXJXaWR0aDogMjAsCiAgICAgICAgICAgICAgICAgIGJvcmRlckNvbG9yOiAnbGltZScKICAgICAgICAgICAgICAgIH19CiAgICAgICAgICAgICAgICBhbmltYXRpb249eydmYWRlSW4nfQogICAgICAgICAgICAgICAgZHVyYXRpb249ezIwMH0KICAgICAgICAgICAgICAgIGRlbGF5PXtvcHRzLmRlbGF5fQogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxBbmltYXRhYmxlLlZpZXcKICAgICAgICAgICAgICAgICAgYW5pbWF0aW9uPXsnZmFkZUluJ30KICAgICAgICAgICAgICAgICAgZHVyYXRpb249ezUwMH0KICAgICAgICAgICAgICAgICAgc3R5bGU9e1tzdHlsZXMuY29udGFpbmVyLCBvcHRzLmNvbnRhaW5lclN0eWxlXX0KICAgICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgICAgPEFjdGl2aXR5SW5kaWNhdG9yCiAgICAgICAgICAgICAgICAgICAgY29sb3I9e29wdHMuaW5kaWNhdG9yQ29sb3J9CiAgICAgICAgICAgICAgICAgICAgc2l6ZT17b3B0cy5pbmRpY2F0b3JTaXplfQogICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLmxhYmVsfT4KICAgICAgICAgICAgICAgICAgICBMb2FkaW5nCiAgICAgICAgICAgICAgICAgIDwvVGV4dD4KICAgICAgICAgICAgICAgIDwvQW5pbWF0YWJsZS5WaWV3PgogICAgICAgICAgICAgIDwvQS5UPiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBtYWluRW1haWxBZGRyZXNzOiAnbWFpbkVtYWlsQWRkcmVzcycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBrZXlNYXAK</text>
+        <text encoding="base64">ICAgICAgaWYgKG9wdHMuZGlzbWlzc2FibGUpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>52</text>
