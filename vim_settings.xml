@@ -448,7 +448,7 @@
         <mark key="." line="1" column="30" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/java/com/skorr/modules/toast/ToastModule.java" timestamp="1511432988945">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/java/com/skorr/modules/toast/ToastModule.java" timestamp="1511433995400">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="46" />
         <mark key="." line="2" column="46" />
@@ -494,12 +494,12 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" timestamp="1511430385385">
-        <mark key="'" line="113" column="9" />
-        <mark key="[" line="122" column="34" />
-        <mark key="]" line="122" column="43" />
-        <mark key="." line="122" column="43" />
-        <mark key="^" line="122" column="43" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" timestamp="1511434902842">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="41" column="57" />
+        <mark key="]" line="41" column="62" />
+        <mark key="." line="41" column="62" />
+        <mark key="^" line="41" column="62" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/AnimatedCircleProgress/AnimatedCircleProgress.js" timestamp="1511281672252">
         <mark key="'" line="83" column="18" />
@@ -629,8 +629,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="16" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ProfileHeader/ProfileHeader.styles.js" />
-      <jump line="11" column="11" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/DashboardHeaderChartDisplay/DashboardHeaderChartDisplay.styles.js" />
       <jump line="15" column="39" filename="$USER_HOME$/www/work/skorr/workbench/mavenonboardingapi/src/main/kotlin/social/skorr/maven-onboarding-api/Main.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/workbench/mavenonboardingapi/src/main/kotlin/social/skorr/maven-onboarding-api/Main.kt" />
       <jump line="32" column="4" filename="$USER_HOME$/www/work/skorr/workbench/mavenonboardingapi/src/main/kotlin/social/skorr/maven-onboarding-api/Main.kt" />
@@ -729,13 +727,15 @@
       <jump line="18" column="10" filename="$USER_HOME$/www/work/skorr/skorr-mobile/.gitignore" />
       <jump line="50" column="11" filename="$USER_HOME$/www/work/skorr/skorr-mobile/.gitignore" />
       <jump line="32" column="35" filename="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/java/com/skorr/MainApplication.java" />
+      <jump line="41" column="4" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5yZWFjdC5SZWFjdEFjdGl2aXR5Owo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>showLabel</text>
@@ -744,31 +744,31 @@
         <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5yZWFjdC5SZWFjdEFjdGl2aXR5Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFRvYXN0TW9kdWxlIGV4dGVuZHN7Cn0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmltcG9ydCBjb20uZmFjZWJvb2sucmVhY3QuYnJpZGdlLk5hdGl2ZU1vZHVsZTsK</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5yZWFjdC5icmlkZ2UuUmVhY3RDb250ZXh0QmFzZUphdmFNb2R1bGU7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBnZXROYW1lKCkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBOYXRpdmUK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAogICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbXBvcnQgCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFRvYXN0TW9kdWxlIGV4dGVuZHN7Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CmltcG9ydCBjb20uZmFjZWJvb2sucmVhY3QuYnJpZGdlLk5hdGl2ZU1vZHVsZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFRvYXN0TW9kdWxlIGV4dGVuZHMgUmVhY3RDb250ZXh0QmFzZUphdmFNb2R1bGUgewp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5mYWNlYm9vay5yZWFjdC5icmlkZ2UuUmVhY3RDb250ZXh0QmFzZUphdmFNb2R1bGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>52</text>
