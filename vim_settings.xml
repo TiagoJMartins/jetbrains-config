@@ -26,7 +26,7 @@
       <file name="/a.dummy" timestamp="1511452228403">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/SocialIcon/SocialIcon.js" timestamp="1511529596197">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/SocialIcon/SocialIcon.js" timestamp="1511535244678">
         <mark key="'" line="48" column="11" />
         <mark key="[" line="17" column="21" />
         <mark key="]" line="18" column="37" />
@@ -88,11 +88,11 @@
         <mark key="." line="27" column="39" />
         <mark key="^" line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" timestamp="1511533121468">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" timestamp="1511535265680">
         <mark key="[" line="58" column="21" />
-        <mark key="]" line="58" column="27" />
-        <mark key="." line="58" column="27" />
-        <mark key="^" line="58" column="27" />
+        <mark key="]" line="58" column="25" />
+        <mark key="." line="58" column="25" />
+        <mark key="^" line="58" column="25" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Fixtures/ronaldo.json" timestamp="1510841188860">
         <mark key="'" line="85" column="28" />
@@ -533,11 +533,11 @@
         <mark key="^" line="23" column="16" />
         <mark key="." line="35" column="18" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingCardsScreen/OnboardingCardsScreen.js" timestamp="1511533110529">
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="43" column="27" />
-        <mark key="." line="43" column="27" />
-        <mark key="^" line="43" column="27" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingCardsScreen/OnboardingCardsScreen.js" timestamp="1511535609405">
+        <mark key="[" line="38" column="9" />
+        <mark key="]" line="38" column="9" />
+        <mark key="." line="38" column="9" />
+        <mark key="^" line="128" column="52" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/Tests/Sagas/GithubSagaTest.js" timestamp="1509612271416">
         <mark key="'" line="0" column="0" />
@@ -794,43 +794,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>linkedIn</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>linkedIn</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>resetPan</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgIHByb2ZpbGVQaWN0dXJlOiAnaHR0cHM6Ly9wbGFjZWltZy5jb20vMTAwLzEwMC9hbnknLAogICAgICAgICAgbmFtZTogJ0RvbmFsZCBEcmFwZXInLAogICAgICAgICAgZW1haWw6ICdkb25hbGQuZHJhcGVyQGdtYWlsLmNvbScsCiAgICAgICAgICBuZXR3b3JrOiAnbGlua2VkSW4nCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25QcmVzcz17KCkgPT4geyB0aGlzLnN3aXBlci5zd2lwZVJpZ2h0KCkgfX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBwcm9maWxlUGljdHVyZTogJ2h0dHBzOi8vcGxhY2VpbWcuY29tLzEwMC8xMDAvYW55JywKICAgICAgICAgIG5hbWU6ICdEb25hbGQgRHJhcGVyJywKICAgICAgICAgIGVtYWlsOiAnZG9uYWxkLmRyYXBlckBnbWFpbC5jb20nLAogICAgICAgICAgbmV0d29yazogJ3NuYXBjaGF0JwogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25QcmVzcz17KCkgPT4geyB0aGlzLnJlamVjdE5ldHdvcmsoY2FyZCkgfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhY2NlcHQnKQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25QcmVzcz17dGhpcy5fc3dpcGVyLnN3aXBlTGVmdH0K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmPXtjb21wb25lbnQgPT4geyB0aGlzLl9zd2lwZXIgPSBjb21wb25lbnQgfX0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhY2NlcHQnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25QcmVzcz17dGhpcy5fc3dpcGVyLnN3aXBlTGVmdH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmPXtjb21wb25lbnQgPT4geyB0aGlzLl9zd2lwZXIgPSBjb21wb25lbnQgfX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9uU3dpcCAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9uCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
