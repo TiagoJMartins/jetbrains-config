@@ -322,12 +322,6 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/RootContainer/RootContainer.js" timestamp="1512049822877">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="54" />
-        <mark key="." line="17" column="54" />
-        <mark key="^" line="17" column="54" />
-      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/index.js" timestamp="1511790508377">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="8" column="42" />
@@ -410,11 +404,7 @@
         <mark key="." line="30" column="40" />
         <mark key="^" line="30" column="40" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/build.gradle" timestamp="1512049525102">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/build.gradle" timestamp="1512051057353" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/UserInfoScreen/UserInfoScreen.styles.js" timestamp="1511176275839">
         <mark key="'" line="8" column="15" />
         <mark key="[" line="7" column="0" />
@@ -484,11 +474,11 @@
         <mark key="." line="64" column="51" />
         <mark key="^" line="64" column="51" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/build.gradle" timestamp="1512043793652">
-        <mark key="[" line="8" column="55" />
-        <mark key="]" line="8" column="56" />
-        <mark key="." line="8" column="56" />
-        <mark key="^" line="8" column="55" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/build.gradle" timestamp="1512051660366">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ValuedFans/ValuedFans.styles.js" timestamp="1511181250875">
         <mark key="'" line="33" column="18" />
@@ -596,12 +586,6 @@
         <mark key="]" line="34" column="3" />
         <mark key="^" line="55" column="30" />
         <mark key="." line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/java/com/skorr/MainApplication.java" timestamp="1512043655572">
-        <mark key="[" line="34" column="31" />
-        <mark key="]" line="34" column="50" />
-        <mark key="." line="34" column="50" />
-        <mark key="^" line="34" column="50" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/HOC/WrapRootScreen/WrapRootScreen.hoc.js" timestamp="1509616347185">
         <mark key="'" line="1" column="33" />
@@ -917,7 +901,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFNlY3JldHMpCg==</text>
       </register>
       <register name="-" type="4">
         <text>HOCKEY_IOS_APP_ID</text>
@@ -929,31 +913,31 @@
         <text encoding="base64">SE9DS0VZX0FORFJPSURfQVBQX0lEPWM1NGM3M2I5NzczOTQxYmQ4OGQ2Zjc2NDNmOWY0MDNhCkhPQ0tFWV9JT1NfQVBQX0lEPTZlYjk2NWIzNDBjMTQyNTU5MGQ3ZGMxY2MxYjE0YmNiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFNlY3JldHMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">SE9DS0VZX0FORFJPSURfQVBQX0lEPWM1NGM3M2I5NzczOTQxYmQ4OGQ2Zjc2NDNmOWY0MDNhCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coU2VjcmV0cykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEhvY2tleUFwcC5jb25maWd1cmUoLCB0cnVlKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">SE9DS0VZX0FORFJPSURfQVBQX0lEPWM1NGM3M2I5NzczOTQxYmQ4OGQ2Zjc2NDNmOWY0MDNhCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">R09PR0xFX01BUFNfQVBJX0tFWT1hYmNkZWZnaAo=</text>
+        <text encoding="base64">ICAgIEhvY2tleUFwcC5jb25maWd1cmUoLCB0cnVlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYW5pZmVzdFBsYWNlaG9sZGVycyA9IFtIT0NLRVlBUFBfQVBQX0lEOiAiYzU0YzczYjk3NzM5NDFiZDg4ZDZmNzY0M2Y5ZjQwM2EiXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEhvY2tleUFwcC5mZWVkYmFjaygpCg==</text>
+        <text encoding="base64">R09PR0xFX01BUFNfQVBJX0tFWT1hYmNkZWZnaAo=</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
