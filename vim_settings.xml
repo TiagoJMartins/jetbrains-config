@@ -55,7 +55,7 @@
         <mark key="." line="55" column="30" />
         <mark key="^" line="55" column="30" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/java/com/skorr/MainActivity.java" timestamp="1512044050492">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/java/com/skorr/MainActivity.java" timestamp="1512049044795">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -114,6 +114,11 @@
         <mark key="." line="58" column="27" />
         <mark key="^" line="58" column="27" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Config/.env" timestamp="1512049771049">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Fixtures/ronaldo.json" timestamp="1510841188860">
         <mark key="'" line="85" column="28" />
         <mark key="[" line="102" column="9" />
@@ -162,6 +167,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.env.example" timestamp="1512049767001">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="49" />
+        <mark key="." line="5" column="49" />
+        <mark key="^" line="5" column="49" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/I18n/languages/english.json" timestamp="1511794257656">
         <mark key="'" line="39" column="25" />
@@ -311,10 +322,11 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/RootContainer/RootContainer.js" timestamp="1512043884255">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/RootContainer/RootContainer.js" timestamp="1512049822877">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="54" />
+        <mark key="." line="17" column="54" />
+        <mark key="^" line="17" column="54" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/index.js" timestamp="1511790508377">
         <mark key="'" line="14" column="0" />
@@ -398,11 +410,10 @@
         <mark key="." line="30" column="40" />
         <mark key="^" line="30" column="40" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/build.gradle" timestamp="1512044010069">
-        <mark key="[" line="113" column="9" />
-        <mark key="]" line="114" column="84" />
-        <mark key="." line="114" column="84" />
-        <mark key="^" line="114" column="84" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/build.gradle" timestamp="1512049525102">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/UserInfoScreen/UserInfoScreen.styles.js" timestamp="1511176275839">
         <mark key="'" line="8" column="15" />
@@ -648,10 +659,11 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/AndroidManifest.xml" timestamp="1512043933435">
-        <mark key="[" line="30" column="83" />
-        <mark key="]" line="31" column="105" />
-        <mark key="." line="31" column="105" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/AndroidManifest.xml" timestamp="1512049870492">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
         <mark key="^" line="31" column="105" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/NativeModules/index.js" timestamp="1511445744041">
@@ -802,10 +814,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/OnboardingRedux.js" />
-      <jump line="8" column="24" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/OnboardingRedux.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLoginScreen/OnboardingLoginScreen.js" />
-      <jump line="16" column="13" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLoginScreen/OnboardingLoginScreen.js" />
       <jump line="22" column="14" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLoginScreen/OnboardingLoginScreen.js" />
       <jump line="5" column="40" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLoginScreen/OnboardingLoginScreen.js" />
       <jump line="25" column="34" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLoginScreen/OnboardingLoginScreen.js" />
@@ -902,46 +910,50 @@
       <jump line="15" column="35" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.styles.js" />
       <jump line="34" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.styles.js" />
       <jump line="17" column="19" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/RootContainer/RootContainer.js" />
+      <jump line="7" column="27" filename="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/AndroidManifest.xml" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/AndroidManifest.xml" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/AndroidManifest.xml" />
+      <jump line="32" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>HOCKEY_APP_ID</text>
+        <text>HOCKEY_IOS_APP_ID</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hcmdpblRvcDogLXJlc3BvbnNpdmVIZWlnaHQoNCksCg==</text>
+        <text encoding="base64">SE9DS0VZX0FORFJPSURfQVBQX0lEPWM1NGM3M2I5NzczOTQxYmQ4OGQ2Zjc2NDNmOWY0MDNhCkhPQ0tFWV9JT1NfQVBQX0lEPTZlYjk2NWIzNDBjMTQyNTU5MGQ3ZGMxY2MxYjE0YmNiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGFjdGl2aXR5IGFuZHJvaWQ6bmFtZT0ibmV0LmhvY2tleWFwcC5hbmRyb2lkLlVwZGF0ZUFjdGl2aXR5IiAvPgogICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSJuZXQuaG9ja2V5YXBwLmFuZHJvaWQuRmVlZGJhY2tBY3Rpdml0eSIgLz4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IEhvY2tleUFwcCBmcm9tICdyZWFjdC1uYXRpdmUtaG9ja2V5YXBwJwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">SE9DS0VZX0FORFJPSURfQVBQX0lEPWM1NGM3M2I5NzczOTQxYmQ4OGQ2Zjc2NDNmOWY0MDNhCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEhvY2tleUFwcC5jb25maWd1cmUoLCB0cnVlKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEhvY2tleUFwcC5zdGFydCgpCiAgICBIb2NrZXlBcHAuY2hlY2tGb3JVcGRhdGUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRXaWxsTW91bnQgKCkgewogICAgSG9ja2V5QXBwLmNvbmZpZ3VyZSgsIHRydWUpCiAgfQoK</text>
+        <text encoding="base64">R09PR0xFX01BUFNfQVBJX0tFWT1hYmNkZWZnaAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtYW5pZmVzdFBsYWNlaG9sZGVycyA9IFtIT0NLRVlBUFBfQVBQX0lEOiAiYzU0YzczYjk3NzM5NDFiZDg4ZDZmNzY0M2Y5ZjQwM2EiXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZVRyZWUoZGlyOiAibGlicyIsIGluY2x1ZGU6ICIqLmphciIpCg==</text>
+        <text encoding="base64">ICAgIEhvY2tleUFwcC5mZWVkYmFjaygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
