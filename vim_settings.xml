@@ -154,6 +154,13 @@
         <mark key="." line="85" column="16" />
         <mark key="^" line="71" column="15" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/build.gradle" timestamp="1512332006717">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="28" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="20" column="28" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/Tests/Sagas/StartupSagaTest.js" timestamp="1509612999184">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="3" column="0" />
@@ -404,7 +411,6 @@
         <mark key="." line="30" column="40" />
         <mark key="^" line="30" column="40" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/build.gradle" timestamp="1512051057353" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/UserInfoScreen/UserInfoScreen.styles.js" timestamp="1511176275839">
         <mark key="'" line="8" column="15" />
         <mark key="[" line="7" column="0" />
@@ -798,7 +804,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="14" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLoginScreen/OnboardingLoginScreen.js" />
       <jump line="5" column="40" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLoginScreen/OnboardingLoginScreen.js" />
       <jump line="25" column="34" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLoginScreen/OnboardingLoginScreen.js" />
       <jump line="24" column="34" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLoginScreen/OnboardingLoginScreen.js" />
@@ -898,13 +903,14 @@
       <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/AndroidManifest.xml" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/AndroidManifest.xml" />
       <jump line="32" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/AndroidManifest.xml" />
+      <jump line="24" column="0" filename="$USER_HOME$/www/work/skorr/skorr-auth-api/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFNlY3JldHMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>HOCKEY_IOS_APP_ID</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
