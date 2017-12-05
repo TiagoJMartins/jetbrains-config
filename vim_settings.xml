@@ -25,7 +25,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/impl/facebook/FacebookController.kt" timestamp="1512494700673">
+      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/impl/facebook/FacebookController.kt" timestamp="1512509109801">
         <mark key="'" line="19" column="14" />
         <mark key="[" line="26" column="36" />
         <mark key="]" line="27" column="19" />
@@ -187,7 +187,7 @@
         <mark key="^" line="5" column="17" />
         <mark key="." line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/SharedModule.kt" timestamp="1512484988043">
+      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/SharedModule.kt" timestamp="1512508728603">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="19" column="4" />
         <mark key="." line="21" column="40" />
@@ -252,7 +252,7 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookConstants.kt" timestamp="1512488388532">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookConstants.kt" timestamp="1512508709035">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="17" column="1" />
@@ -300,6 +300,13 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="14" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookService.kt" timestamp="1512508649413">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/impl/facebook/FacebookConstants.kt" timestamp="1512488386299">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="17" column="0" />
@@ -324,11 +331,11 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/ApplicationRouter.kt" timestamp="1512496328816">
-        <mark key="[" line="34" column="36" />
-        <mark key="]" line="34" column="49" />
-        <mark key="." line="34" column="49" />
-        <mark key="^" line="34" column="49" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/ApplicationRouter.kt" timestamp="1512508830550">
+        <mark key="'" line="15" column="5" />
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="15" column="6" />
+        <mark key="." line="15" column="6" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/rest/GithubApi.kt" timestamp="1512334049208">
         <mark key="[" line="6" column="47" />
@@ -336,17 +343,17 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="56" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/AuthModule.kt" timestamp="1512502160701">
-        <mark key="[" line="10" column="58" />
-        <mark key="]" line="10" column="66" />
-        <mark key="." line="10" column="66" />
-        <mark key="^" line="10" column="66" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/AuthModule.kt" timestamp="1512509241538">
+        <mark key="[" line="11" column="66" />
+        <mark key="]" line="11" column="70" />
+        <mark key="." line="11" column="70" />
+        <mark key="^" line="11" column="70" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookRouter.kt" timestamp="1512496054930">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="7" column="57" />
-        <mark key="." line="7" column="57" />
-        <mark key="^" line="7" column="57" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookRouter.kt" timestamp="1512508547746">
+        <mark key="[" line="12" column="58" />
+        <mark key="]" line="12" column="71" />
+        <mark key="." line="12" column="71" />
+        <mark key="^" line="12" column="71" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/auth/AuthRoutes.kt" timestamp="1512405572445">
         <mark key="[" line="6" column="25" />
@@ -372,11 +379,11 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookController.kt" timestamp="1512488593933">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="21" />
-        <mark key="^" line="7" column="21" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookController.kt" timestamp="1512509206823">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="33" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" timestamp="1511788857964">
         <mark key="[" line="18" column="82" />
@@ -425,15 +432,15 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/impl/facebook/FacebookModule.kt" timestamp="1512476546785">
-        <mark key="[" line="7" column="76" />
-        <mark key="]" line="7" column="76" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/impl/facebook/FacebookModule.kt" timestamp="1512509093888">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="102" />
         <mark key="^" line="7" column="91" />
         <mark key="." line="7" column="76" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/impl/facebook/FacebookService.kt" timestamp="1512475091490">
-        <mark key="[" line="45" column="7" />
-        <mark key="]" line="45" column="16" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/impl/facebook/FacebookService.kt" timestamp="1512509004523">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="46" column="0" />
         <mark key="." line="45" column="16" />
         <mark key="^" line="45" column="16" />
       </file>
@@ -461,7 +468,7 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/impl/facebook/FacebookRoutes.kt" timestamp="1512480966491">
+      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/impl/facebook/FacebookRoutes.kt" timestamp="1512508582749">
         <mark key="[" line="22" column="16" />
         <mark key="]" line="22" column="16" />
         <mark key="^" line="22" column="22" />
@@ -480,6 +487,7 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="41" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/impl/AuthModule.kt" timestamp="1512507296237" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingInfoScreen/OnboardingInfoScreen.js" timestamp="1512042068347">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -508,21 +516,15 @@
         <mark key="^" line="93" column="4" />
         <mark key="." line="93" column="4" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1512505210809">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1512509275204">
         <mark key="'" line="2" column="23" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="28" column="15" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="40" column="74" />
+        <mark key="]" line="40" column="82" />
+        <mark key="." line="40" column="82" />
+        <mark key="^" line="40" column="82" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="27" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/Forms/SkorrInput.js" />
-      <jump line="55" column="12" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/Forms/SkorrInput.js" />
-      <jump line="51" column="7" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/Forms/SkorrInput.js" />
-      <jump line="2" column="37" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/Forms/SkorrInput.js" />
-      <jump line="56" column="23" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/Forms/SkorrInput.js" />
-      <jump line="101" column="22" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingInfoScreen/OnboardingInfoScreen.js" />
       <jump line="11" column="67" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingInfoScreen/OnboardingInfoScreen.js" />
       <jump line="21" column="14" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingInfoScreen/OnboardingInfoScreen.js" />
       <jump line="126" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingInfoScreen/OnboardingInfoScreen.js" />
@@ -617,46 +619,52 @@
       <jump line="44" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" />
       <jump line="15" column="4" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" />
       <jump line="12" column="23" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" />
+      <jump line="45" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookService.kt" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookService.kt" />
+      <jump line="42" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookService.kt" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookService.kt" />
+      <jump line="39" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookService.kt" />
+      <jump line="15" column="5" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/ApplicationRouter.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJpbmQ8RmFjZWJvb2tDb250cm9sbGVyPigpIHdpdGggcHJvdmlkZXIgeyBGYWNlYm9va0NvbnRyb2xsZXIoKSB9Cg==</text>
+        <text encoding="base64">ICAgIGJpbmQ8RmFjZWJvb2tTZXJ2aWNlPigpIHdpdGggc2luZ2xldG9uIHsgaW5zdGFuY2U8UmV0cm9maXQ+KCkuY3JlYXRlKEZhY2Vib29rU2VydmljZTo6Y2xhc3MuamF2YSkgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBiaW5kPEZhY2Vib29rUm91dGVyPigpIHdpdGggcHJvdmlkZXIgeyBGYWNlYm9va1JvdXRlcihpbnN0YW5jZSgpLCBpbnN0YW5jZSgpKSB9Ci8vICAgICAgICAgICAgYmluZDxGYWNlYm9va0NvbnRyb2xsZXI+KCkgd2l0aCBwcm92aWRlciB7IEZhY2Vib29rQ29udHJvbGxlcigpIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpbXBvcnQoYXBwTW9kdWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwTW9kdWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXI/LnJlcXVlc3RIYW5kbGVyIHsgaXQucmVzcG9uc2UoKS5lbmQoImRvbmUiKX0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbih2ZXJ0eCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZDxWZXJ0eD4oKSB3aXRoIGluc3RhbmNlKHZlcnR4KQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
