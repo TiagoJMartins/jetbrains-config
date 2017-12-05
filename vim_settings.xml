@@ -423,8 +423,11 @@
         <mark key="." line="31" column="37" />
         <mark key="^" line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/.gitignore" timestamp="1512463982837">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/.gitignore" timestamp="1512464228807">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/AnimatedCircleProgress/AnimatedCircleProgress.js" timestamp="1511281672252">
         <mark key="'" line="83" column="18" />
@@ -1049,7 +1052,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="12" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingInfoScreen/OnboardingInfoScreen.js" />
       <jump line="119" column="35" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Themes/ApplicationStyles.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Themes/ApplicationStyles.js" />
       <jump line="126" column="34" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Themes/ApplicationStyles.js" />
@@ -1149,10 +1151,11 @@
       <jump line="10" column="25" filename="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/Application.kt" />
       <jump line="7" column="56" filename="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/auth/facebook/FacebookConstants.kt" />
       <jump line="11" column="18" filename="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/auth/facebook/FacebookService.kt" />
+      <jump line="96" column="0" filename="$USER_HOME$/www/work/skorr/skorr-auth-api/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyMjIEtvdGxpbiB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -1164,31 +1167,31 @@
         <text encoding="base64">Ly8gICAgcHJpdmF0ZSB2YWwgX3Rlc3RDb25zdGFudDogU3RyaW5nID0ga29kZWluLmluc3RhbmNlKCJ0ZXN0IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGEgY2xhc3MgRXhjaGFuZ2VkQ29kZVJlc3BvbnNlKAogICAgICAgICAgICB2YWwKICAgICkKICAgIAo=</text>
+        <text encoding="base64">IyMjIEtvdGxpbiB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGludGVyZmFjZSB7CiAgICAgICAgCiAgICB9Cgo=</text>
+        <text encoding="base64">IyMjIFZpc3VhbFN0dWRpb0NvZGUgdGVtcGxhdGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyBDcmVhdGVkIGJ5IC5pZ25vcmUgc3VwcG9ydCBwbHVnaW4gKGhzei5tb2JpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRhdGEgY2xhc3MgRXhjaGFuZ2VkQ29kZVJlc3BvbnNlKAogICAgICAgICAgICB2YWwKICAgICkKICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBWZE8K</text>
+        <text encoding="base64">ICAgIGludGVyZmFjZSB7CiAgICAgICAgCiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
