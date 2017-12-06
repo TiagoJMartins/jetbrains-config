@@ -301,12 +301,12 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookService.kt" timestamp="1512556770470">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="11" column="31" />
-        <mark key="]" line="14" column="33" />
-        <mark key="^" line="14" column="33" />
-        <mark key="." line="14" column="33" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookService.kt" timestamp="1512559742218">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="55" column="18" />
+        <mark key="]" line="55" column="20" />
+        <mark key="^" line="55" column="20" />
+        <mark key="." line="55" column="20" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/impl/facebook/FacebookConstants.kt" timestamp="1512488386299">
         <mark key="[" line="2" column="0" />
@@ -380,11 +380,11 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookController.kt" timestamp="1512557158019">
-        <mark key="[" line="35" column="103" />
-        <mark key="]" line="35" column="102" />
-        <mark key="." line="35" column="102" />
-        <mark key="^" line="35" column="102" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookController.kt" timestamp="1512559361357">
+        <mark key="[" line="34" column="42" />
+        <mark key="]" line="34" column="46" />
+        <mark key="." line="34" column="46" />
+        <mark key="^" line="34" column="46" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" timestamp="1511788857964">
         <mark key="[" line="18" column="82" />
@@ -627,43 +627,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdXRIZWFkZXIoQ09OVEVOVF9UWVBFLCAiYXBwbGljYXRpb24vanNvbjsgY2hhcnNldD11dGYtOCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbigicmVjZWl2ZWQgdG9rZW4iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIEBUT0RPOiBIYW5kbGUgZXJyb3JzIGJldHRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigicmVjZWl2ZWQgdG9rZW4iKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gQFRPRE86IEhhbmRsZSB0b2tlbiBmcm9tIGhlcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGZidHJhY2VfaWQ6IFN0cmluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2luZ2xlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFNlcmlhbGl6ZWROYW1lKCJhY2Nlc3NfdG9rZW4iKSB2YWwgdG9rZW5UeXBlOiBTdHJpbmcsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZmxhdE1hcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBmYkVycm9yID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
