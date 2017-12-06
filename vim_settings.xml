@@ -28,7 +28,7 @@
         <mark key="." line="26" column="101" />
         <mark key="^" line="26" column="101" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" timestamp="1512554672363">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" timestamp="1512569650329">
         <mark key="'" line="43" column="12" />
         <mark key="[" line="44" column="12" />
         <mark key="]" line="44" column="13" />
@@ -145,6 +145,12 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/user/User.kt" timestamp="1512386935743">
+        <mark key="'" line="3" column="3" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/injection/module/ServiceModule.kt" timestamp="1512336571357">
         <mark key="[" line="11" column="21" />
         <mark key="]" line="13" column="13" />
@@ -168,6 +174,18 @@
         <mark key="]" line="58" column="27" />
         <mark key="." line="58" column="27" />
         <mark key="^" line="58" column="27" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/auth/facebook/FacebookService.kt" timestamp="1512407399964">
+        <mark key="'" line="11" column="18" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/ServiceRunner.kt" timestamp="1512375816750">
+        <mark key="'" line="15" column="14" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Fixtures/UserStats/beckham.json" timestamp="1511773759235">
         <mark key="[" line="5" column="11" />
@@ -206,12 +224,11 @@
         <mark key="]" line="17" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" timestamp="1512563625099">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-        <mark key="^" line="0" column="22" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" timestamp="1512569755910">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/SharedModule.kt" timestamp="1512501293780">
         <mark key="[" line="9" column="16" />
@@ -364,6 +381,12 @@
         <mark key="]" line="8" column="86" />
         <mark key="." line="8" column="86" />
         <mark key="^" line="8" column="86" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/.gitignore" timestamp="1512464228807">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/impl/AuthRoutes.kt" timestamp="1512480501564">
         <mark key="[" line="8" column="40" />
@@ -561,10 +584,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBhc2Rhc2QK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>| echo &quot;hello world!&quot;</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -573,31 +596,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbigicmVjZWl2ZWQgdG9rZW4iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBhc2Rhc2QK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gYXNkYXMK</text>
+        <text encoding="base64">IyBAVE9ETzogTWFrZSB0aGlzIHdvcmsgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBUaGlzIHJlZmVyZW5jZXMgYSBzdGFuZGFyZCBkZWJpYW4gY29udGFpbmVyIGZyb20gdGhlCiMgRG9ja2VyIEh1YiBodHRwczovL3JlZ2lzdHJ5Lmh1Yi5kb2NrZXIuY29tL18vZGViaWFuLwojIFJlYWQgbW9yZSBhYm91dCBjb250YWluZXJzIG9uIG91ciBkZXYgY2VudGVyCiMgaHR0cDovL2RldmNlbnRlci53ZXJja2VyLmNvbS9kb2NzL2NvbnRhaW5lcnMvaW5kZXguaHRtbAo=</text>
+        <text encoding="base64">IyBAVE9ETzogTWFrZSB0aGlzIHdvcmsgCmJveDogamF2YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBZb3UgY2FuIGFsc28gdXNlIHNlcnZpY2VzIHN1Y2ggYXMgZGF0YWJhc2VzLiBSZWFkIG1vcmUgb24gb3VyIGRldiBjZW50ZXI6CiMgaHR0cDovL2RldmNlbnRlci53ZXJja2VyLmNvbS9kb2NzL3NlcnZpY2VzL2luZGV4Lmh0bWwKIyBzZXJ2aWNlczoKICAgICMgLSBwb3N0Z3JlcwogICAgIyBodHRwOi8vZGV2Y2VudGVyLndlcmNrZXIuY29tL2RvY3Mvc2VydmljZXMvcG9zdGdyZXNxbC5odG1sCgogICAgIyAtIG1vbmdvCiAgICAjIGh0dHA6Ly9kZXZjZW50ZXIud2VyY2tlci5jb20vZG9jcy9zZXJ2aWNlcy9tb25nb2RiLmh0bWwKCiMgVGhpcyBpcyB0aGUgYnVpbGQgcGlwZWxpbmUuIFBpcGVsaW5lcyBhcmUgdGhlIGNvcmUgb2Ygd2VyY2tlcgojIFJlYWQgbW9yZSBhYm91dCBwaXBlbGluZXMgb24gb3VyIGRldiBjZW50ZXIKIyBodHRwOi8vZGV2Y2VudGVyLndlcmNrZXIuY29tL2RvY3MvcGlwZWxpbmVzL2luZGV4Lmh0bWwK</text>
+        <text encoding="base64">IyBhc2Rhc2QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgU3RlcHMgbWFrZSB1cCB0aGUgYWN0aW9ucyBpbiB5b3VyIHBpcGVsaW5lCiAgICAjIFJlYWQgbW9yZSBhYm91dCBzdGVwcyBvbiBvdXIgZGV2IGNlbnRlcjoKICAgICMgaHR0cDovL2RldmNlbnRlci53ZXJja2VyLmNvbS9kb2NzL3N0ZXBzL2luZGV4Lmh0bWwK</text>
+        <text encoding="base64">Ly8gYXNkYXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigicmVjZWl2ZWQgY29kZSIpCg==</text>
+        <text encoding="base64">IyBUaGlzIHJlZmVyZW5jZXMgYSBzdGFuZGFyZCBkZWJpYW4gY29udGFpbmVyIGZyb20gdGhlCiMgRG9ja2VyIEh1YiBodHRwczovL3JlZ2lzdHJ5Lmh1Yi5kb2NrZXIuY29tL18vZGViaWFuLwojIFJlYWQgbW9yZSBhYm91dCBjb250YWluZXJzIG9uIG91ciBkZXYgY2VudGVyCiMgaHR0cDovL2RldmNlbnRlci53ZXJja2VyLmNvbS9kb2NzL2NvbnRhaW5lcnMvaW5kZXguaHRtbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbigicmVjZWl2ZWQgbG9uZy10b2tlbiIpCg==</text>
+        <text encoding="base64">IyBZb3UgY2FuIGFsc28gdXNlIHNlcnZpY2VzIHN1Y2ggYXMgZGF0YWJhc2VzLiBSZWFkIG1vcmUgb24gb3VyIGRldiBjZW50ZXI6CiMgaHR0cDovL2RldmNlbnRlci53ZXJja2VyLmNvbS9kb2NzL3NlcnZpY2VzL2luZGV4Lmh0bWwKIyBzZXJ2aWNlczoKICAgICMgLSBwb3N0Z3JlcwogICAgIyBodHRwOi8vZGV2Y2VudGVyLndlcmNrZXIuY29tL2RvY3Mvc2VydmljZXMvcG9zdGdyZXNxbC5odG1sCgogICAgIyAtIG1vbmdvCiAgICAjIGh0dHA6Ly9kZXZjZW50ZXIud2VyY2tlci5jb20vZG9jcy9zZXJ2aWNlcy9tb25nb2RiLmh0bWwKCiMgVGhpcyBpcyB0aGUgYnVpbGQgcGlwZWxpbmUuIFBpcGVsaW5lcyBhcmUgdGhlIGNvcmUgb2Ygd2VyY2tlcgojIFJlYWQgbW9yZSBhYm91dCBwaXBlbGluZXMgb24gb3VyIGRldiBjZW50ZXIKIyBodHRwOi8vZGV2Y2VudGVyLndlcmNrZXIuY29tL2RvY3MvcGlwZWxpbmVzL2luZGV4Lmh0bWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnRsbigicmVjZWl2ZWQgdG9rZW4iKQo=</text>
+        <text encoding="base64">ICAgICMgU3RlcHMgbWFrZSB1cCB0aGUgYWN0aW9ucyBpbiB5b3VyIHBpcGVsaW5lCiAgICAjIFJlYWQgbW9yZSBhYm91dCBzdGVwcyBvbiBvdXIgZGV2IGNlbnRlcjoKICAgICMgaHR0cDovL2RldmNlbnRlci53ZXJja2VyLmNvbS9kb2NzL3N0ZXBzL2luZGV4Lmh0bWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vICAgIGRhdGEgY2xhc3MgTG9uZ1Rva2VuUmVzcG9uc2UoCi8vCi8vICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnRsbigicmVjZWl2ZWQgY29kZSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
