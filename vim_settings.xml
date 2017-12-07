@@ -163,7 +163,7 @@
         <mark key="." line="13" column="13" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/ecs-task-definition.staging.json" timestamp="1512597526251">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/ecs-task-definition.staging.json" timestamp="1512636214688">
         <mark key="[" line="1" column="27" />
         <mark key="]" line="1" column="26" />
         <mark key="^" line="1" column="26" />
@@ -232,12 +232,12 @@
         <mark key="." line="9" column="136" />
         <mark key="^" line="9" column="136" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" timestamp="1512597285858">
-        <mark key="'" line="37" column="8" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="36" column="20" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" timestamp="1512636575025">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/SharedModule.kt" timestamp="1512501293780">
         <mark key="[" line="9" column="16" />
@@ -500,11 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/www/work/skorr/skorr-auth-api/.gitignore" />
-      <jump line="19" column="14" filename="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/impl/facebook/FacebookController.kt" />
-      <jump line="14" column="23" filename="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
       <jump line="8" column="0" filename="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/AppModule.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookConstants.kt" />
       <jump line="5" column="4" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/AppModule.kt" />
@@ -541,7 +536,6 @@
       <jump line="19" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" />
       <jump line="7" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
       <jump line="12" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
-      <jump line="19" column="7" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
       <jump line="54" column="1" filename="$USER_HOME$/www/work/skorr/skorr-api/api-task-definition.json" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/api-task-definition.json" />
       <jump line="60" column="1" filename="$USER_HOME$/www/work/skorr/skorr-api/api-task-definition.json" />
@@ -588,7 +582,6 @@
       <jump line="32" column="7" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
       <jump line="31" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
       <jump line="40" column="26" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
       <jump line="2" column="7" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
       <jump line="36" column="27" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
       <jump line="26" column="32" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
@@ -597,49 +590,56 @@
       <jump line="43" column="14" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
       <jump line="58" column="12" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
-      <jump line="44" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
       <jump line="37" column="8" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
       <jump line="10" column="21" filename="$USER_HOME$/www/work/skorr/skorr-api/ecs-task-definition.staging.json" />
+      <jump line="44" column="76" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
+      <jump line="47" column="8" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
+      <jump line="49" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
+      <jump line="35" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
+      <jump line="29" column="13" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
+      <jump line="19" column="25" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
+      <jump line="18" column="4" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-jdk-alpine</text>
       </register>
       <register name="-" type="4">
-        <text>AKIAJKMOOYOFML7NSJSA</text>
+        <text>-jdk-alpine</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBrZXk6ICRBV1NfS0VZCiAgICAgICAgc2VjcmV0OiAkQVdTX1NFQ1JFVAo=</text>
+        <text encoding="base64">ICBib3g6IG9wZW5qZGs6OC1qZGstYWxwaW5lCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2RlcGxveS1zdGFnaW5nOgojICBzdGVwczoKIyAgICAtIGVkZ2VjYXNlYWRtaW4vaW5zdGFsbC1hd3MtY2xpOgojICAgICAgICBrZXk6ICRBV1NfS0VZCiMgICAgICAgIHNlY3JldDogJEFXU19TRUNSRVQKIyAgICAgICAgcmVnaW9uOiAkQVdTX1JFR0lPTgojCiMgICAgLSBzY3JpcHQ6CiMgICAgICAgIG5hbWU6IGVjcyBkZXBsb3kKIyAgICAgICAgY29kZTogfAojICAgICAgICAgIGF3cyBlY3MgcmVnaXN0ZXItdGFzay1kZWZpbml0aW9uIFwKIyAgICAgICAgICAgIC0tY2xpLWlucHV0LWpzb24gZmlsZTovLyRXRVJDS0VSX1NPVVJDRV9ESVIvZWNzLXRhc2stZGVmaW5pdGlvbi5zdGFnaW5nLmpzb24KIyAgICAgICAgICBhd3MgZWNzIHVwZGF0ZS1zZXJ2aWNlIFwKIyAgICAgICAgICAgIC0tY2x1c3RlciAkQVdTX0VDU19DTFVTVEVSIFwKIyAgICAgICAgICAgIC0tc2VydmljZSAkQVdTX0VDU19TRVJWSUNFIFwKIyAgICAgICAgICAgIC0tdGFzay1kZWZpbml0aW9uICRBV1NfRUNTX1RBU0tfREVGSU5JVElPTgo=</text>
+        <text encoding="base64">IyBAVE9ETzogU2VlIGlmIGFscGluZSBjYW4gcnVuIGZhdGphcnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBrZXk6ICRBV1NfQUNDRVNTX0tFWV9JRAogICAgICAgIHNlY3JldDogJEFXU19TRUNSRVRfQUNDRVNTX0tFWQo=</text>
+        <text encoding="base64">CmRlcGxveS1zdGFnaW5nOgogIHN0ZXBzOgogICAgLSAxc2NpZW5jZS9hd3MtZWNzOgogICAgICAgIGtleTogJEFXU19LRVkKICAgICAgICBzZWNyZXQ6ICRBV1NfU0VDUkVUCiAgICAgICAgcmVnaW9uOiAkQVdTX1JFR0lPTgogICAgICAgIGNsdXN0ZXItbmFtZTogJEFXU19FQ1NfQ0xVU1RFUgogICAgICAgIHNlcnZpY2UtbmFtZTogJEFXU19FQ1NfU0VSVklDRQogICAgICAgIHRhc2stZGVmaW5pdGlvbi1uYW1lOiAkQVdTX0VDU19UQVNLX0RFRklOSVRJT04KICAgICAgICB0YXNrLWRlZmluaXRpb24tZmlsZTogJFdFUkNLRVJfU09VUkNFX0RJUi9lY3MtdGFzay1kZWZpbml0aW9uLiRBV1NfRUNTX0NMVVNURVIuanNvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gZWRnZWNhc2VhZG1pbi9pbnN0YWxsLWF3cy1jbGk6CiAgICAgICAga2V5OiAkQVdTX0tFWQogICAgICAgIHNlY3JldDogJEFXU19TRUNSRVQKICAgICAgICByZWdpb246ICRBV1NfUkVHSU9OCgogICAgLSBzY3JpcHQ6CiAgICAgICAgbmFtZTogZWNzIGRlcGxveQogICAgICAgIGNvZGU6IHwKICAgICAgICAgIGF3cyBlY3MgcmVnaXN0ZXItdGFzay1kZWZpbml0aW9uIFwKICAgICAgICAgICAgLS1jbGktaW5wdXQtanNvbiBmaWxlOi8vJFdFUkNLRVJfU09VUkNFX0RJUi9lY3MtdGFzay1kZWZpbml0aW9uLnN0YWdpbmcuanNvbgogICAgICAgICAgYXdzIGVjcyB1cGRhdGUtc2VydmljZSBcCiAgICAgICAgICAgIC0tY2x1c3RlciAkQVdTX0VDU19DTFVTVEVSIFwKICAgICAgICAgICAgLS1zZXJ2aWNlICRBV1NfRUNTX1NFUlZJQ0UgXAogICAgICAgICAgICAtLXRhc2stZGVmaW5pdGlvbiAkQVdTX0VDU19UQVNLX0RFRklOSVRJT04K</text>
+        <text encoding="base64">I2RlcGxveS1zdGFnaW5nOgojICBzdGVwczoKIyAgICAtIGVkZ2VjYXNlYWRtaW4vaW5zdGFsbC1hd3MtY2xpOgojICAgICAgICBrZXk6ICRBV1NfS0VZCiMgICAgICAgIHNlY3JldDogJEFXU19TRUNSRVQKIyAgICAgICAgcmVnaW9uOiAkQVdTX1JFR0lPTgojCiMgICAgLSBzY3JpcHQ6CiMgICAgICAgIG5hbWU6IGVjcyBkZXBsb3kKIyAgICAgICAgY29kZTogfAojICAgICAgICAgIGF3cyBlY3MgcmVnaXN0ZXItdGFzay1kZWZpbml0aW9uIFwKIyAgICAgICAgICAgIC0tY2xpLWlucHV0LWpzb24gZmlsZTovLyRXRVJDS0VSX1NPVVJDRV9ESVIvZWNzLXRhc2stZGVmaW5pdGlvbi5zdGFnaW5nLmpzb24KIyAgICAgICAgICBhd3MgZWNzIHVwZGF0ZS1zZXJ2aWNlIFwKIyAgICAgICAgICAgIC0tY2x1c3RlciAkQVdTX0VDU19DTFVTVEVSIFwKIyAgICAgICAgICAgIC0tc2VydmljZSAkQVdTX0VDU19TRVJWSUNFIFwKIyAgICAgICAgICAgIC0tdGFzay1kZWZpbml0aW9uICRBV1NfRUNTX1RBU0tfREVGSU5JVElPTgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVjaG8gJEFXU19TRUNSRVRfS0VZCg==</text>
+        <text encoding="base64">ICAgICAgICBrZXk6ICRBV1NfQUNDRVNTX0tFWV9JRAogICAgICAgIHNlY3JldDogJEFXU19TRUNSRVRfQUNDRVNTX0tFWQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdoaWNoIGF3cwo=</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBib3g6IGFscGluZQo=</text>
+        <text encoding="base64">ICAgIC0gZWRnZWNhc2VhZG1pbi9pbnN0YWxsLWF3cy1jbGk6CiAgICAgICAga2V5OiAkQVdTX0tFWQogICAgICAgIHNlY3JldDogJEFXU19TRUNSRVQKICAgICAgICByZWdpb246ICRBV1NfUkVHSU9OCgogICAgLSBzY3JpcHQ6CiAgICAgICAgbmFtZTogZWNzIGRlcGxveQogICAgICAgIGNvZGU6IHwKICAgICAgICAgIGF3cyBlY3MgcmVnaXN0ZXItdGFzay1kZWZpbml0aW9uIFwKICAgICAgICAgICAgLS1jbGktaW5wdXQtanNvbiBmaWxlOi8vJFdFUkNLRVJfU09VUkNFX0RJUi9lY3MtdGFzay1kZWZpbml0aW9uLnN0YWdpbmcuanNvbgogICAgICAgICAgYXdzIGVjcyB1cGRhdGUtc2VydmljZSBcCiAgICAgICAgICAgIC0tY2x1c3RlciAkQVdTX0VDU19DTFVTVEVSIFwKICAgICAgICAgICAgLS1zZXJ2aWNlICRBV1NfRUNTX1NFUlZJQ0UgXAogICAgICAgICAgICAtLXRhc2stZGVmaW5pdGlvbiAkQVdTX0VDU19UQVNLX0RFRklOSVRJT04K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ym94IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVjaG8gJEFXU19TRUNSRVRfS0VZCg==</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
