@@ -33,6 +33,7 @@
         <mark key="." line="10" column="37" />
         <mark key="^" line="10" column="37" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/OnboardingRedux.js" timestamp="1512689560611" />
       <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/Main.kt" timestamp="1512400569748">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -113,7 +114,7 @@
         <mark key="." line="59" column="28" />
         <mark key="^" line="59" column="28" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" timestamp="1512649111183">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" timestamp="1512689989459">
         <mark key="'" line="48" column="8" />
         <mark key="[" line="53" column="12" />
         <mark key="]" line="53" column="19" />
@@ -133,11 +134,12 @@
         <mark key="." line="5" column="49" />
         <mark key="^" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookConstants.kt" timestamp="1512657299424">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookConstants.kt" timestamp="1512689271773">
         <mark key="'" line="17" column="4" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="53" />
+        <mark key="." line="19" column="53" />
+        <mark key="^" line="19" column="53" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" timestamp="1512639633059">
         <mark key="'" line="65" column="8" />
@@ -508,6 +510,7 @@
       <file name="/Dummy.txt" timestamp="1512647033702">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" timestamp="1512640447751" />
       <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/impl/AuthRoutes.kt" timestamp="1512480501564">
         <mark key="[" line="8" column="40" />
         <mark key="]" line="8" column="40" />
@@ -557,12 +560,12 @@
         <mark key="." line="3" column="39" />
         <mark key="^" line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" timestamp="1512657247728">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" timestamp="1512690053824">
         <mark key="'" line="98" column="24" />
-        <mark key="[" line="110" column="50" />
-        <mark key="]" line="110" column="49" />
-        <mark key="." line="110" column="49" />
-        <mark key="^" line="110" column="49" />
+        <mark key="[" line="108" column="40" />
+        <mark key="]" line="108" column="52" />
+        <mark key="." line="108" column="52" />
+        <mark key="^" line="108" column="52" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/ServiceController.kt" timestamp="1512333180351">
         <mark key="[" line="6" column="46" />
@@ -694,10 +697,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>http://staging-api-lb-515081832.eu-west-1.elb.amazonaws.com/facebook/auth</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>http://staging-api-lb-515081832.eu-west-1.elb.amazonaws.com/facebook/auth</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
