@@ -4,11 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/build.gradle" timestamp="1512647132915">
-        <mark key="'" line="108" column="26" />
         <mark key="[" line="102" column="23" />
         <mark key="]" line="102" column="24" />
         <mark key="." line="102" column="24" />
-        <mark key="^" line="163" column="51" />
+        <mark key="^" line="102" column="51" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/NetworkDistributionChart/NetworkDistributionChart.js" timestamp="1511779574666">
         <mark key="[" line="0" column="20" />
@@ -103,7 +102,7 @@
         <mark key="." line="26" column="40" />
         <mark key="^" line="26" column="40" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/java/com/skorr/MainActivity.java" timestamp="1512647442734">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/java/com/skorr/MainActivity.java" timestamp="1512649067666">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -150,7 +149,7 @@
         <mark key="^" line="20" column="60" />
         <mark key="." line="20" column="60" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/AppEnv.kt" timestamp="1512594543806">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/AppEnv.kt" timestamp="1512648999918">
         <mark key="[" line="11" column="26" />
         <mark key="]" line="11" column="39" />
         <mark key="^" line="11" column="39" />
@@ -218,23 +217,18 @@
         <mark key="." line="59" column="28" />
         <mark key="^" line="59" column="28" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/java/com/skorr/MainApplication.java" timestamp="1512647354343">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Fixtures/UserStats/beckham.json" timestamp="1511773759235">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="12" />
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" timestamp="1512644473851">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" timestamp="1512649111183">
         <mark key="'" line="48" column="8" />
-        <mark key="[" line="57" column="32" />
-        <mark key="]" line="57" column="48" />
-        <mark key="." line="57" column="48" />
-        <mark key="^" line="57" column="48" />
+        <mark key="[" line="53" column="12" />
+        <mark key="]" line="53" column="19" />
+        <mark key="." line="53" column="19" />
+        <mark key="^" line="53" column="19" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/RehydrationServices.js" timestamp="1511449653764">
         <mark key="[" line="2" column="0" />
@@ -558,7 +552,7 @@
         <mark key="^" line="95" column="7" />
         <mark key="." line="95" column="7" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1512639968981">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1512648998862">
         <mark key="[" line="62" column="47" />
         <mark key="]" line="63" column="54" />
         <mark key="." line="63" column="54" />
@@ -675,11 +669,11 @@
       <jump line="55" column="30" filename="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Reducres</text>
       </register>
       <register name="-" type="4">
-        <text>.22.1</text>
+        <text>Reducres</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
