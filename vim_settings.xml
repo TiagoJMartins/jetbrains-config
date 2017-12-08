@@ -82,12 +82,11 @@
         <mark key="^" line="18" column="23" />
         <mark key="." line="18" column="23" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" timestamp="1512656778713">
-        <mark key="'" line="1" column="27" />
-        <mark key="[" line="38" column="28" />
-        <mark key="]" line="39" column="27" />
-        <mark key="." line="39" column="27" />
-        <mark key="^" line="39" column="27" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" timestamp="1512693401318">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/injection/module/ServiceModule.kt" timestamp="1512336571357">
         <mark key="[" line="11" column="21" />
@@ -501,6 +500,12 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="28" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookController.kt" timestamp="1512691035915">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/workbench/mavenonboardingapi/pom.xml" timestamp="1511264245722">
         <mark key="[" line="62" column="43" />
         <mark key="]" line="62" column="46" />
@@ -560,12 +565,12 @@
         <mark key="." line="3" column="39" />
         <mark key="^" line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" timestamp="1512690053824">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" timestamp="1512693407653">
         <mark key="'" line="98" column="24" />
-        <mark key="[" line="108" column="40" />
-        <mark key="]" line="108" column="52" />
-        <mark key="." line="108" column="52" />
-        <mark key="^" line="108" column="52" />
+        <mark key="[" line="112" column="61" />
+        <mark key="]" line="112" column="75" />
+        <mark key="." line="112" column="75" />
+        <mark key="^" line="112" column="75" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/ServiceController.kt" timestamp="1512333180351">
         <mark key="[" line="6" column="46" />
@@ -594,8 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/api-task-definition.json" />
-      <jump line="60" column="1" filename="$USER_HOME$/www/work/skorr/skorr-api/api-task-definition.json" />
       <jump line="19" column="28" filename="$USER_HOME$/www/work/skorr/skorr-api/api-task-definition.json" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/api-task-definition.json" />
       <jump line="16" column="4" filename="$USER_HOME$/www/work/skorr/skorr-api/api-task-definition.json" />
@@ -694,46 +697,48 @@
       <jump line="26" column="32" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
       <jump line="1" column="27" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
       <jump line="84" column="24" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" />
+      <jump line="31" column="12" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://staging-api-lb-515081832.eu-west-1.elb.amazonaws.com/facebook/auth</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBARklYTUU6IFRoaXMgd2lsbCBmbGlja2VyIHRoZSBhcGkgcmVzcG9uc2UK</text>
       </register>
       <register name="-" type="4">
-        <text>http://staging-api-lb-515081832.eu-west-1.elb.amazonaws.com/facebook/auth</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJpPXsnaHR0cDovL3N0YWdpbmctYXBpLWxiLTUxNTA4MTgzMi5ldS13ZXN0LTEuZWxiLmFtYXpvbmF3cy5jb20vZmFjZWJvb2svYXV0aCd9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucmVmcy53ZWJ2aWV3LmluamVjdEphdmFTY3JpcHQoanMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpbmplY3RlZEphdmFTY3JpcHQ6ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyBARklYTUU6IFRoaXMgd2lsbCBmbGlja2VyIHRoZSBhcGkgcmVzcG9uc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAod3ZzdGF0ZS5sb2FkaW5nICYmIHd2c3RhdGUudXJsLmluY2x1ZGVzKCdsb2NhbGhvc3QnKSkgewogICAgICAgICAgICAgIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbkxvYWQ6IChhc2QpID0+IHsKICAgICAgICAgICAgICAgIGNvbnNvbGUudHJvbi5sb2coJ2xvYWRlZCcpCiAgICAgICAgICAgICAgICBjb25zb2xlLnRyb24ubG9nKGFzZCkKICAgICAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucmVmcy53ZWJ2aWV3LmluamVjdEphdmFTY3JpcHQoYAogICAgICAgICAgICAgICAgICBkb2N1bWVudC5ib2R5LnN0eWxlLmNvbG9yID0gIiNGRkYiCiAgICAgICAgICAgICAgICBgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25Mb2FkPXsoYXNkKSA9PiB7CiAgICAgICAgICAgICAgY29uc29sZS50cm9uLmxvZygnbG9hZGVkJykKICAgICAgICAgICAgICBjb25zb2xlLnRyb24ubG9nKGFzZCkKICAgICAgICAgICAgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUudHJvbi5sb2cod2ViVmlld1N0YXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGpzID0gYAogICAgICAgICAgICAgICAgYAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25OYXZpZ2F0aW9uU3RhdGVDaGFuZ2U9eyh3ZWJWaWV3U3RhdGUpID0+IHsKICAgICAgICAgICAgICAvLyBjb25zb2xlLnRyb24ubG9nKHdlYlZpZXdTdGF0ZSkKICAgICAgICAgICAgICBjb25zb2xlLnRyb24ubG9nKHdlYlZpZXdTdGF0ZSkKICAgICAgICAgICAgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgd2luZG93LnBvc3RNZXNzYWdlKGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJ3ByZScpLmlubmVySFRNTCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25Mb2FkPXsoYXNkKSA9PiB7CiAgICAgICAgICAgICAgY29uc29sZS50cm9uLmxvZygnbG9hZGVkJykKICAgICAgICAgICAgICBjb25zb2xlLnRyb24ubG9nKGFzZCkKICAgICAgICAgICAgfX0KICAgICAgICAgICAgb25OYXZpZ2F0aW9uU3RhdGVDaGFuZ2U9eyh3ZWJWaWV3U3RhdGUpID0+IHsKICAgICAgICAgICAgICAvLyBjb25zb2xlLnRyb24ubG9nKHdlYlZpZXdTdGF0ZSkKICAgICAgICAgICAgICBjb25zb2xlLnRyb24ubG9nKHdlYlZpZXdTdGF0ZSkKICAgICAgICAgICAgfX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25NZXNzYWdlPXsoe25hdGl2ZUV2ZW50OiBkYXRhfSkgPT4gewogICAgICAgICAgICAgIGNvbnNvbGUudHJvbi5sb2coZGF0YSkKICAgICAgICAgICAgfX0K</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
