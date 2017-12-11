@@ -3,18 +3,37 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Onboarding/OnboardingSagas.js" timestamp="1512992965344">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Onboarding/OnboardingSagas.js" timestamp="1512994494706">
         <mark key="'" line="60" column="2" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/OnboardingRedux.js" timestamp="1512990651312" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" timestamp="1512932048841">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/OnboardingRedux.js" timestamp="1512994931609">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="33" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/api-task-definition.json" timestamp="1512590684077">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" timestamp="1512995783764">
+        <mark key="'" line="4" column="35" />
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="83" column="63" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/MainEnv.kt" timestamp="1512591408629">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="14" column="38" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" timestamp="1512990430484">
         <mark key="[" line="59" column="29" />
@@ -22,11 +41,60 @@
         <mark key="." line="59" column="28" />
         <mark key="^" line="59" column="28" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" timestamp="1512992779831">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" timestamp="1512994520435">
         <mark key="[" line="38" column="16" />
         <mark key="]" line="38" column="16" />
         <mark key="." line="38" column="16" />
         <mark key="^" line="30" column="8" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/build.gradle" timestamp="1512486632792">
+        <mark key="'" line="43" column="3" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="42" />
+        <mark key="." line="44" column="64" />
+        <mark key="^" line="44" column="64" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookConstants.kt" timestamp="1512689271773">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="53" />
+        <mark key="." line="19" column="53" />
+        <mark key="^" line="19" column="53" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" timestamp="1512639633059">
+        <mark key="'" line="65" column="8" />
+        <mark key="[" line="47" column="13" />
+        <mark key="]" line="47" column="13" />
+        <mark key="." line="47" column="13" />
+        <mark key="^" line="29" column="22" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookService.kt" timestamp="1512561013358">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="51" column="18" />
+        <mark key="]" line="51" column="30" />
+        <mark key="^" line="51" column="30" />
+        <mark key="." line="51" column="30" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/ecs-task-definition.prod.json" timestamp="1512592707905">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="13" column="29" />
+        <mark key="^" line="13" column="29" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/ecs-task-definition.dev.json" timestamp="1512594294358">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="17" column="72" />
+        <mark key="]" line="17" column="72" />
+        <mark key="." line="17" column="72" />
+        <mark key="^" line="17" column="73" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" timestamp="1512646204712">
+        <mark key="'" line="55" column="30" />
+        <mark key="[" line="54" column="31" />
+        <mark key="]" line="54" column="32" />
+        <mark key="^" line="18" column="81" />
+        <mark key="." line="54" column="32" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/FacebookGraphApi.js" timestamp="1512988862447">
         <mark key="'" line="3" column="0" />
@@ -48,17 +116,31 @@
         <mark key="." line="10" column="58" />
         <mark key="^" line="10" column="58" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/index.js" timestamp="1512995700121">
+        <mark key="'" line="62" column="13" />
+        <mark key="[" line="30" column="20" />
+        <mark key="]" line="30" column="20" />
+        <mark key="." line="30" column="20" />
+        <mark key="^" line="63" column="13" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/impl/facebook/FacebookController.kt" timestamp="1512510167310">
+        <mark key="'" line="19" column="14" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="31" column="17" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="19" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/PokemonRedux.js" timestamp="1512990941374">
         <mark key="[" line="13" column="48" />
         <mark key="]" line="13" column="48" />
         <mark key="." line="13" column="48" />
         <mark key="^" line="13" column="48" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" timestamp="1512992933323">
-        <mark key="'" line="17" column="36" />
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="36" />
-        <mark key="." line="17" column="36" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" timestamp="1512994560142">
+        <mark key="'" line="1" column="34" />
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
         <mark key="^" line="17" column="36" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/ScreenTrackingMiddleware.js" timestamp="1512991738631">
@@ -66,6 +148,20 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/Application.kt" timestamp="1512482797363">
+        <mark key="'" line="10" column="25" />
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="38" />
+        <mark key="^" line="20" column="38" />
+        <mark key="." line="20" column="38" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" timestamp="1512592880751">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="26" column="41" />
+        <mark key="]" line="26" column="40" />
+        <mark key="." line="26" column="40" />
+        <mark key="^" line="26" column="40" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingCardsScreen/OnboardingCardsScreen.js" timestamp="1512991404664">
         <mark key="'" line="18" column="31" />
@@ -77,6 +173,12 @@
         <mark key="^" line="6" column="14" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/NavigationRedux.js" timestamp="1512990633211" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/ApplicationRouter.kt" timestamp="1512994547985">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="23" column="13" />
+        <mark key="." line="23" column="13" />
+        <mark key="^" line="23" column="13" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookController.kt" timestamp="1512981159947">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="28" column="39" />
@@ -89,33 +191,35 @@
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/PrimaryNavigator.js" timestamp="1512990414060" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/java/com/skorr/modules/accounts/AccountsModule.java" timestamp="1512991694865" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" timestamp="1512992270467">
-        <mark key="'" line="6" column="71" />
-        <mark key="[" line="91" column="16" />
-        <mark key="]" line="91" column="16" />
-        <mark key="." line="91" column="16" />
-        <mark key="^" line="132" column="12" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-auth-api/src/main/kotlin/social/skorr/auth/AppModule.kt" timestamp="1512484926594">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+        <mark key="^" line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/FacebookSagas.js" timestamp="1512990314169">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" timestamp="1512995794574">
+        <mark key="'" line="6" column="71" />
+        <mark key="[" line="101" column="45" />
+        <mark key="]" line="101" column="45" />
+        <mark key="." line="101" column="45" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1512932363764">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="61" column="47" />
+        <mark key="]" line="62" column="54" />
+        <mark key="." line="62" column="54" />
+        <mark key="^" line="62" column="54" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/FacebookSagas.js" timestamp="1512994918378">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="23" column="40" />
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="9" />
+        <mark key="." line="19" column="9" />
+        <mark key="^" line="19" column="9" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
-      <jump line="30" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
-      <jump line="32" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
-      <jump line="7" column="55" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookConstants.kt" />
-      <jump line="17" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
-      <jump line="8" column="16" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
-      <jump line="28" column="38" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
-      <jump line="10" column="4" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookConstants.kt" />
-      <jump line="22" column="4" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
       <jump line="27" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
       <jump line="17" column="72" filename="$USER_HOME$/www/work/skorr/skorr-api/ecs-task-definition.dev.json" />
       <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/ecs-task-definition.dev.json" />
@@ -158,14 +262,12 @@
       <jump line="55" column="30" filename="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" />
       <jump line="12" column="2" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
       <jump line="11" column="4" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
-      <jump line="4" column="35" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
       <jump line="33" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
       <jump line="9" column="11" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
       <jump line="61" column="12" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/index.js" />
       <jump line="31" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/index.js" />
       <jump line="62" column="13" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/index.js" />
       <jump line="7" column="61" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" />
-      <jump line="18" column="2" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
       <jump line="25" column="10" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
       <jump line="22" column="17" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
       <jump line="32" column="10" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
@@ -205,46 +307,59 @@
       <jump line="0" column="34" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" />
       <jump line="60" column="2" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Onboarding/OnboardingSagas.js" />
       <jump line="17" column="36" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" />
+      <jump line="1" column="34" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/FacebookSagas.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
+      <jump line="81" column="71" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
+      <jump line="79" column="54" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
+      <jump line="37" column="2" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
+      <jump line="97" column="14" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
+      <jump line="99" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
+      <jump line="3" column="24" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
+      <jump line="98" column="15" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
+      <jump line="4" column="35" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNldFN0YXR1c2JhckxpZ2h0ID0gKHN0YXRlKSA9PiBzdGF0ZS5tZXJnZSh7CiAgLi4uc3RhdGUsCiAgc3RhdHVzQmFyQ29udGVudDogJ2xpZ2h0LWNvbnRlbnQnCn0pCg==</text>
+      <register name="0" type="4">
+        <text>http://staging-api-lb-515081832.eu-west-1.elb.amazonaws.com/facebook/auth</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdG9rZW5IYW5kbGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRva2VuSGFuZGxlcjogKG1lc3NhZ2UsIG5ldHdvcmspID0+IHsKICAgICAgY29uc3QgewogICAgICAgIGxvZ2luRmFjZWJvb2sKICAgICAgfSA9IHRoaXMucHJvcHMKCiAgICAgIGNvbnN0IHRva2VuID0gbWVzc2FnZS5kYXRhCgogICAgICBjb25zb2xlLnRyb24ubG9nKHRva2VuKQoKICAgICAgaWYgKHRva2VuKSB7CiAgICAgICAgc3dpdGNoIChuZXR3b3JrKSB7CiAgICAgICAgICBjYXNlICdmYWNlYm9vayc6CiAgICAgICAgICAgIGxvZ2luRmFjZWJvb2sodG9rZW4pCiAgICAgICAgICAgIGJyZWFrCiAgICAgICAgfQogICAgICB9CgogICAgICB0aGlzLmNsb3NlTW9kYWwoKQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRha2UK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgV2Vidmlld01vZGFsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRha2VFdmVyeQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXR3b3JrLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhcHBQcmVmZXJlbmNlczogcmVxdWlyZSgnLi9hcHBwcmVmZXJlbnNyZWR1eCcpLnJlZHVjZXIK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGhhbmRsZUxvZ2luID0gKHsgbmF0aXZlRXZlbnQ6IGRhdGEgfSkgPT4gewogICAgICBjb25zdCB0b2tlbiA9IGRhdGEuZGF0YQoKICAgICAgY29uc29sZS50cm9uLmxvZyh0b2tlbikKCiAgICAgIGlmICh0b2tlbikgewogICAgICAgIHN3aXRjaCAobmV0d29yaykgewogICAgICAgICAgY2FzZSAnZmFjZWJvb2snOgogICAgICAgICAgICBsb2dpbkZhY2Vib29rKHRva2VuKQogICAgICAgICAgICBicmVhawogICAgICAgIH0KICAgICAgfQoKICAgICAgdGhpcy5jbG9zZU1vZGFsKCkKICAgIH0KCiAgICBjb25zdCB7CiAgICAgIGxvZ2luRmFjZWJvb2sKICAgIH0gPSB0aGlzLnByb3BzCgogICAgc3dpdGNoIChuZXR3b3JrKSB7CiAgICAgIGNhc2UgbnVsbDoKICAgICAgICByZXR1cm4gbnVsbAogICAgICBjYXNlICdmYWNlYm9vayc6CiAgICAgIGRlZmF1bHQ6CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS50cm9uLmxvZyhnZXRTdGF0ZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKAogICAgICAgICAgPFdlYnZpZXdNb2RhbCBuZXR3b3JrPXtuZXR3b3JrfSAvPgogICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgc3RhdHVzQmFyTmF0aXZlID0gTmF0aXZlTW9kdWxlcy5TdGF0cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV0d29yaz17bmV0d29ya30KICAgICAgICAgICAgLy8gdXJpPXsnaHR0cDovL3N0YWdpbmctYXBpLWxiLTUxNTA4MTgzMi5ldS13ZXN0LTEuZWxiLmFtYXpvbmF3cy5jb20vZmFjZWJvb2svYXV0aCd9CiAgICAgICAgICAgIHVyaT17J2h0dHA6Ly9sb2NhbGhvc3Q6NDU2Ny9mYWNlYm9vay9hdXRoJ30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
