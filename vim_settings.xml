@@ -4,12 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/I18n/languages/english.json" timestamp="1513161853119" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/ProfileScreen/ProfileScreen.js" timestamp="1513096086193">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/ProfileScreen/ProfileScreen.js" timestamp="1513166250458">
         <mark key="'" line="8" column="43" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="14" column="1" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/PokemonRedux.js" timestamp="1513157147278">
         <mark key="[" line="54" column="53" />
@@ -42,12 +41,12 @@
         <mark key="." line="7" column="48" />
         <mark key="^" line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Onboarding/OnboardingSagas.js" timestamp="1513161671955">
-        <mark key="'" line="69" column="2" />
-        <mark key="[" line="45" column="62" />
-        <mark key="]" line="45" column="88" />
-        <mark key="." line="45" column="88" />
-        <mark key="^" line="45" column="88" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Onboarding/OnboardingSagas.js" timestamp="1513165350665">
+        <mark key="'" line="68" column="2" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="43" column="7" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/ApplicationRouter.kt" timestamp="1513085719648">
         <mark key="[" line="11" column="10" />
@@ -55,16 +54,12 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/OnboardingRedux.js" timestamp="1513161275373">
-        <mark key="[" line="72" column="10" />
-        <mark key="]" line="72" column="10" />
-        <mark key="." line="72" column="10" />
-        <mark key="^" line="72" column="10" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookRouter.kt" timestamp="1513080611984">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/OnboardingRedux.js" timestamp="1513164236561">
+        <mark key="'" line="75" column="61" />
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="22" />
+        <mark key="." line="26" column="22" />
+        <mark key="^" line="26" column="22" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/README.md" timestamp="1513096528525">
         <mark key="[" line="3" column="85" />
@@ -102,16 +97,17 @@
         <mark key="." line="22" column="36" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/Forms/SkorrInput.js" timestamp="1513095728413">
-        <mark key="[" line="128" column="25" />
-        <mark key="]" line="128" column="25" />
-        <mark key="." line="128" column="25" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1513162267697">
+      <file name="/Dummy.txt" timestamp="1513163912636">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" timestamp="1513095074776">
         <mark key="[" line="1" column="71" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/PrimaryNavigator.js" timestamp="1513166258525">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" timestamp="1513161109894">
         <mark key="'" line="118" column="13" />
@@ -147,18 +143,20 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="64" column="14" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" timestamp="1513165492857">
+        <mark key="'" line="15" column="37" />
+        <mark key="[" line="28" column="56" />
+        <mark key="]" line="28" column="60" />
+        <mark key="." line="28" column="60" />
+        <mark key="^" line="28" column="60" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" timestamp="1513159816642" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" timestamp="1513161261266">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" timestamp="1513165377422">
         <mark key="'" line="75" column="1" />
         <mark key="[" line="79" column="1" />
         <mark key="]" line="79" column="1" />
         <mark key="." line="79" column="1" />
         <mark key="^" line="73" column="10" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ModalPicker/ModalPicker.js" timestamp="1513095602332">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/ImmutablePersistenceTransform.js" timestamp="1513092858624">
         <mark key="[" line="17" column="18" />
@@ -186,22 +184,18 @@
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" timestamp="1513162258137">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" timestamp="1513166296260">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
         <mark key="^" line="49" column="18" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingInfoScreen/OnboardingInfoScreen.js" timestamp="1513096195491">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingCardsScreen/OnboardingCardsScreen.js" timestamp="1513162312449">
-        <mark key="[" line="218" column="34" />
-        <mark key="]" line="218" column="58" />
-        <mark key="." line="218" column="58" />
-        <mark key="^" line="218" column="58" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingCardsScreen/OnboardingCardsScreen.js" timestamp="1513166381514">
+        <mark key="'" line="277" column="32" />
+        <mark key="[" line="220" column="59" />
+        <mark key="]" line="220" column="59" />
+        <mark key="." line="220" column="59" />
+        <mark key="^" line="220" column="96" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/FacebookSagas.js" timestamp="1513161270887">
         <mark key="'" line="23" column="0" />
@@ -211,18 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="15" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
-      <jump line="41" column="5" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" />
-      <jump line="1" column="34" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" />
-      <jump line="38" column="26" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" />
-      <jump line="18" column="79" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" />
-      <jump line="72" column="18" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingInfoScreen/OnboardingInfoScreen.js" />
-      <jump line="7" column="16" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" />
-      <jump line="6" column="27" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" />
-      <jump line="35" column="15" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" />
-      <jump line="11" column="1" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" />
-      <jump line="31" column="12" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" />
       <jump line="34" column="17" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" />
       <jump line="63" column="29" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" />
@@ -275,7 +257,6 @@
       <jump line="119" column="13" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
       <jump line="62" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
       <jump line="89" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
-      <jump line="11" column="35" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
       <jump line="65" column="29" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
       <jump line="82" column="24" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
       <jump line="8" column="2" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/RehydrationServices.js" />
@@ -311,46 +292,59 @@
       <jump line="28" column="27" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/CreateStore.js" />
       <jump line="13" column="17" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Config/ReactotronConfig.js" />
       <jump line="46" column="13" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" />
+      <jump line="54" column="26" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingCardsScreen/OnboardingCardsScreen.js" />
+      <jump line="9" column="28" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/OnboardingRedux.js" />
+      <jump line="74" column="61" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/OnboardingRedux.js" />
+      <jump line="31" column="7" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingCardsScreen/OnboardingCardsScreen.js" />
+      <jump line="334" column="2" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingCardsScreen/OnboardingCardsScreen.js" />
+      <jump line="106" column="25" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
+      <jump line="11" column="15" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
+      <jump line="115" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
+      <jump line="19" column="16" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
+      <jump line="112" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
+      <jump line="15" column="37" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/OnboardingNavigator.js" />
+      <jump line="277" column="32" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingCardsScreen/OnboardingCardsScreen.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>registeredNetworks.length</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGF3YWl0IEFzeW5jU3RvcmFnZS5zZXRJdGVtKG1haW5FbWFpbEFkZHJlc3MsIGVtYWlsKQo=</text>
+        <text encoding="base64">ICBQcm9maWxlOiB7CiAgICBzY3JlZW46IFByb2ZpbGVTY3JlZW4KICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBQcm9maWxlMjogewogICAgc2NyZWVuOiBQcm9maWxlU2NyZWVuCiAgfSwKICBQcm9maWxlMzogewogICAgc2NyZWVuOiBQcm9maWxlU2NyZWVuCiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICgpIHsKICAgIH0K</text>
+        <text encoding="base64">ICB9LAogIFByb2ZpbGUyOiB7CiAgICBzY3JlZW46IFByb2ZpbGVTY3JlZW4KICB9LAogIFByb2ZpbGUzOiB7CiAgICBzY3JlZW46IFByb2ZpbGVTY3JlZW4KICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICdQcm9maWxlMicsCiAgICAnUHJvZmlsZTMnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICB0YWJCYXJQb3NpdGlvbjogJ2JvdHRvbScsCiAgdGFiQmFyT3B0aW9uczogewogICAgc2hvd0xhYmVsOiBmYWxzZQogIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZmV0Y2hpbmcK</text>
+        <text encoding="base64">ICBzdGF0aWMgbmF2aWdhdGlvbk9wdGlvbnMgPSB7CiAgICB0YWJCYXJJY29uOiAoeyB0aW50Q29sb3IgfSkgPT4gewogICAgICAKICAgIH0KICB9CiAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChmZXRjaGluZykgewogICAgICByZXR1cm4gbnVsbAogICAgfQoK</text>
+        <text encoding="base64">CmltcG9ydCAgZnJvbSAnLi4vLi4vLi4vTGliJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcj17dGludENvbG9yfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgU2tvcnJJY29uIH0gZnJvbSAnLi4vLi4vLi4vTGliJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgU2tvcnJJY29uIAo=</text>
       </register>
       <register name=":" type="4">
         <text>69</text>
