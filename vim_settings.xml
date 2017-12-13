@@ -36,6 +36,11 @@
         <mark key="]" line="3" column="51" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/package.json" timestamp="1513179429177" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/RoundedButton/RoundedButton.js" timestamp="1513180159033">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.gitattributes" timestamp="1513094418015">
         <mark key="[" line="1" column="19" />
       </file>
@@ -44,7 +49,7 @@
         <mark key="]" line="128" column="25" />
         <mark key="." line="128" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513179234229">
+      <file name="/Dummy.txt" timestamp="1513180150344">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" timestamp="1513095074776">
@@ -78,10 +83,10 @@
         <mark key="." line="87" column="24" />
         <mark key="^" line="87" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ModalPicker/ModalPicker.js" timestamp="1513179032975">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ModalPicker/ModalPicker.js" timestamp="1513180174544">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" timestamp="1513166296260">
         <mark key="[" line="48" column="0" />
@@ -93,6 +98,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ElevatedButton/ElevatedButton.js" timestamp="1513180177103">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/AuthSagas.js" timestamp="1513178506217">
         <mark key="'" line="6" column="7" />
@@ -213,7 +223,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXR1cm4gPDwvUk4+Cg==</text>
+        <text encoding="base64">ICBzdHlsZTogVmlldy5wcm9wVHlwZXMuc3R5bGUsCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -225,28 +235,28 @@
         <text encoding="base64">aW1wb3J0IHsgTmF2aWdhdGlvbkFjdGlvbnMgfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gPDwvUk4+Cg==</text>
+        <text encoding="base64">ICBzdHlsZTogVmlldy5wcm9wVHlwZXMuc3R5bGUsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBvdmVybGF5U3R5bGU6IFZpZXcucHJvcFR5cGVzLnN0eWxlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IE5hdmlnYXRpb25BY3Rpb25zIGZyb20gCg==</text>
+        <text encoding="base64">ICBjYW5jZWxTdHlsZTogVmlldy5wcm9wVHlwZXMuc3R5bGUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IH0K</text>
+        <text encoding="base64">ICBvcHRpb25TdHlsZTogVmlldy5wcm9wVHlwZXMuc3R5bGUsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBzZWxlY3RUZXh0U3R5bGU6IFZpZXcucHJvcFR5cGVzLnN0eWxlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsb2dvdXQgPSAoKSA9PiB7CgogIH0KCg==</text>
+        <text encoding="base64">ICBzdHlsZTogVmlldy5wcm9wVHlwZXMuc3R5bGUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWw9e0kxOG4udCgncHJvZmlsZS5wcm9maWxlX2FjdGlvbnMuc2V0dGluZ3MnKX0K</text>
+        <text encoding="base64">ICAgIHN0eWxlOiBWaWV3LnByb3BUeXBlcy5zdHlsZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWNvbj0nc2V0dGluZ3MnCg==</text>
+        <text encoding="base64">ICByZXR1cm4gPDwvUk4+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAK</text>
