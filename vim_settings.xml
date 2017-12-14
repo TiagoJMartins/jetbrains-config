@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/build.gradle" timestamp="1513245349299">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/build.gradle" timestamp="1513264707484">
         <mark key="[" line="108" column="26" />
         <mark key="]" line="108" column="27" />
         <mark key="." line="108" column="27" />
@@ -14,12 +14,11 @@
         <mark key="." line="54" column="52" />
         <mark key="^" line="54" column="52" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/AndroidManifest.xml" timestamp="1513258072408">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/AndroidManifest.xml" timestamp="1513266758799">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/ios/Skorr/Info.plist" timestamp="1513251785015" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/DeckSwiper/DeckSwiper.js" timestamp="1513174717353">
         <mark key="[" line="389" column="29" />
         <mark key="]" line="389" column="33" />
@@ -49,14 +48,15 @@
         <mark key="]" line="128" column="25" />
         <mark key="." line="128" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513248537176">
+      <file name="/Dummy.txt" timestamp="1513267486918">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" timestamp="1513243711663">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" timestamp="1513267195511">
+        <mark key="'" line="1" column="48" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="68" column="14" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/PrimaryNavigator.js" timestamp="1513172405398">
         <mark key="[" line="16" column="3" />
@@ -143,7 +143,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/FacebookSagas.js" timestamp="1513260303241">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/FacebookSagas.js" timestamp="1513263412306">
         <mark key="'" line="38" column="4" />
         <mark key="[" line="57" column="66" />
         <mark key="]" line="59" column="12" />
@@ -152,11 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingCardsScreen/OnboardingCardsScreen.js" />
-      <jump line="236" column="41" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingCardsScreen/OnboardingCardsScreen.js" />
-      <jump line="15" column="27" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Config/AppConfig.js" />
-      <jump line="17" column="24" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
-      <jump line="96" column="29" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
       <jump line="95" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
       <jump line="104" column="30" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
       <jump line="62" column="23" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/WebviewModal/WebviewModal.js" />
@@ -252,46 +247,55 @@
       <jump line="181" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" />
       <jump line="342" column="21" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingCardsScreen/OnboardingCardsScreen.js" />
       <jump line="12" column="71" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingCardsScreen/OnboardingCardsScreen.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" />
+      <jump line="16" column="48" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" />
+      <jump line="59" column="28" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" />
+      <jump line="58" column="27" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" />
+      <jump line="1" column="48" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLandingScreen/OnboardingLandingScreen.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>me</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgdGhpcy5zdGFydCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>me</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IE9uYm9hcmRpbmdBY3Rpb25zIGZyb20gJy4uLy4uLy4uLy4uL1JlZHV4L09uYm9hcmRpbmdSZWR1eCcK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXJ0KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICByZXR1cm4K</text>
+        <text encoding="base64">CiAgICAgICAgdGhpcy5zdGFydCgpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>else {
+      this.start()
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybgoK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2codG9rZW5SZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZ3JhbnRlZCA9PT0gUGVybWlzc2lvbnNBbmRyb2lkLlJFU1VMVFMuR1JBTlRFRCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldXRybgo=</text>
+        <text encoding="base64">CiAgICAgICAgY29uc29sZS50cm9uLmxvZyhncmFudGVkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLnRyb24ubG9nKGUsIHRydWUpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uU1lTVEVNX0FMRVJUX1dJTkRPVyIvPgo=</text>
+      <register name="8" type="4">
+        <text>else {
+          console.tron.log('not granted')
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgLi4udGhpcy5zdGF0ZSwKICAgICAgdmlzaWJsZU1vZGFsOiBuZXR3b3Jrc1tjYXJkXS5uZXR3b3JrCiAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUudHJvbi5sb2coJ2dyYW50ZWQnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>144</text>
