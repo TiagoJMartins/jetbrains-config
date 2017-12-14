@@ -14,7 +14,7 @@
         <mark key="." line="54" column="52" />
         <mark key="^" line="54" column="52" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/AndroidManifest.xml" timestamp="1513251945257">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/AndroidManifest.xml" timestamp="1513258072408">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -90,12 +90,12 @@
         <mark key="." line="66" column="30" />
         <mark key="^" line="66" column="49" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" timestamp="1513249055495">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" timestamp="1513259322800">
         <mark key="'" line="10" column="20" />
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="10" column="20" />
+        <mark key="[" line="71" column="16" />
+        <mark key="]" line="71" column="18" />
+        <mark key="." line="71" column="18" />
+        <mark key="^" line="71" column="18" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ModalPicker/ModalPicker.js" timestamp="1513180174544">
         <mark key="[" line="22" column="0" />
@@ -143,12 +143,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/FacebookSagas.js" timestamp="1513249933650">
-        <mark key="'" line="34" column="4" />
-        <mark key="[" line="32" column="46" />
-        <mark key="]" line="32" column="46" />
-        <mark key="." line="32" column="46" />
-        <mark key="^" line="28" column="40" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/FacebookSagas.js" timestamp="1513259364367">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="57" column="66" />
+        <mark key="]" line="59" column="12" />
+        <mark key="." line="59" column="12" />
+        <mark key="^" line="59" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -254,11 +254,11 @@
       <jump line="12" column="71" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingCardsScreen/OnboardingCardsScreen.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>me</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>me</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -267,31 +267,31 @@
         <text encoding="base64">aW1wb3J0IE9uYm9hcmRpbmdBY3Rpb25zIGZyb20gJy4uLy4uLy4uLy4uL1JlZHV4L09uYm9hcmRpbmdSZWR1eCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uU1lTVEVNX0FMRVJUX1dJTkRPVyIvPgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgLi4udGhpcy5zdGF0ZSwKICAgICAgdmlzaWJsZU1vZGFsOiBuZXR3b3Jrc1tjYXJkXS5uZXR3b3JrCiAgICB9KQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdDoKICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBuZXR3b3JrIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybgoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2codG9rZW5SZXN1bHQpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJldXRybgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDx1c2VzLXBlcm1pc3Npb24gYW5kcm9pZDpuYW1lPSJhbmRyb2lkLnBlcm1pc3Npb24uU1lTVEVNX0FMRVJUX1dJTkRPVyIvPgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaCAoKQoK</text>
+        <text encoding="base64">CiAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgLi4udGhpcy5zdGF0ZSwKICAgICAgdmlzaWJsZU1vZGFsOiBuZXR3b3Jrc1tjYXJkXS5uZXR3b3JrCiAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>144</text>
