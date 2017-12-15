@@ -106,11 +106,11 @@
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" timestamp="1513251618718">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingInfoScreen/OnboardingInfoScreen.js" timestamp="1513272603443">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingInfoScreen/OnboardingInfoScreen.js" timestamp="1513328225253">
         <mark key="'" line="195" column="5" />
-        <mark key="[" line="207" column="14" />
-        <mark key="]" line="207" column="14" />
-        <mark key="." line="207" column="14" />
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
         <mark key="^" line="207" column="54" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/AuthSagas.js" timestamp="1513178506217">
@@ -246,8 +246,8 @@
       <jump line="196" column="5" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingInfoScreen/OnboardingInfoScreen.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgY291bnRyeVNwbGl0ID0gJ0ZhbWFsaWPDo28sIEJyYWdhLCBQb3J0dWdhbCcuc3BsaXQoJywgJykK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -259,22 +259,22 @@
         <text encoding="base64">ICBsZXQgY291bnRyeVNwbGl0ID0gZmFjZWJvb2subWUubG9jYXRpb24ubmFtZS5zcGxpdCgnLCAnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CiAgY291bnRyeVNwbGl0ID0gJ0ZhbWFsaWPDo28sIEJyYWdhLCBQb3J0dWdhbCcuc3BsaXQoJywgJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb3VudHJ5U3BsaXQgPSBbXQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb3VudHJ5U3BsaXQgPSBbXQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBpZiAoCiAgICAgIG5leHRQcm9wcy5yZWdpc3RlcmVkTmV0d29ya3MubGVuZ3RoICE9PSB0aGlzLnByb3BzLnJlZ2lzdGVyZWROZXR3b3Jrcy5sZW5ndGgKICAgICAgJiYgbmV4dFByb3BzLnJlZ2lzdGVyZWROZXR3b3Jrcy5sZW5ndGggIT09IDAKICAgICkgewogICAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CiAgICBpZiAoCiAgICAgIG5leHRQcm9wcy5yZWdpc3RlcmVkTmV0d29ya3MubGVuZ3RoICE9PSB0aGlzLnByb3BzLnJlZ2lzdGVyZWROZXR3b3Jrcy5sZW5ndGgKICAgICAgJiYgbmV4dFByb3BzLnJlZ2lzdGVyZWROZXR3b3Jrcy5sZW5ndGggIT09IDAKICAgICkgewogICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
