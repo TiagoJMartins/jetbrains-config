@@ -33,12 +33,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d1aa1ee5-d520-423c-874f-bec8ce0623d3/console.sql" timestamp="1513510795958">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserSignupController.kt" timestamp="1513588314337">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserSignupController.kt" timestamp="1513595995315">
         <mark key="'" line="26" column="22" />
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
-        <mark key="^" line="16" column="14" />
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="36" />
+        <mark key="." line="16" column="36" />
+        <mark key="^" line="16" column="36" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/DeckSwiper/DeckSwiper.js" timestamp="1513174717353">
         <mark key="[" line="389" column="29" />
@@ -328,11 +328,11 @@
       <jump line="9" column="13" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+      <register name="&quot;" type="4">
+        <text>toJson</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>toJson</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
