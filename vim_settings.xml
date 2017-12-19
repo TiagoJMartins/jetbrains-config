@@ -206,12 +206,12 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/SocialTokenDAOImpl.kt" timestamp="1513680727476">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/SocialTokenDAOImpl.kt" timestamp="1513680783229">
         <mark key="'" line="9" column="43" />
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="23" />
-        <mark key="." line="14" column="23" />
-        <mark key="^" line="14" column="23" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="30" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ElevatedButton/ElevatedButton.js" timestamp="1513243738469">
         <mark key="[" line="16" column="37" />
@@ -363,11 +363,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserController.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFzZAo=</text>
+      <register name="&quot;" type="4">
+        <text>existingSt</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>existingSt</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
