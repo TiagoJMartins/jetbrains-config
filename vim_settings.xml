@@ -94,11 +94,11 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/ecs-task-definition.staging.json" timestamp="1513696394551">
-        <mark key="[" line="22" column="9" />
-        <mark key="]" line="22" column="9" />
-        <mark key="." line="22" column="9" />
-        <mark key="^" line="20" column="28" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/ecs-task-definition.staging.json" timestamp="1513697131885">
+        <mark key="[" line="25" column="19" />
+        <mark key="]" line="25" column="19" />
+        <mark key="." line="25" column="19" />
+        <mark key="^" line="25" column="25" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/settings.gradle" timestamp="1513587726109">
         <mark key="[" line="1" column="0" />
@@ -376,10 +376,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
