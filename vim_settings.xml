@@ -99,12 +99,12 @@
       <file name="/a.sql" timestamp="1513512301770">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" timestamp="1513774255216">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" timestamp="1513783637723">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="62" column="48" />
-        <mark key="]" line="62" column="70" />
-        <mark key="." line="62" column="70" />
-        <mark key="^" line="62" column="70" />
+        <mark key="[" line="59" column="31" />
+        <mark key="]" line="59" column="31" />
+        <mark key="." line="59" column="49" />
+        <mark key="^" line="58" column="26" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookRouter.kt" timestamp="1513080611984">
         <mark key="[" line="13" column="0" />
@@ -163,12 +163,12 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/ecs-task-definition.staging.json" timestamp="1513698924041">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/ecs-task-definition.staging.json" timestamp="1513783619531">
         <mark key="'" line="22" column="9" />
-        <mark key="[" line="21" column="30" />
-        <mark key="]" line="21" column="30" />
-        <mark key="." line="21" column="30" />
-        <mark key="^" line="25" column="25" />
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="28" />
+        <mark key="." line="41" column="28" />
+        <mark key="^" line="41" column="28" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/settings.gradle" timestamp="1513587726109">
         <mark key="[" line="1" column="0" />
@@ -233,30 +233,26 @@
         <mark key="]" line="201" column="0" />
         <mark key="." line="201" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserController.kt" timestamp="1513773094049">
-        <mark key="'" line="124" column="18" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="54" column="10" />
-        <mark key="." line="160" column="0" />
-        <mark key="^" line="162" column="19" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserController.kt" timestamp="1513784065802">
+        <mark key="s" line="51" column="24" />
+        <mark key="'" line="44" column="42" />
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="46" column="42" />
+        <mark key="." line="46" column="42" />
+        <mark key="^" line="46" column="42" />
       </file>
       <file name="/fragment.java" timestamp="1513610501269">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1513774544243">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="65" column="47" />
-        <mark key="]" line="66" column="15" />
-        <mark key="." line="66" column="15" />
-        <mark key="^" line="66" column="15" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1513783642229">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="64" column="79" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" />
-      <jump line="110" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" />
-      <jump line="45" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" />
-      <jump line="38" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" />
       <jump line="68" column="42" filename="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" />
       <jump line="28" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" />
       <jump line="25" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" />
@@ -343,55 +339,60 @@
       <jump line="44" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
       <jump line="23" column="9" filename="$USER_HOME$/www/work/skorr/skorr-api/ecs-task-definition.staging.json" />
       <jump line="10" column="17" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserRouter.kt" />
-      <jump line="51" column="10" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserController.kt" />
       <jump line="120" column="18" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserController.kt" />
       <jump line="88" column="43" filename="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" />
       <jump line="36" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
       <jump line="9" column="35" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
       <jump line="62" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" />
       <jump line="58" column="4" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
-      <jump line="2" column="8" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
+      <jump line="51" column="7" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserController.kt" />
+      <jump line="40" column="15" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserController.kt" />
+      <jump line="55" column="30" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
+      <jump line="59" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
+      <jump line="44" column="42" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserController.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>RABBIT_QUEUE</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>RABBIT_QUEUE</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBSQUJCSVRfUEFTU1dPUkQ6IFN0cmluZwogICAgZ2V0KCkgPSBTeXN0ZW0uZ2V0ZW52KCJSQUJCSVRfUEFTU1dPUkQiKSA/OiAiZ3Vlc3QiCg==</text>
+        <text encoding="base64">ICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICJuYW1lIjogIlJBQkJJVF9QQVNTV09SRCIsCiAgICAgICAgICAidmFsdWUiOiAic3RhZ2luZyIKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW4uZXhjaGFuZ2VEZWNsYXJlKFJBQkJJVF9FWENIQU5HRSwgImRpcmVjdCIsIHRydWUpCgogICAgICAgICAgICAgICAgY2hhbgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW4uZXhjaGFuZ2VEZWNsYXJlKFJBQkJJVF9FWENIQU5HRSwgImRpcmVjdCIsIHRydWUpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW4ucXVldWVCaW5kKFJBQkJJVF9RVUVVRSwgUkFCQklUX0VYQ0hBTkdFKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYW4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yYWJiaXRtcS5jbGllbnQuQ2hhbm5lbAppbXBvcnQgY29tLnJhYmJpdG1xLmNsaWVudC5Db25uZWN0aW9uRmFjdG9yeQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZDxDaGFubmVsPigpIHdpdGggc2luZ2xldG9uIHsgIH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhY3RvcnkuaG9zdCA9IFJBQkJJVF9IT1NUCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCBSQUJCSVRfRVhDSEFOR0U6IFN0cmluZwogICAgICAgIGdldCgpID0gU3lzdGVtLmdldGVudigiUkFCQklUX0VYQ0hBTkdFIikgPzogIk5vRXhjaGFuZ2VTZWxlY3RlZCIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oIndvb3AsIHNvY2lhbHRva2VucyBjcmVhdGVkIikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBjaGFubmVsLmJhc2ljUHVibGlzaCgKICAgICAgICAgICAgICAgICAgICAiIiwKICAgICAgICAgICAgICAgICAgICBSQUJCSVRfUVVFVUUsCiAgICAgICAgICAgICAgICAgICAgbnVsbCwKICAgICAgICAgICAgICAgICAgICAiYXNkIi50b0J5dGVBcnJheSgpCiAgICAgICAgICAgICAgICApCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgY29uc3QgdmFsIERFRkFVTFRfUkFCQklUCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBQYWlyCg==</text>
       </register>
       <register name=":" type="4">
         <text>22</text>
