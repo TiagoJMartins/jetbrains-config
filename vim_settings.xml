@@ -244,12 +244,12 @@
       <file name="/fragment.java" timestamp="1513610501269">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1513783642229">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1513786044443">
         <mark key="'" line="63" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-        <mark key="^" line="64" column="79" />
+        <mark key="[" line="64" column="53" />
+        <mark key="]" line="64" column="53" />
+        <mark key="." line="64" column="53" />
+        <mark key="^" line="64" column="59" />
       </file>
     </filemarks>
     <jumps>
@@ -356,10 +356,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fanCount</text>
+        <text>, null</text>
       </register>
       <register name="-" type="4">
-        <text>fanCount</text>
+        <text>, null</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
