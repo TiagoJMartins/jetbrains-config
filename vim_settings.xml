@@ -54,6 +54,13 @@
         <mark key="." line="9" column="12" />
         <mark key="^" line="9" column="12" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.env" timestamp="1513862962949" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.babelrc" timestamp="1513863023986">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/SocialTokenDAO.kt" timestamp="1513689182646">
         <mark key="[" line="11" column="40" />
         <mark key="]" line="11" column="67" />
@@ -87,6 +94,7 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/SkorrApi.js" timestamp="1513863070215" />
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/User.kt" timestamp="1513859297491">
         <mark key="'" line="38" column="27" />
         <mark key="[" line="38" column="33" />
@@ -152,12 +160,12 @@
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="6" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserController.kt" timestamp="1513862600905">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserController.kt" timestamp="1513862883629">
         <mark key="'" line="145" column="71" />
-        <mark key="[" line="161" column="16" />
-        <mark key="]" line="161" column="28" />
-        <mark key="." line="161" column="28" />
-        <mark key="^" line="161" column="28" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
+        <mark key="^" line="163" column="59" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/enums/Trend.kt" timestamp="1513764139384">
         <mark key="[" line="5" column="4" />
@@ -370,37 +378,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICogMTAw</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICogMTAw</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiAnYWJzb2x1dGUnLAogICAgdG9wOiAwLAogICAgbGVmdDogMCwKICAgIHdpZHRoOiAnMTAwJScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm1hcCB7IFRvcGljKHR5cGUgPSBpdCkgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgaW50ZXJlc3RzLnN1Ygo=</text>
+        <text encoding="base64">ICAgICAgICAidHJhbnNmb3JtLXJlbW92ZS1jb25zb2xlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci8vICAgICAgICAgICAgICAgIHZhbCAoaW5mbHVlbmNlclNjb3JlLCBpbnRlcmVzdHMpID0gZGZwUmVzdWx0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgdG9waWNzID0gaW50ZXJlc3RzCiAgICAgICAgICAgICAgICAgICAgICAgIC5tYXAgeyBUb3BpYyh0eXBlID0gaXQpIH0KICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAoaW50ZXJlc3RzLnNpemUgPiAxMCkgewo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEgY2xhc3MgU2tvcnIgKAogICAgICAgICAgICAgICAgICAgIHZhbCB2YWx1ZTogSW50ID0gMCwKICAgICAgICAgICAgICAgICAgICB2YWwgdGltZXN0YW1wOiBEYXRlID0gRGF0ZShTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSkKICAgICAgICAgICAgICAgICkKCiAgICAgICAgICAgICAgICBkYXRhIGNsYXNzIFRvcGljICgKICAgICAgICAgICAgICAgICAgICB2YWwgdHlwZTogU3RyaW5nID0gIiIsCiAgICAgICAgICAgICAgICAgICAgdmFsIHZhbHVlOiBGbG9hdCA9IDBmCiAgICAgICAgICAgICAgICApCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCB0b3BpY3NTaXplID0gaW50ZXJlc3RzLnNpemUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgdmFsIGluZmx1ZW5jZXJTY29yZTogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -412,11 +420,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFsIHRvcGljcyA9IGludGVyZXN0cy5zdWJMaXN0KDAsIDkpCi8vICAgICAgICAgICAgICAgICAgICAubWFwIHsgVG9waWModHlwZSA9IGl0KSB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgKGluZmx1ZW5jZXJTY29yZSwgaW50ZXJlc3RzKSA9IGRmcFJlc3VsdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
