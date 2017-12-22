@@ -130,10 +130,11 @@
         <mark key="^" line="8" column="12" />
         <mark key="." line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1513949099404">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1513950070152">
+        <mark key="[" line="79" column="16" />
+        <mark key="]" line="79" column="43" />
+        <mark key="." line="79" column="43" />
+        <mark key="^" line="79" column="43" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Config/ReduxPersist.js" timestamp="1513241686795">
         <mark key="[" line="5" column="10" />
@@ -208,11 +209,12 @@
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="6" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserController.kt" timestamp="1513945002133">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="^" line="67" column="81" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserController.kt" timestamp="1513950237373">
+        <mark key="'" line="151" column="0" />
+        <mark key="[" line="150" column="25" />
+        <mark key="]" line="150" column="52" />
+        <mark key="." line="150" column="52" />
+        <mark key="^" line="150" column="52" />
       </file>
       <file name="/fragment.java" timestamp="1513872943486">
         <mark key="[" line="0" column="0" />
@@ -225,8 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="6" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/Skorr.kt" />
-      <jump line="14" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/Skorr.kt" />
       <jump line="23" column="15" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" />
       <jump line="9" column="13" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" />
       <jump line="30" column="58" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserController.kt" />
@@ -325,40 +325,42 @@
       <jump line="52" column="29" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" />
       <jump line="51" column="14" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" />
       <jump line="62" column="7" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" />
+      <jump line="78" column="21" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" />
+      <jump line="150" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserController.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyIGFzIFVzZXIKICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvdXRpbmdDb250ZXh0LnJlc3BvbnNlKCkKICAgICAgICAgICAgICAgICAgICAucHV0SGVhZGVyKENPTlRFTlRfVFlQRSwgImFwcGxpY2F0aW9uL2pzb247IGNoYXJzZXQ9dXRmLTgiKQogICAgICAgICAgICAgICAgICAgIC5lbmQoc3RyKQogICAgICAgICAgICB9LCB7CiAgICAgICAgICAgICAgICBwcmludGxuKCJFUlJPUjogJGl0IikKLy8gICAgICAgICAgICAgICAgcHJpbnRsbih3cml0ZXIud3JpdGVWYWx1ZUFzU3RyaW5nKGl0KSkKICAgICAgICAgICAgICAgIHJvdXRpbmdDb250ZXh0LnJlc3BvbnNlKCkuYXBwbHkgewogICAgICAgICAgICAgICAgICAgIHN0YXR1c0NvZGUgPSAyMDQKICAgICAgICAgICAgICAgIH0uZW5kKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyIGFzIFVzZXIKICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSwgewogICAgICAgICAgICAgICAgcHJpbnRsbigiRVJST1I6ICRpdCIpCi8vICAgICAgICAgICAgICAgIHByaW50bG4od3JpdGVyLndyaXRlVmFsdWVBc1N0cmluZyhpdCkpCiAgICAgICAgICAgICAgICByb3V0aW5nQ29udGV4dC5yZXNwb25zZSgpLmFwcGx5IHsKICAgICAgICAgICAgICAgICAgICBzdGF0dXNDb2RlID0gMjA0CiAgICAgICAgICAgICAgICB9LmVuZCgpCiAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -371,10 +373,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -465,6 +467,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
