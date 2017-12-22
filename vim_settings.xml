@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1513954189563">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/enums/Trend.kt" timestamp="1513764139384">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="10" />
@@ -96,7 +99,7 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513861037749">
+      <file name="/Dummy.txt" timestamp="1513954395605">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/User.kt" timestamp="1513942933687">
@@ -154,6 +157,12 @@
         <mark key="]" line="11" column="27" />
         <mark key="^" line="11" column="27" />
         <mark key="." line="11" column="51" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" timestamp="1513954466210">
+        <mark key="'" line="15" column="26" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/Skorr.kt" timestamp="1513943865861">
         <mark key="'" line="20" column="21" />
@@ -228,13 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="58" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserController.kt" />
-      <jump line="29" column="32" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserController.kt" />
-      <jump line="29" column="11" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/User.kt" />
-      <jump line="8" column="15" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/User.kt" />
-      <jump line="10" column="41" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" />
-      <jump line="18" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialToken.kt" />
-      <jump line="7" column="22" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialToken.kt" />
       <jump line="22" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialToken.kt" />
       <jump line="9" column="13" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/User.kt" />
       <jump line="34" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/User.kt" />
@@ -328,10 +330,17 @@
       <jump line="53" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" />
       <jump line="52" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" />
       <jump line="80" column="61" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" />
+      <jump line="23" column="3" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
+      <jump line="180" column="8" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
+      <jump line="177" column="8" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
+      <jump line="5" column="8" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
+      <jump line="15" column="26" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>user</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBubHRrIGltcG9ydCB3b3JkX3Rva2VuaXplLCB3b3JkcHVuY3RfdG9rZW5pemUK</text>
       </register>
       <register name="-" type="4">
         <text>user</text>
@@ -343,25 +352,25 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFsIGRhdGEgPSBjcmVhdGVRdWVyeSgpCiAgICAgICAgICAgICAgICAuZmllbGQoInByb2ZpbGVJZCIpLmVxdWFsKHNvY2lhbFRva2VuLnByb2ZpbGVJZCkKICAgICAgICAgICAgICAgIC5nZXQoKQoKICAgICAgICAgICAgcHJpbnRsbigiUkFXREFUQTogJGRhdGEiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmZsYXRNYXAgewogICAgICAgICAgICAgICAgaWYgKHVzZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHVzZXJVdGlscy5nZXRFbWFpbEluZm8oU2VhcmNoQm9keSgKICAgICAgICAgICAgICAgICAgICAgICAgdG9rZW4gPSBpdC50b2tlbiwKICAgICAgICAgICAgICAgICAgICAgICAgc2VhcmNoZXMgPSBsaXN0T2YoQmFzaWNFbWFpbFF1ZXJ5KHZhbHVlID0gdXNlciEhLmVtYWlsKSkKICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBPYnNlcnZhYmxlLmp1c3QoREZQUmVzcG9uc2UoKSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ZnJvbSBubHRrIGltcG9ydCB3b3JkX3Rva2VuaXplLCB3b3JkcHVuY3RfdG9rZW5pemUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFVzZXIgbWF5IGJlIG51bGwgaGVyZQogICAgICAgICAgICAgICAgdXNlclV0aWxzLmF1dGhlbnRpY2F0ZSgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpdCAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpdCAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZsYXRNYXAgewogICAgICAgICAgICAgICAgaWYgKHVzZXIgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIHVzZXJVdGlscy5nZXRFbWFpbEluZm8oU2VhcmNoQm9keSgKICAgICAgICAgICAgICAgICAgICAgICAgdG9rZW4gPSBpdC50b2tlbiwKICAgICAgICAgICAgICAgICAgICAgICAgc2VhcmNoZXMgPSBsaXN0T2YoQmFzaWNFbWFpbFF1ZXJ5KHZhbHVlID0gdXNlciEhLmVtYWlsKSkKICAgICAgICAgICAgICAgICAgICApKQogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBPYnNlcnZhYmxlLmp1c3QoREZQUmVzcG9uc2UoKSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFVzZXIgbWF5IGJlIG51bGwgaGVyZQogICAgICAgICAgICAgICAgdXNlclV0aWxzLmF1dGhlbnRpY2F0ZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpdCAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZ2V0REZQRGF0YShpdC5lbWFpbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpdCAhPSBudWxsKSB7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -374,10 +383,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh1c2VyICE9PSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
