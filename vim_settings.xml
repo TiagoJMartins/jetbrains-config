@@ -198,7 +198,7 @@
       <file name="/HTML File.txt.ft" timestamp="1514988375462">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1514992452018">
+      <file name="/Dummy.txt" timestamp="1515068584500">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/RawSocialDataDAOImpl.kt" timestamp="1513951243851">
@@ -224,11 +224,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1515067726566">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1515068720757">
         <mark key="'" line="95" column="20" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="15" column="60" />
+        <mark key="." line="15" column="60" />
+        <mark key="^" line="15" column="60" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/ebean.properties" timestamp="1513356923901">
         <mark key="[" line="0" column="52" />
@@ -254,11 +255,10 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="28" column="48" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAO.kt" timestamp="1513951863313">
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="32" />
-        <mark key="^" line="13" column="32" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAO.kt" timestamp="1515068647635">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
       </file>
       <file name="/Groovy JUnit Test Method.txt.ft" timestamp="1514988385409">
         <mark key="[" line="0" column="0" />
@@ -266,10 +266,10 @@
       <file name="/fragment.java" timestamp="1514991127449">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1515067697657">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1515068620368">
+        <mark key="[" line="88" column="89" />
+        <mark key="]" line="88" column="89" />
+        <mark key="." line="88" column="89" />
         <mark key="^" line="88" column="111" />
       </file>
     </filemarks>
@@ -377,10 +377,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZ2dyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>, instance()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -389,25 +389,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZGQoImRheSIsIEJhc2ljREJPYmplY3QoIlwkZGF5T2ZNb250aCIsICJcJGNyZWF0ZWRBdCIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hZ2dyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmluZDxNb25nb0RhdGFiYXNlPigpIHdpdGggc2luZ2xldG9uIHsKICAgICAgICAgICAgICAgIGluc3RhbmNlPE1vbmdvQ2xpZW50PigpLmdldERhdGFiYXNlKCJza29ycmRiLXN0YWdpbmciKQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1vbmdvRGF0YWJhc2U6IE1vbmdvRGF0YWJhc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIGRhdGFzdG9yZS5nZXRDb2xsZWN0aW9uKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5saXRvdGUua21vbmdvLk1vbmdvT3BlcmF0b3IuKgo=</text>
+        <text encoding="base64">ICAgIGVudGl0eUNsYXNzOiBDbGFzczxVc2VyPj8sCiAgICBkczogRGF0YXN0b3JlPwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRERlBEYXRhKGVtYWlsOiBTdHJpbmc/KTogT2JzZXJ2YWJsZTxEaWdpdGFsRm9vdHByaW50QVBJLkRGUFJlc3BvbnNlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -420,10 +420,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBjbGllbnQgPSBLTW9uZ28uY3JlYXRlQ2xpZW50KCkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGRpZ2l0YWxGb290cHJpbnRBUEk6IERpZ2l0YWxGb290cHJpbnRBUEkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
