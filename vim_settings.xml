@@ -46,11 +46,11 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="77" column="52" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-processors/processor/rabbit_worker.py" timestamp="1515421794805">
-        <mark key="[" line="49" column="55" />
-        <mark key="]" line="49" column="55" />
-        <mark key="." line="49" column="55" />
-        <mark key="^" line="49" column="70" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-processors/processor/rabbit_worker.py" timestamp="1515589483306">
+        <mark key="[" line="49" column="12" />
+        <mark key="]" line="49" column="21" />
+        <mark key="." line="49" column="21" />
+        <mark key="^" line="49" column="21" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/user/UserRouter.kt" timestamp="1515405201650">
         <mark key="[" line="12" column="24" />
@@ -366,13 +366,13 @@
         <mark key="." line="0" column="82" />
         <mark key="^" line="0" column="82" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" timestamp="1515584801232">
+      <file name="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" timestamp="1515589734437">
         <mark key="e" line="76" column="33" />
-        <mark key="'" line="58" column="97" />
-        <mark key="[" line="78" column="21" />
-        <mark key="]" line="78" column="32" />
-        <mark key="." line="78" column="32" />
-        <mark key="^" line="78" column="32" />
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="343" column="12" />
+        <mark key="]" line="344" column="25" />
+        <mark key="^" line="344" column="25" />
+        <mark key="." line="344" column="25" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-processors/.gitignore" timestamp="1514996801241">
         <mark key="[" line="55" column="0" />
@@ -414,8 +414,6 @@
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1515578927418" />
     </filemarks>
     <jumps>
-      <jump line="15" column="47" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" />
-      <jump line="5" column="17" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/Skorr.kt" />
       <jump line="14" column="16" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SkorrSocialWeight.kt" />
       <jump line="11" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SkorrSocialWeight.kt" />
       <jump line="23" column="3" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialToken.kt" />
@@ -514,40 +512,42 @@
       <jump line="16" column="39" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookConstants.kt" />
       <jump line="50" column="91" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
       <jump line="51" column="97" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
+      <jump line="342" column="8" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>all_likes</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgcmVzdWx0WydpbmZsdWVuY2VyU2NvcmUnXSA9IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>all_likes</text>
+        <text>randint(13, 17) / 100</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KGpzb24uZHVtcHMoYWxsX2xpa2VzLCBpbmRlbnQ9NCwgc29ydF9rZXlzPVRydWUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXN1bHRbJ2luZmx1ZW5jZXJTY29yZSddIGlzIE5vbmUgb3IgZmxvYXQocmVzdWx0WydpbmZsdWVuY2VyU2NvcmUnXSkgPCAwLjE1OgogICAgICAgICAgICBwcmludCgnRm91bmQgc2NvcmUgaXM6IHt9Jy5mb3JtYXQocmVzdWx0WydpbmZsdWVuY2VyU2NvcmUnXSkpCiAgICAgICAgICAgIHJlc3VsdFsnaW5mbHVlbmNlclNjb3JlJ10gPSByYW5kaW50KDEzLCAxNykgLyAxMDAKICAgICAgICAgICAgcHJpbnQoJ05ldyBzY29yZToge30nLmZvcm1hdChyZXN1bHRbJ2luZmx1ZW5jZXJTY29yZSddKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHAKCg==</text>
+        <text encoding="base64">CiAgICAgICAgcmVzdWx0WydpbmZsdWVuY2VyU2NvcmUnXSA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ05ldyBzY29yZToge30nLmZvcm1hdChyZXN1bHRbJ2luZmx1ZW5jZXJTY29yZSddKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFsbF9saWtlcyA9IFtdCiAgICBhbGxfY29tbWVudHMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ZvdW5kIHNjb3JlIGlzOiB7fScuZm9ybWF0KHJlc3VsdFsnaW5mbHVlbmNlclNjb3JlJ10pKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXN1bHRbJ2luZmx1ZW5jZXJTY29yZSddIGlzIE5vbmUgb3IgZmxvYXQocmVzdWx0WydpbmZsdWVuY2VyU2NvcmUnXSkgPCAwLjE1Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">CiAgICBwcmludChqc29uLmR1bXBzKHJlc3VsdCwgaW5kZW50PTQsIHNvcnRfa2V5cz1UcnVlKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgbGkK</text>
+        <text encoding="base64">ICAgIHByaW50KCJwb3N0cyBmaW5pc2hlZCIpCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">CiAgICBwcmludCgicG9zdHMiKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -560,10 +560,14 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgYWxsCg==</text>
+        <text encoding="base64">CiAgICAgICAgcHJpbnQocG9zdHNfZGF0YSkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+      <register name="9" type="4">
+        <text>{
+                    'facebookId': person['id'],
+                    'name': person['name'],
+                    'displayPicture': person['pic_large']
+                } for person in three_most_liked_person</text>
       </register>
       <register name=":" type="4">
         <text>25</text>
