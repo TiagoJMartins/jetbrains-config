@@ -213,12 +213,6 @@
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookConstants.kt" timestamp="1515597400709">
         <mark key="^" line="2" column="62" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" timestamp="1515601604874">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserRouter.kt" timestamp="1515499931957">
         <mark key="'" line="19" column="59" />
         <mark key="[" line="20" column="0" />
@@ -275,13 +269,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="15" column="37" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/ApplicationRouter.kt" timestamp="1515597319302">
-        <mark key="'" line="40" column="84" />
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="19" />
-        <mark key="." line="31" column="19" />
-        <mark key="^" line="31" column="19" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/AppNavigation.js" timestamp="1513862386589">
         <mark key="[" line="17" column="33" />
@@ -371,13 +358,13 @@
         <mark key="." line="0" column="82" />
         <mark key="^" line="0" column="82" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" timestamp="1515596509860">
+      <file name="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" timestamp="1515606497661">
         <mark key="e" line="76" column="33" />
         <mark key="'" line="152" column="0" />
-        <mark key="[" line="359" column="0" />
-        <mark key="]" line="359" column="0" />
-        <mark key="^" line="360" column="3" />
-        <mark key="." line="359" column="0" />
+        <mark key="[" line="33" column="48" />
+        <mark key="]" line="33" column="49" />
+        <mark key="^" line="33" column="49" />
+        <mark key="." line="33" column="49" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-processors/.gitignore" timestamp="1514996801241">
         <mark key="[" line="55" column="0" />
@@ -521,11 +508,11 @@
       <jump line="50" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHByaW50bG4odXNlcikK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
