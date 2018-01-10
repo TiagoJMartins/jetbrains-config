@@ -156,6 +156,13 @@
         <mark key="." line="3" column="38" />
         <mark key="^" line="3" column="38" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1515592428276">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/enums/SocialNetwork.kt" timestamp="1513858132784">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="8" column="12" />
@@ -366,7 +373,7 @@
         <mark key="." line="0" column="82" />
         <mark key="^" line="0" column="82" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" timestamp="1515589734437">
+      <file name="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" timestamp="1515592693138">
         <mark key="e" line="76" column="33" />
         <mark key="'" line="2" column="0" />
         <mark key="[" line="343" column="12" />
@@ -414,7 +421,6 @@
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1515578927418" />
     </filemarks>
     <jumps>
-      <jump line="14" column="16" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SkorrSocialWeight.kt" />
       <jump line="11" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SkorrSocialWeight.kt" />
       <jump line="23" column="3" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialToken.kt" />
       <jump line="5" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialToken.kt" />
@@ -514,40 +520,41 @@
       <jump line="51" column="97" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
       <jump line="342" column="8" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
       <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
+      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgcmVzdWx0WydpbmZsdWVuY2VyU2NvcmUnXSA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text>instagram</text>
       </register>
       <register name="-" type="4">
-        <text>randint(13, 17) / 100</text>
+        <text>instagram</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXN1bHRbJ2luZmx1ZW5jZXJTY29yZSddIGlzIE5vbmUgb3IgZmxvYXQocmVzdWx0WydpbmZsdWVuY2VyU2NvcmUnXSkgPCAwLjE1OgogICAgICAgICAgICBwcmludCgnRm91bmQgc2NvcmUgaXM6IHt9Jy5mb3JtYXQocmVzdWx0WydpbmZsdWVuY2VyU2NvcmUnXSkpCiAgICAgICAgICAgIHJlc3VsdFsnaW5mbHVlbmNlclNjb3JlJ10gPSByYW5kaW50KDEzLCAxNykgLyAxMDAKICAgICAgICAgICAgcHJpbnQoJ05ldyBzY29yZToge30nLmZvcm1hdChyZXN1bHRbJ2luZmx1ZW5jZXJTY29yZSddKSkK</text>
+        <text encoding="base64">eyAKICAidGFzayI6ICJpbnN0YWdyYW0iLCAKICAiYWNjZXNzX3Rva2VuIjogIjMxMDAyOTMxLmIzYzNmMzkuMTU1Yjk4MjgzNWM3NGY2YzhjY2JiNWE2NTQzMGZmZTAiLCAKICAidXNlcl9pZCI6ICI1YTU1ZTY1NzU1OWJkNDIxOWIyY2YxNzUiCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgcmVzdWx0WydpbmZsdWVuY2VyU2NvcmUnXSA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ05ldyBzY29yZToge30nLmZvcm1hdChyZXN1bHRbJ2luZmx1ZW5jZXJTY29yZSddKSkK</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ZvdW5kIHNjb3JlIGlzOiB7fScuZm9ybWF0KHJlc3VsdFsnaW5mbHVlbmNlclNjb3JlJ10pKQo=</text>
+        <text encoding="base64">CiAgICAgICAgcmVzdWx0WydpbmZsdWVuY2VyU2NvcmUnXSA9IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByZXN1bHRbJ2luZmx1ZW5jZXJTY29yZSddIGlzIE5vbmUgb3IgZmxvYXQocmVzdWx0WydpbmZsdWVuY2VyU2NvcmUnXSkgPCAwLjE1Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ05ldyBzY29yZToge30nLmZvcm1hdChyZXN1bHRbJ2luZmx1ZW5jZXJTY29yZSddKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwcmludChqc29uLmR1bXBzKHJlc3VsdCwgaW5kZW50PTQsIHNvcnRfa2V5cz1UcnVlKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0ZvdW5kIHNjb3JlIGlzOiB7fScuZm9ybWF0KHJlc3VsdFsnaW5mbHVlbmNlclNjb3JlJ10pKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJwb3N0cyBmaW5pc2hlZCIpCgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiByZXN1bHRbJ2luZmx1ZW5jZXJTY29yZSddIGlzIE5vbmUgb3IgZmxvYXQocmVzdWx0WydpbmZsdWVuY2VyU2NvcmUnXSkgPCAwLjE1Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwcmludCgicG9zdHMiKQo=</text>
+        <text encoding="base64">CiAgICBwcmludChqc29uLmR1bXBzKHJlc3VsdCwgaW5kZW50PTQsIHNvcnRfa2V5cz1UcnVlKSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -560,14 +567,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpbnQocG9zdHNfZGF0YSkK</text>
+        <text encoding="base64">ICAgIHByaW50KCJwb3N0cyBmaW5pc2hlZCIpCgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-                    'facebookId': person['id'],
-                    'name': person['name'],
-                    'displayPicture': person['pic_large']
-                } for person in three_most_liked_person</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBwcmludCgicG9zdHMiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>25</text>
