@@ -366,13 +366,13 @@
         <mark key="." line="0" column="82" />
         <mark key="^" line="0" column="82" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" timestamp="1515579238326">
-        <mark key="e" line="50" column="33" />
-        <mark key="'" line="47" column="17" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="68" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="98" column="60" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" timestamp="1515584801232">
+        <mark key="e" line="76" column="33" />
+        <mark key="'" line="58" column="97" />
+        <mark key="[" line="78" column="21" />
+        <mark key="]" line="78" column="32" />
+        <mark key="." line="78" column="32" />
+        <mark key="^" line="78" column="32" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-processors/.gitignore" timestamp="1514996801241">
         <mark key="[" line="55" column="0" />
@@ -414,8 +414,6 @@
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1515578927418" />
     </filemarks>
     <jumps>
-      <jump line="21" column="35" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" />
-      <jump line="8" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" />
       <jump line="15" column="47" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" />
       <jump line="5" column="17" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/Skorr.kt" />
       <jump line="14" column="16" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SkorrSocialWeight.kt" />
@@ -514,40 +512,42 @@
       <jump line="46" column="17" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
       <jump line="10" column="23" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookConstants.kt" />
       <jump line="16" column="39" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookConstants.kt" />
+      <jump line="50" column="91" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
+      <jump line="51" column="97" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndmFsdWUnOiAwLAo=</text>
+      <register name="&quot;" type="4">
+        <text>all_likes</text>
       </register>
       <register name="-" type="4">
-        <text>media</text>
+        <text>all_likes</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndmFsdWUnOiBzZWxmX3Jlc3BvbnNlWydjb3VudHMnXVsnZm9sbG93ZWRfYnknXSwK</text>
+        <text encoding="base64">ICAgIHByaW50KGpzb24uZHVtcHMoYWxsX2xpa2VzLCBpbmRlbnQ9NCwgc29ydF9rZXlzPVRydWUpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndmFsdWUnOiAwLAo=</text>
+        <text encoding="base64">ICAgIHAKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndmFsdWUnOiAwLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndmFsdWUnOiAwLAo=</text>
+        <text encoding="base64">ICAgIGFsbF9saWtlcyA9IFtdCiAgICBhbGxfY29tbWVudHMgPSBbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIEZBQ0VCT09LX1NDT1BFID0gYXJyYXlPZigKICAgICAgICAgICAgImVtYWlsIiwgInB1YmxpY19wcm9maWxlIiwgInJlYWRfY3VzdG9tX2ZyaWVuZGxpc3RzIiwKICAgICAgICAgICAgInVzZXJfbG9jYXRpb24iLCAidXNlcl9hYm91dF9tZSIsICJ1c2VyX2JpcnRoZGF5IiwKICAgICAgICAgICAgInVzZXJfZWR1Y2F0aW9uX2hpc3RvcnkiLCAidXNlcl9mcmllbmRzIiwgInVzZXJfaG9tZXRvd24iLAogICAgICAgICAgICAidXNlcl9yZWxhdGlvbnNoaXBfZGV0YWlscyIsICJ1c2VyX3JlbGF0aW9uc2hpcHMiLAogICAgICAgICAgICAidXNlcl9yZWxpZ2lvbl9wb2xpdGljcyIsICJ1c2VyX3dvcmtfaGlzdG9yeSIsICJ1c2VyX2xpa2VzIiwKICAgICAgICAgICAgInVzZXJfcGhvdG9zIiwgInVzZXJfcG9zdHMiLCAidXNlcl90YWdnZWRfcGxhY2VzIiwKICAgICAgICAgICAgInVzZXJfdmlkZW9zIiwgInVzZXJfd2Vic2l0ZSIsICJ1c2VyX2V2ZW50cyIsICJpbnN0YWdyYW1fYmFzaWMiCiAgICApLmpvaW5Ub1N0cmluZygiLCIpCg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmltcG9ydCBzb2NpYWwuc2tvcnIuYXBpLmVudi5IdHRwRW52LkFQSV9VUkwK</text>
+        <text encoding="base64">ICAgIAogICAgbGkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICB2YWwgRkFDRUJPT0tfQ0FMTEJBQ0tfVVJMID0gIiRBUElfVVJML2ZhY2Vib29rL2NhbGxiYWNrIgo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -560,10 +560,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIEZBQ0VCT09LX1NDT1BFID0gYXJyYXlPZigKICAgICAgICAgICAgImVtYWlsIiwgInB1YmxpY19wcm9maWxlIiwgInJlYWRfY3VzdG9tX2ZyaWVuZGxpc3RzIiwKICAgICAgICAgICAgInVzZXJfbG9jYXRpb24iLCAidXNlcl9hYm91dF9tZSIsICJ1c2VyX2JpcnRoZGF5IiwKICAgICAgICAgICAgInVzZXJfZWR1Y2F0aW9uX2hpc3RvcnkiLCAidXNlcl9mcmllbmRzIiwgInVzZXJfaG9tZXRvd24iLAogICAgICAgICAgICAidXNlcl9yZWxhdGlvbnNoaXBfZGV0YWlscyIsICJ1c2VyX3JlbGF0aW9uc2hpcHMiLAogICAgICAgICAgICAidXNlcl9yZWxpZ2lvbl9wb2xpdGljcyIsICJ1c2VyX3dvcmtfaGlzdG9yeSIsICJ1c2VyX2xpa2VzIiwKICAgICAgICAgICAgInVzZXJfcGhvdG9zIiwgInVzZXJfcG9zdHMiLCAidXNlcl90YWdnZWRfcGxhY2VzIiwKICAgICAgICAgICAgInVzZXJfdmlkZW9zIiwgInVzZXJfd2Vic2l0ZSIsICJ1c2VyX2V2ZW50cyIsICJpbnN0YWdyYW1fYmFzaWMiCiAgICApLmpvaW5Ub1N0cmluZygiLCIpCgo=</text>
+        <text encoding="base64">ICAgIAogICAgYWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>25</text>
