@@ -341,7 +341,12 @@
         <mark key="." line="10" column="7" />
         <mark key="^" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1515598324480" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1515600057099">
+        <mark key="[" line="151" column="47" />
+        <mark key="]" line="151" column="47" />
+        <mark key="^" line="151" column="47" />
+        <mark key="." line="151" column="47" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/JWTFactory.kt" timestamp="1515403479875">
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="9" />
@@ -511,10 +516,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FacebookData</text>
+        <text>Tokens</text>
       </register>
       <register name="-" type="4">
-        <text>FacebookData</text>
+        <text>Tokens</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -523,25 +528,25 @@
         <text encoding="base64">ICAgIGlmIG1vbmdvIGlzIG5vdCBOb25lOgogICAgICAgIHVzZXJzID0gZ2V0YXR0cihtb25nb19kYiwgInVzZXIiKQogICAgICAgIHVzZXIgPSB1c2Vycy5maW5kX29uZSh7J19pZCc6IE9iamVjdElkKHVzZXJfaWQpfSkKCiAgICAgICAgZGZwX2RhdGEgPSBnZXRfZGZwX2RhdGEodXNlclsnZW1haWwnXSkKICAgICAgICBwcmludChkZnBfZGF0YSkKCiAgICAgICAgaWYgZGZwX2RhdGEgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGRhdGFbJ2RhdGEnXVsndG9waWNzJ10gPSBkZnBfZGF0YVsndG9waWNzJ10KCiAgICAgICAgICAgIGNvbGxlY3Rpb24gPSBnZXRhdHRyKG1vbmdvX2RiLCBNT05HT19DT0wpCiAgICAgICAgICAgIGNvbGxlY3Rpb24uaW5zZXJ0KGRhdGEpCgogICAgICAgICAgICBtb25nb19kYi5za29yci5pbnNlcnQoewogICAgICAgICAgICAgICAgJ3ZhbHVlJzogZGZwX2RhdGFbJ3Nrb3JyJ10sCiAgICAgICAgICAgICAgICAndXNlcklkJzogdXNlclsnX2lkJ10sCiAgICAgICAgICAgICAgICAnY3JlYXRlZEF0JzogYXJyb3cudXRjbm93KCkuZGF0ZXRpbWUKICAgICAgICAgICAgfSkKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gcmVzdWx0CiAgICBlbHNlOgogICAgICAgIGxvZy5pbmZvKGRhdGEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCB1c2VySWQgPSAKCiAgICByZXR1cm4gaWYgKHVzZXJJZCAhPSBudWxsKSB7IE9iamVjdElkKHVzZXJJZCkgfSBlbHNlIHsgbnVsbCB9Cn0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIzMTAwMjkzMSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiMTg4MTcwMTQwMTg1NzM2NiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICh1c2VySWQgIT0gbnVsbCkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">CQkvLyBTdGFnZSA0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICh1c2VySWQgIT0gbnVsbCkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">CQkvLyBTdGFnZSAzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHBlcnNpc3RfdG9fZGIoZGF0YSk6Cgo=</text>
+        <text encoding="base64">CQkvLyBTdGFnZSAyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">CQkvLyBTdGFnZSAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">CS8vIFBpcGVsaW5lCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -554,10 +559,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIEBUT0RPOiBARklYTUUhISEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBwcm9jZXNzb3IuZmFjZWJvb2sgaW1wb3J0IHNjcmFwZV9pbmZvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>25</text>
