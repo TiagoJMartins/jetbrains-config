@@ -163,14 +163,10 @@
         <mark key="." line="303" column="52" />
         <mark key="^" line="303" column="52" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookConstants.kt" timestamp="1515597400709">
-        <mark key="^" line="2" column="62" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" timestamp="1515685022883">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="31" />
-        <mark key="^" line="16" column="31" />
-        <mark key="." line="16" column="31" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" timestamp="1515687328447">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" timestamp="1515682363442">
         <mark key="'" line="9" column="25" />
@@ -254,8 +250,11 @@
         <mark key="." line="10" column="7" />
         <mark key="^" line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1515673122842">
-        <mark key="^" line="418" column="101" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1515687378155">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="^" line="407" column="101" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/InstagramSagas.js" timestamp="1515682425403">
         <mark key="'" line="12" column="50" />
@@ -419,12 +418,12 @@
       <file name="/Dummy.txt" timestamp="1515685630807">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLoginScreen/OnboardingLoginScreen.js" timestamp="1515686246177">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingLoginScreen/OnboardingLoginScreen.js" timestamp="1515687213498">
         <mark key="'" line="197" column="52" />
-        <mark key="[" line="51" column="23" />
-        <mark key="]" line="51" column="31" />
-        <mark key="." line="51" column="31" />
-        <mark key="^" line="51" column="31" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="193" column="13" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/SkorrDAO.kt" timestamp="1515072936167">
         <mark key="[" line="2" column="42" />
@@ -602,38 +601,38 @@
       <jump line="33" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>network</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>network</text>
+        <text>facebook</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS50cm9uLmxvZyhuZXR3b3JrKQo=</text>
+      <register name="0" type="4">
+        <text>= facebook?.kpi?.friends?.value</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBUaGlzIGlzIGFuIGV4YW1wbGUgd2hlcmUgeW91IGNhbiBzdG9yZSB5b3VyIGVudmlyb25tZW50IHZhcmlhYmxlcy4gQ29weSB0aGlzIGZpbGUgdG8gLi9BcHAvQ29uZmlnLy5lbnYKIyBOb3cgeW91ciBhcHAgd2lsbCBoYXZlIGFjY2VzcyB0byB0aGUgdmFyaWFibGVzIGFkZGVkIGJlbG93Lgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFNlY3JldHMgZnJvbSAncmVhY3QtbmF0aXZlLWNvbmZpZycK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLnRyb24ubG9nKG1lKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2coU2VjcmV0cywgdHJ1ZSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBrYjogCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKHNrb3JycyBhcyBMaXN0PFNrb3JyPikuZm9yRWFjaCB7CiAgICAgICAgICAgICAgICB2YWwgZGF0ZSA9IENhbGVuZGFyLmdldEluc3RhbmNlKCkKICAgICAgICAgICAgICAgIGRhdGUudGltZSA9IGl0LmNyZWF0ZWRBdAoKICAgICAgICAgICAgICAgIHZhbCBkYXkgPSBkYXRlLmdldChDYWxlbmRhci5EQVlfT0ZfTU9OVEgpCiAgICAgICAgICAgICAgICB2YWwgbW9udGggPSBkYXRlLmdldChDYWxlbmRhci5NT05USCkgKyAxCiAgICAgICAgICAgICAgICB2YWwgeWVhciA9IGRhdGUuZ2V0KENhbGVuZGFyLllFQVIpCgogICAgICAgICAgICAgICAgcHJpbnRsbigiU2tvcnI6ICR7aXQudmFsdWV9IHwgRGF0ZTogJGRheS0kbW9udGgtJHllYXIiKQogICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICB2YWwgdGVzdDogU29jaWFsTmV0d29ya1N1bW1hcnk/ID0gbnVsbAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBwcmludGxuKHRlc3Q/LmtwaT8uZnJpZW5kcz8udmFsdWUgPzogMCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCBlbXB0eSA9IGVtcHR5TGlzdDxTdHJpbmc+KCkKICAgIHZhbCBhc2QgPSBlbXB0eS5maW5kIHsgaXQgPT0gImFzZCIgfQoKICAgIHByaW50bG4oYXNkKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS50cm9uLmxvZyhuZXR3b3JrKQogICAgICBjb25zb2xlLnRyb24ubG9nKG5leHRQcm9wcykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -646,10 +645,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLmxvZ2luSU5zdAo=</text>
+        <text encoding="base64">ICAgIGkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvbkxvZ2luU3VjY2VzczogKHRva2VuKSA9PiB7CiAgICBBbGVydC5hbGVydCgKICAgICAgJ0FsZXJ0IFRpdGxlJywKICAgICAgJ1Rva2VuOiAnICsgdG9rZW4sCiAgICAgIFsKICAgICAgICB7IHRleHQ6ICdPSycgfQogICAgICBdLAogICAgICB7IGNhbmNlbGFibGU6IGZhbHNlIH0KICAgICkKICB9LAogIG9uTG9naW5GYWlsdXJlOiAoZmFpbHVyZUpzb24pID0+IHsKICAgIGNvbnNvbGUuZGVidWcoZmFpbHVyZUpzb24pCiAgfQo=</text>
+        <text encoding="base64">IyBUaGlzIGlzIGFuIGV4YW1wbGUgd2hlcmUgeW91IGNhbiBzdG9yZSB5b3VyIGVudmlyb25tZW50IHZhcmlhYmxlcy4gQ29weSB0aGlzIGZpbGUgdG8gLi9BcHAvQ29uZmlnLy5lbnYKIyBOb3cgeW91ciBhcHAgd2lsbCBoYXZlIGFjY2VzcyB0byB0aGUgdmFyaWFibGVzIGFkZGVkIGJlbG93Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>58</text>
