@@ -289,7 +289,7 @@
         <mark key="^" line="15" column="37" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/AppNavigation.js" timestamp="1515662216756">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/AppNavigation.js" timestamp="1515665336084">
         <mark key="[" line="21" column="33" />
         <mark key="]" line="21" column="32" />
         <mark key="^" line="21" column="32" />
@@ -411,12 +411,12 @@
         <mark key="." line="3" column="24" />
         <mark key="^" line="24" column="41" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" timestamp="1515664173606">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" timestamp="1515665369066">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="199" column="15" />
-        <mark key="]" line="199" column="15" />
-        <mark key="." line="199" column="15" />
-        <mark key="^" line="199" column="15" />
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="34" column="27" />
+        <mark key="." line="34" column="27" />
+        <mark key="^" line="34" column="27" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/utils/json/ObjectIdSerializer.kt" timestamp="1515490103120">
         <mark key="[" line="11" column="9" />
@@ -541,8 +541,8 @@
       <jump line="16" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFNlY3JldHMK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -554,25 +554,25 @@
         <text encoding="base64">ICBbVHlwZXMuTE9HSU5fRkFDRUJPT0tdOiBsb2dpbkZhY2Vib29rLAogIFtUeXBlcy5MT0dJTl9GQUNFQk9PS19TVUNDRVNTXTogZmFjZWJvb2tTdWNjZXNzLAogIFtUeXBlcy5MT0dJTl9GQUNFQk9PS19GQUlMVVJFXTogZmFjZWJvb2tGYWlsdXJlLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB3ZWJWaWV3OiB7CiAgICAgICAgICAgICAgICBmbGV4OiAwCiAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIFNlY3JldHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHdlYlZpZXc6IHsKICAgICAgICAgICAgICAgIGZsZXg6IDAKICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB3ZWJWaWV3OiB7CiAgICAgICAgICAgICAgICBmbGV4OiAwCiAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsZXg6IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHdlYlZpZXc6IHsKICAgICAgICAgICAgICAgIGZsZXg6IDAKICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZsZXg6IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2codGhpcy5yZWZzLCB0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsZXg6IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWY9eydhc2Rhc2QnfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2codGhpcy5yZWZzLCB0cnVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJvcHMubG9naW5JbnN0YWdyYW0oKQo=</text>
+        <text encoding="base64">ICAgICAgICByZWY9eydhc2Rhc2QnfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -585,10 +585,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMubG9naW5JbnN0YWdyYW0oKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTG9naW5NYW5hZ2VyLCBBY2Nlc3NUb2tlbiB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1mYnNkaycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>25</text>
