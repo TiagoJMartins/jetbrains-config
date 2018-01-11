@@ -62,7 +62,7 @@
         <mark key="." line="9" column="34" />
         <mark key="^" line="9" column="34" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.env" timestamp="1515682795920">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.env" timestamp="1515684775022">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -166,7 +166,12 @@
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookConstants.kt" timestamp="1515597400709">
         <mark key="^" line="2" column="62" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" timestamp="1515673017607" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" timestamp="1515685022883">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" timestamp="1515682363442">
         <mark key="'" line="9" column="25" />
         <mark key="[" line="1" column="3" />
@@ -445,7 +450,7 @@
         <mark key="." line="0" column="82" />
         <mark key="^" line="0" column="82" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1515673892610">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1515684855134">
         <mark key="'" line="50" column="23" />
         <mark key="[" line="52" column="93" />
         <mark key="]" line="52" column="104" />
@@ -597,11 +602,11 @@
       <jump line="33" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBUaGlzIGlzIGFuIGV4YW1wbGUgd2hlcmUgeW91IGNhbiBzdG9yZSB5b3VyIGVudmlyb25tZW50IHZhcmlhYmxlcy4gQ29weSB0aGlzIGZpbGUgdG8gLi9BcHAvQ29uZmlnLy5lbnYKIyBOb3cgeW91ciBhcHAgd2lsbCBoYXZlIGFjY2VzcyB0byB0aGUgdmFyaWFibGVzIGFkZGVkIGJlbG93Lgo=</text>
+      <register name="&quot;" type="4">
+        <text>.asd</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>.asd</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
