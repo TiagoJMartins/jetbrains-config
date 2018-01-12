@@ -62,7 +62,7 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="77" column="52" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Onboarding/OnboardingSagas.js" timestamp="1515679566484">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Onboarding/OnboardingSagas.js" timestamp="1515751842301">
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
@@ -233,12 +233,12 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1514988383758">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" timestamp="1515679820987">
-        <mark key="'" line="129" column="56" />
-        <mark key="[" line="152" column="22" />
-        <mark key="]" line="153" column="27" />
-        <mark key="." line="153" column="27" />
-        <mark key="^" line="153" column="27" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" timestamp="1515751702871">
+        <mark key="'" line="260" column="50" />
+        <mark key="[" line="265" column="51" />
+        <mark key="]" line="265" column="51" />
+        <mark key="." line="265" column="51" />
+        <mark key="^" line="261" column="53" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/enums/Gender.kt" timestamp="1513600184283">
         <mark key="[" line="5" column="4" />
@@ -264,12 +264,12 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="19" column="10" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" timestamp="1515749465884">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
-        <mark key="^" line="120" column="22" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" timestamp="1515752766677">
+        <mark key="'" line="85" column="18" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
+        <mark key="^" line="155" column="18" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/enums/Trend.kt" timestamp="1513764139384">
         <mark key="[" line="5" column="4" />
@@ -465,11 +465,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="219" column="68" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingInfoScreen/OnboardingInfoScreen.js" timestamp="1515679649187">
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingInfoScreen/OnboardingInfoScreen.js" timestamp="1515751844443">
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="242" column="0" />
         <mark key="^" line="242" column="45" />
-        <mark key="." line="239" column="0" />
+        <mark key="." line="242" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/utils/json/ObjectIdSerializer.kt" timestamp="1515490103120">
         <mark key="[" line="11" column="9" />
@@ -495,12 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="61" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookController.kt" />
-      <jump line="14" column="8" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" />
-      <jump line="21" column="27" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" />
-      <jump line="15" column="43" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" />
-      <jump line="49" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" />
-      <jump line="142" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" />
       <jump line="217" column="41" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" />
       <jump line="39" column="8" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/json/ObjectIdTypeAdapter.kt" />
       <jump line="19" column="32" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/ApplicationRouter.kt" />
@@ -575,11 +569,9 @@
       <jump line="53" column="6" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" />
       <jump line="33" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/index.js" />
       <jump line="6" column="40" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" />
-      <jump line="85" column="15" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" />
       <jump line="14" column="35" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" />
       <jump line="87" column="35" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" />
       <jump line="91" column="17" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" />
-      <jump line="92" column="32" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" />
       <jump line="162" column="15" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" />
       <jump line="15" column="27" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" />
       <jump line="113" column="38" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" />
@@ -595,40 +587,48 @@
       <jump line="33" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.js" />
       <jump line="133" column="15" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" />
+      <jump line="138" column="2" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" />
+      <jump line="260" column="50" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/AuthenticationRedux.js" />
+      <jump line="144" column="12" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" />
+      <jump line="9" column="44" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" />
+      <jump line="92" column="20" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" />
+      <jump line="7" column="25" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" />
+      <jump line="85" column="18" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/InstagramLogin/InstagramLogin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlcldpZHRoOiAxLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>: height</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdpZHRoLAogICAgaGVpZ2h0Cg==</text>
+        <text encoding="base64">ICAgIGZvbnRTaXplOiByZXNwb25zaXZlRm9udFNpemUoMy40KSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlcldpZHRoOiAxLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17W3N0eWxlcy5tb2RhbFdhcnAsIHRoaXMucHJvcHMuc3R5bGVzLm1vZGFsV2FycF19Pgo=</text>
+        <text encoding="base64">ICBjbG9zZVN0eWxlOiB7CiAgICBmb250U2l6ZTogcmVzcG9uc2l2ZUZvbnRTaXplKDMuNCksCiAgICBjb2xvcjogJ2JsYWNrJwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e1tzdHlsZXMuY29udGVudFdhcnAsIHRoaXMucHJvcHMuc3R5bGVzLmNvbnRlbnRXYXJwXX0+Cg==</text>
+        <text encoding="base64">ICAgIGJvdHRvbSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8VG91Y2hhYmxlT3BhY2l0eSBvblByZXNzPXt0aGlzLmhpZGUuYmluZCh0aGlzKX0gc3R5bGU9e1tzdHlsZXMuYnRuU3R5bGUsIHRoaXMucHJvcHMuc3R5bGVzLmJ0blN0eWxlXX0+CiAgICAgICAgICAgICAgICA8U2tvcnJJY29uCiAgICAgICAgICAgICAgICAgIGNvbG9yPXtDb2xvcnMuc25vd30KICAgICAgICAgICAgICAgICAgbmFtZT17J2NoZXZyb24tbGVmdCd9CiAgICAgICAgICAgICAgICAgIHN0eWxlPXtbc3R5bGVzLmNsb3NlU3R5bGUsIHRoaXMucHJvcHMuc3R5bGVzLmNsb3NlU3R5bGVdfQogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICA8L1RvdWNoYWJsZU9wYWNpdHk+Cg==</text>
+        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvS2V5Ym9hcmRBdm9pZGluZ1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxLZXlib2FyZEF2b2lkaW5nVmlldyBiZWhhdmlvcj0ncGFkZGluZycgc3R5bGU9e1tzdHlsZXMua2V5Ym9hcmRTdHlsZSwgdGhpcy5wcm9wcy5zdHlsZXMua2V5Ym9hcmRTdHlsZV19Pgo=</text>
+        <text encoding="base64">ICAgICAgd2luZG93Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -641,10 +641,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGF1dG9tYXRpY2FsbHlBZGp1c3RDb250ZW50SW5zZXRzCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgY29uc3QgZW1haWwgPSBTZWxlY3QuRW1haWwoc3RhdGUub25ib2FyZGluZykKPT09PT09PQogIC8vIEBGSVhNRTogbnVsbCBleGNlcHRpb25zCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
