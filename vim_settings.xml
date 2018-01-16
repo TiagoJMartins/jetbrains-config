@@ -172,6 +172,13 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1516104537216">
+        <mark key="'" line="0" column="515" />
+        <mark key="[" line="17" column="54" />
+        <mark key="]" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" timestamp="1516030423425">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="9" column="25" />
@@ -278,7 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
       <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
       <jump line="54" column="20" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
       <jump line="7" column="39" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
@@ -378,10 +384,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" />
       <jump line="42" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" />
       <jump line="47" column="8" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" />
+      <jump line="0" column="515" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -393,25 +400,25 @@
         <text encoding="base64">ICBzdGVwczoKICAgIC0gcGlwLWluc3RhbGwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGNvaXNhcwogICAgICAgIGNvZGU6IGVjaG8gImRvbmUiCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGNvaXNhcwogICAgICAgIGNvZGU6IGVjaG8gImRvbmUiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGNvaXNhcwogICAgICAgIGNvZGU6IHwKICAgICAgICAgIHB3ZCAmJiBscwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBzdGVwczoKCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gcGlwLWluc3RhbGwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGNvaXNhcwogICAgICAgIGNvZGU6IHwKICAgICAgICAgIHB3ZCAmJiBscwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBzdGVwczoKCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC0gcGlwLWluc3RhbGwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGNvcHkgdG8gb3V0cHV0CiAgICAgICAgICBjcCAtciAuLyAkV0VSQ0tFUl9PVVRQVVRfRElSLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -424,10 +431,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGNvcHkgdG8gb3V0cHV0CiAgICAgICAgICBjcCAtciAuLyAkV0VSQ0tFUl9PVVRQVVRfRElSLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gcGlwLWluc3RhbGw6CiAgICAgICAgcmVxdWlyZW1lbnRzX2ZpbGU6ICIiCiAgICAgICAgcGFja2FnZXNfbGlzdDogInZpcnR1YWxlbnYiCgogICAgLSB2aXJ0dWFsZW52Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
