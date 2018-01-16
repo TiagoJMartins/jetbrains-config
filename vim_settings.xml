@@ -87,7 +87,7 @@
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.gitattributes" timestamp="1513094418015">
         <mark key="[" line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/Dockerfile" timestamp="1516093427415">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/Dockerfile" timestamp="1516102431283">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -120,12 +120,12 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" timestamp="1516097762037">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" timestamp="1516102609708">
+        <mark key="'" line="25" column="35" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/.gitignore" timestamp="1516094862994">
         <mark key="'" line="23" column="15" />
@@ -155,9 +155,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" timestamp="1516094815275">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="27" column="56" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" timestamp="1516100253700">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="36" />
         <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Fixtures/UserStats/me.json" timestamp="1516009710840">
@@ -206,7 +206,7 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/AnimatedCircleProgress/AnimatedCircleProgress.js" timestamp="1516095659925" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/AnimatedCircleProgress/AnimatedCircleProgress.js" timestamp="1516100067655" />
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1516033603080">
         <mark key="'" line="87" column="11" />
         <mark key="[" line="96" column="0" />
@@ -251,12 +251,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1516098207728">
-        <mark key="'" line="125" column="12" />
-        <mark key="[" line="46" column="29" />
-        <mark key="]" line="48" column="23" />
-        <mark key="." line="48" column="23" />
-        <mark key="^" line="48" column="23" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1516100285978">
+        <mark key="'" line="123" column="12" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" timestamp="1516028097770">
         <mark key="'" line="11" column="22" />
@@ -270,6 +269,7 @@
       <file name="/fragment.java" timestamp="1515490208475">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/requirements.txt" timestamp="1516100761500" />
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/ecs-task-definition.staging.json" timestamp="1516094464169">
         <mark key="'" line="31" column="42" />
         <mark key="[" line="31" column="0" />
@@ -278,11 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="7" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
-      <jump line="55" column="19" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
-      <jump line="2" column="19" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/worker.py" />
-      <jump line="60" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
       <jump line="51" column="26" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
       <jump line="5" column="14" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
       <jump line="52" column="19" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
@@ -373,45 +368,50 @@
       <jump line="23" column="15" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/.gitignore" />
       <jump line="21" column="2" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" />
       <jump line="26" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" />
       <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
       <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
       <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
       <jump line="12" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" />
+      <jump line="3" column="7" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" />
+      <jump line="24" column="6" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" />
+      <jump line="30" column="29" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" />
+      <jump line="29" column="35" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChleGMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKCkK</text>
+        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGNvaXNhcwogICAgICAgIGNvZGU6IHwKICAgICAgICAgIHB3ZCAmJiBscwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChleGMpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFjZWJhY2sucHJpbnRfZXhjKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">bW9uZ28gPSBOb25lCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGNvcHkgdG8gb3V0cHV0CiAgICAgICAgICBjcCAtciAuLyAkV0VSQ0tFUl9PVVRQVVRfRElSLwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC0gcGlwLWluc3RhbGw6CiAgICAgICAgcmVxdWlyZW1lbnRzX2ZpbGU6ICIiCiAgICAgICAgcGFja2FnZXNfbGlzdDogInZpcnR1YWxlbnYiCgogICAgLSB2aXJ0dWFsZW52Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHB3ZCAmJiBscwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgRFJZX1JVTiBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgIC0gdmlydHVhbGVudgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">RFJZX1JVTiA9IG9zLmVudmlyb24uZ2V0KCJEUllfUlVOIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -424,10 +424,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGNvcHkgdG8gb3V0cHV0CiAgICAgICAgY29kZTogfAogICAgICAgICAgY3AgLXIgLi8gJFdFUkNLRVJfT1VUUFVUX0RJUi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMjCgoKR0VUIGh0dHBzOi8vYXBwLndlcmNrZXIuY29tL2FwaS92My9hcHBsaWNhdGlvbnMvU2N5dGFsZS9za29yci1zb2NpYWwtc2NyYXBlcnMKQXV0aG9yaXphdGlvbjogQmVhcmVyIDg2YTFjZWU0NDUwYWMxNGRlMjViZjA1ZjM2ZGI4YTUwMzg5OGU0ZGM0YzkyN2Y5ZDRhMTU2YTJiZmFlNTQ5YWQKCjw+IDIwMTgtMDEtMTZUMDk1OTE2LjIwMC5qc29uCgojIyMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
