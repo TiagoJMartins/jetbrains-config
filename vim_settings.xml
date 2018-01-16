@@ -218,12 +218,12 @@
         <mark key="^" line="74" column="24" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/AnimatedCircleProgress/AnimatedCircleProgress.js" timestamp="1516100067655" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1516115303519">
-        <mark key="'" line="87" column="11" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="85" column="19" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1516119160035">
+        <mark key="'" line="89" column="11" />
+        <mark key="[" line="85" column="20" />
+        <mark key="]" line="85" column="24" />
+        <mark key="." line="85" column="20" />
+        <mark key="^" line="85" column="16" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialNetworkDistribution.kt" timestamp="1516023886402">
         <mark key="[" line="7" column="1" />
@@ -399,11 +399,11 @@
       <jump line="78" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmZyb20gcmFuZG9tIGltcG9ydCBzaHVmZmxlCg==</text>
+      <register name="&quot;" type="4">
+        <text>41</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>41</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
