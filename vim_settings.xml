@@ -267,11 +267,12 @@
         <mark key="." line="163" column="0" />
         <mark key="^" line="180" column="68" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-svm/main.py" timestamp="1516204078366">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-svm/main.py" timestamp="1516204219086">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="21" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SkorrSocialWeight.kt" timestamp="1516043954814">
         <mark key="[" line="6" column="0" />
@@ -312,7 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="8" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/dfp.py" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/dfp.py" />
       <jump line="37" column="28" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/dfp.py" />
       <jump line="349" column="47" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/tasks.py" />
@@ -412,13 +412,14 @@
       <jump line="2" column="19" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="1" column="30" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGlnaXRzLmltYWdlcy5yZXNoYXBlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>digits.images[0]</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
