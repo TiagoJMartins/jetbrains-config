@@ -228,12 +228,12 @@
         <mark key="^" line="83" column="29" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1516199920196">
-        <mark key="'" line="22" column="19" />
-        <mark key="[" line="49" column="53" />
-        <mark key="]" line="49" column="58" />
-        <mark key="^" line="49" column="58" />
-        <mark key="." line="49" column="58" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1516201401071">
+        <mark key="'" line="35" column="38" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="20" column="95" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialNetworkDistribution.kt" timestamp="1516023886402">
         <mark key="[" line="7" column="1" />
@@ -260,12 +260,12 @@
         <mark key="^" line="25" column="28" />
         <mark key="." line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1516198385265">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1516201269778">
         <mark key="'" line="155" column="29" />
-        <mark key="[" line="24" column="41" />
-        <mark key="]" line="24" column="40" />
-        <mark key="." line="24" column="40" />
-        <mark key="^" line="24" column="40" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
+        <mark key="^" line="180" column="68" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-svm/main.py" timestamp="1516188127719">
         <mark key="'" line="0" column="0" />
@@ -292,11 +292,11 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAO.kt" timestamp="1516198411672">
-        <mark key="[" line="16" column="53" />
-        <mark key="]" line="16" column="61" />
-        <mark key="^" line="16" column="61" />
-        <mark key="." line="16" column="61" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAO.kt" timestamp="1516201349984">
+        <mark key="[" line="16" column="84" />
+        <mark key="]" line="16" column="130" />
+        <mark key="^" line="16" column="130" />
+        <mark key="." line="16" column="130" />
       </file>
       <file name="/Groovy JUnit Test Method.txt.ft" timestamp="1514988385409">
         <mark key="[" line="0" column="0" />
@@ -312,7 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="62" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="11" column="11" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="22" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
@@ -412,46 +411,41 @@
       <jump line="173" column="34" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" />
       <jump line="154" column="29" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" />
       <jump line="21" column="19" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" />
+      <jump line="35" column="38" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzb2NpYWxUb2tlbnMuJC50dGwiOiAiJHR5cGV8JHRva2VuIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyQ29sbGVjdGlvbi51cGRhdGVPbmUoIiIiewogICAgICAgICAgICAgICAgICAgICAgICAiX2lkIjogJHt1c2VySWQuanNvbn0sCiAgICAgICAgICAgICAgICAgICAgICAgICJzb2NpYWxUb2tlbnMudHlwZSI6ICIkdHlwZSIKICAgICAgICAgICAgICAgICAgICB9IiIiLnRyaW1NYXJnaW4oKSwgIiIiewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJVcGRhdGluZyBuZXR3b3JrICckdHlwZScgd2l0aCB0b2tlbiAnJHRva2VuJyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzb2NpYWxUb2tlbnMuJC50dGwiOiAiJHR5cGV8JHRva2VuIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;&quot;&quot;{
-                        &quot;_id&quot;: ${userId.json},
-                        &quot;socialTokens.type&quot;: &quot;$type&quot;
-                    }&quot;&quot;&quot;.trimMargin()</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJVcGRhdGluZyBuZXR3b3JrICckdHlwZScgd2l0aCB0b2tlbiAnJHRva2VuJyIpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJVcHNlcnRpbmcgbmV0d29yayAnJHR5cGUnIikKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiIgo=</text>
+        <text encoding="base64">CiAgICAgICAgcHJpbnRsbih0b2tlbnMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJVcHNlcnRpbmcgbmV0d29yayAnJHR5cGUnIikKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKGUpCiAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;&quot;&quot;{
-                        &quot;_id&quot;: ${userId.json},
-                        &quot;socialTokens.type&quot;: &quot;$type&quot;
-                    }&quot;&quot;&quot;.trimMargin()</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -464,10 +458,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oIlVwZGF0aW5nIG5ldHdvcmsgJyR0eXBlJyB3aXRoIHRva2VuICckdG9rZW4nIikKCg==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
