@@ -177,7 +177,7 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1516202615860">
+      <file name="/Python Console" timestamp="1516203736501">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1516104537216">
@@ -267,8 +267,11 @@
         <mark key="." line="163" column="0" />
         <mark key="^" line="180" column="68" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-svm/main.py" timestamp="1516202238715">
+      <file name="$USER_HOME$/www/work/skorr/skorr-svm/main.py" timestamp="1516204078366">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SkorrSocialWeight.kt" timestamp="1516043954814">
         <mark key="[" line="6" column="0" />
@@ -309,10 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="11" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
-      <jump line="22" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="34" column="8" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/dfp.py" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/dfp.py" />
       <jump line="37" column="28" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/dfp.py" />
@@ -394,13 +393,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/dfp.py" />
       <jump line="78" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
       <jump line="84" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="126" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="14" column="34" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="9" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="122" column="18" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="37" column="4" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="25" column="26" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" />
       <jump line="142" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" />
       <jump line="145" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" />
@@ -409,13 +406,19 @@
       <jump line="154" column="29" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" />
       <jump line="21" column="19" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" />
       <jump line="35" column="38" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" />
+      <jump line="47" column="10" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
+      <jump line="10" column="20" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
+      <jump line="2" column="19" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
+      <jump line="1" column="30" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGlnaXRzLmltYWdlcy5yZXNoYXBlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>digits.images[0]</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -424,25 +427,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJVcGRhdGluZyBuZXR3b3JrICckdHlwZScgd2l0aCB0b2tlbiAnJHRva2VuJyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oKQo=</text>
+        <text encoding="base64">ZGlnaXRzLmltYWdlcy5yZXNoYXBlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJVcGRhdGluZyBuZXR3b3JrICckdHlwZScgd2l0aCB0b2tlbiAnJHRva2VuJyIpCgo=</text>
+        <text encoding="base64">emlwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJVcHNlcnRpbmcgbmV0d29yayAnJHR5cGUnIikKCg==</text>
+        <text encoding="base64">cGx0LmdyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpbnRsbih0b2tlbnMpCg==</text>
+        <text encoding="base64">IyBJbXBvcnQgZGF0YXNldHMsIGNsYXNzaWZpZXJzIGFuZCBwZXJmb3JtYW5jZSBtZXRyaWNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKCJVcHNlcnRpbmcgbmV0d29yayAnJHR5cGUnIikKCg==</text>
+        <text encoding="base64">IyBUaGUgZGF0YSB0aGF0IHdlIGFyZSBpbnRlcmVzdGVkIGluIGlzIG1hZGUgb2YgOHg4IGltYWdlcyBvZiBkaWdpdHMsIGxldCdzCiMgaGF2ZSBhIGxvb2sgYXQgdGhlIGZpcnN0IDQgaW1hZ2VzLCBzdG9yZWQgaW4gdGhlIGBpbWFnZXNgIGF0dHJpYnV0ZSBvZiB0aGUKIyBkYXRhc2V0LiAgSWYgd2Ugd2VyZSB3b3JraW5nIGZyb20gaW1hZ2UgZmlsZXMsIHdlIGNvdWxkIGxvYWQgdGhlbSB1c2luZwojIG1hdHBsb3RsaWIucHlwbG90LmltcmVhZC4gIE5vdGUgdGhhdCBlYWNoIGltYWdlIG11c3QgaGF2ZSB0aGUgc2FtZSBzaXplLiBGb3IgdGhlc2UKIyBpbWFnZXMsIHdlIGtub3cgd2hpY2ggZGlnaXQgdGhleSByZXByZXNlbnQ6IGl0IGlzIGdpdmVuIGluIHRoZSAndGFyZ2V0JyBvZgojIHRoZSBkYXRhc2V0LgppbWFnZXNfYW5kX2xhYmVscyA9IGxpc3QoemlwKGRpZ2l0cy5pbWFnZXMsIGRpZ2l0cy50YXJnZXQpKQpmb3IgaW5kZXgsIChpbWFnZSwgbGFiZWwpIGluIGVudW1lcmF0ZShpbWFnZXNfYW5kX2xhYmVsc1s6NF0pOgogICAgcGx0LnN1YnBsb3QoMiwgNCwgaW5kZXggKyAxKQogICAgcGx0LmF4aXMoJ29mZicpCiAgICBwbHQuaW1zaG93KGltYWdlLCBjbWFwPXBsdC5jbS5ncmF5X3IsIGludGVycG9sYXRpb249J25lYXJlc3QnKQogICAgcGx0LnRpdGxlKCdUcmFpbmluZzogJWknICUgbGFiZWwpCgojIFRvIGFwcGx5IGEgY2xhc3NpZmllciBvbiB0aGlzIGRhdGEsIHdlIG5lZWQgdG8gZmxhdHRlbiB0aGUgaW1hZ2UsIHRvCiMgdHVybiB0aGUgZGF0YSBpbiBhIChzYW1wbGVzLCBmZWF0dXJlKSBtYXRyaXg6Cm5fc2FtcGxlcyA9IGxlbihkaWdpdHMuaW1hZ2VzKQpkYXRhID0gZGlnaXRzLmltYWdlcy5yZXNoYXBlKChuX3NhbXBsZXMsIC0xKSkKCiMgQ3JlYXRlIGEgY2xhc3NpZmllcjogYSBzdXBwb3J0IHZlY3RvciBjbGFzc2lmaWVyCmNsYXNzaWZpZXIgPSBzdm0uU1ZDKGdhbW1hPTAuMDAxKQoKIyBXZSBsZWFybiB0aGUgZGlnaXRzIG9uIHRoZSBmaXJzdCBoYWxmIG9mIHRoZSBkaWdpdHMKY2xhc3NpZmllci5maXQoZGF0YVs6bl9zYW1wbGVzIC8vIDJdLCBkaWdpdHMudGFyZ2V0WzpuX3NhbXBsZXMgLy8gMl0pCgojIE5vdyBwcmVkaWN0IHRoZSB2YWx1ZSBvZiB0aGUgZGlnaXQgb24gdGhlIHNlY29uZCBoYWxmOgpleHBlY3RlZCA9IGRpZ2l0cy50YXJnZXRbbl9zYW1wbGVzIC8vIDI6XQpwcmVkaWN0ZWQgPSBjbGFzc2lmaWVyLnByZWRpY3QoZGF0YVtuX3NhbXBsZXMgLy8gMjpdKQoKcHJpbnQoIkNsYXNzaWZpY2F0aW9uIHJlcG9ydCBmb3IgY2xhc3NpZmllciAlczpcbiVzXG4iCiAgICAgICUgKGNsYXNzaWZpZXIsIG1ldHJpY3MuY2xhc3NpZmljYXRpb25fcmVwb3J0KGV4cGVjdGVkLCBwcmVkaWN0ZWQpKSkKcHJpbnQoIkNvbmZ1c2lvbiBtYXRyaXg6XG4lcyIgJSBtZXRyaWNzLmNvbmZ1c2lvbl9tYXRyaXgoZXhwZWN0ZWQsIHByZWRpY3RlZCkpCgppbWFnZXNfYW5kX3ByZWRpY3Rpb25zID0gbGlzdCh6aXAoZGlnaXRzLmltYWdlc1tuX3NhbXBsZXMgLy8gMjpdLCBwcmVkaWN0ZWQpKQpmb3IgaW5kZXgsIChpbWFnZSwgcHJlZGljdGlvbikgaW4gZW51bWVyYXRlKGltYWdlc19hbmRfcHJlZGljdGlvbnNbOjRdKToKICAgIHBsdC5zdWJwbG90KDIsIDQsIGluZGV4ICsgNSkKICAgIHBsdC5heGlzKCdvZmYnKQogICAgcGx0Lmltc2hvdyhpbWFnZSwgY21hcD1wbHQuY20uZ3JheV9yLCBpbnRlcnBvbGF0aW9uPSduZWFyZXN0JykKICAgIHBsdC50aXRsZSgnUHJlZGljdGlvbjogJWknICUgcHJlZGljdGlvbikKCnBsdC5zaG93KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludGxuKGUpCiAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IyBUaGUgZGF0YSB0aGF0IHdlIGFyZSBpbnRlcmVzdGVkIGluIGlzIG1hZGUgb2YgOHg4IGltYWdlcyBvZiBkaWdpdHMsIGxldCdzCiMgaGF2ZSBhIGxvb2sgYXQgdGhlIGZpcnN0IDQgaW1hZ2VzLCBzdG9yZWQgaW4gdGhlIGBpbWFnZXNgIGF0dHJpYnV0ZSBvZiB0aGUKIyBkYXRhc2V0LiAgSWYgd2Ugd2VyZSB3b3JraW5nIGZyb20gaW1hZ2UgZmlsZXMsIHdlIGNvdWxkIGxvYWQgdGhlbSB1c2luZwojIG1hdHBsb3RsaWIucHlwbG90LmltcmVhZC4gIE5vdGUgdGhhdCBlYWNoIGltYWdlIG11c3QgaGF2ZSB0aGUgc2FtZSBzaXplLiBGb3IgdGhlc2UKIyBpbWFnZXMsIHdlIGtub3cgd2hpY2ggZGlnaXQgdGhleSByZXByZXNlbnQ6IGl0IGlzIGdpdmVuIGluIHRoZSAndGFyZ2V0JyBvZgojIHRoZSBkYXRhc2V0LgppbWFnZXNfYW5kX2xhYmVscyA9IGxpc3QoemlwKGRpZ2l0cy5pbWFnZXMsIGRpZ2l0cy50YXJnZXQpKQpmb3IgaW5kZXgsIChpbWFnZSwgbGFiZWwpIGluIGVudW1lcmF0ZShpbWFnZXNfYW5kX2xhYmVsc1s6NF0pOgogICAgcGx0LnN1YnBsb3QoMiwgNCwgaW5kZXggKyAxKQogICAgcGx0LmF4aXMoJ29mZicpCiAgICBwbHQuaW1zaG93KGltYWdlLCBjbWFwPXBsdC5jbS5ncmF5X3IsIGludGVycG9sYXRpb249J25lYXJlc3QnKQogICAgcGx0LnRpdGxlKCdUcmFpbmluZzogJWknICUgbGFiZWwpCgojIFRvIGFwcGx5IGEgY2xhc3NpZmllciBvbiB0aGlzIGRhdGEsIHdlIG5lZWQgdG8gZmxhdHRlbiB0aGUgaW1hZ2UsIHRvCiMgdHVybiB0aGUgZGF0YSBpbiBhIChzYW1wbGVzLCBmZWF0dXJlKSBtYXRyaXg6Cm5fc2FtcGxlcyA9IGxlbihkaWdpdHMuaW1hZ2VzKQpkYXRhID0gZGlnaXRzLmltYWdlcy5yZXNoYXBlKChuX3NhbXBsZXMsIC0xKSkKCiMgQ3JlYXRlIGEgY2xhc3NpZmllcjogYSBzdXBwb3J0IHZlY3RvciBjbGFzc2lmaWVyCmNsYXNzaWZpZXIgPSBzdm0uU1ZDKGdhbW1hPTAuMDAxKQoKIyBXZSBsZWFybiB0aGUgZGlnaXRzIG9uIHRoZSBmaXJzdCBoYWxmIG9mIHRoZSBkaWdpdHMKY2xhc3NpZmllci5maXQoZGF0YVs6bl9zYW1wbGVzIC8vIDJdLCBkaWdpdHMudGFyZ2V0WzpuX3NhbXBsZXMgLy8gMl0pCgojIE5vdyBwcmVkaWN0IHRoZSB2YWx1ZSBvZiB0aGUgZGlnaXQgb24gdGhlIHNlY29uZCBoYWxmOgpleHBlY3RlZCA9IGRpZ2l0cy50YXJnZXRbbl9zYW1wbGVzIC8vIDI6XQpwcmVkaWN0ZWQgPSBjbGFzc2lmaWVyLnByZWRpY3QoZGF0YVtuX3NhbXBsZXMgLy8gMjpdKQoKcHJpbnQoIkNsYXNzaWZpY2F0aW9uIHJlcG9ydCBmb3IgY2xhc3NpZmllciAlczpcbiVzXG4iCiAgICAgICUgKGNsYXNzaWZpZXIsIG1ldHJpY3MuY2xhc3NpZmljYXRpb25fcmVwb3J0KGV4cGVjdGVkLCBwcmVkaWN0ZWQpKSkKcHJpbnQoIkNvbmZ1c2lvbiBtYXRyaXg6XG4lcyIgJSBtZXRyaWNzLmNvbmZ1c2lvbl9tYXRyaXgoZXhwZWN0ZWQsIHByZWRpY3RlZCkpCgppbWFnZXNfYW5kX3ByZWRpY3Rpb25zID0gbGlzdCh6aXAoZGlnaXRzLmltYWdlc1tuX3NhbXBsZXMgLy8gMjpdLCBwcmVkaWN0ZWQpKQpmb3IgaW5kZXgsIChpbWFnZSwgcHJlZGljdGlvbikgaW4gZW51bWVyYXRlKGltYWdlc19hbmRfcHJlZGljdGlvbnNbOjRdKToKICAgIHBsdC5zdWJwbG90KDIsIDQsIGluZGV4ICsgNSkKICAgIHBsdC5heGlzKCdvZmYnKQogICAgcGx0Lmltc2hvdyhpbWFnZSwgY21hcD1wbHQuY20uZ3JheV9yLCBpbnRlcnBvbGF0aW9uPSduZWFyZXN0JykKICAgIHBsdC50aXRsZSgnUHJlZGljdGlvbjogJWknICUgcHJlZGljdGlvbikKCnBsdC5zaG93KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">cHJpbnQoZGlnaXRzLmRhdGEuc2hhcGUpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -458,7 +461,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50bG4oIlVwZGF0aW5nIG5ldHdvcmsgJyR0eXBlJyB3aXRoIHRva2VuICckdG9rZW4nIikKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
