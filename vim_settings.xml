@@ -26,7 +26,7 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="15" column="2" />
       </file>
-      <file name="/a.dummy" timestamp="1516115456114">
+      <file name="/a.dummy" timestamp="1516267236879">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d1aa1ee5-d520-423c-874f-bec8ce0623d3/console.sql" timestamp="1513510795958">
@@ -38,6 +38,12 @@
         <mark key="]" line="15" column="66" />
         <mark key="^" line="15" column="66" />
         <mark key="." line="15" column="66" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" timestamp="1516268331049">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
       </file>
       <file name="/Groovy JUnit SetUp Method.txt.ft" timestamp="1514988385044">
         <mark key="[" line="0" column="0" />
@@ -176,7 +182,7 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1516266017406">
+      <file name="/Python Console" timestamp="1516268249059">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1516104537216">
@@ -234,6 +240,12 @@
         <mark key="." line="34" column="29" />
         <mark key="^" line="34" column="29" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-svm/x_train.txt" timestamp="1516267795129">
+        <mark key="[" line="114" column="35" />
+        <mark key="]" line="114" column="36" />
+        <mark key="." line="114" column="36" />
+        <mark key="^" line="114" column="36" />
+      </file>
       <file name="/Dummy.txt" timestamp="1516188178519">
         <mark key="[" line="0" column="0" />
       </file>
@@ -289,12 +301,12 @@
         <mark key="." line="163" column="0" />
         <mark key="^" line="180" column="68" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-svm/main.py" timestamp="1516266224176">
-        <mark key="'" line="33" column="45" />
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="33" column="42" />
-        <mark key="." line="33" column="42" />
-        <mark key="^" line="33" column="42" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-svm/main.py" timestamp="1516268248008">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="22" column="18" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SkorrSocialWeight.kt" timestamp="1516043954814">
         <mark key="[" line="6" column="0" />
@@ -302,6 +314,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="26" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/UserSummary.kt" timestamp="1516268449010" />
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1516105905875">
         <mark key="'" line="71" column="9" />
         <mark key="[" line="28" column="0" />
@@ -311,6 +324,11 @@
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" timestamp="1516028097770">
         <mark key="'" line="11" column="22" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-svm/y_train.txt" timestamp="1516267368980">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
@@ -335,9 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" />
-      <jump line="6" column="7" filename="$USER_HOME$/www/work/skorr/skorr-processors/processor/rabbit_worker.py" />
-      <jump line="84" column="17" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
       <jump line="3" column="15" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
       <jump line="10" column="8" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" />
       <jump line="16" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" />
@@ -399,7 +414,6 @@
       <jump line="19" column="13" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="23" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="18" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
-      <jump line="16" column="16" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="60" column="46" filename="$USER_HOME$/www/work/skorr/skorr-svm/dataset.csv" />
       <jump line="55" column="35" filename="$USER_HOME$/www/work/skorr/skorr-svm/dataset.csv" />
@@ -423,52 +437,56 @@
       <jump line="11" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="32" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="10" column="26" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
-      <jump line="12" column="9" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="13" column="19" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="31" column="26" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="41" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="37" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="9" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="33" column="45" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
       <jump line="27" column="30" filename="$USER_HOME$/www/work/skorr/skorr-svm/spacedata.csv" />
+      <jump line="60" column="12" filename="$USER_HOME$/www/work/skorr/skorr-svm/x_train.txt" />
+      <jump line="60" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/y_train.txt" />
+      <jump line="16" column="28" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
+      <jump line="12" column="21" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJpZW5kcyBmb2xsb3dlcnMgYXVkaWVuY2UgbGlrZXMgY29tbWVudHMgcG9zdHMgc2hhcmVzIGZhbnMgZm9sbG93aW5nIHRhcmdldAo=</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>pred</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">MTgzLDIzMiw5MDk0NCwyMjAsOTYsNTMsNjgsODcsNjcK</text>
+        <text encoding="base64">cGx0LnBsb3QodGVzdCwgbnAuemVyb3NfbGlrZSh0ZXN0KSArIHZhbCwgJ3gnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJpZW5kcyBmb2xsb3dlcnMgYXVkaWVuY2UgbGlrZXMgY29tbWVudHMgcG9zdHMgc2hhcmVzIGZhbnMgZm9sbG93aW5nIHRhcmdldAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">cHJlZCA9IAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CnByaQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">cHJlZGljdGlvbiA9IGNsZi5wcmVkaWN0KHRlc3QpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyBodHRwczovL3d3dy5yZWRkaXQuY29tL3IvbGVhcm5weXRob24vY29tbWVudHMvM2M3NXBwL2hlbHBfd2l0aF9zY2lraXRsZWFybi8KCg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">MTgzLDIzMiw5MDk0NCwyMjAsOTYsNTMsNjgsODcsNjcK</text>
+        <text encoding="base64">CmltcG9ydCBjc3YKCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -481,10 +499,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGF0YXNldCA9IGRhdGFzZXQuc2hhcGUK</text>
+        <text encoding="base64">CiMgbnAuYW55KG5wLmlzbmFuKFhfdHJhaW4pKQoKcHJpbnQoWF90cmFpblswXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmRhCg==</text>
+        <text encoding="base64">CiMgZm9yIGlkeCwgaSBpbiBlbnVtZXJhdGUoWF90cmFpbik6CiMgICAgIGZvciBpZHgyLCBqIGluIGVudW1lcmF0ZShpKToKIyAgICAgICAgIGlmIG5wLmlzbmFuKGopOgojICAgICAgICAgICAgIHByaW50KGkpCiMgICAgICAgICAgICAgcHJpbnQoaiwgIlt7fSB7fV0iLmZvcm1hdChpZHgsIGlkeDIpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
