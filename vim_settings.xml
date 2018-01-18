@@ -182,7 +182,7 @@
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1516269431224">
+      <file name="/Python Console" timestamp="1516270576944">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1516104537216">
@@ -240,7 +240,7 @@
         <mark key="." line="34" column="29" />
         <mark key="^" line="34" column="29" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-svm/x_train.txt" timestamp="1516267795129">
+      <file name="$USER_HOME$/www/work/skorr/skorr-svm/x_train.txt" timestamp="1516269542331">
         <mark key="[" line="114" column="35" />
         <mark key="]" line="114" column="36" />
         <mark key="." line="114" column="36" />
@@ -301,12 +301,12 @@
         <mark key="." line="163" column="0" />
         <mark key="^" line="180" column="68" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-svm/main.py" timestamp="1516269244662">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="30" />
-        <mark key="." line="20" column="30" />
-        <mark key="^" line="20" column="30" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-svm/main.py" timestamp="1516270709705">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+        <mark key="^" line="15" column="24" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SkorrSocialWeight.kt" timestamp="1516043954814">
         <mark key="[" line="6" column="0" />
@@ -328,7 +328,7 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-svm/y_train.txt" timestamp="1516267368980">
+      <file name="$USER_HOME$/www/work/skorr/skorr-svm/y_train.txt" timestamp="1516269572431">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
@@ -455,8 +455,8 @@
       <jump line="12" column="0" filename="$USER_HOME$/www/work/skorr/skorr-svm/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[1, 1, 1, 1, 1, 1, 1, 1, 1]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDEsIDEsIDEsIDEsIDEsIDEsIDEsIDEsIDEK</text>
       </register>
       <register name="-" type="4">
         <text>[1, 1, 1, 1, 1, 1, 1, 1, 1]</text>
@@ -468,22 +468,22 @@
         <text encoding="base64">cGx0LnBsb3QodGVzdCwgbnAuemVyb3NfbGlrZSh0ZXN0KSArIHZhbCwgJ3gnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJlZGljdGlvCg==</text>
+        <text encoding="base64">ICAgIDEsIDEsIDEsIDEsIDEsIDEsIDEsIDEsIDEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFyZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJlZGljdGlvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJlZGljdGlvbiA9IGNsZi5wcmVkaWN0KHRlc3QpCg==</text>
+        <text encoding="base64">aW1wb3J0IGFyZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJlZGljdGlvbiA9IGNsZi5wcmVkaWN0KHRlc3QpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cgo=</text>
@@ -502,7 +502,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmltcG9ydCBjc3YKCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
