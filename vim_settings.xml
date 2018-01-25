@@ -156,11 +156,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/send.py" timestamp="1516872268160">
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="18" />
-        <mark key="^" line="29" column="15" />
-        <mark key="." line="23" column="18" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/send.py" timestamp="1516878228642">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="35" />
+        <mark key="^" line="23" column="35" />
+        <mark key="." line="23" column="35" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialToken.kt" timestamp="1516728411930">
         <mark key="'" line="13" column="32" />
@@ -253,18 +253,18 @@
       <file name="/Dummy.txt" timestamp="1516794381494">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1516814088544">
-        <mark key="'" line="14" column="66" />
-        <mark key="[" line="69" column="68" />
-        <mark key="]" line="69" column="67" />
-        <mark key="^" line="69" column="67" />
-        <mark key="." line="69" column="67" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1516878117832">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1516874613642">
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
-        <mark key="^" line="186" column="88" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1516878959499">
+        <mark key="[" line="70" column="77" />
+        <mark key="]" line="70" column="87" />
+        <mark key="^" line="70" column="87" />
+        <mark key="." line="70" column="87" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/SocialNetwork.py" timestamp="1516790517212">
         <mark key="'" line="6" column="4" />
@@ -359,7 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="19" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/NotificationMessage/NotificationMessage.js" />
       <jump line="8" column="16" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/NotificationsHandler/NotificationsHandler.styles.js" />
       <jump line="60" column="30" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
       <jump line="107" column="12" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
@@ -459,42 +458,46 @@
       <jump line="153" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="152" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="166" column="22" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
+      <jump line="89" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbmV0d29yaywgdmFsIGluIG5ldF9kaWN0Lml0ZW1zKCk6CiAgICAgICAgICAgIHByaW50KHZhbC5nZXQoa3BpKSkK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>kpi_v</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="4">
-        <text>{
-            'value': 0
-        }</text>
+        <text>v.get(kpi, {}).get('value', 0) for v in net_dict.values()</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbmV0d29yaywgdmFsIGluIG5ldF9kaWN0Lml0ZW1zKCk6CiAgICAgICAgICAgIHByaW50KHZhbC5nZXQoa3BpKSkK</text>
+      <register name="1" type="4">
+        <text>{
+        'userId': ObjectId(user_id),
+        'createdAt': {
+            '$gte': arrow.utcnow().shift(days=-1)
+        }
+    }, sort=[('_id', pymongo.DESCENDING)]</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBrcGkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobmV0d29yaykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChrcGkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICMgZm9yIG4gaW4gbmV0X2RpY3QudmFsdWVzKCk6CiAgICAjICAgICBwcmludCh0eXBlKGJyZWFrZG93bikpCiAgICAjICAgICBwcmludCh0eXBlKG4pKQogICAgIyAgICAgYnJlYWtkb3duICs9IG4KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobmV0d29yaykK</text>
+        <text encoding="base64">CiAgICAgICAgcHJpbnQoYnJlYWtkb3duWydrcGknXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3N1bSc6IHN1bSh2LmdldChrcGksIHt9KS5nZXQoJ3ZhbHVlJywgMCkgZm9yIHYgaW4gbmV0X2RpY3QudmFsdWVzKCkpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -507,10 +510,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYga3BpIGluIHZhbFsna3BpJ10uaXRlbXM6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KG5ldF9kaWN0KQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>10</text>
