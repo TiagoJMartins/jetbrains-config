@@ -33,8 +33,20 @@
         <mark key="." line="12" column="59" />
         <mark key="^" line="12" column="59" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" timestamp="1516898575430">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+      </file>
       <file name="/Groovy JUnit SetUp Method.txt.ft" timestamp="1514988385044">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/training.json" timestamp="1516898790202">
+        <mark key="'" line="2476" column="1" />
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="34" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ValuedFans/ValuedFans.js" timestamp="1516012104458">
         <mark key="[" line="25" column="0" />
@@ -278,7 +290,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1516881467203">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1516898057551">
         <mark key="'" line="5" column="11" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -385,8 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="45" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" />
-      <jump line="10" column="32" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialToken.kt" />
       <jump line="27" column="4" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" />
       <jump line="9" column="47" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" />
       <jump line="50" column="27" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/twitter/TwitterController.kt" />
@@ -485,13 +495,15 @@
       <jump line="77" column="24" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" />
       <jump line="52" column="20" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" />
       <jump line="35" column="3" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/.gitignore" />
+      <jump line="2480" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/training.json" />
+      <jump line="2479" column="1" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/training.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -500,25 +512,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBmYWNlYm9vayh0b2tlbikKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgTnVsbFBvaW50ZXJFeGNlcHRpb24oKQogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICIke2l0LnJlc3BvbnNlKCkubWVzc2FnZSgpfSIK</text>
+        <text encoding="base64">ICAidG9rZW5FeHBpcmF0aW9uIiA6ICIyMDE4LTAyLTE4VDE2OjI1OjIyLjc4OCswMDAwIiwKICAiZGF0ZUNyZWF0ZWQiIDogIjIwMTgtMDEtMThUMTY6MjU6MjIuNzg4KzAwMDAiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAiX192IiA6IDApCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgICAgICAgICAgICAgIHRocm93IE51bGxQb2ludGVyRXhjZXB0aW9uKCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CnByaW50KGFyZ3MuaWRlbnRpZmllcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkVycm9yUmVzdW1lTmV4dCB7IHRocm93IE51bGxQb2ludGVyRXhjZXB0aW9uKCkgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICIke2l0LnJlc3BvbnNlKCkubWVzc2FnZSgpfSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkVycm9yUmV0dXJuIHsgdGhyb3cgTnVsbFBvaW50ZXJFeGNlcHRpb24oKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbmVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IEV4Y2VwdGlvbikgewogICAgICAgICAgICAgICAgICAgIHRocm93IE51bGxQb2ludGVyRXhjZXB0aW9uKCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -531,10 +543,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vbkVycm9yUmVzdW1lTmV4dCB7IHRocm93IE51bGxQb2ludGVyRXhjZXB0aW9uKCkgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>43</text>
