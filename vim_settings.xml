@@ -6,13 +6,13 @@
       <file name="/start_script.py" timestamp="1513954189563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/open-friday/auto-adb/autoadb.py" timestamp="1516981959390">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/www/work/open-friday/auto-adb/autoadb.py" timestamp="1516983409108">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="8" />
       </file>
-      <file name="/a.dummy" timestamp="1516357234250">
+      <file name="/a.dummy" timestamp="1516983454411">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d1aa1ee5-d520-423c-874f-bec8ce0623d3/console.sql" timestamp="1513510795958">
@@ -267,6 +267,13 @@
         <mark key="." line="26" column="30" />
         <mark key="^" line="26" column="31" />
       </file>
+      <file name="$USER_HOME$/www/work/open-friday/auto-adb/aadb.py" timestamp="1516984947357">
+        <mark key="'" line="0" column="42" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" timestamp="1516958879856">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="3" column="0" />
@@ -392,13 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="5" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
-      <jump line="23" column="29" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
-      <jump line="73" column="26" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
-      <jump line="14" column="66" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
-      <jump line="147" column="8" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
-      <jump line="151" column="26" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="39" column="37" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="141" column="20" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="129" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
@@ -492,13 +492,20 @@
       <jump line="97" column="45" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="196" column="24" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="69" column="73" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/work/open-friday/auto-adb/autoadb.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/open-friday/auto-adb/aadb.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/work/open-friday/auto-adb/aadb.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/work/open-friday/auto-adb/aadb.py" />
+      <jump line="4" column="51" filename="$USER_HOME$/www/work/open-friday/auto-adb/aadb.py" />
+      <jump line="2" column="37" filename="$USER_HOME$/www/work/open-friday/auto-adb/aadb.py" />
+      <jump line="0" column="42" filename="$USER_HOME$/www/work/open-friday/auto-adb/aadb.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbQo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -507,25 +514,25 @@
         <text encoding="base64">QHJhdGVfbGltaXRlZCgxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbQo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGV2aWNlID0gVmlld0NsaWVudC5jb25uZWN0VG9EZXZpY2VPckV4aXQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBAcmF0ZV9saW1pdGVkKDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoIk1vc3QgY29tbWVudCBsaWtlcyIpCiAgICAjIGZvciB1IGluIG1vc3RfY29tbW9uX2xpa2VzOgogICAgIyAgICAgcHJpbnQobGVuKHUpKQoK</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh2WzBdWyd1c2VybmFtZSddKQo=</text>
+        <text encoding="base64">ZnJvbSBjb20uZHRtaWxhbm8uYW5kcm9pZC52aWV3Y2xpZW50IGltcG9ydCBWaWV3Q2xpZW50Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBlb3BsZV9kaWN0ID0ge30KICAgIGZvciBpIGluIGFsbF9saWtlczoKICAgICAgICBwZW9wbGVfZGljdC5zZXRkZWZhdWx0KGlbJ2lkJ10sIFtdKS5hcHBlbmQoaSkKCg==</text>
+        <text encoding="base64">ZnJvbSBjb20uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQoImFzZCIpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -538,10 +545,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvdW50ZXIgPSBDb3VudGVyKGxpa2VbJ2lkJ10gZm9yIGxpa2UgaW4gYWxsX2xpa2VzKQogICAgbW9zdF9jb21tb25fbGlrZXNfaWRzID0gbGlzdChtYXAoCiAgICAgICAgbGFtYmRhIHA6IHBbMF0sIGNvdW50ZXIubW9zdF9jb21tb24oOSkKICAgICkpCiAgICBtb3N0X2NvbW1vbl9saWtlcyA9IFtwZW9wbGVfZGljdFtwZXJzb25faWRdIGZvciBwZXJzb25faWQgaW4gbW9zdF9jb21tb25fbGlrZXNfaWRzXQo=</text>
+        <text encoding="base64">ZnJvbSBjb20uZHRtaWxhbm8uYW5kcm9pZC52aWV3Y2xpZW50IGltcG9ydCBWaWV3Q2xpZW50CgpkZXZpY2UsIHNlcmlhbG5vID0gVmlld0NsaWVudC5jb25uZWN0VG9EZXZpY2VPckV4aXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsbF9jb21tZW50cyA9IGdldF9tZWRpYV9jb21tZW50cyhhY2Nlc3NfdG9rZW4sIG1lZGlhX3dpdGhfY29tbWVudHMpCg==</text>
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoK</text>
       </register>
       <register name=":" type="4">
         <text>43</text>
