@@ -359,10 +359,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" timestamp="1516971128203">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" timestamp="1516975460328">
+        <mark key="'" line="69" column="73" />
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="16" />
+        <mark key="^" line="170" column="14" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAO.kt" timestamp="1516888986787">
         <mark key="[" line="17" column="53" />
@@ -384,10 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
-      <jump line="7" column="13" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
-      <jump line="121" column="10" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="123" column="5" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="23" column="29" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="53" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
@@ -484,10 +482,14 @@
       <jump line="167" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="59" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="60" column="49" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
+      <jump line="76" column="129" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
+      <jump line="97" column="45" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
+      <jump line="196" column="24" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
+      <jump line="69" column="73" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QHJhdGVfbGltaXRlZCgxKQo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -496,28 +498,28 @@
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBlb3BsZV9kaWN0ID0ge30KICAgIGZvciBpIGluIGFsbF9saWtlczoKICAgICAgICBwZW9wbGVfZGljdC5zZXRkZWZhdWx0KGlbJ2lkJ10sIFtdKS5hcHBlbmQoaSkK</text>
+        <text encoding="base64">QHJhdGVfbGltaXRlZCgxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBAcmF0ZV9saW1pdGVkKDEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICMgcHJpbnQoIk1vc3QgY29tbWVudCBsaWtlcyIpCiAgICAjIGZvciB1IGluIG1vc3RfY29tbW9uX2xpa2VzOgogICAgIyAgICAgcHJpbnQobGVuKHUpKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh2WzBdWyd1c2VybmFtZSddKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGpzb24uZHVtcHMocGVvcGxlX2RpY3QpKQo=</text>
+        <text encoding="base64">ICAgIHBlb3BsZV9kaWN0ID0ge30KICAgIGZvciBpIGluIGFsbF9saWtlczoKICAgICAgICBwZW9wbGVfZGljdC5zZXRkZWZhdWx0KGlbJ2lkJ10sIFtdKS5hcHBlbmQoaSkKCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGpzb24uZHVtcHMocGVvcGxlX2RpY3QpKQoK</text>
+        <text encoding="base64">ICAgIGNvdW50ZXIgPSBDb3VudGVyKGxpa2VbJ2lkJ10gZm9yIGxpa2UgaW4gYWxsX2xpa2VzKQogICAgbW9zdF9jb21tb25fbGlrZXNfaWRzID0gbGlzdChtYXAoCiAgICAgICAgbGFtYmRhIHA6IHBbMF0sIGNvdW50ZXIubW9zdF9jb21tb24oOSkKICAgICkpCiAgICBtb3N0X2NvbW1vbl9saWtlcyA9IFtwZW9wbGVfZGljdFtwZXJzb25faWRdIGZvciBwZXJzb25faWQgaW4gbW9zdF9jb21tb25fbGlrZXNfaWRzXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBlb3BsZV9kaWN0ID0ge2NvbW1bJ2lkJ106IGNvbW0gZm9yIGNvbW0gaW4gYWxsX2NvbW1lbnRzfQo=</text>
+        <text encoding="base64">ICAgIGFsbF9jb21tZW50cyA9IGdldF9tZWRpYV9jb21tZW50cyhhY2Nlc3NfdG9rZW4sIG1lZGlhX3dpdGhfY29tbWVudHMpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -530,10 +532,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcGVvcGxlX2RpY3QgPSB7bGlrZVsnaWQnXTogbGlrZSBmb3IgbGlrZSBpbiBhbGxfbGlrZXN9Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>43</text>
