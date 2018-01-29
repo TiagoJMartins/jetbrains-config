@@ -15,6 +15,12 @@
       <file name="/a.dummy" timestamp="1516983454411">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/UserFan.kt" timestamp="1517228108553">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d1aa1ee5-d520-423c-874f-bec8ce0623d3/console.sql" timestamp="1513510795958">
         <mark key="[" line="0" column="0" />
       </file>
@@ -39,12 +45,12 @@
         <mark key="." line="12" column="59" />
         <mark key="^" line="12" column="59" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" timestamp="1516970273974">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="73" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="7" column="70" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" timestamp="1517227519049">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="8" column="75" />
+        <mark key="]" line="9" column="74" />
+        <mark key="." line="9" column="74" />
+        <mark key="^" line="9" column="74" />
       </file>
       <file name="/Groovy JUnit SetUp Method.txt.ft" timestamp="1514988385044">
         <mark key="[" line="0" column="0" />
@@ -287,6 +293,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/UserFanInfo.kt" timestamp="1517229026228">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="48" />
+        <mark key="^" line="5" column="48" />
+        <mark key="." line="5" column="48" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1514988375462">
         <mark key="[" line="0" column="0" />
       </file>
@@ -371,17 +383,19 @@
         <mark key="." line="29" column="13" />
         <mark key="^" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1517221200710">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1517228241653">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="121" column="55" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" timestamp="1517221401524">
-        <mark key="'" line="69" column="73" />
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="." line="174" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" timestamp="1517229773025">
+        <mark key="'" line="73" column="118" />
+        <mark key="[" line="150" column="32" />
+        <mark key="]" line="150" column="53" />
+        <mark key="." line="150" column="53" />
+        <mark key="^" line="150" column="53" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAO.kt" timestamp="1516888986787">
         <mark key="[" line="17" column="53" />
@@ -403,12 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="37" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
-      <jump line="141" column="20" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
-      <jump line="129" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
-      <jump line="130" column="18" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
-      <jump line="139" column="30" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="159" column="3" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="158" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="157" column="37" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
@@ -465,9 +473,7 @@
       <jump line="13" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="122" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="11" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
-      <jump line="131" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="28" column="39" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="24" column="73" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="128" column="35" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="26" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
@@ -503,40 +509,60 @@
       <jump line="4" column="51" filename="$USER_HOME$/www/work/open-friday/auto-adb/aadb.py" />
       <jump line="2" column="37" filename="$USER_HOME$/www/work/open-friday/auto-adb/aadb.py" />
       <jump line="0" column="42" filename="$USER_HOME$/www/work/open-friday/auto-adb/aadb.py" />
+      <jump line="122" column="45" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
+      <jump line="152" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
+      <jump line="149" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
+      <jump line="130" column="20" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
+      <jump line="131" column="27" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
+      <jump line="132" column="26" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
+      <jump line="74" column="118" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1lZGlhX2lkcyA9IG1lZGlhX2lkc1s6LTFdCgo=</text>
+      <register name="&quot;" type="4">
+        <text>[{
+                    'profileId': p['from']['id'],
+                    'name': p['from']['full_name'],
+                    'displayPicture': p['from']['profile_picture'],
+                    'network': 'INSTAGRAM',
+                    'reason': 'Comments your posts'
+                } for p in most_common_commenters]</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>username</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG1lZGlhX2lkcyA9IG1lZGlhX2lkc1s6LTFdCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgICdwcm9maWxlSWQnOiBwWydmcm9tJ11bJ2lkJ10sCiAgICAgICAgICAgICAgICAgICAgJ25hbWUnOiBwWydmcm9tJ11bJ2Z1bGxfbmFtZSddLAogICAgICAgICAgICAgICAgICAgICdkaXNwbGF5UGljdHVyZSc6IHBbJ2Zyb20nXVsncHJvZmlsZV9waWN0dXJlJ10sCiAgICAgICAgICAgICAgICAgICAgJ25ldHdvcmsnOiAnSU5TVEFHUkFNJywKICAgICAgICAgICAgICAgICAgICAncmVhc29uJzogJ0NvbW1lbnRzIHlvdXIgcG9zdHMnCiAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG1lZGlhX2lkcyA9IG1lZGlhX2lkc1s6LTFdCgo=</text>
+      <register name="1" type="4">
+        <text>[{
+                    'profileId': p['from']['id'],
+                    'name': p['from']['full_name'],
+                    'displayPicture': p['from']['profile_picture'],
+                    'network': 'INSTAGRAM',
+                    'reason': 'Comments your posts'
+                } for p in most_common_commenters]</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Byb2ZpbGVVc2VybmFtZScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1lZGlhX2lkcyA9IG1lZGlhX2lkc1s6LTFdCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -549,10 +575,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnbWF4X2lkJzogJzE2NTk3NTQzNjY1MTQ1NjMxODZfMTk2OTQ1NjknCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgIHByaW50KGFsbF9saWtlc1swXSkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>43</text>
