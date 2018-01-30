@@ -38,11 +38,12 @@
         <mark key="." line="12" column="59" />
         <mark key="^" line="12" column="59" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" timestamp="1517313665089">
-        <mark key="'" line="22" column="13" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" timestamp="1517320924769">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="108" column="11" />
+        <mark key="]" line="108" column="11" />
+        <mark key="." line="108" column="11" />
+        <mark key="^" line="108" column="12" />
       </file>
       <file name="/Groovy JUnit SetUp Method.txt.ft" timestamp="1514988385044">
         <mark key="[" line="0" column="0" />
@@ -253,10 +254,10 @@
         <mark key="^" line="48" column="67" />
         <mark key="." line="48" column="67" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/short_tokens.csv" timestamp="1517313168461">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/short_tokens.csv" timestamp="1517320677655">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="34" />
+        <mark key="." line="3" column="34" />
       </file>
       <file name="/a.sql" timestamp="1513512301770">
         <mark key="[" line="0" column="0" />
@@ -418,8 +419,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="3" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
-      <jump line="151" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="146" column="12" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="158" column="28" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="6" column="30" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
@@ -518,40 +517,42 @@
       <jump line="123" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" />
       <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/helpers.py" />
       <jump line="21" column="13" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" />
+      <jump line="18" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRmLgo=</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>gen</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGNob29zZV90YXNrKHRhc2spOgogICAgdCA9IHRhc2sKCiAgICBpZiB0eXBlKHQpIGlzIGRpY3Q6CiAgICAgICAgdCA9IHQuZ2V0KCd0YXNrJywgTm9uZSkKCiAgICByZXR1cm4gewogICAgICAgICJGQUNFQk9PSyI6IGZhY2Vib29rLnNjcmFwZSwKICAgICAgICAiSU5TVEFHUkFNIjogaW5zdGFncmFtLnNjcmFwZSwKICAgICAgICAiVFdJVFRFUiI6IHR3aXR0ZXIuc2NyYXBlLAogICAgICAgICJVUERBVEVfVVNFUiI6IHVwZGF0ZV91c2VyLAogICAgfS5nZXQodCkK</text>
+        <text encoding="base64">NWE2MGNhNzJkYWUyZmY3OTUwYjExYjdkLDcyMzQwNDExMi45M2M1MTdlLjJlMjc1ZDA2YzVkNDQ1NjBhMTFiOWIwNWZhOWQ2NGM3LCxJTlNUQUdSQU0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRmLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRmCg==</text>
+        <text encoding="base64">ICAgIGZvciBpZHgsIHJvdyBpbiBkZi5pdGVycm93cygpOgogICAgICAgIGRbcm93WydpZCddXS5hcHBlbmQocm93KQoKICAgIHJlc3VsdHMgPSBkZWZhdWx0ZGljdChsaXN0KQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">NWE2MGNhNzJkYWUyZmY3OTUwYjExYjdkLDIyNTcwMDUwNC45M2M1MTdlLjJhZDI1MTM1ZDM1NTRiMzc5ZGQwZmNiNTNiZjBmZTkwLCxJTlNUQUdSQU0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9kZiA9IHBkLkRhdGFGcmFtZShjb2x1bW5zPVsnZnJpZW5kcycsICdmb2xsb3dlcnMnLCAnYXVkaWVuY2UnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdsaWtlcycsICdjb21tZW50cycsICdwb3N0cycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NoYXJlcycsICdmYW5zJywgJ2ZvbGxvd2luZycsICdpZCddKQo=</text>
+        <text encoding="base64">NWE2NGQ4YmY2NDRlZjcxMjg4Y2NlOGQ3LDcyMzQwNDExMi45M2M1MTdlLjJlMjc1ZDA2YzVkNDQ1NjBhMTFiOWIwNWZhOWQ2NGM3LCxJTlNUQUdSQU0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9kZiA9IHBkLkRhdGFGcmFtZShjb2x1bW5zPVsnZnJpZW5kcycsICdmb2xsb3dlcnMnLCAnYXVkaWVuY2UnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdsaWtlcycsICdjb21tZW50cycsICdwb3N0cycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3NoYXJlcycsICdmYW5zJywgJ2ZvbGxvd2luZycsICdpZCddKQo=</text>
+        <text encoding="base64">NWE2NGQ4YmY2NDRlZjcxMjg4Y2NlOGQ3LDcyMzQwNDExMi45M2M1MTdlLjJlMjc1ZDA2YzVkNDQ1NjBhMTFiOWIwNWZhOWQ2NGM3LCxJTlNUQUdSQU0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">NWE2MGQ3OGJlNzhiMTUwMWEwZDYwYmZkLDYwODE5ODAzMzkuOTNjNTE3ZS41YTliY2FhMmU5Zjc0OTdkOTAwZWRkNTk3ODdlYzU0YSwsSU5TVEFHUkFNCjVhNjBlYTBiNjQ0ZWY3MTI4OGNjZThkMyw3ODE3Njg3LjkzYzUxN2UuM2QyMzVhMmEyM2Q1NGQwYzg0OGNjY2NiMTIyMDJlZWMsLElOU1RBR1JBTQo1YTYwZWEwZjY0NGVmNzEyODhjY2U4ZDQsMTkyNDg1NjctdTkybDBlS0pUYW1uWllFZjlYbDUwbWtOYk03bXhaU1RKOGZSMDlIT20sODBqMEg2QWhLQTUzOFA3a2hPeG93N2FzaVFEeWxCYVpiWjVoVVFJbnVidWJLLFRXSVRURVIKNWE2MGVhMjc2NDRlZjcxMjg4Y2NlOGQ1LEVBQUNCdGJYVmZrRUJBQXBPcWJZUlNnQ0xmeU5taFFWUDBKbjl5Rk5MVVBaQmpudWgxZTBmUjdEVEI1V1FGUUgzTUhIT2VNeUk5cml0VEhnWkNvVkJaQnVsZ0R6U2k3VEExdWFKSjNJMDd4WDlyRldaQ1dQdHJiNTFFRm5aQWZnVWZ2a0NaQzg3cUNPWUs2RUhmREJNT24zQmtDQkxJUThKV0JqRnNaQjhaQWRHSndaRFpELCxGQUNFQk9PSwo1YTYwZjEwYTY0NGVmNzEyODhjY2U4ZDYsRUFBQ0J0YlhWZmtFQkFFSTdKVG5JWVVMcHpwdHZRcjY3MXU2Z3l2WkJibzZNWkJBRmkxdlRVdXd5NGlFb3NRaWdtNkpSMFhjVUZCb0dNSXEydUd4RVpCSUllc2ZGWENTOG8zc0JXa1ZPTHZOTDJmcGRUc3liYldFSlM0UzdnS2tIVTBLckxqMHdnMFFFUEV4MTV2bDdFRTZ0WkN3cmpDZEZHbFd0TVpCQVN1QVpEWkQsLEZBQ0VCT09LCjVhNjRkOGJmNjQ0ZWY3MTI4OGNjZThkNyw3MjM0MDQxMTIuOTNjNTE3ZS4yZTI3NWQwNmM1ZDQ0NTYwYTExYjliMDVmYTlkNjRjNywsSU5TVEFHUkFNCg==</text>
+        <text encoding="base64">NWE2MGQ3NThlNzhiMTUwMWEwZDYwYmZjLDEyNDcyMDg3OC1TZW9uMDZaUTVzemFhVVRjWndpV2t6N1VMV2FIcGg5dE5RaFlkRmxSLGpTVWVPSUFvcUoySmpqOGdJUUV4dkdwWHJCSkV6Nm04eXpRcWxTRFJxMDZ5VCxUV0lUVEVSCjVhNjBkNzhiZTc4YjE1MDFhMGQ2MGJmZCw2MDgxOTgwMzM5LjkzYzUxN2UuNWE5YmNhYTJlOWY3NDk3ZDkwMGVkZDU5Nzg3ZWM1NGEsLElOU1RBR1JBTQo1YTYwZWEwYjY0NGVmNzEyODhjY2U4ZDMsNzgxNzY4Ny45M2M1MTdlLjNkMjM1YTJhMjNkNTRkMGM4NDhjY2NjYjEyMjAyZWVjLCxJTlNUQUdSQU0KNWE2MGVhMGY2NDRlZjcxMjg4Y2NlOGQ0LDE5MjQ4NTY3LXU5MmwwZUtKVGFtblpZRWY5WGw1MG1rTmJNN214WlNUSjhmUjA5SE9tLDgwajBINkFoS0E1MzhQN2toT3hvdzdhc2lRRHlsQmFaYlo1aFVRSW51YnViSyxUV0lUVEVSCjVhNjBlYTI3NjQ0ZWY3MTI4OGNjZThkNSxFQUFDQnRiWFZma0VCQUFwT3FiWVJTZ0NMZnlObWhRVlAwSm45eUZOTFVQWkJqbnVoMWUwZlI3RFRCNVdRRlFIM01ISE9lTXlJOXJpdFRIZ1pDb1ZCWkJ1bGdEelNpN1RBMXVhSkozSTA3eFg5ckZXWkNXUHRyYjUxRUZuWkFmZ1VmdmtDWkM4N3FDT1lLNkVIZkRCTU9uM0JrQ0JMSVE4SldCakZzWkI4WkFkR0p3WkRaRCwsRkFDRUJPT0sK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -564,10 +565,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciB1c2VyIGluIHQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
