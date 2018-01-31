@@ -15,11 +15,12 @@
       <file name="/a.dummy" timestamp="1516983454411">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/UserFan.kt" timestamp="1517244224735">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="38" />
-        <mark key="." line="8" column="38" />
-        <mark key="^" line="8" column="38" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/UserFan.kt" timestamp="1517400095123">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="20" column="42" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="21" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d1aa1ee5-d520-423c-874f-bec8ce0623d3/console.sql" timestamp="1513510795958">
         <mark key="[" line="0" column="0" />
@@ -38,7 +39,7 @@
         <mark key="." line="12" column="59" />
         <mark key="^" line="12" column="59" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" timestamp="1517389935853">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" timestamp="1517399155783">
         <mark key="'" line="25" column="32" />
         <mark key="[" line="74" column="15" />
         <mark key="]" line="74" column="20" />
@@ -212,17 +213,18 @@
         <mark key="^" line="23" column="18" />
         <mark key="." line="23" column="18" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialToken.kt" timestamp="1516882566487">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialToken.kt" timestamp="1517399607971">
         <mark key="'" line="13" column="32" />
-        <mark key="[" line="31" column="45" />
-        <mark key="]" line="31" column="45" />
-        <mark key="." line="31" column="45" />
-        <mark key="^" line="37" column="30" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="36" column="30" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" timestamp="1517246958367">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" timestamp="1517401763510">
+        <mark key="'" line="29" column="81" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Fixtures/UserStats/me.json" timestamp="1516009710840">
         <mark key="[" line="146" column="7" />
@@ -305,10 +307,10 @@
       <file name="/HTML File.txt.ft" timestamp="1514988375462">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/helpers.py" timestamp="1517389783286">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/helpers.py" timestamp="1517399740076">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/UserKPI.kt" timestamp="1516018861546">
         <mark key="[" line="32" column="9" />
@@ -322,14 +324,15 @@
         <mark key="." line="114" column="36" />
         <mark key="^" line="114" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517303829263">
+      <file name="/Dummy.txt" timestamp="1517399779899">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1517311671667">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1517399809989">
+        <mark key="'" line="75" column="11" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1517311484789">
         <mark key="'" line="0" column="0" />
@@ -363,6 +366,12 @@
         <mark key="^" line="69" column="51" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1517399673224">
+        <mark key="[" line="183" column="39" />
+        <mark key="]" line="183" column="38" />
+        <mark key="." line="183" column="38" />
+        <mark key="^" line="183" column="38" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-svm/main.py" timestamp="1516270709705">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="15" column="23" />
@@ -390,18 +399,10 @@
         <mark key="." line="29" column="13" />
         <mark key="^" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1517396570300">
-        <mark key="'" line="169" column="0" />
-        <mark key="[" line="135" column="5" />
-        <mark key="]" line="137" column="20" />
-        <mark key="." line="137" column="20" />
-        <mark key="^" line="137" column="20" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" timestamp="1517331648769">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" timestamp="1517397395506">
         <mark key="'" line="198" column="16" />
-        <mark key="[" line="11" column="44" />
-        <mark key="]" line="11" column="45" />
-        <mark key="." line="11" column="45" />
+        <mark key="]" line="76" column="32" />
+        <mark key="." line="76" column="33" />
         <mark key="^" line="243" column="16" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAO.kt" timestamp="1516888986787">
@@ -429,15 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="24" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
-      <jump line="69" column="73" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/work/open-friday/auto-adb/autoadb.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/open-friday/auto-adb/aadb.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/work/open-friday/auto-adb/aadb.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/work/open-friday/auto-adb/aadb.py" />
-      <jump line="4" column="51" filename="$USER_HOME$/www/work/open-friday/auto-adb/aadb.py" />
-      <jump line="2" column="37" filename="$USER_HOME$/www/work/open-friday/auto-adb/aadb.py" />
-      <jump line="0" column="42" filename="$USER_HOME$/www/work/open-friday/auto-adb/aadb.py" />
       <jump line="122" column="45" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
       <jump line="152" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
       <jump line="149" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
@@ -504,7 +496,6 @@
       <jump line="203" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
       <jump line="11" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
-      <jump line="60" column="18" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
       <jump line="35" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" />
       <jump line="104" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
       <jump line="23" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
@@ -529,40 +520,50 @@
       <jump line="6" column="18" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" />
       <jump line="25" column="32" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" />
       <jump line="162" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
+      <jump line="153" column="92" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
+      <jump line="96" column="45" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
+      <jump line="157" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
+      <jump line="60" column="11" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/UserFan.kt" />
+      <jump line="29" column="81" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" />
+      <jump line="209" column="25" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgcHByaW50KCkK</text>
+        <text encoding="base64">CiAgICBwcmludChjb21tZW50c191cmwpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>counter</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CmRlZiBwcHJpbnQoZm9vKToKICAgIGZvcm1hdHRlZF9mb28gPSBqc29uLmR1bXBzKGZvbywgaW5kZW50PTQpCiAgICBwcmludChoaWdobGlnaHQoZm9ybWF0dGVkX2ZvbywgbGV4ZXJzLkpzb25MZXhlcigpLCBmb3JtYXR0ZXJzLlRlcm1pbmFsRm9ybWF0dGVyKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGFubmVsLmJhc2ljUHVibGlzaCgKICAgICAgICAgICAgICAgICAgICAgICAgIiIsCiAgICAgICAgICAgICAgICAgICAgICAgIFJBQkJJVF9TSUdOVVBfUVVFVUUsCiAgICAgICAgICAgICAgICAgICAgICAgIG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgIGl0LmdldEpzb25UYXNrKHVzZXIuaWQpLnRvQnl0ZUFycmF5KCkKICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgcHByaW50KCkK</text>
+        <text encoding="base64">CiAgICBwcmludChjb21tZW50c191cmwpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcmludChjb21tZW50c19sZW4pCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZW1wdHlMaXN0PEludD4oKS50YWtlKDEpKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4obW9zdFZhbHVlZC5tYXAgeyAiJHtpdC5uZXR3b3JrfSAtICR7aXQudmFsdWV9IC0gJHtpdC5yZWFjdGlvbn1cbiIgfSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHByaW50KHBvc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBmYjo6Y2xhc3MuamF2YS5tZXRob2RzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBwcmludChhbGxfY29tbWVudHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9zdENvbW1lbnRzID0gaW5zdGFncmFtPy5mYW5JbmZvPy5tb3N0Q29tbWVudHMgPzogZW1wdHlMaXN0KCksCiAgICAgICAgICAgIG1vc3RMaWtlcyA9IGluc3RhZ3JhbT8uZmFuSW5mbz8ubW9zdExpa2VzID86IGVtcHR5TGlzdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9zdFZhbHVlZCA9IHdoZW4gewogICAgICAgICAgICAgICAgZmFjZWJvb2s/LmZhbkluZm8/Lm1vc3RWYWx1ZWQ/LmlzTm90RW1wdHkoKSA9PSB0cnVlIC0+IGZhY2Vib29rLmZhbkluZm8ubW9zdFZhbHVlZAogICAgICAgICAgICAgICAgaW5zdGFncmFtPy5mYW5JbmZvPy5tb3N0Q29tbWVudHM/LmlzTm90RW1wdHkoKSA9PSB0cnVlIC0+IGluc3RhZ3JhbS5mYW5JbmZvLm1vc3RDb21tZW50cwogICAgICAgICAgICAgICAgZWxzZSAtPiBlbXB0eUxpc3QoKQogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -574,13 +575,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJldmVyc2VkKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>12</text>
+        <text>189</text>
       </register>
     </registers>
     <search>
@@ -615,6 +616,7 @@
         <entry>43</entry>
         <entry>51</entry>
         <entry>12</entry>
+        <entry>189</entry>
       </history-cmd>
       <history-expr />
       <history-input />
