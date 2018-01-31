@@ -390,11 +390,12 @@
         <mark key="." line="29" column="13" />
         <mark key="^" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1517390812486">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="40" column="3" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1517396570300">
+        <mark key="'" line="169" column="0" />
+        <mark key="[" line="135" column="5" />
+        <mark key="]" line="137" column="20" />
+        <mark key="." line="137" column="20" />
+        <mark key="^" line="137" column="20" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" timestamp="1517331648769">
         <mark key="'" line="198" column="16" />
@@ -428,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="45" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="196" column="24" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="69" column="73" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="1" column="0" filename="$USER_HOME$/www/work/open-friday/auto-adb/autoadb.py" />
@@ -528,13 +528,14 @@
       <jump line="67" column="6" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" />
       <jump line="6" column="18" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" />
       <jump line="25" column="32" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwcmludChzaGFyZV9jb3VudGVyKQo=</text>
+        <text encoding="base64">ICAgIAogICAgcHByaW50KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>counter</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -543,25 +544,25 @@
         <text encoding="base64">CmRlZiBwcHJpbnQoZm9vKToKICAgIGZvcm1hdHRlZF9mb28gPSBqc29uLmR1bXBzKGZvbywgaW5kZW50PTQpCiAgICBwcmludChoaWdobGlnaHQoZm9ybWF0dGVkX2ZvbywgbGV4ZXJzLkpzb25MZXhlcigpLCBmb3JtYXR0ZXJzLlRlcm1pbmFsRm9ybWF0dGVyKCkpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwcmludChzaGFyZV9jb3VudGVyKQo=</text>
+        <text encoding="base64">ICAgIAogICAgcHByaW50KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwb3N0X2NvdW50ZXIgPSAwCiAgICBzaGFyZV9jb3VudGVyID0gMAoK</text>
+        <text encoding="base64">CiAgICBwcmludChjb21tZW50c19sZW4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBwcmludChzaGFyZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcHJpbnQocG9zdHNfZGF0YSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHByaW50KHBvc3QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBwcmludChtZV9kYXRhKQo=</text>
+        <text encoding="base64">ICAgIHBwcmludChhbGxfY29tbWVudHMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -569,15 +570,14 @@
           <key char="65535" code="27" mods="0" />
           <key char="65535" code="27" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJQYXlsb2FkIikK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBwcmludChwb3N0c19wYXlsb2FkKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>12</text>
