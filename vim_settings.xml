@@ -49,12 +49,12 @@
       <file name="/Groovy JUnit SetUp Method.txt.ft" timestamp="1514988385044">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1517478097903">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1517479817974">
         <mark key="'" line="15" column="17" />
-        <mark key="[" line="46" column="41" />
-        <mark key="]" line="48" column="18" />
-        <mark key="." line="48" column="18" />
-        <mark key="^" line="48" column="18" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="45" column="29" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ValuedFans/ValuedFans.js" timestamp="1516012104458">
         <mark key="[" line="25" column="0" />
@@ -257,10 +257,11 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" timestamp="1517478632811">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" timestamp="1517479623226">
         <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="8" />
-        <mark key="." line="22" column="8" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="23" column="30" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/ApplicationRouter.kt" timestamp="1516196363830">
         <mark key="[" line="48" column="63" />
@@ -333,12 +334,12 @@
       <file name="/Dummy.txt" timestamp="1517477583018">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1517477797851">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1517479790678">
         <mark key="'" line="90" column="0" />
-        <mark key="[" line="119" column="28" />
-        <mark key="]" line="119" column="35" />
-        <mark key="." line="119" column="35" />
-        <mark key="^" line="119" column="35" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="117" column="35" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1517414741891">
         <mark key="'" line="0" column="0" />
@@ -406,11 +407,12 @@
         <mark key="." line="29" column="13" />
         <mark key="^" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1517478571468">
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="235" column="0" />
-        <mark key="^" line="248" column="39" />
-        <mark key="." line="235" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1517479813700">
+        <mark key="'" line="234" column="30" />
+        <mark key="[" line="232" column="35" />
+        <mark key="]" line="233" column="3" />
+        <mark key="^" line="233" column="3" />
+        <mark key="." line="233" column="3" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" timestamp="1517417360882">
         <mark key="'" line="24" column="0" />
@@ -443,7 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="23" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/helpers.py" />
       <jump line="83" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" />
       <jump line="14" column="23" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/helpers.py" />
       <jump line="203" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
@@ -514,7 +515,6 @@
       <jump line="204" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
       <jump line="229" column="18" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
       <jump line="203" column="52" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
-      <jump line="232" column="9" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
       <jump line="231" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
       <jump line="16" column="8" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
       <jump line="2" column="16" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
@@ -543,16 +543,18 @@
       <jump line="20" column="23" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
       <jump line="23" column="23" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
       <jump line="249" column="50" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
+      <jump line="232" column="20" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
+      <jump line="234" column="30" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>__dict__.copy()</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>pri</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KGFycm93LmdldChwb3N0c1swXS5nZXQoJ2RhdGUnKSkgPiBsYXRlc3RfcG9zdF9kYXRlKQo=</text>
@@ -561,22 +563,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcmludChkKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwb3N0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwcmludChsYXRlc3RfcG9zdF9kYXRlKQo=</text>
+        <text encoding="base64">CiAgICAgICAgcHJpbnQodXNlcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwcmludChhcnJvdy5nZXQocG9zdHNbMF0uZ2V0KCdkYXRlJykpID4gbGF0ZXN0X3Bvc3RfZGF0ZSkKCiAgICBwcmludChsZW4ocG9zdF9pbnN0YW5jZXMpKQoKICAgIHByaW50KHBvc3RfaW5zdGFuY2VzWzBdLm1hcnNoYWwoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQoanNvbi5kdW1wcyhwb3N0c1swXSwgaW5kZW50PTQpKQogICAgIyBwcmludChjcmVhdGVkX2F0KQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGxhdGVzdF9wb3N0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBjcmVhdGVkX2F0ID0gYXJyb3cuZ2V0KHBvc3RzWzBdWydjcmVhdGVkX3RpbWUnXSkK</text>
+        <text encoding="base64">ICAgIHByaW50KGxhdGVzdF9wb3N0X2RhdGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -588,19 +590,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB4ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvY2Vzc2VkX2RhdGEuYXBwZW5kKGQubWFyc2hhbCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb3B5Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>70</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>pri</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>pri</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -609,6 +611,7 @@
         <entry>showLabel</entry>
         <entry>resetPan</entry>
         <entry>console</entry>
+        <entry>pri</entry>
       </history-search>
       <history-cmd>
         <entry>161</entry>
