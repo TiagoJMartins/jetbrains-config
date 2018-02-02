@@ -56,12 +56,12 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1517563222744">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1517564563105">
         <mark key="'" line="70" column="4" />
-        <mark key="[" line="36" column="41" />
-        <mark key="]" line="36" column="41" />
-        <mark key="." line="36" column="41" />
-        <mark key="^" line="36" column="41" />
+        <mark key="[" line="76" column="14" />
+        <mark key="]" line="76" column="13" />
+        <mark key="." line="76" column="13" />
+        <mark key="^" line="76" column="13" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ValuedFans/ValuedFans.js" timestamp="1516012104458">
         <mark key="[" line="25" column="0" />
@@ -441,11 +441,11 @@
         <mark key="." line="29" column="13" />
         <mark key="^" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1517507444435">
-        <mark key="'" line="237" column="30" />
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="252" column="0" />
-        <mark key="." line="252" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1517565017552">
+        <mark key="'" line="233" column="37" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAO.kt" timestamp="1516888986787">
         <mark key="[" line="17" column="53" />
@@ -543,7 +543,6 @@
       <jump line="244" column="32" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
       <jump line="34" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
       <jump line="19" column="28" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
-      <jump line="233" column="16" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
       <jump line="69" column="36" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
       <jump line="35" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
       <jump line="24" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
@@ -567,13 +566,14 @@
       <jump line="17" column="50" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/PostDAOImpl.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/PostDAOImpl.kt" />
       <jump line="42" column="76" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/post/PostController.kt" />
+      <jump line="233" column="37" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oanNvbikK</text>
+        <text encoding="base64">ICAgIGFsbF9yZWFjdGlvbnMgPSBbXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>pri</text>
@@ -582,22 +582,22 @@
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5leHQiOiAiJG5ld0FmdGVyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oanNvbikK</text>
+        <text encoding="base64">ICAgIGFsbF9yZWFjdGlvbnMgPSBbXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKLy8gICAgICAgICAgICAgICAgICAgICIiIgovLyAgICAgICAgICAgICAgICAgICAgICAgIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgImRhdGEiOiAke0pzb24ud3JpdGVWYWx1ZUFzU3RyaW5nKGl0KX0sCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICJuZXh0IjogIiRuZXdBZnRlciIKLy8gICAgICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICAgICAgIiIiLnRyaW1JbmRlbnQoKSkKICAgICAgICAgICAgICAgICAgICB2YWwgb2JqID0gSnNvbk9iamVjdCgpLnB1dCgiZGF0YSIsIGl0KQoKCiAgICAgICAgICAgICAgICAgICAgb2JqCg==</text>
+        <text encoding="base64">CmRlZiBnZXRfcG9zdF9yZWFjdGlvbnMoYWNjZXNzX3Rva2VuLCBwb3N0X2lkLCBpbmNsdWRlX2xpa2VzPUZhbHNlKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgb2JqLnB1dCgibmV4dCIsIEVuY29kZXIoKS5lbmNvZGVEYXRlKGl0Lmxhc3QoKS5kYXRlKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oanNvbikK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
@@ -612,10 +612,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIm5leHQiOiAke30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHIuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKLy8gICAgICAgICAgICAgICAgICAgICIiIgovLyAgICAgICAgICAgICAgICAgICAgICAgIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgImRhdGEiOiAke0pzb24ud3JpdGVWYWx1ZUFzU3RyaW5nKGl0KX0sCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICJuZXh0IjogIiRuZXdBZnRlciIKLy8gICAgICAgICAgICAgICAgICAgICAgICB9Ci8vICAgICAgICAgICAgICAgICAgICAgICAgIiIiLnRyaW1JbmRlbnQoKSkKICAgICAgICAgICAgICAgICAgICB2YWwgb2JqID0gSnNvbk9iamVjdCgpLnB1dCgiZGF0YSIsIGl0KQoKCiAgICAgICAgICAgICAgICAgICAgb2JqCg==</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
