@@ -290,6 +290,12 @@
         <mark key="^" line="5" column="49" />
         <mark key="." line="5" column="49" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/README.md" timestamp="1517565718905">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" timestamp="1517479623226">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -362,7 +368,7 @@
       <file name="/Dummy.txt" timestamp="1517507831052">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1517494864042">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1517565683365">
         <mark key="'" line="90" column="0" />
         <mark key="[" line="103" column="70" />
         <mark key="]" line="103" column="70" />
@@ -569,11 +575,11 @@
       <jump line="233" column="37" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFsbF9yZWFjdGlvbnMgPSBbXQo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>pri</text>
