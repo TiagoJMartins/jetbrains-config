@@ -58,12 +58,12 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1517868217705">
-        <mark key="'" line="120" column="0" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="111" column="8" />
-        <mark key="^" line="111" column="8" />
-        <mark key="." line="111" column="8" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1517906876405">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="96" column="48" />
+        <mark key="]" line="96" column="47" />
+        <mark key="." line="96" column="47" />
+        <mark key="^" line="96" column="47" />
       </file>
       <file name="$USER_HOME$/www/personal/tensorflow-workshop/main.py" timestamp="1517615767775">
         <mark key="'" line="3" column="0" />
@@ -71,6 +71,12 @@
         <mark key="]" line="50" column="37" />
         <mark key="." line="50" column="37" />
         <mark key="^" line="50" column="37" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" timestamp="1517907194589">
+        <mark key="[" line="60" column="68" />
+        <mark key="]" line="60" column="67" />
+        <mark key="." line="60" column="67" />
+        <mark key="^" line="60" column="67" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/RawSocialData.py" timestamp="1516791440813">
         <mark key="'" line="1" column="59" />
@@ -97,6 +103,12 @@
         <mark key="]" line="6" column="45" />
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="44" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/ecs-task-definition.staging.json" timestamp="1517907122293">
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="33" />
+        <mark key="^" line="28" column="33" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/tasks.py" timestamp="1517836895051">
         <mark key="'" line="0" column="0" />
@@ -190,7 +202,7 @@
       <file name="/HTML File.txt.ft" timestamp="1514988375462">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517841508048">
+      <file name="/Dummy.txt" timestamp="1517907220515">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1517837117633">
@@ -283,10 +295,15 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1517907158449">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="92" column="34" />
+        <mark key="]" line="92" column="54" />
+        <mark key="." line="92" column="54" />
+        <mark key="^" line="92" column="54" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/workers.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/scrapers.py" />
       <jump line="107" column="46" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/scrapers.py" />
       <jump line="96" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/workers.py" />
       <jump line="110" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/workers.py" />
@@ -385,13 +402,15 @@
       <jump line="17" column="25" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" />
       <jump line="105" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
       <jump line="118" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
+      <jump line="93" column="54" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>RABBIT_SIGNUP_QUEUE</text>
       </register>
       <register name="-" type="4">
-        <text>scraping</text>
+        <text>RABBIT_SIGNUP_QUEUE</text>
       </register>
       <register name="/" type="4">
         <text>'post</text>
@@ -406,26 +425,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgUGVyc2lzdGFibGUob2JqZWN0KToKICAgIGRlZiBjYW1lbGl6ZShzZWxmKToKICAgICAgICByZXR1cm4ge2luZmxlY3Rpb24uY2FtZWxpemUoaywgdXBwZXJjYXNlX2ZpcnN0X2xldHRlcj1GYWxzZSk6IHYgZm9yIGssIHYgaW4gc2VsZi5fX2RpY3RfXy5pdGVtcygpfQoK</text>
+        <text encoding="base64">Ck1PTkdPS0lUIQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibmFtZSI6ICJSQUJCSVRfUVVFVUUiLAogICAgICAgICAgInZhbHVlIjogInNpZ251cHMiCiAgICAgICAgfSwK</text>
+        <text encoding="base64">Y2xhc3MgUGVyc2lzdGFibGUob2JqZWN0KToKICAgIGRlZiBjYW1lbGl6ZShzZWxmKToKICAgICAgICByZXR1cm4ge2luZmxlY3Rpb24uY2FtZWxpemUoaywgdXBwZXJjYXNlX2ZpcnN0X2xldHRlcj1GYWxzZSk6IHYgZm9yIGssIHYgaW4gc2VsZi5fX2RpY3RfXy5pdGVtcygpfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UkFCQklUX1FVRVVFID0gb3MuZW52aXJvbi5nZXQoJ1JBQkJJVF9RVUVVRScsICdzaWdudXBzJykK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcmludChwb3N0KQo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAibmFtZSI6ICJSQUJCSVRfUVVFVUUiLAogICAgICAgICAgInZhbHVlIjogInNpZ251cHMiCiAgICAgICAgfSwK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-                    'user_id': user.get('_id'),
-                    'post_id': p.get('id'),
-                    'network': SocialNetwork.FACEBOOK
-                }</text>
+      <register name="7" type="2">
+        <text encoding="base64">UkFCQklUX1FVRVVFID0gb3MuZW52aXJvbi5nZXQoJ1JBQkJJVF9RVUVVRScsICdzaWdudXBzJykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5365,10 +5380,14 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzeW5jX3Bvc3RzKHVzZXIuZ2V0KCdfaWQnKSwgcFsnaWQnXSkK</text>
+        <text encoding="base64">CiAgICBwcmludChwb3N0KQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>{
+                    'user_id': user.get('_id'),
+                    'post_id': p.get('id'),
+                    'network': SocialNetwork.FACEBOOK
+                }</text>
       </register>
       <register name=":" type="4">
         <text>67</text>
