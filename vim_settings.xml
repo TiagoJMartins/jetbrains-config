@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1513954189563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1517848279449">
+      <file name="/a.dummy" timestamp="1517928676566">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d1aa1ee5-d520-423c-874f-bec8ce0623d3/console.sql" timestamp="1513510795958">
@@ -57,12 +57,10 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1517918012939">
-        <mark key="'" line="66" column="37" />
-        <mark key="[" line="66" column="30" />
-        <mark key="]" line="66" column="44" />
-        <mark key="." line="66" column="44" />
-        <mark key="^" line="66" column="44" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1517928827733">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/www/personal/tensorflow-workshop/main.py" timestamp="1517615767775">
         <mark key="'" line="3" column="0" />
@@ -143,12 +141,15 @@
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/.gitignore" timestamp="1517926719675">
         <mark key="'" line="35" column="3" />
         <mark key="[" line="55" column="8" />
-        <mark key="]" line="56" column="3" />
-        <mark key="^" line="56" column="3" />
-        <mark key="." line="56" column="3" />
       </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1514988383758">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/tests/test_persistence.py" timestamp="1517928991298">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="29" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models.py" timestamp="1517909135915">
         <mark key="[" line="17" column="0" />
@@ -206,12 +207,12 @@
       <file name="/Dummy.txt" timestamp="1517924501626">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1517925787078">
-        <mark key="'" line="45" column="4" />
-        <mark key="[" line="30" column="77" />
-        <mark key="]" line="30" column="77" />
-        <mark key="." line="30" column="77" />
-        <mark key="^" line="30" column="32" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1517929121168">
+        <mark key="'" line="43" column="4" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="42" column="0" />
       </file>
       <file name="/code.py" timestamp="1517613492764">
         <mark key="[" line="0" column="0" />
@@ -223,7 +224,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/scrapers.py" timestamp="1517925860217">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/tests/test_enums.py" timestamp="1517928661647">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/scrapers.py" timestamp="1517928871695">
         <mark key="'" line="112" column="8" />
         <mark key="[" line="16" column="31" />
         <mark key="]" line="16" column="35" />
@@ -256,13 +263,6 @@
         <mark key="]" line="0" column="77" />
         <mark key="^" line="0" column="77" />
         <mark key="." line="0" column="77" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" timestamp="1517924852966">
-        <mark key="'" line="16" column="22" />
-        <mark key="[" line="41" column="17" />
-        <mark key="]" line="41" column="17" />
-        <mark key="^" line="115" column="47" />
-        <mark key="." line="41" column="17" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/UserSummary.kt" timestamp="1516802644570">
         <mark key="'" line="9" column="33" />
@@ -311,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
       <jump line="279" column="8" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
       <jump line="274" column="17" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
       <jump line="293" column="11" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
@@ -411,43 +410,44 @@
       <jump line="6" column="28" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" />
       <jump line="16" column="22" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" />
       <jump line="58" column="51" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/posts.py" />
+      <jump line="11" column="35" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>None</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCdSdW5uaW5nICVpIHdvcmtlcnMuJyAlIGxlbihwb29sKSkKCgo=</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>SocialNetwork</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvZy5pbmZvKCdDb25uZWN0aW5nIHRvIG1vbmdvLi4uJykKICAgICAgICBtb25nbyA9IE1vbmdvQ2xpZW50KGhvc3Q9Y29uZmlncy5NT05HT19TRVJWRVIpCiAgICAgICAgc2VsZi5fbW9uZ28gPSBnZXRhdHRyKG1vbmdvLCBjb25maWdzLk1PTkdPX0RCKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihQb3N0QW5hbHl0aWMsIHNlbGYpLl9faW5pdF9fKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCdSdW5uaW5nICVpIHdvcmtlcnMuJyAlIGxlbihwb29sKSkKCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ1VQREFUSU5HJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ0NSRUFUSU5HJykK</text>
+        <text encoding="base64">ICAgICAgICBwb3N0ID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpbnQobXNnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnVzZXItICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKDAsIDApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fY2FtZWxpemVfa2V5cygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcgo=</text>
+        <text encoding="base64">CmZyb20gbW9kZWxzLnBlcnNpc3RlbmNlIGltcG9ydCBQb3N0Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5387,10 +5387,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNyZWF0ZWRfYXQgPSBhcnJvdy5nZXQoc2VsZi5jcmVhdGVkX2F0KQogICAgICAgIHNlbGYudXBkYXRlZF9hdCA9IGFycm93LmdldChzZWxmLnVwZGF0ZWRfYXQpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHBvc3QgPSBQb3N0KHt9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmNyZWF0ZWRfYXQgPSBzZWxmLmNyZWF0ZWRfYXQuZGF0ZXRpbWUKICAgICAgICBzZWxmLnVwZGF0ZWRfYXQgPSBzZWxmLnVwZGF0ZWRfYXQuZGF0ZXRpbWUKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
