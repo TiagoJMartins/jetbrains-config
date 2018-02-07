@@ -208,12 +208,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" timestamp="1518015252533">
-        <mark key="'" line="66" column="41" />
-        <mark key="[" line="66" column="37" />
-        <mark key="]" line="66" column="41" />
-        <mark key="^" line="66" column="41" />
-        <mark key="." line="66" column="41" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" timestamp="1518015897596">
+        <mark key="'" line="68" column="41" />
+        <mark key="[" line="52" column="23" />
+        <mark key="]" line="53" column="43" />
+        <mark key="." line="53" column="43" />
+        <mark key="^" line="53" column="43" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-task-manager/worker.py" timestamp="1518003505306">
         <mark key="'" line="0" column="12" />
@@ -452,8 +452,8 @@
       <jump line="66" column="41" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'TWITTER'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodHdlZXQpCg==</text>
       </register>
       <register name="-" type="4">
         <text>'TWITTER'</text>
@@ -465,28 +465,28 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodHlwZShleGMubWVzc2FnZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIFJhdGVMaW1pdEV4Y2VlZGVkRXJyb3IoOTAwKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodHdlZXQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJhaXNlIFJhdGVMaW1pdEV4Y2VlZGVkRXJyb3IoOTAwKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYSkKICAgICAgICAgICAgcHJpbnQodHlwZShhKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV4dF93aW5kb3cgPSBpbnQoc3RyKGV4YykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYSkKICAgICAgICAgICAgcHJpbnQodHlwZShhKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dF93aW5kb3cgPSBpbnQoc3RyKGV4YykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXywgbmV4dF93aW5kb3csIF8gPSBzeXMuZXhjX2luZm8oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXywgbmV4dF93aW5kb3csIF8gPSBzeXMuZXhjX2luZm8oKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5429,7 +5429,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2cuZXJyb3IoJ3JhdGUgbGltaXQgZXhjZWVkZWQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>% s/os\.environ/env/</text>
