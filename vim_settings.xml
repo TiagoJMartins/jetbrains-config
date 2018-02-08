@@ -57,11 +57,12 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1518020426698">
-        <mark key="[" line="73" column="47" />
-        <mark key="]" line="73" column="46" />
-        <mark key="^" line="73" column="46" />
-        <mark key="." line="73" column="46" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1518083068664">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="8" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/www/personal/tensorflow-workshop/main.py" timestamp="1517615767775">
         <mark key="'" line="3" column="0" />
@@ -174,7 +175,7 @@
       <file name="/routing_key" timestamp="1517832197575">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1518023978811">
+      <file name="/Python Console" timestamp="1518084282683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1518022795929">
@@ -219,12 +220,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" timestamp="1518024909468">
-        <mark key="'" line="25" column="23" />
-        <mark key="[" line="127" column="12" />
-        <mark key="]" line="128" column="30" />
-        <mark key="." line="128" column="30" />
-        <mark key="^" line="128" column="30" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" timestamp="1518084277577">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="228" column="53" />
+        <mark key="]" line="228" column="69" />
+        <mark key="." line="228" column="69" />
+        <mark key="^" line="228" column="69" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-task-manager/worker.py" timestamp="1518003505306">
         <mark key="'" line="0" column="12" />
@@ -334,7 +335,7 @@
         <mark key="." line="29" column="13" />
         <mark key="^" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1518015130515">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1518082448106">
         <mark key="'" line="288" column="34" />
         <mark key="[" line="278" column="0" />
         <mark key="]" line="278" column="0" />
@@ -361,15 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="20" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
-      <jump line="66" column="37" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
-      <jump line="2" column="48" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" />
-      <jump line="10" column="29" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" />
-      <jump line="12" column="30" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" />
-      <jump line="24" column="11" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" />
-      <jump line="25" column="7" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" />
       <jump line="37" column="50" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" />
       <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" />
       <jump line="41" column="34" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" />
@@ -461,43 +453,52 @@
       <jump line="76" column="46" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
       <jump line="111" column="33" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
       <jump line="25" column="23" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
+      <jump line="193" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
+      <jump line="189" column="35" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
+      <jump line="192" column="7" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
+      <jump line="46" column="19" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
+      <jump line="75" column="64" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
+      <jump line="200" column="16" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>since_date</text>
       </register>
       <register name="-" type="4">
-        <text>NOT_SUPPORTED</text>
+        <text>since_date</text>
       </register>
       <register name="/" type="4">
         <text>os\.environ</text>
       </register>
-      <register name="0" type="4">
-        <text>tweet_media[0]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yID0gdHdlZXB5LkN1cnNvcihhcGkudXNlcl90aW1lbGluZSkKCiAgICAgICAgZm9yIHR3ZWV0c19wYWdlIGluIGN1cnNvci5wYWdlcygpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHR3aWQgPSB0LmlkX3N0cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWFnZSA9IHR3ZWV0X21lZGlhWzBdLmdldCgnbWVkaWFfdXJsX2h0dHBzJykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlID0gdHdlZXRfbWVkaWFbMF0K</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbWFnZSA9IAo=</text>
+        <text encoding="base64">ICAgIGZvciAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlID0gdHdlZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5437,10 +5438,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>% s/os\.environ/env/</text>
