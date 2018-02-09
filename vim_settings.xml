@@ -29,7 +29,11 @@
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/variables.tf" timestamp="1518170237554" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/variables.tf" timestamp="1518178522187">
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" timestamp="1516958543045">
         <mark key="'" line="21" column="56" />
         <mark key="[" line="4" column="31" />
@@ -233,7 +237,8 @@
         <mark key="." line="6" column="40" />
         <mark key="^" line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/terraform.tfvars" timestamp="1518175919784">
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/nat/main.tf" timestamp="1518177960262" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/terraform.tfvars" timestamp="1518177387523">
         <mark key="[" line="1" column="37" />
         <mark key="]" line="1" column="36" />
         <mark key="." line="1" column="36" />
@@ -270,10 +275,11 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/main.tf" timestamp="1518176253564">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/main.tf" timestamp="1518178871743">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="13" column="18" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1514988375462">
         <mark key="[" line="0" column="0" />
@@ -284,7 +290,7 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518176239146">
+      <file name="/Dummy.txt" timestamp="1518177393666">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1518002209993">
@@ -398,6 +404,7 @@
         <mark key="." line="277" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/ecs-instances/templates/lb_policy.json" timestamp="1518174615684" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/subnet/main.tf" timestamp="1518177753693" />
       <file name="$USER_HOME$/www/work/skorr/skorr-task-manager/tskmgr.py" timestamp="1518003395907">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="27" column="45" />
@@ -527,11 +534,11 @@
       <jump line="32" column="41" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/alb/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqIE1haW4gVlBDCiogSG91c2VzIGV2ZXJ5dGhpbmcKKi8K</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>os\.environ</text>
@@ -540,28 +547,28 @@
         <text encoding="base64">ICAgIHR5cGUgPSAiaW5ncmVzcyIKICAgIGZyb21fcG9ydCA9IDAKICAgIHRvX3BvcnQgPSAwCiAgICBwcm90b2NvbCA9ICIiCiAgICBjaWRyX2Jsb2NrcyA9IFtdCiAgICBzZWN1cml0eV9ncm91cF9pZCA9ICIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bW9kdWxlICJhbGIiIHsKICAgIHNvdXJjZSA9ICIuLi9hbGIiCgogICAgdnBjX2lkID0gIiR7fSIKICAgIHB1YmxpY19zdWJuZXRfaWRzID0gIiIKICAgIGFsYl9uYW1lID0gIiIKICAgIGVudmlyb25tZW50ID0gIiIKfQo=</text>
+        <text encoding="base64">LyoqIE1haW4gVlBDCiogSG91c2VzIGV2ZXJ5dGhpbmcKKi8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50ID0gIiR7dmFyfSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJkZWZhdWx0X2FjdGlvbiIgewogICAgICAgIHRhcmdldF9ncm91cF9hcm4gPSAiIgogICAgICAgIHR5cGUgPSAiIgogICAgfQo=</text>
+        <text encoding="base64">LyoqCiovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZyb21fcG9ydCA9IDAKICAgIHByb3RvY29sID0gIiIKICAgIHNlY3VyaXR5X2dyb3VwX2lkID0gIiIKICAgIHRvX3BvcnQgPSAwCiAgICB0eXBlID0gIiIK</text>
+        <text encoding="base64">LyoqCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRvX3BvcnQgPSAwCg==</text>
+        <text encoding="base64">IyBNYWluIFZQQwojIEgK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5501,7 +5508,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHR5cGUgPSAiaW5ncmVzcyIK</text>
+        <text encoding="base64">bW9kdWxlICJhbGIiIHsKICAgIHNvdXJjZSA9ICIuLi9hbGIiCgogICAgdnBjX2lkID0gIiR7fSIKICAgIHB1YmxpY19zdWJuZXRfaWRzID0gIiIKICAgIGFsYl9uYW1lID0gIiIKICAgIGVudmlyb25tZW50ID0gIiIKfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
