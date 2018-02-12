@@ -36,12 +36,12 @@
         <mark key="." line="1" column="13" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/variables.tf" timestamp="1518429316686">
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/variables.tf" timestamp="1518430336368">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="/Groovy JUnit SetUp Method.txt.ft" timestamp="1514988385044">
         <mark key="[" line="0" column="0" />
@@ -52,12 +52,12 @@
         <mark key="." line="59" column="67" />
         <mark key="^" line="59" column="67" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/alb/main.tf" timestamp="1518428987854">
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/alb/main.tf" timestamp="1518430138834">
         <mark key="'" line="77" column="52" />
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="16" />
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
         <mark key="^" line="6" column="16" />
-        <mark key="." line="6" column="16" />
+        <mark key="." line="6" column="14" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.gitattributes" timestamp="1513094418015">
         <mark key="[" line="1" column="19" />
@@ -107,12 +107,12 @@
       <file name="/routing_key" timestamp="1517832197575">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/ecs-instances/variables.tf" timestamp="1518429250902">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-        <mark key="^" line="65" column="15" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/ecs-instances/variables.tf" timestamp="1518430190764">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="/Python Console" timestamp="1518084282683">
         <mark key="[" line="0" column="0" />
@@ -131,22 +131,21 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/terraform.tfvars" timestamp="1518429472825">
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/terraform.tfvars" timestamp="1518430292800">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="16" column="28" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="15" column="16" />
+        <mark key="." line="15" column="16" />
+        <mark key="^" line="15" column="16" />
       </file>
       <file name="/a.sql" timestamp="1513512301770">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/main.tf" timestamp="1518429462642">
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/main.tf" timestamp="1518430396897">
         <mark key="'" line="75" column="0" />
-        <mark key="[" line="127" column="27" />
-        <mark key="]" line="127" column="56" />
-        <mark key="^" line="127" column="56" />
-        <mark key="." line="127" column="56" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="52" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1514988375462">
         <mark key="[" line="0" column="0" />
@@ -157,7 +156,7 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518426831663">
+      <file name="/Dummy.txt" timestamp="1518430144053">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1518002209993">
@@ -244,9 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="17" filename="$USER_HOME$/www/work/skorr/skorr-task-manager/tskmgr.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/work/skorr/skorr-task-manager/tskmgr.py" />
-      <jump line="0" column="12" filename="$USER_HOME$/www/work/skorr/skorr-task-manager/worker.py" />
       <jump line="28" column="31" filename="$USER_HOME$/www/work/skorr/skorr-task-manager/main.py" />
       <jump line="24" column="0" filename="$USER_HOME$/www/work/skorr/skorr-task-manager/main.py" />
       <jump line="9" column="0" filename="$USER_HOME$/www/work/skorr/skorr-task-manager/main.py" />
@@ -344,10 +340,13 @@
       <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/alb/variables.tf" />
       <jump line="16" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/alb/variables.tf" />
       <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/terraform.tfvars" />
+      <jump line="56" column="21" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/ecs-instances/variables.tf" />
+      <jump line="55" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/ecs-instances/variables.tf" />
+      <jump line="54" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/ecs-instances/variables.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">a2V5X25hbWUgICAgICAgICAgICAgICAgPSAic2tvcnItZGV2IgppbnN0YW5jZV9hbWkgICAgICAgICAgICA9ICJhbWktODgwZDY0ZjEiCg==</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlX3R5cGUgICAgICAgICAgID0gIiR7dmFyLmluc3RhbmNlX3R5cGV9Igo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -359,28 +358,28 @@
         <text encoding="base64">IyBXZWJob29rcyBMb2FkIEJhbGFuY2luZwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">a2V5X25hbWUgICAgICAgICAgICAgICAgPSAic2tvcnItZGV2IgppbnN0YW5jZV9hbWkgICAgICAgICAgICA9ICJhbWktODgwZDY0ZjEiCg==</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlX3R5cGUgICAgICAgICAgID0gIiR7dmFyLmluc3RhbmNlX3R5cGV9Igo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dnBjX2NpZHIgICAgICAgICAgICAgICAgPSAiMTAuMC4wLjAvMTYiCg==</text>
+        <text encoding="base64">ICAgIGRlc2lyZWRfY2FwYWNpdHkgICAgICAgID0gIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2x1c3RlciAgICAgICAgICAgICAgICAgPSAic2tvcnIiCg==</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlX2dyb3VwICAgICAgICAgID0gIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2x1c3RlciAgICAgICAgICAgICAgICAgPSAic2tvcnIiCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW5zdGFuY2VfZ3JvdXBfbmFtZSA9ICJkZWZhdWx0Igo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW52aXJvbm1lbnQgICAgICAgICAgICAgPSAiZXBoZW1lcmFsLXRlc3QiCg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQgPSAiZGVmYXVsdCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXZhaWxhYmlsaXR5X3pvbmVzICAgICAgPSBbImV1LXdlc3QtMWEiLCAiZXUtd2VzdC0xYiIsICJldS13ZXN0LTFjIl0KcHJpdl9zdWJuZXRfY2lkcnMgICAgICAgPSBbIjEwLjAuNTAuMC8yNCIsICIxMC4wLjUxLjAvMjQiLCAiMTAuMC41Mi4wLzI0Il0KcHVibF9zdWJuZXRfY2lkcnMgICAgICAgPSBbIjEwLjAuMC4wLzI0IiwgIjEwLjAuMS4wLzI0IiwgIjEwLjAuMi4wLzI0Il0K</text>
+        <text encoding="base64">CnZhcmlhYmxlICJhcGlfcG9ydCIge30KCnZhcmlhYmxlICJ3ZWJob29rc19wb3J0IiB7fQoKdmFyaWFibGUgInNzaF9wb3J0IiB7fQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -5320,10 +5319,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQgPSAyMgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQgPSAzMDAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>% s/os\.environ/env/</text>
