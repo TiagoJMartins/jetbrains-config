@@ -117,12 +117,12 @@
       <file name="/routing_key" timestamp="1517832197575">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" timestamp="1518706583965">
-        <mark key="'" line="40" column="17" />
-        <mark key="[" line="59" column="26" />
-        <mark key="]" line="59" column="32" />
-        <mark key="." line="40" column="16" />
-        <mark key="^" line="59" column="32" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" timestamp="1518708043556">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="64" column="19" />
+        <mark key="]" line="64" column="31" />
+        <mark key="." line="64" column="31" />
+        <mark key="^" line="64" column="31" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/ecs-instances/variables.tf" timestamp="1518432285464">
         <mark key="'" line="63" column="0" />
@@ -131,7 +131,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1518706532585">
+      <file name="/Python Console" timestamp="1518708044615">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/nat/main.tf" timestamp="1518447796399">
@@ -274,7 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="31" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/ecs/main.tf" />
       <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
       <jump line="29" column="39" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
       <jump line="8" column="17" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
@@ -374,13 +373,14 @@
       <jump line="15" column="33" filename="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" />
       <jump line="45" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" />
       <jump line="40" column="17" filename="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rows</text>
+        <text>output_stack</text>
       </register>
       <register name="-" type="4">
-        <text>rows</text>
+        <text>output_stack</text>
       </register>
       <register name="/" type="4">
         <text>os\.environ</text>
@@ -389,28 +389,28 @@
         <text encoding="base64">ICAgICAgICBwcmludCgnU0FNRScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGx0Lnl0aWNrcyhbXSksIHBsdC54dGlja3MoW10pCg==</text>
+        <text encoding="base64">Y3YuYXBwbHlDb2xvck1hcChvdXRwdXRfc3RhY2ssIGN2LkNPTE9STUFQX0FVVFVNTiwgb3V0cHV0X3N0YWNrKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGx0Lnl0aWNrcyhbXSksIHBsdC54dGlja3MoW10pCg==</text>
+        <text encoding="base64">cGx0Lmltc2hvdyhvdXRwdXRfc3RhY2spCnBsdC55dGlja3MoW10pLCBwbHQueHRpY2tzKFtdKQpwbHQuc2hvdygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBsdC55dGlja3MoW10pLCBwbHQueHRpY2tzKFtdKQo=</text>
+        <text encoding="base64">cGx0Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGZpZy5hZGRfc3VicGxvdChyb3dzLCBjb2x1bW5zLCBpICsgMSkKICAgIHBsdC55dGlja3MoW10pLCBwbHQueHRpY2tzKFtdKQogICAgcGx0Lmltc2hvdyhyLmdldCgnZGlmZicpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpZy5hZGRfc3VicGxvdChyb3dzLCBjb2x1bW5zLCByZXN1KQo=</text>
+        <text encoding="base64">ICAgIHBsdC5pbXNob3coc3RhY2spCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29sdW1ucyA9IDEK</text>
+        <text encoding="base64">ICAgIHBsdC5pbXNob3coZGlmZikKICAgIHBsdC5zaG93KCkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltZyA9IHJlc3VsdFsnaW1nJ10K</text>
+        <text encoding="base64">CiAgICBzdGFjayA9IG5wLmhzdGFjaygocV9pbWcsIHRfaW1nX3Jlc2l6ZWQsIGRpZmYpKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -421,10 +421,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGN2Lmltc2hvdyhyZXN1bHRbJ2ltZyddLCByZXN1bHRbJ2RpZmYnXQogICAgY3Yud2FpdEtleSgwKQogICAgY3YuZGVzdHJveVdpbmRvdyhyZXN1bHRbJ2ltZyddKQo=</text>
+        <text encoding="base64">ICAgIGltZyA9IHIuZ2V0KCdkaWZmJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KCd7fSAtIHt9Jy5mb3JtYXQocmVzdWx0WydpbWcnXSwgcmVzdWx0WydzY29yZSddKSkK</text>
+        <text encoding="base64">ICAgICAgICAnZGlmZic6IGRpZmYK</text>
       </register>
       <register name=":" type="4">
         <text>60</text>
