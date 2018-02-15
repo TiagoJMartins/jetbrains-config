@@ -117,11 +117,12 @@
       <file name="/routing_key" timestamp="1517832197575">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" timestamp="1518705617779">
-        <mark key="[" line="53" column="26" />
-        <mark key="]" line="53" column="26" />
-        <mark key="." line="53" column="26" />
-        <mark key="^" line="53" column="26" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" timestamp="1518706583965">
+        <mark key="'" line="40" column="17" />
+        <mark key="[" line="59" column="26" />
+        <mark key="]" line="59" column="32" />
+        <mark key="." line="40" column="16" />
+        <mark key="^" line="59" column="32" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/ecs-instances/variables.tf" timestamp="1518432285464">
         <mark key="'" line="63" column="0" />
@@ -130,7 +131,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1518705618700">
+      <file name="/Python Console" timestamp="1518706532585">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/nat/main.tf" timestamp="1518447796399">
@@ -273,7 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="39" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/ecs/main.tf" />
       <jump line="0" column="31" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/ecs/main.tf" />
       <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
       <jump line="29" column="39" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
@@ -373,13 +373,14 @@
       <jump line="36" column="9" filename="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" />
       <jump line="15" column="33" filename="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" />
       <jump line="45" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" />
+      <jump line="40" column="17" filename="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>rows</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>rows</text>
       </register>
       <register name="/" type="4">
         <text>os\.environ</text>
