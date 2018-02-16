@@ -130,7 +130,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1518773926414">
+      <file name="/Python Console" timestamp="1518783746001">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/nat/main.tf" timestamp="1518447796399">
@@ -207,12 +207,12 @@
       <file name="/1" timestamp="1518616293686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" timestamp="1518774630475">
-        <mark key="'" line="3" column="80" />
-        <mark key="[" line="5" column="48" />
-        <mark key="]" line="5" column="46" />
-        <mark key="." line="5" column="46" />
-        <mark key="^" line="5" column="46" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" timestamp="1518783730090">
+        <mark key="'" line="2" column="36" />
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="11" column="53" />
+        <mark key="." line="11" column="53" />
+        <mark key="^" line="11" column="53" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1518714195948">
         <mark key="[" line="44" column="21" />
@@ -385,11 +385,11 @@
       <jump line="0" column="44" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="7" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="8" column="24" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="2" column="80" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="2" column="36" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBwYXR0ZXJuMy5lbiBpbXBvcnQgdGFnCg==</text>
       </register>
       <register name="-" type="4">
         <text>True</text>
@@ -401,28 +401,28 @@
         <text encoding="base64">Y3YuaW1zaG93KCdzdGFjaycsIG91dHB1dF9zdGFjaykKY3Yud2FpdEtleSgwKQpjdi5kZXN0cm95QWxsV2luZG93cygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwYXR0ZXJuMy5lbiBpbXBvcnQgdGFnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">aW1wb3J0IHBhdHRlcm4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wZGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnByaW50KGxpc3QobmV3c2dyb3Vwc190cmFpbi50YXJnZXRfbmFtZXMpKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -433,10 +433,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaWNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnZlY3RvcnNfdGVzdCA9IHZlY3Rvcml6ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
