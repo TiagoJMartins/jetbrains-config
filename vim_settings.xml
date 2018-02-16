@@ -130,7 +130,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1518712878415">
+      <file name="/Python Console" timestamp="1518773926414">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/nat/main.tf" timestamp="1518447796399">
@@ -207,6 +207,13 @@
       <file name="/1" timestamp="1518616293686">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" timestamp="1518774630475">
+        <mark key="'" line="3" column="80" />
+        <mark key="[" line="5" column="48" />
+        <mark key="]" line="5" column="46" />
+        <mark key="." line="5" column="46" />
+        <mark key="^" line="5" column="46" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1518714195948">
         <mark key="[" line="44" column="21" />
         <mark key="]" line="44" column="29" />
@@ -279,11 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="39" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
-      <jump line="8" column="17" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/__utils.py" />
-      <jump line="16" column="15" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
       <jump line="34" column="31" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
       <jump line="11" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/utils.py" />
       <jump line="20" column="19" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
@@ -379,13 +381,18 @@
       <jump line="40" column="17" filename="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" />
       <jump line="42" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" />
       <jump line="62" column="49" filename="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" />
+      <jump line="5" column="21" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="0" column="44" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="8" column="24" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="2" column="80" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>True</text>
       </register>
       <register name="-" type="4">
-        <text>'THIS IS A TEST'</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text>os\.environ</text>
@@ -400,22 +407,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRleHRfbG9jID0gKGludChzX3cgLyAyKSwgaW50KHNfaCAvIDIpKQo=</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN2Lmltc2hvdyhuYW1lLCBsYWJlbCkKICAgIGN2LndhaXRLZXkoMCkKICAgIGN2LmRlc3Ryb3lXaW5kb3cobmFtZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRleHRfbG9jID0gKDAsIDApCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGN2Lm5hbWVkV2luZG93KCkK</text>
+        <text encoding="base64">CnByaW50KGxpc3QobmV3c2dyb3Vwc190cmFpbi50YXJnZXRfbmFtZXMpKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -426,10 +433,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGN2LmRlc3Ryb3lBbGxXaW5kb3dzKCkK</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuIGltcG9ydCBtZXRyaWNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGN2LnB1dFRleHQocywgJ3Rlc3QnLCAoNTAsIDUwKSwgY3YuRk9OVF9IRVJTSEVZX1NJTVBMRVgsIDQsICgwLCAwKSwgMiwgY3YuTElORV9BQSkK</text>
+        <text encoding="base64">CnZlY3RvcnNfdGVzdCA9IHZlY3Rvcml6ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
