@@ -137,7 +137,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1518802720630">
+      <file name="/Python Console" timestamp="1519043306875">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/nat/main.tf" timestamp="1518447796399">
@@ -208,12 +208,11 @@
       <file name="/1" timestamp="1518616293686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" timestamp="1519032385683">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="25" column="42" />
-        <mark key="]" line="25" column="62" />
-        <mark key="." line="25" column="62" />
-        <mark key="^" line="25" column="62" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" timestamp="1519043366599">
+        <mark key="'" line="27" column="31" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1518794941466">
         <mark key="'" line="33" column="23" />
@@ -243,6 +242,7 @@
         <mark key="." line="44" column="28" />
         <mark key="^" line="44" column="28" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/sentiment/facebook-comments/fb_data.txt" timestamp="1519041559838" />
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/rabbit/main.tf" timestamp="1518452615346">
         <mark key="'" line="68" column="55" />
         <mark key="[" line="74" column="0" />
@@ -289,30 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="24" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
-      <jump line="31" column="30" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
-      <jump line="28" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
-      <jump line="114" column="7" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cli.py" />
-      <jump line="33" column="11" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
-      <jump line="13" column="8" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
-      <jump line="32" column="8" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
-      <jump line="10" column="15" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
-      <jump line="35" column="12" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/sync.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
-      <jump line="42" column="15" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
-      <jump line="29" column="18" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
-      <jump line="31" column="8" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
-      <jump line="15" column="10" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
-      <jump line="40" column="37" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
-      <jump line="34" column="10" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
-      <jump line="48" column="29" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
-      <jump line="35" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
       <jump line="11" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
       <jump line="26" column="66" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
       <jump line="28" column="26" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
@@ -366,66 +342,90 @@
       <jump line="42" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" />
       <jump line="62" column="49" filename="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" />
       <jump line="5" column="21" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="2" column="36" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="38" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
       <jump line="33" column="23" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="12" column="40" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="17" column="17" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="252" column="48" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="1" column="10" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="20" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="14" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="18" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="9" column="14" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="7" column="64" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="8" column="20" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="23" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="16" column="40" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="8" column="35" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="4" column="13" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="19" column="17" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="39" column="62" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="30" column="1" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="41" column="34" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="34" column="14" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="11" column="13" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="12" column="15" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="42" column="14" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="54" column="26" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="9" column="17" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="48" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="51" column="39" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="15" column="23" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="44" column="59" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="38" column="52" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="13" column="52" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="53" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="25" column="31" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="26" column="31" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="27" column="31" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.split()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBubHRrLnN0ZW0gaW1wb3J0IFAK</text>
       </register>
       <register name="-" type="4">
-        <text>.split()</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>os\.environ</text>
       </register>
-      <register name="0" type="4">
-        <text>facebook-comments/fb_data</text>
+      <register name="0" type="2">
+        <text encoding="base64">WF90ZXN0ID0gflhfdHJhaW4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBubHRrLnN0ZW0gaW1wb3J0IFAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RlbW1lciA9IFBvcnRlclN0ZW1tZXIoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZG9jX2EgPSBbXQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VudGVuY2UgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnRyYWluLCB0ZXN0ID0gdHJhaW5fdGVzdF9zcGxpdChkZiwgdGVzdF9zaXplPTAuMSkK</text>
+        <text encoding="base64">c3RvcCA9IAoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -436,10 +436,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">cmF3ID0gZG9jLmxvd2VyKCkKdG9rZW5zICAK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
