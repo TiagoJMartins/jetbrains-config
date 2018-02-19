@@ -137,7 +137,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1519056545942">
+      <file name="/Python Console" timestamp="1519061165164">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/nat/main.tf" timestamp="1518447796399">
@@ -208,11 +208,11 @@
       <file name="/1" timestamp="1518616293686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" timestamp="1519057208916">
-        <mark key="'" line="36" column="33" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" timestamp="1519061526172">
+        <mark key="'" line="15" column="18" />
+        <mark key="[" line="37" column="63" />
+        <mark key="]" line="37" column="64" />
+        <mark key="." line="37" column="64" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1518794941466">
         <mark key="'" line="33" column="23" />
@@ -289,7 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="14" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
       <jump line="59" column="20" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
       <jump line="21" column="65" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
       <jump line="18" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/cli.py" />
@@ -340,7 +339,6 @@
       <jump line="252" column="48" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="14" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="18" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="16" column="40" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="8" column="35" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="4" column="13" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
@@ -355,18 +353,15 @@
       <jump line="52" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="7" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="46" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="15" column="23" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="38" column="52" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="13" column="52" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="10" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="32" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="21" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="53" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="25" column="31" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="17" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="23" column="24" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="64" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="22" column="30" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="35" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
@@ -388,14 +383,19 @@
       <jump line="41" column="14" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="50" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="36" column="33" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="28" column="9" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="16" column="30" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="36" column="4" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
+      <jump line="13" column="18" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBubHRrLmNvcnB1cyBpbXBvcnQgbW92aWVfcmV2aWV3cwo=</text>
+        <text encoding="base64">ICAgICdjbGZfX2dhbW1hJzogWzAuMDAxLCAwLjAwMDEsIDAuMDFdLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>stop</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>os\.environ</text>
@@ -404,28 +404,28 @@
         <text encoding="base64">ICAgICgndmVjdCcsIENvdW50VmVjdG9yaXplcigpKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBubHRrLmNvcnB1cyBpbXBvcnQgbW92aWVfcmV2aWV3cwo=</text>
+        <text encoding="base64">ICAgICdjbGZfX2dhbW1hJzogWzAuMDAxLCAwLjAwMDEsIDAuMDFdLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICgndmVjdCcsIENvdW50VmVjdG9yaXplcigpKSwK</text>
+        <text encoding="base64">ICAgICdjbGZfX2dhbW1hJzogWzAuMDAxLCAwLjAxXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CnByaW50KG1ldHJpY3MuY2xhc3NpZmljYXRpb25fcmVwb3J0KHlfdGVzdCwgcHJlZCwgdGFyZ2V0X25hbWVzPVsnUCcsICdPJ10pKQo=</text>
+        <text encoding="base64">CkxPQURfUElDS0xFID0gRmFsc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBzYW1wbGVzID0gcGQucmVhZF90YWJsZShwYXRoICsgJ3NhbXBsZXMudHh0JywgaGVhZGVyPU5vbmUpLnZhbHVlcy5yYXZlbCgpCiMgdGFyZ2V0cyA9IHBkLnJlYWRfdGFibGUocGF0aCArICdsYWJlbHMudHh0JywgaGVhZGVyPU5vbmUpLnZhbHVlcy5yYXZlbCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoJ1xuVG90YWwgdHJhaW5pbmcgdGltZTogJTYuMmZtcycgJSAoKHRpbWUudGltZSgpIC0gZHQpICogMTAwMCkpCnByaW50KCdBY2N1cmFjeToge30nLmZvcm1hdChhY2MpKQpwcmludCgnQ29ycmVjdCBndWVzc2VzOiB7fS97fVxuJy5mb3JtYXQobGVuKHByZWRbcHJlZCA9PSB5X3Rlc3RdKSwgbGVuKHlfdGVzdCkpKQo=</text>
+        <text encoding="base64">CnBhdGggPSAnY29ycHVzL3NlbnRpbWVudC8nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQobWV0cmljcy5jbGFzc2lmaWNhdGlvbl9yZXBvcnQoeV90ZXN0LCBwcmVkLCB0YXJnZXRfbmFtZXM9WydQJywgJ08nLCAnTiddKSkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBza2xlYXJuLmxpbmVhcl9tb2RlbCBpbXBvcnQgU0dEQ2xhc3NpZmllcgo=</text>
+        <text encoding="base64">CnJjdjEgPSBmZXRjaF9yY3YxKCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -436,10 +436,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZnJvbSBza2xlYXJuLmRhdGFzZXRzIGltcG9ydCBmZXRjaF9yY3YxCmZyb20gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGV4dF9jbGYK</text>
+        <text encoding="base64">cGQK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
