@@ -137,15 +137,15 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1519128510969">
+      <file name="/Python Console" timestamp="1519130459193">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/topic-modeling.py" timestamp="1519128588133">
-        <mark key="'" line="28" column="16" />
-        <mark key="[" line="31" column="35" />
-        <mark key="]" line="31" column="34" />
-        <mark key="." line="31" column="34" />
-        <mark key="^" line="31" column="34" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/topic-modeling.py" timestamp="1519130458165">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="66" column="29" />
+        <mark key="]" line="66" column="30" />
+        <mark key="^" line="66" column="30" />
+        <mark key="." line="66" column="30" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/nat/main.tf" timestamp="1518447796399">
         <mark key="[" line="5" column="0" />
@@ -301,7 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/file.csv" />
       <jump line="94" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/file.csv" />
       <jump line="306" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/file.csv" />
       <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/file.csv" />
@@ -401,13 +400,14 @@
       <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/topic-modeling.py" />
       <jump line="29" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/topic-modeling.py" />
       <jump line="27" column="16" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/topic-modeling.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/topic-modeling.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>StringTokenizer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAiVG9waWMgJWQ6IiAlICh0b3BpY19pZHgpCiAgICAgICAgcHJpbnQgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>StringTokenizer</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>os\.environ</text>
@@ -416,28 +416,28 @@
         <text>'s3://skorr-tm-test/'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBubHRrLnRva2VuaXplCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiVG9waWMgJWQ6IiAlICh0b3BpY19pZHgpCiAgICAgICAgcHJpbnQgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dG9rZW5zID0gdG9rZW4K</text>
+        <text encoding="base64">ICAgICAnVG9waWMge306IHt9Jy5mb3JtYXQodG9waWNfaWR4LCAnICcuam9pbihbZmVhdHVyZV9uYW1lc1tpXSBmb3IgaSBpbiB0b3BpYy5hcmdzb3J0KClbOi1uX3RvcF93b3JkcyAtIDE6LTFdXSkpICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bWVzc2FnZXMgPSBbXQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmZlYXR1cmVfbmFtZXMgPSBlbmdfdmVjdC5nZXRfZmVhdHVyZV9uYW1lcygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWVzc2FnZXMgPSBtZXNzYWdlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWVzc2FnZXMK</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGFuZ3MgPSBzZXQoKQpmb3IgbXNnIGluIG1lc3NhZ2VzOgogICAgbGFuZ3MuYWRkKGxhbmdkZXRlY3QuZGV0ZWN0KG1zZykpCg==</text>
+        <text encoding="base64">ICAgIG1zZwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -448,10 +448,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdDoKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdDoK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
