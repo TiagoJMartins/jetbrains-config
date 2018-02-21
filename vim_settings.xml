@@ -126,12 +126,12 @@
       <file name="/RegExp Fragment (TwitterController.kt:776).regexp" timestamp="1516704978969">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" timestamp="1519233006029">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="46" column="137" />
-        <mark key="]" line="46" column="137" />
-        <mark key="^" line="46" column="137" />
-        <mark key="." line="46" column="137" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" timestamp="1519234780356">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="78" column="29" />
+        <mark key="]" line="78" column="57" />
+        <mark key="." line="78" column="57" />
+        <mark key="^" line="78" column="57" />
       </file>
       <file name="/routing_key" timestamp="1517832197575">
         <mark key="[" line="0" column="0" />
@@ -155,7 +155,7 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1519233007245">
+      <file name="/Python Console" timestamp="1519234783064">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/topic-modeling.py" timestamp="1519232506317">
@@ -230,7 +230,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519125547172">
+      <file name="/Dummy.txt" timestamp="1519233874099">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1518686363064">
@@ -319,13 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="13" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="19" column="17" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="34" column="14" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="42" column="14" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="54" column="26" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="9" column="17" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="48" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
@@ -419,13 +412,20 @@
       <jump line="23" column="22" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
       <jump line="52" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
       <jump line="26" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>os\.environ</text>
@@ -434,28 +434,31 @@
         <text encoding="base64">d2l0aCBUaW1pbmcoJ0dldHRpbmcgbGFzdCAxMDAgcG9zdHMuLi4nLCAnRmluaXNoZWQgYWZ0ZXIgezA6LjJmfScpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICdmaWVsZHMnOiAnLCcuam9pbihbJ21lc3NhZ2UnLAogICAgICAgICAgICAgICAgICAgICAgICAnbGltaXQoMTAwKScsCiAgICAgICAgICAgICAgICAgICAgICAgICdjb21tZW50cycsCiAgICAgICAgICAgICAgICAgICAgICAgICdzaGFyZXMnLAogICAgICAgICAgICAgICAgICAgICAgICAncmVhY3Rpb25zJywKICAgICAgICAgICAgICAgICAgICAgICAgJ2xpa2Vze25hbWUsaWQscGljX2xhcmdlfScsCiAgICAgICAgICAgICAgICAgICAgICAgICdjb21tZW50cycsCiAgICAgICAgICAgICAgICAgICAgICAgICdjcmVhdGVkX3RpbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAnbGluaycsCiAgICAgICAgICAgICAgICAgICAgICAgICdmcm9tJ10pCg==</text>
+      <register name="3" type="4">
+        <text>{
+            'message': comment['message'],
+            'comment_count': comment['comment_count']
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKCdjb3JwdXMvY3Jpc3RpYW5vLzEwMHBvc3RzX3dpdGhfY29tbWVudHMuanNvbicsICdyYicpIGFzIGY6CiAgICByYXdfcG9zdHMgPSBqc29uLmxvYWQoZilbJ3Bvc3RzJ11bJ2RhdGEnXQoKCg==</text>
+        <text encoding="base64">ICAgIHAgPSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CnRva2VuID0gJ0VBQUNFZEVvc2UwY0JBSm54TnRwUlpDdGJGa3pDbVpCb3VSclIwdjE5ZjYwWkFTeDVTMHpKMk55ZmJZWkJJWkFBS09VZFpBUUJHelpBS1JCVWlIN2x4ZXhHYlczQllVbjhHRFhBeVY5TzNoN0NsWkM3OHVCZERrUGdSM2x1WkJOcmZINVVnUjRMdGZiV2FkWkFoWkJPcUJJWGVGZE9NUVVYb1V2d0dOZXZyMkhLWkN6cFhoV2lyUFpDWWJSUUdReHl1TmlaQVRRQk1aRCcKdXJsID0gJ2h0dHBzOi8vZ3JhcGguZmFjZWJvb2suY29tL3YyLjEyLzgxMjIxMTk3MTYzJwoKcG9zdCA9IHJlcXVlc3RzLmdldCh1cmwsIHBhcmFtcz17CiAgICAnYWNjZXNzX3Rva2VuJzogdG9rZW4sCiAgICAnZmllbGRzJzogJywnLmpvaW4oWydtZXNzYWdlJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnLAogICAgICAgICAgICAgICAgICAgICAgICAnZnVsbF9waWN0dXJlJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3NoYXJlcycsCiAgICAgICAgICAgICAgICAgICAgICAgICdyZWFjdGlvbnMnLAogICAgICAgICAgICAgICAgICAgICAgICAnbGlrZXN7bmFtZSxpZCxwaWNfbGFyZ2V9JywKICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbW1lbnRzJywKICAgICAgICAgICAgICAgICAgICAgICAgJ2NyZWF0ZWRfdGltZScsCiAgICAgICAgICAgICAgICAgICAgICAgICdsaW5rJywKICAgICAgICAgICAgICAgICAgICAgICAgJ2Zyb20nXSkKfSkuanNvbigpCgo=</text>
+        <text encoding="base64">ICAgIHRvcDVjb21tZW50cy5tYXgoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFyYW1zID0gewogICAgJ2ZpZWxkcyc6IHsKICAgICAgICAKICAgIH0KfQoK</text>
+        <text encoding="base64">ICAgIHAgPSB7CiAgICAgICAgJ21lc3NhZ2UnOiBfcFsnbWVzc2FnZSddCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">SFRUUC8yIDIwMCAKeC1hcHAtdXNhZ2U6IHsiY2FsbF9jb3VudCI6MywidG90YWxfY3B1dGltZSI6MywidG90YWxfdGltZSI6Mn0KZXRhZzogImUyYjdjNjRhNjNiMjI3MjBkN2U0YmFhNmEwMDU3NTVlYTZmMmU2ZTUiCnN0cmljdC10cmFuc3BvcnQtc2VjdXJpdHk6IG1heC1hZ2U9MTU1NTIwMDA7IHByZWxvYWQKeC1mYi10cmFjZS1pZDogRnlYQ1VyQVEzRGEKeC1mYi1yZXY6IDM2NjM1MjYKZXhwaXJlczogU2F0LCAwMSBKYW4gMjAwMCAwMDowMDowMCBHTVQKY29udGVudC10eXBlOiBhcHBsaWNhdGlvbi9qc29uOyBjaGFyc2V0PVVURi04CmZhY2Vib29rLWFwaS12ZXJzaW9uOiB2Mi4xMgpjYWNoZS1jb250cm9sOiBwcml2YXRlLCBuby1jYWNoZSwgbm8tc3RvcmUsIG11c3QtcmV2YWxpZGF0ZQpwcmFnbWE6IG5vLWNhY2hlCmFjY2Vzcy1jb250cm9sLWFsbG93LW9yaWdpbjogKgp2YXJ5OiBBY2NlcHQtRW5jb2RpbmcKeC1mYi1kZWJ1ZzogelI1UXhheUI3NUdYQjhTQkRaZ1pLbk82a1E4cUNzdWQ2THlTZTVzZDJFeU42SEwvYmM1Mk1Qb2ZKdXRoQkNOVEdjdkppYXUxNUhWd3I0WGI2ZGhYNHc9PQpkYXRlOiBXZWQsIDIxIEZlYiAyMDE4IDE2OjUyOjAzIEdNVAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -466,10 +469,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnQ29tbWVudHMgcGFnZSAje30nLmZvcm1hdChjb21tZW50X2NvdW50KSwgZW5kPSdccicpCg==</text>
+        <text encoding="base64">ICAgICdmaWVsZHMnOiAnLCcuam9pbihbJ21lc3NhZ2UnLAogICAgICAgICAgICAgICAgICAgICAgICAnbGltaXQoMTAwKScsCiAgICAgICAgICAgICAgICAgICAgICAgICdjb21tZW50cycsCiAgICAgICAgICAgICAgICAgICAgICAgICdzaGFyZXMnLAogICAgICAgICAgICAgICAgICAgICAgICAncmVhY3Rpb25zJywKICAgICAgICAgICAgICAgICAgICAgICAgJ2xpa2Vze25hbWUsaWQscGljX2xhcmdlfScsCiAgICAgICAgICAgICAgICAgICAgICAgICdjb21tZW50cycsCiAgICAgICAgICAgICAgICAgICAgICAgICdjcmVhdGVkX3RpbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAnbGluaycsCiAgICAgICAgICAgICAgICAgICAgICAgICdmcm9tJ10pCg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
