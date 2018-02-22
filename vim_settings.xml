@@ -73,6 +73,7 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="14" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/nrc/NRC-Sentiment-Emotion-Lexicons/NRC-Emotion-Lexicon-v0.92/NRC-Emotion-Lexicon-Wordlevel-v0.92.txt" timestamp="1519299501545" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.gitattributes" timestamp="1513094418015">
         <mark key="[" line="1" column="19" />
       </file>
@@ -112,6 +113,12 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1514988383758">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/nrc/NRC-Sentiment-Emotion-Lexicons/clean.py" timestamp="1519300648250">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/tests/test_persistence.py" timestamp="1518598248313">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="33" />
@@ -126,7 +133,7 @@
       <file name="/RegExp Fragment (TwitterController.kt:776).regexp" timestamp="1516704978969">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" timestamp="1519291298919">
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" timestamp="1519299667508">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="78" column="29" />
         <mark key="]" line="78" column="57" />
@@ -155,15 +162,16 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1519294055181">
+      <file name="/Python Console" timestamp="1519301247567">
+        <mark key="'" line="0" column="9" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/topic-modeling.py" timestamp="1519232506317">
-        <mark key="'" line="13" column="17" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="27" column="38" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="114" column="51" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/topic-modeling.py" timestamp="1519299839177">
+        <mark key="'" line="121" column="10" />
+        <mark key="[" line="121" column="5" />
+        <mark key="]" line="121" column="5" />
+        <mark key="." line="121" column="9" />
+        <mark key="^" line="121" column="5" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/nat/main.tf" timestamp="1518447796399">
         <mark key="[" line="5" column="0" />
@@ -180,6 +188,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/nrc/NRC-Sentiment-Emotion-Lexicons/NRC-Emotion-Lexicon-v0.92/NRC-Emotion-Lexicon-Senselevel-v0.92.txt" timestamp="1519299773831" />
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/terraform.tfvars" timestamp="1518452086190">
         <mark key="'" line="14" column="5" />
         <mark key="[" line="29" column="0" />
@@ -232,6 +241,7 @@
       <file name="/Dummy.txt" timestamp="1519293538417">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/nrc/NRC-Sentiment-Emotion-Lexicons/flattened-words.csv" timestamp="1519301263438" />
       <file name="/code.py" timestamp="1518686363064">
         <mark key="[" line="0" column="0" />
       </file>
@@ -279,11 +289,12 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="75" column="3" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" timestamp="1519294054044">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" timestamp="1519301246176">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="49" />
+        <mark key="." line="8" column="49" />
+        <mark key="^" line="8" column="49" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/alb/variables.tf" timestamp="1518429352163">
         <mark key="'" line="16" column="0" />
@@ -323,17 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="26" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="9" column="17" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="38" column="52" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="53" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="25" column="31" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="17" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="64" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
@@ -423,43 +423,54 @@
       <jump line="55" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
       <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
       <jump line="57" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/nrc/NRC-Sentiment-Emotion-Lexicons/clean.py" />
+      <jump line="12" column="39" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/nrc/NRC-Sentiment-Emotion-Lexicons/clean.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/nrc/NRC-Sentiment-Emotion-Lexicons/clean.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
+      <jump line="121" column="10" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/topic-modeling.py" />
+      <jump line="0" column="9" filename="/Python Console" />
+      <jump line="7" column="13" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>len(raw_df)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>os\.environ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQocmF3X2RmLnNoYXBlKQo=</text>
+        <text encoding="base64">cHJpbnQoJ1NhdmluZy4uLicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGYuZHJvcG5hKGhvdz0nYWxsJywgYXhpcz0wLCBpbnBsYWNlPVRydWUpCmRmLnJlcGxhY2UobnAubmFuLCAwLCBpbnBsYWNlPVRydWUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIHdvcmQgaW4gd29yZHM6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmRmICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGYgPSBkZlsoZGYuVCAhPSAwKS5hbnkoMSldCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmVtb3Rpb25fZmlsdGVyID0gZGYuZW1vdGlvbiBub3QgaW4gZmlsdGVyZWRfZW1vdGlvbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBkZi5lbW90aW9uICE9ICduZWdhdGl2ZScgYW5kIFwKICAgICAgICAgICAgICAgICBkZi5lbW90aW9uICE9ICdwb3NpdGl2ZScgYW5kIFwKICAgICAgICAgICAgICAgICBkZi5lbW90aW9uICE9Cg==</text>
+        <text encoding="base64">ZGYuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmlsdGVyZWQKCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -470,10 +481,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW1vdGlvbnNfZGYgPSBwZC5EYXRhRnJhbWUoY29sdW1ucz1bJ3dvcmQnLCAnJ10pCgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
