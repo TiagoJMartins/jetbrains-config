@@ -73,6 +73,7 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="14" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/nrc/NRC-Sentiment-Emotion-Lexicons/NRC-Emotion-Lexicon-v0.92/NRC-Emotion-Lexicon-Wordlevel-v0.92.txt" timestamp="1519293045747" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.gitattributes" timestamp="1513094418015">
         <mark key="[" line="1" column="19" />
       </file>
@@ -279,6 +280,12 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="75" column="3" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" timestamp="1519293292918">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/alb/variables.tf" timestamp="1518429352163">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="15" column="0" />
@@ -289,6 +296,7 @@
       <file name="/100" timestamp="1518616293693">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/nrc/NRC-Sentiment-Emotion-Lexicons/NRC-Emotion-Lexicon-v0.92/readme.txt" timestamp="1519293010437" />
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1519138676853">
         <mark key="'" line="8" column="40" />
         <mark key="[" line="309" column="0" />
@@ -420,7 +428,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHBkCg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -432,31 +440,31 @@
         <text encoding="base64">d2l0aCBUaW1pbmcoJ0dldHRpbmcgbGFzdCAxMDAgcG9zdHMuLi4nLCAnRmluaXNoZWQgYWZ0ZXIgezA6LjJmfScpOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHBkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
             'message': comment['message'],
             'comment_count': comment['comment_count']
         }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHAgPSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHRvcDVjb21tZW50cy5tYXgoKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHAgPSB7CiAgICAgICAgJ21lc3NhZ2UnOiBfcFsnbWVzc2FnZSddCiAgICB9Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHAgPSB7CiAgICAgICAgJ21lc3NhZ2UnOiBfcFsnbWVzc2FnZSddCiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -470,7 +478,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdmaWVsZHMnOiAnLCcuam9pbihbJ21lc3NhZ2UnLAogICAgICAgICAgICAgICAgICAgICAgICAnbGltaXQoMTAwKScsCiAgICAgICAgICAgICAgICAgICAgICAgICdjb21tZW50cycsCiAgICAgICAgICAgICAgICAgICAgICAgICdzaGFyZXMnLAogICAgICAgICAgICAgICAgICAgICAgICAncmVhY3Rpb25zJywKICAgICAgICAgICAgICAgICAgICAgICAgJ2xpa2Vze25hbWUsaWQscGljX2xhcmdlfScsCiAgICAgICAgICAgICAgICAgICAgICAgICdjb21tZW50cycsCiAgICAgICAgICAgICAgICAgICAgICAgICdjcmVhdGVkX3RpbWUnLAogICAgICAgICAgICAgICAgICAgICAgICAnbGluaycsCiAgICAgICAgICAgICAgICAgICAgICAgICdmcm9tJ10pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
