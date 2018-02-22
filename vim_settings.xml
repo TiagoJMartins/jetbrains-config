@@ -289,12 +289,12 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="75" column="3" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" timestamp="1519306731747">
-        <mark key="'" line="8" column="13" />
-        <mark key="[" line="8" column="40" />
-        <mark key="]" line="8" column="49" />
-        <mark key="." line="8" column="49" />
-        <mark key="^" line="8" column="49" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" timestamp="1519315503892">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/alb/variables.tf" timestamp="1518429352163">
         <mark key="'" line="16" column="0" />
@@ -334,7 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="31" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="17" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="64" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="22" column="30" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
@@ -434,13 +433,14 @@
       <jump line="121" column="10" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/topic-modeling.py" />
       <jump line="0" column="9" filename="/Python Console" />
       <jump line="7" column="13" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>NotImplementedError</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>NotImplementedError</text>
       </register>
       <register name="/" type="4">
         <text>os\.environ</text>
@@ -449,28 +449,28 @@
         <text encoding="base64">cHJpbnQoJ1NhdmluZy4uLicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGYuZHJvcG5hKGhvdz0nYWxsJywgYXhpcz0wLCBpbnBsYWNlPVRydWUpCmRmLnJlcGxhY2UobnAubmFuLCAwLCBpbnBsYWNlPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGEgPSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmRmICAK</text>
+        <text encoding="base64">Y2xhc3MgQ2xlYW5EYXRhKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGYgPSBkZlsoZGYuVCAhPSAwKS5hbnkoMSldCg==</text>
+        <text encoding="base64">ZGYuZHJvcG5hKGhvdz0nYWxsJywgYXhpcz0wLCBpbnBsYWNlPVRydWUpCmRmLnJlcGxhY2UobnAubmFuLCAwLCBpbnBsYWNlPVRydWUpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGYuCg==</text>
+        <text encoding="base64">CmRmICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZGYgPSBkZlsoZGYuVCAhPSAwKS5hbnkoMSldCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -481,10 +481,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZGYuCg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
