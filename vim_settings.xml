@@ -286,12 +286,11 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="75" column="3" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" timestamp="1519377584766">
-        <mark key="'" line="50" column="102" />
-        <mark key="[" line="50" column="100" />
-        <mark key="]" line="51" column="144" />
-        <mark key="." line="51" column="144" />
-        <mark key="^" line="51" column="144" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" timestamp="1519382502660">
+        <mark key="'" line="14" column="47" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/alb/variables.tf" timestamp="1518429352163">
         <mark key="'" line="16" column="0" />
@@ -331,12 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="20" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="5" column="12" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="40" column="31" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="20" column="19" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="44" column="21" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="27" column="21" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="6" column="44" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="68" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
@@ -425,19 +418,25 @@
       <jump line="121" column="10" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/topic-modeling.py" />
       <jump line="0" column="9" filename="/Python Console" />
       <jump line="7" column="13" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
       <jump line="9" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
       <jump line="11" column="25" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
       <jump line="56" column="47" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
       <jump line="57" column="39" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
       <jump line="50" column="102" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
+      <jump line="8" column="12" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
+      <jump line="13" column="47" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CmVtb3Rpb25zID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>lex</text>
       </register>
       <register name="/" type="4">
         <text>os\.environ</text>
@@ -446,28 +445,28 @@
         <text encoding="base64">ICAgICAgICBwcmludCgnVG9rZW5pemVkOiB7fScuZm9ybWF0KGRvYykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmVtb3Rpb25zID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmVtb3Rpb25zICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmVtb3Rpb25zID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gcGQucmVhZF9jc3YK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhID0gcGQucmVhZF9jc3YK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW1vdGlvbnMgPSBucC5zdW0obnAuYXJyYXkoZW1vdGlvbnMpKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBhcHBseV9yZWdleF9maWx0ZXJzKHNlbGYsIGRvYyk6CiAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -478,10 +477,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yIGRvYyBpbiBkYXRhOgo=</text>
+        <text encoding="base64">CmltcG9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsZWFuc2VkX2RhdGEgPSBkYXRhX2NsZWFuZXIuY2xlYW4oZGF0YSwgbG93ZXJjYXNlPVRydWUpCiAgICBlbW90aW9ucyA9IFtdCg==</text>
+        <text encoding="base64">aW1wb3IK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
