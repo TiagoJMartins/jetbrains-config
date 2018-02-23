@@ -143,8 +143,7 @@
         <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/test_out.csv" timestamp="1519388049443" />
-      <file name="/Python Console" timestamp="1519393473463">
-        <mark key="'" line="0" column="9" />
+      <file name="/Python Console" timestamp="1519396026824">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/topic-modeling.py" timestamp="1519299839177">
@@ -166,10 +165,6 @@
       </file>
       <file name="/''" timestamp="1518616293683">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scraped_tokens.csv" timestamp="1518624055230">
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="1" column="67" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/terraform.tfvars" timestamp="1518452086190">
         <mark key="'" line="14" column="5" />
@@ -235,11 +230,10 @@
         <mark key="]" line="37" column="64" />
         <mark key="." line="37" column="64" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1519388253431">
-        <mark key="[" line="13" column="56" />
-        <mark key="]" line="13" column="56" />
-        <mark key="." line="13" column="56" />
-        <mark key="^" line="13" column="70" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1519396141483">
+        <mark key="[" line="297" column="0" />
+        <mark key="]" line="297" column="0" />
+        <mark key="." line="297" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/cristiano/100posts.json" timestamp="1519393652384" />
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/ecs/variables.tf" timestamp="1518453050191">
@@ -250,10 +244,10 @@
         <mark key="." line="6" column="25" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" timestamp="1519389117591">
-        <mark key="[" line="31" column="6" />
-        <mark key="]" line="31" column="17" />
-        <mark key="." line="31" column="17" />
-        <mark key="^" line="31" column="17" />
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="22" column="17" />
+        <mark key="." line="22" column="17" />
+        <mark key="^" line="22" column="17" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/ecs/task-definitions/api.tpl" timestamp="1518454357034">
         <mark key="'" line="37" column="0" />
@@ -269,12 +263,12 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="75" column="3" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" timestamp="1519394731877">
-        <mark key="'" line="14" column="47" />
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-        <mark key="^" line="18" column="11" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" timestamp="1519396025534">
+        <mark key="'" line="22" column="35" />
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="22" />
+        <mark key="^" line="18" column="22" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/alb/variables.tf" timestamp="1518429352163">
         <mark key="'" line="16" column="0" />
@@ -314,9 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
-      <jump line="51" column="24" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="11" column="45" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="41" column="14" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
       <jump line="50" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/main.py" />
@@ -392,7 +383,6 @@
       <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/nrc/NRC-Sentiment-Emotion-Lexicons/clean.py" />
       <jump line="12" column="39" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/nrc/NRC-Sentiment-Emotion-Lexicons/clean.py" />
       <jump line="24" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/nrc/NRC-Sentiment-Emotion-Lexicons/clean.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
       <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
       <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
       <jump line="121" column="10" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/topic-modeling.py" />
@@ -414,13 +404,17 @@
       <jump line="25" column="53" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
       <jump line="29" column="18" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
       <jump line="30" column="18" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/bin/scrapeall.py" />
+      <jump line="21" column="22" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
+      <jump line="20" column="35" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICB7fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>read_csv</text>
+        <text>.raw.</text>
       </register>
       <register name="/" type="4">
         <text>publish</text>
@@ -429,28 +423,28 @@
         <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ2EnOiAwLAogICAgICAgICAgICAgICAgJ2InOiAxCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICB7fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgIE5vbmUuZ2V0Vgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGEgPSBOb25lCgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -461,10 +455,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBzZWxmLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZi5yZWFkKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyLmNvbHVtKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2UK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
