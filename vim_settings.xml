@@ -9,12 +9,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/posts.py" timestamp="1519898749669">
-        <mark key="[" line="97" column="86" />
-        <mark key="]" line="97" column="87" />
-        <mark key="." line="97" column="87" />
-        <mark key="^" line="95" column="34" />
-      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-nlp/controllers/emotions.py" timestamp="1519896015536">
         <mark key="'" line="68" column="24" />
         <mark key="[" line="68" column="48" />
@@ -92,12 +86,6 @@
         <mark key="." line="240" column="43" />
         <mark key="^" line="240" column="43" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/deploy.sh" timestamp="1519896008128">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="11" />
-      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/BasicEmotion.kt" timestamp="1519815784065">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="3" />
@@ -142,6 +130,12 @@
         <mark key="^" line="22" column="9" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/terraform.tfvars" timestamp="1519915754448" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/main.tf" timestamp="1519922649466">
+        <mark key="[" line="43" column="74" />
+        <mark key="]" line="43" column="73" />
+        <mark key="." line="43" column="73" />
+        <mark key="^" line="43" column="73" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/CommentEmotionChart/CommentEmotionChart.js" timestamp="1519839095255">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="25" column="0" />
@@ -359,11 +353,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/subnet/outputs.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">b3V0cHV0ICJpZHMiIHsKICAgIHZhbHVlID0gWyIke2F3c19zdWJuZXQuc3VibmV0LiouaWR9Il0KfQoKb3V0cHV0ICJyb3V0ZV90YWJsZV9pZHMiIHsKICAgIHZhbHVlID0gWyIke2F3c19yb3V0ZV90YWJsZS5zdWJuZXQuKi5pZH0iXQp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>id2pic</text>
@@ -372,28 +366,28 @@
         <text encoding="base64">ICAgICAgICBpZiBicmVha2Rvd25ba11bJ3ZhbHVlJ10gPCB2Ogo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3V0cHV0ICJpZHMiIHsKICAgIHZhbHVlID0gWyIke2F3c19zdWJuZXQuc3VibmV0LiouaWR9Il0KfQoKb3V0cHV0ICJyb3V0ZV90YWJsZV9pZHMiIHsKICAgIHZhbHVlID0gWyIke2F3c19yb3V0ZV90YWJsZS5zdWJuZXQuKi5pZH0iXQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3RvciB7fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3V0cHV0ICJpZHMiIHsKICAgIHZhbHVlID0gWyIke2F3c19zdWJuZXQuc3VibmV0LiouaWR9Il0KfQoKb3V0cHV0ICJyb3V0ZV90YWJsZV9pZHMiIHsKICAgIHZhbHVlID0gWyIke2F3c19yb3V0ZV90YWJsZS5zdWJuZXQuKi5pZH0iXQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b3V0cHV0ICJyYWJiaXRfcHJpdmF0ZV9pcCIgewogICAgdmFsdWUgPSAiJHthd3NfaW5zdGFuY2UucmFiYml0LnByaXZhdGVfaXB9Igp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkbnNfcG9saWN5ID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b3V0cHV0ICJpZHMiIHsKICAgIHZhbHVlID0gWyIke2F3c19uYXRfZ2F0ZXdheS5uYXQuKi5pZH0iXQp9CgpvdXRwdXQgInN1Ym5ldF9pZHMiIHsKICAgIHZhbHVlID0gWyIke3Zhci5zdWJuZXRfaWRzfSJdCn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2UgPSAibmdpbng6MS43LjgiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b3V0cHV0ICJlY3NfaW5zdGFuY2Vfc2VjdXJpdHlfZ3JvdXBfaWQiIHsKICAgIHZhbHVlID0gIiR7YXdzX3NlY3VyaXR5X2dyb3VwLmluc3RhbmNlLmlkfSIKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2UgPSAibmdpbng6MS43LjgiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIwo=</text>
+        <text encoding="base64">b3V0cHV0ICJpZHMiIHsKICAgIHZhbHVlID0gWyIke2F3c19zdWJuZXQuc3VibmV0LiouaWR9Il0KfQoKb3V0cHV0ICJyb3V0ZV90YWJsZV9pZHMiIHsKICAgIHZhbHVlID0gWyIke2F3c19yb3V0ZV90YWJsZS5zdWJuZXQuKi5pZH0iXQp9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -404,10 +398,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">SUlJSUlJSUlJSQo=</text>
+        <text encoding="base64">b3V0cHV0ICJpZHMiIHsKICAgIHZhbHVlID0gWyIke2F3c19zdWJuZXQuc3VibmV0LiouaWR9Il0KfQoKb3V0cHV0ICJyb3V0ZV90YWJsZV9pZHMiIHsKICAgIHZhbHVlID0gWyIke2F3c19yb3V0ZV90YWJsZS5zdWJuZXQuKi5pZH0iXQp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>65</text>
