@@ -39,8 +39,8 @@
         <mark key="]" line="35" column="24" />
         <mark key="." line="35" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1519898704391">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1519902323196">
+        <mark key="'" line="166" column="16" />
         <mark key="[" line="76" column="15" />
         <mark key="]" line="76" column="24" />
         <mark key="." line="76" column="24" />
@@ -202,11 +202,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1519899030272">
-        <mark key="[" line="49" column="30" />
-        <mark key="]" line="49" column="29" />
-        <mark key="." line="49" column="29" />
-        <mark key="^" line="49" column="29" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1519902361570">
+        <mark key="'" line="271" column="33" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="58" column="21" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Models/ContentEmotion.js" timestamp="1519837065345">
         <mark key="[" line="76" column="74" />
@@ -264,9 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="22" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
       <jump line="47" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
       <jump line="54" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/top-fb-comments.py" />
@@ -364,43 +362,46 @@
       <jump line="79" column="35" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
       <jump line="83" column="24" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
       <jump line="10" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
+      <jump line="96" column="34" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
+      <jump line="271" column="33" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" />
+      <jump line="166" column="16" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>24h_ago</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICB0cmVuZHMgPSBbdi5nZXQoJ3RyZW5kJywgJ1NUQUJMRScpIGZvciB2IGluIGJyZWFrZG93bi52YWx1ZXMoKV0KICAgIG1vZGlmaWVyID0gMAo=</text>
       </register>
       <register name="-" type="4">
-        <text>24h_ago</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>id2pic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lZnJhbWUgPSBhcnJvdy51dGNub3coKS5zaGlmdChkYXlzPS0xKS5yZXBsYWNlKGhvdXI9MjMpLmNlaWwoJ2hvdXInKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBicmVha2Rvd25ba11bJ3ZhbHVlJ10gPCB2Ogo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxhc3RfMjRfaCA9IAo=</text>
+        <text encoding="base64">CiAgICB0cmVuZHMgPSBbdi5nZXQoJ3RyZW5kJywgJ1NUQUJMRScpIGZvciB2IGluIGJyZWFrZG93bi52YWx1ZXMoKV0KICAgIG1vZGlmaWVyID0gMAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">CiAgICBwcHJpbnQoYnJlYWtkb3duc19pbl9sYXN0XzI0aCkKCiAgICBwcHJpbnQoYXZlcmFnZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1vZGlmaWVyID0gcHVsc2UoKQo=</text>
+        <text encoding="base64">CiAgICBwcmludChtb2RpZmllcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgne30gPCB7fSA9IHt9Jy5mb3JtYXQoYnJlYWtkb3duW2tdWyd2YWx1ZSddLCB2LCBicmVha2Rvd25ba11bJ3ZhbHVlJ10gPCB2KSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHB1bHNlKHNrb3JyKToKICAgIGdldF9za29ycl9ieV90aW1lZnJhbWUoKQogICAgcmV0dXJuIHNrb3JyCgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBicmVha2Rvd25ba11bJ3ZhbHVlJ10gPCB2Ogo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcHJpbnQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmZyb20gbW9kZWxzLmVudW1zIGltcG9ydCBTb2NpYWxOZXR3b3JrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -411,13 +412,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICBwcHJpbnQobW9kZikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgZW1vdGlvbnMgPSByZXMuanNvbigpLmdldCgnZW1vdGlvbl9kaXN0cmlidXRpb24nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>43</text>
+        <text>65</text>
       </register>
     </registers>
     <search>
@@ -442,7 +443,6 @@
         <entry>id2pic</entry>
       </history-search>
       <history-cmd>
-        <entry>104</entry>
         <entry>82</entry>
         <entry>19</entry>
         <entry>37</entry>
@@ -462,6 +462,7 @@
         <entry>40</entry>
         <entry>36</entry>
         <entry>43</entry>
+        <entry>65</entry>
       </history-cmd>
       <history-expr />
       <history-input />
