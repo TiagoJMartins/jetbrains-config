@@ -3,129 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/subnet/outputs.tf" timestamp="1519914655787">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/controllers/emotions.py" timestamp="1519896015536">
-        <mark key="'" line="68" column="24" />
-        <mark key="[" line="68" column="48" />
-        <mark key="]" line="70" column="19" />
-        <mark key="^" line="70" column="19" />
-        <mark key="." line="70" column="19" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/CommentsOverview.kt" timestamp="1519835682953">
-        <mark key="[" line="7" column="59" />
-        <mark key="]" line="7" column="59" />
-        <mark key="." line="7" column="59" />
-        <mark key="^" line="7" column="59" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/Post.kt" timestamp="1519835898173">
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="35" column="24" />
-        <mark key="." line="35" column="24" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1519902323196">
-        <mark key="'" line="166" column="16" />
-        <mark key="[" line="76" column="15" />
-        <mark key="]" line="76" column="24" />
-        <mark key="." line="76" column="24" />
-        <mark key="^" line="76" column="24" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/Dockerfile" timestamp="1519834446263">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="6" column="34" />
-        <mark key="." line="6" column="34" />
-        <mark key="^" line="6" column="34" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/SkorrApi.js" timestamp="1519833091477">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="4" column="47" />
-        <mark key="." line="4" column="47" />
-        <mark key="^" line="4" column="47" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/message_broker/message_broker.tf" timestamp="1519946389402">
-        <mark key="'" line="33" column="8" />
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="23" />
-        <mark key="." line="23" column="23" />
-        <mark key="^" line="23" column="23" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/enums.py" timestamp="1519816885232">
-        <mark key="[" line="57" column="23" />
-        <mark key="]" line="58" column="23" />
-        <mark key="." line="58" column="23" />
-        <mark key="^" line="58" column="23" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/message-broker/message-broker.tf" timestamp="1519948064196">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="40" column="49" />
-        <mark key="]" line="40" column="69" />
-        <mark key="." line="40" column="69" />
-        <mark key="^" line="40" column="69" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1519899047833">
-        <mark key="[" line="14" column="48" />
-        <mark key="]" line="14" column="49" />
-        <mark key="." line="14" column="49" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/ecs-task-definition.staging.json" timestamp="1519946088884" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/nat/outputs.tf" timestamp="1519914593353">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/nat/variables.tf" timestamp="1519914600585">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="9" />
-        <mark key="^" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" timestamp="1519829570925">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="96" />
-        <mark key="." line="36" column="44" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/FanComment.kt" timestamp="1519749350763">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/PostDAOImpl.kt" timestamp="1519839277067">
-        <mark key="[" line="240" column="28" />
-        <mark key="]" line="240" column="43" />
-        <mark key="." line="240" column="43" />
-        <mark key="^" line="240" column="43" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/BasicEmotion.kt" timestamp="1519815784065">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="3" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/task-definition.json" timestamp="1519829092950">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="25" column="31" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/.gitignore" timestamp="1519819684354">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" timestamp="1519944931010">
-        <mark key="[" line="48" column="24" />
-        <mark key="]" line="48" column="35" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/rabbit/rabbit.tf" timestamp="1519945458163">
-        <mark key="[" line="0" column="44" />
-        <mark key="]" line="0" column="43" />
-        <mark key="^" line="0" column="43" />
-        <mark key="." line="0" column="43" />
-      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/PostAnalytic.kt" timestamp="1519833547559">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="16" column="51" />
@@ -146,18 +23,48 @@
         <mark key="^" line="65" column="9" />
         <mark key="." line="65" column="9" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/subnet/outputs.tf" timestamp="1519914655787">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/controllers/emotions.py" timestamp="1519896015536">
+        <mark key="'" line="68" column="24" />
+        <mark key="[" line="68" column="48" />
+        <mark key="]" line="70" column="19" />
+        <mark key="^" line="70" column="19" />
+        <mark key="." line="70" column="19" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/CommentsOverview.kt" timestamp="1519835682953">
+        <mark key="[" line="7" column="59" />
+        <mark key="]" line="7" column="59" />
+        <mark key="." line="7" column="59" />
+        <mark key="^" line="7" column="59" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/subnet/variables.tf" timestamp="1519914663562">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="9" />
         <mark key="." line="22" column="9" />
         <mark key="^" line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/main.tf" timestamp="1519948176299">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="4" column="26" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/Post.kt" timestamp="1519835898173">
+        <mark key="[" line="35" column="24" />
+        <mark key="]" line="35" column="24" />
+        <mark key="." line="35" column="24" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1519902323196">
+        <mark key="'" line="166" column="16" />
+        <mark key="[" line="76" column="15" />
+        <mark key="]" line="76" column="24" />
+        <mark key="." line="76" column="24" />
+        <mark key="^" line="76" column="24" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/main.tf" timestamp="1519988120876">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="17" column="60" />
+        <mark key="]" line="17" column="59" />
+        <mark key="^" line="17" column="59" />
+        <mark key="." line="17" column="59" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/CommentEmotionChart/CommentEmotionChart.js" timestamp="1519839095255">
         <mark key="'" line="16" column="0" />
@@ -183,6 +90,19 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/Dockerfile" timestamp="1519834446263">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="6" column="34" />
+        <mark key="^" line="6" column="34" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/io.tf" timestamp="1519988155970">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="21" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-nlp/main.py" timestamp="1519828027871">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="23" column="34" />
@@ -190,10 +110,29 @@
         <mark key="." line="23" column="33" />
         <mark key="^" line="23" column="33" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/SkorrApi.js" timestamp="1519833091477">
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="47" />
+        <mark key="." line="4" column="47" />
+        <mark key="^" line="4" column="47" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/message_broker/message_broker.tf" timestamp="1519946389402">
+        <mark key="'" line="33" column="8" />
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="23" />
+        <mark key="." line="23" column="23" />
+        <mark key="^" line="23" column="23" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Models/SocialNetwork.js" timestamp="1519839136528">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/enums.py" timestamp="1519816885232">
+        <mark key="[" line="57" column="23" />
+        <mark key="]" line="58" column="23" />
+        <mark key="." line="58" column="23" />
+        <mark key="^" line="58" column="23" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1519914296926">
         <mark key="'" line="271" column="33" />
@@ -202,11 +141,40 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="58" column="21" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/message-broker/message-broker.tf" timestamp="1519948064196">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="40" column="49" />
+        <mark key="]" line="40" column="69" />
+        <mark key="." line="40" column="69" />
+        <mark key="^" line="40" column="69" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1519899047833">
+        <mark key="[" line="14" column="48" />
+        <mark key="]" line="14" column="49" />
+        <mark key="." line="14" column="49" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Models/ContentEmotion.js" timestamp="1519837065345">
         <mark key="[" line="76" column="74" />
         <mark key="]" line="76" column="74" />
         <mark key="^" line="53" column="36" />
         <mark key="." line="76" column="74" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/ecs-task-definition.staging.json" timestamp="1519987263694" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/nat/outputs.tf" timestamp="1519914593353">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/nat/variables.tf" timestamp="1519914600585">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" timestamp="1519829570925">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="96" />
+        <mark key="." line="36" column="44" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" timestamp="1519830759133">
         <mark key="[" line="22" column="0" />
@@ -221,16 +189,29 @@
         <mark key="." line="27" column="19" />
         <mark key="^" line="27" column="19" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/FanComment.kt" timestamp="1519749350763">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/PostDAOImpl.kt" timestamp="1519839277067">
+        <mark key="[" line="240" column="28" />
+        <mark key="]" line="240" column="43" />
+        <mark key="." line="240" column="43" />
+        <mark key="^" line="240" column="43" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-nlp/requirements.txt" timestamp="1519827713766">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" timestamp="1519946278598">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="67" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" timestamp="1519987933321">
+        <mark key="'" line="35" column="41" />
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" timestamp="1519832818761">
         <mark key="'" line="8" column="0" />
@@ -243,6 +224,18 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/BasicEmotion.kt" timestamp="1519815784065">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/task-definition.json" timestamp="1519829092950">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="25" column="31" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/CommentsOverview/CommentsOverview.js" timestamp="1519838854903">
         <mark key="'" line="45" column="6" />
@@ -257,6 +250,21 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="48" column="12" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/.gitignore" timestamp="1519819684354">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" timestamp="1519944931010">
+        <mark key="[" line="48" column="24" />
+        <mark key="]" line="48" column="35" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/rabbit/rabbit.tf" timestamp="1519945458163">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="43" />
+        <mark key="^" line="0" column="43" />
+        <mark key="." line="0" column="43" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/rabbit/outputs.tf" timestamp="1519914625784">
         <mark key="[" line="0" column="0" />
@@ -276,21 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
-      <jump line="61" column="57" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
-      <jump line="37" column="34" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
-      <jump line="57" column="61" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
-      <jump line="55" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
-      <jump line="91" column="37" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
-      <jump line="7" column="52" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
-      <jump line="105" column="22" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
       <jump line="21" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
       <jump line="112" column="14" filename="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" />
       <jump line="105" column="45" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" />
@@ -373,46 +366,61 @@
       <jump line="11" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/main.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/cluster/kubernetes.tf" />
       <jump line="414" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/cluster/kubernetes.tf" />
-      <jump line="15" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/main.tf" />
       <jump line="14" column="17" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/message-broker/message-broker.tf" />
       <jump line="28" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/message-broker/message-broker.tf" />
+      <jump line="13" column="21" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/main.tf" />
+      <jump line="57" column="20" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" />
+      <jump line="63" column="1" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" />
+      <jump line="68" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" />
+      <jump line="67" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" />
+      <jump line="23" column="17" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" />
+      <jump line="50" column="37" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" />
+      <jump line="33" column="41" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/main.tf" />
+      <jump line="12" column="10" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/io.tf" />
+      <jump line="10" column="1" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/io.tf" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/io.tf" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/io.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bW9kdWxlICJjbHVzdGVyIiB7CiAgICBzb3VyY2UgPSAiY2x1c3RlciIKfQoK</text>
+      <register name="&quot;" type="4">
+        <text>amqp://rnssrran:cdD9XsLQPcS9ET8XJUr4kTebOtwWOgHl@duckbill.rmq.cloudamqp.com/rnssrran</text>
       </register>
       <register name="-" type="4">
-        <text>spec.cluster_ip</text>
+        <text>amqp://rnssrran:cdD9XsLQPcS9ET8XJUr4kTebOtwWOgHl@duckbill.rmq.cloudamqp.com/rnssrran</text>
       </register>
       <register name="/" type="4">
         <text>id2pic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW52IHsKICAgICAgICAgICAgICAgIG5hbWUgPSAiUkFCQklUX1BBU1NXT1JEIgogICAgICAgICAgICAgICAgdmFsdWUgPSAiZ3Vlc3QiCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CnZhcmlhYmxlICJicm9rZXJfdXJpIiB7CiAgICB0eXBlID0gIm1hcCIKICAgIGRlc2NyaXB0aW9uID0gIkZ1bGwgY29ubmVjdGlvbiBzdHJpbmcgdG8gdGhlIG1lc3NhZ2UgYnJva2VyLiIKCiAgICBkZWZhdWx0ID0gewogICAgICAgIHByb2R1Y3Rpb24gPSAiYW1xcDovL3Juc3NycmFuOmNkRDlYc0xRUGNTOUVUOFhKVXI0a1RlYk90d1dPZ0hsQGR1Y2tiaWxsLnJtcS5jbG91ZGFtcXAuY29tL3Juc3NycmFuIgogICAgICAgIHN0YWdpbmcgPSAiIgogICAgICAgIHRlc3RpbmcgPSAiIgogICAgICAgIGRldmVsb3BtZW50ID0gIiIKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bW9kdWxlICJjbHVzdGVyIiB7CiAgICBzb3VyY2UgPSAiY2x1c3RlciIKfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3V0cHV0ICJjbHVzdGVyX25hbWUiIHsKICB2YWx1ZSA9ICJldXdlc3QzLnByb2Quc2tvcnIuc29jaWFsIgp9CgpvdXRwdXQgIm1hc3Rlcl9zZWN1cml0eV9ncm91cF9pZHMiIHsKICB2YWx1ZSA9IFsiJHthd3Nfc2VjdXJpdHlfZ3JvdXAubWFzdGVycy1ldXdlc3QzLXByb2Qtc2tvcnItc29jaWFsLmlkfSJdCn0KCm91dHB1dCAibWFzdGVyc19yb2xlX2FybiIgewogIHZhbHVlID0gIiR7YXdzX2lhbV9yb2xlLm1hc3RlcnMtZXV3ZXN0My1wcm9kLXNrb3JyLXNvY2lhbC5hcm59Igp9CgpvdXRwdXQgIm1hc3RlcnNfcm9sZV9uYW1lIiB7CiAgdmFsdWUgPSAiJHthd3NfaWFtX3JvbGUubWFzdGVycy1ldXdlc3QzLXByb2Qtc2tvcnItc29jaWFsLm5hbWV9Igp9CgpvdXRwdXQgIm5vZGVfc2VjdXJpdHlfZ3JvdXBfaWRzIiB7CiAgdmFsdWUgPSBbIiR7YXdzX3NlY3VyaXR5X2dyb3VwLm5vZGVzLWV1d2VzdDMtcHJvZC1za29yci1zb2NpYWwuaWR9Il0KfQoKb3V0cHV0ICJub2RlX3N1Ym5ldF9pZHMiIHsKICB2YWx1ZSA9IFsiJHthd3Nfc3VibmV0LmV1LXdlc3QtM2EtZXV3ZXN0My1wcm9kLXNrb3JyLXNvY2lhbC5pZH0iLCAiJHthd3Nfc3VibmV0LmV1LXdlc3QtM2ItZXV3ZXN0My1wcm9kLXNrb3JyLXNvY2lhbC5pZH0iLCAiJHthd3Nfc3VibmV0LmV1LXdlc3QtM2MtZXV3ZXN0My1wcm9kLXNrb3JyLXNvY2lhbC5pZH0iXQp9CgpvdXRwdXQgIm5vZGVzX3JvbGVfYXJuIiB7CiAgdmFsdWUgPSAiJHthd3NfaWFtX3JvbGUubm9kZXMtZXV3ZXN0My1wcm9kLXNrb3JyLXNvY2lhbC5hcm59Igp9CgpvdXRwdXQgIm5vZGVzX3JvbGVfbmFtZSIgewogIHZhbHVlID0gIiR7YXdzX2lhbV9yb2xlLm5vZGVzLWV1d2VzdDMtcHJvZC1za29yci1zb2NpYWwubmFtZX0iCn0KCm91dHB1dCAicmVnaW9uIiB7CiAgdmFsdWUgPSAiZXUtd2VzdC0zIgp9CgpvdXRwdXQgInZwY19pZCIgewogIHZhbHVlID0gIiR7YXdzX3ZwYy5ldXdlc3QzLXByb2Qtc2tvcnItc29jaWFsLmlkfSIKfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">dmFyaWFibGUgInJlZ2lvbiIgewogICAgZGVmYXVsdCA9ICJldS13ZXN0LTMiCiAgICBkZXNjcmlwdGlvbiA9ICJBV1MgcmVnaW9uIgp9Cgp2YXJpYWJsZSAiZW52aXJvbm1lbnQiIHsKICAgIGRlc2NyaXB0aW9uID0gIkNsdXN0ZXIgZW52aXJvbm1lbnQgKHByb2R1Y3Rpb24sIHN0YWdpbmcsIHRlc3RpbmcsIGRldmVsb3BtZW50KSIKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cm1vZAo=</text>
+        <text encoding="base64">ICAgIG1vbmdvX2hvc3QgPSAiIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyaWFibGUgImJyb2tlcl9ob3N0IiB7CiAgICBkZXNjcmlwdGlvbiA9ICJJUC9MQiB0byBhY2Nlc3MgdGhlIG1lc3NhZ2UgYnJva2VyIGF0Igp9CgpyZXNvdXJjZSAia3ViZXJuZXRlc19wb2QiICJhcGkiIHsKICAgICJtZXRhZGF0YSIgewogICAgICAgIG5hbWUgPSAiYXBpIgoKICAgICAgICBsYWJlbHMgewogICAgICAgICAgICBBcHAgPSAiYXBpIgogICAgICAgIH0KICAgIH0KCiAgICAic3BlYyIgewogICAgICAgIGNvbnRhaW5lciB7CiAgICAgICAgICAgIGltYWdlID0gIjY3MzYxNDcxNzE5My5ka3IuZWNyLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL3Nrb3JyLWFwaSIKICAgICAgICAgICAgbmFtZSAgPSAiYXBpIgogICAgICAgICAgICBjb21tYW5kID0gWyJqYXZhIiwgIi1qYXIiLCAiYXV0aC1hcGkuamFyIl0KCiAgICAgICAgICAgIHBvcnQgewogICAgICAgICAgICAgICAgY29udGFpbmVyX3BvcnQgPSA0NTY3CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGVudiB7CiAgICAgICAgICAgICAgICBuYW1lID0gIlJBQkJJVF9TSUdOVVBfUVVFVUUiCiAgICAgICAgICAgICAgICB2YWx1ZSA9ICJzaWdudXBzIgogICAgICAgICAgICB9CgogICAgICAgICAgICBlbnYgewogICAgICAgICAgICAgICAgbmFtZSA9ICJSQUJCSVRfVVNFUiIKICAgICAgICAgICAgICAgIHZhbHVlID0gImd1ZXN0IgogICAgICAgICAgICB9CgogICAgICAgICAgICBlbnYgewogICAgICAgICAgICAgICAgbmFtZSA9ICJSQUJCSVRfUEFTU1dPUkQiCiAgICAgICAgICAgICAgICB2YWx1ZSA9ICJndWVzdCIKICAgICAgICAgICAgfQoKICAgICAgICAgICAgZW52IHsKICAgICAgICAgICAgICAgIG5hbWUgPSAiUkFCQklUX0hPU1QiCiAgICAgICAgICAgICAgICB2YWx1ZSA9ICIke3Zhci5icm9rZXJfaG9zdH0iCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cn0KCnJlc291cmNlICJrdWJlcm5ldGVzX3NlcnZpY2UiICJhcGkiIHsKICAgICJtZXRhZGF0YSIgewogICAgICAgIG5hbWUgPSAiYXBpIgogICAgfQoKICAgICJzcGVjIiB7CiAgICAgICAgc2VsZWN0b3IgewogICAgICAgICAgICBBcHAgPSAiJHtrdWJlcm5ldGVzX3BvZC5hcGkubWV0YWRhdGEuMC5sYWJlbHMuQXBwfSIKICAgICAgICB9CgogICAgICAgIHBvcnQgewogICAgICAgICAgICBwb3J0ID0gODAgIyBUT0RPOiBTU0wgdGhpcwogICAgICAgICAgICB0YXJnZXRfcG9ydCA9IDQ1NjcKICAgICAgICB9CgogICAgICAgIHR5cGUgPSAiTG9hZEJhbGFuY2VyIgogICAgfQp9CgpvdXRwdXQgImFwaV9sYiIgewogICAgdmFsdWUgPSAiJHtrdWJlcm5ldGVzX3NlcnZpY2UuYXBpLmxvYWRfYmFsYW5jZXJfaW5ncmVzcy4wLmhvc3RuYW1lfSIKfQo=</text>
+        <text encoding="base64">ICAgIHR5cGUgPSAibWFwIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJvdmlkZXIgImt1YmVybmV0ZXMiIHt9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci8vewovLyAgICAibmFtZSI6ICJSQUJCSVRfU0lHTlVQX1FVRVVFIiwKLy8idmFsdWUiOiAic2lnbnVwcyIKLy99LAovL3sKLy8ibmFtZSI6ICJSQUJCSVRfVVNFUiIsCi8vInZhbHVlIjogInNrb3JyIgovL30sCi8vewovLyJuYW1lIjogIlJBQkJJVF9QQVNTV09SRCIsCi8vInZhbHVlIjogInN0YWdpbmciCi8vfSwKLy97Ci8vIm5hbWUiOiAiUkFCQklUX0hPU1QiLAovLyJ2YWx1ZSI6ICIxMC4wLjAuMzAiCi8vfQo=</text>
+        <text encoding="base64">ICAgIHR5cGUgPSAibWFwIgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -423,10 +431,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW52IHsKICAgICAgICAgICAgICAgIG5hbWUgPSAiIgogICAgICAgICAgICAgICAgdmFsdWUgPSAiIgogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uID0gIkZ1bGwgY29ubmVjdGlvbiBzdHJpbmcgdG8gdGhlIG1lc3NhZ2UgYnJva2VyLiIK</text>
       </register>
       <register name=":" type="4">
         <text>65</text>
