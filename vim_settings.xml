@@ -89,6 +89,11 @@
         <mark key="^" line="173" column="91" />
         <mark key="." line="173" column="91" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/tasks.py" timestamp="1520436502267">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1520253313997">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="13" column="59" />
@@ -114,7 +119,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/scrapers.py" timestamp="1520434009809" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/scrapers.py" timestamp="1520435781516" />
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" timestamp="1519829570925">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="96" />
@@ -169,6 +174,20 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1520436576123">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="15" />
+        <mark key="." line="282" column="0" />
+        <mark key="^" line="19" column="15" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" timestamp="1520436609424">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="15" />
+        <mark key="^" line="21" column="15" />
+        <mark key="." line="282" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/rabbit/outputs.tf" timestamp="1519914625784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -186,10 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/message-broker/message-broker.tf" />
-      <jump line="13" column="21" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/main.tf" />
-      <jump line="57" column="20" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" />
-      <jump line="63" column="1" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" />
       <jump line="6" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" />
       <jump line="68" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" />
       <jump line="8" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/api/api.tf" />
@@ -286,43 +301,47 @@
       <jump line="44" column="0" filename="$USER_HOME$/www/work/skorr/celebrities-scraper/get_fb_posts_fb_page.py" />
       <jump line="201" column="42" filename="$USER_HOME$/www/work/skorr/celebrities-scraper/get_fb_posts_fb_page.py" />
       <jump line="191" column="0" filename="$USER_HOME$/www/work/skorr/celebrities-scraper/get_fb_posts_fb_page.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
+      <jump line="12" column="20" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhY3RvcnkucmVxdWVzdGVkSGVhcnRiZWF0ID0gMTAK</text>
+        <text encoding="base64">QGRyYW1hdGlxLmFjdG9yCg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>facebook_statuses</text>
       </register>
-      <register name="0" type="4">
-        <text>.allowDiskUse(true)</text>
+      <register name="0" type="2">
+        <text encoding="base64">QGRyYW1hdGlxLmFjdG9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhY3RvcnkucmVxdWVzdGVkSGVhcnRiZWF0ID0gMTAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbmFsX2RpY3RbXQo=</text>
+        <text encoding="base64">aW1wb3J0IGRyYW1hdGlxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgbnVtcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y3VybCAtaSAtWCBHRVQgXAo=</text>
+        <text encoding="base64">aW1wb3J0IGRyYW1hdGlxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ZGVmIGZiX2lkZW50aWZ5KCphcmdzLCAqKmt3YXJncyk6Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -333,10 +352,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgcgo=</text>
+        <text encoding="base64">CmRlZiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIHdpdGggb3BlbignZmFjZWJvb2sve31fZmFjZWJvb2tfc3RhdHVzZXMuY3N2JywgJycpCg==</text>
+        <text encoding="base64">QGRyYW1hdGlxLmFjdG9yCg==</text>
       </register>
       <register name=":" type="4">
         <text>182</text>
