@@ -178,7 +178,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1519991184826">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1520424707354">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
@@ -287,11 +287,11 @@
       <jump line="191" column="0" filename="$USER_HOME$/www/work/skorr/celebrities-scraper/get_fb_posts_fb_page.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhY3RvcnkucmVxdWVzdGVkSGVhcnRiZWF0ID0gMTAK</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>facebook_statuses</text>
@@ -300,28 +300,28 @@
         <text>.allowDiskUse(true)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZpbmFsX2RpY3RbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhY3RvcnkucmVxdWVzdGVkSGVhcnRiZWF0ID0gMTAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgbnVtcwo=</text>
+        <text encoding="base64">ICAgIGZpbmFsX2RpY3RbXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3VybCAtaSAtWCBHRVQgXAo=</text>
+        <text encoding="base64">ICAgIAogICAgbnVtcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Y3VybCAtaSAtWCBHRVQgXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgcgo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -332,10 +332,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIHdpdGggb3BlbignZmFjZWJvb2sve31fZmFjZWJvb2tfc3RhdHVzZXMuY3N2JywgJycpCg==</text>
+        <text encoding="base64">ICAgIAogICAgcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIHdpdGggb3BlbignZmFjZWJvb2sve31fZmFjZWJvb2tfc3RhdHVzZXMuY3N2JywgJycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>182</text>
