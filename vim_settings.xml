@@ -84,10 +84,10 @@
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/skorr.py" timestamp="1520352708213">
-        <mark key="[" line="173" column="73" />
-        <mark key="]" line="173" column="91" />
-        <mark key="^" line="173" column="91" />
-        <mark key="." line="173" column="91" />
+        <mark key="[" line="191" column="73" />
+        <mark key="]" line="191" column="91" />
+        <mark key="^" line="191" column="91" />
+        <mark key="." line="191" column="91" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/tasks.py" timestamp="1520438845535">
         <mark key="'" line="0" column="0" />
@@ -96,12 +96,12 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1520253313997">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1520502251554">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="13" column="59" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="59" />
+        <mark key="." line="6" column="59" />
+        <mark key="^" line="6" column="59" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1520352827620">
         <mark key="[" line="272" column="0" />
@@ -121,7 +121,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/scrapers.py" timestamp="1520435781516" />
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" timestamp="1519829570925">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="96" />
@@ -160,11 +159,11 @@
         <mark key="." line="45" column="39" />
         <mark key="^" line="45" column="41" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/workers.py" timestamp="1520258932313">
-        <mark key="[" line="61" column="51" />
-        <mark key="]" line="61" column="53" />
-        <mark key="^" line="61" column="53" />
-        <mark key="." line="61" column="53" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/workers.py" timestamp="1520502231460">
+        <mark key="[" line="62" column="33" />
+        <mark key="]" line="62" column="33" />
+        <mark key="^" line="62" column="33" />
+        <mark key="." line="62" column="33" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/alb/outputs.tf" timestamp="1519914451166">
         <mark key="[" line="0" column="0" />
@@ -177,17 +176,9 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1520436576123">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="282" column="15" />
-        <mark key="." line="282" column="0" />
-        <mark key="^" line="19" column="15" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" timestamp="1520438591479">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/rabbit/outputs.tf" timestamp="1519914625784">
         <mark key="[" line="0" column="0" />
@@ -203,6 +194,12 @@
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/ecs-task-definition.staging.json" timestamp="1520502347678">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="19" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -308,11 +305,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>guest</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>guest</text>
       </register>
       <register name="/" type="4">
         <text>facebook_statuses</text>
