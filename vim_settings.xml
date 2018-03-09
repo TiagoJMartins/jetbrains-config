@@ -64,6 +64,9 @@
         <mark key="." line="8" column="87" />
         <mark key="^" line="8" column="93" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-processors/task-runner/task-runner.py" timestamp="1520592671035">
+        <mark key="[" line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Models/Post.js" timestamp="1519836197198">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -83,7 +86,7 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1520535000334">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1520592046826">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="4" />
         <mark key="." line="45" column="4" />
@@ -101,11 +104,11 @@
         <mark key="." line="0" column="23" />
         <mark key="^" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1520527993800">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1520592739334">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="6" column="62" />
-        <mark key="]" line="6" column="78" />
-        <mark key="." line="6" column="78" />
+        <mark key="[" line="6" column="56" />
+        <mark key="]" line="6" column="56" />
+        <mark key="." line="6" column="56" />
         <mark key="^" line="6" column="78" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1520352827620">
@@ -185,10 +188,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1520436576123">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1520593322831">
+        <mark key="'" line="37" column="4" />
+        <mark key="[" line="202" column="5" />
+        <mark key="]" line="204" column="5" />
+        <mark key="^" line="204" column="5" />
+        <mark key="." line="204" column="5" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/rabbit/outputs.tf" timestamp="1519914625784">
         <mark key="[" line="0" column="0" />
@@ -213,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/main.tf" />
       <jump line="12" column="10" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/io.tf" />
       <jump line="10" column="1" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/io.tf" />
       <jump line="8" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/io.tf" />
@@ -313,16 +317,17 @@
       <jump line="193" column="26" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
       <jump line="32" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
       <jump line="185" column="8" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
+      <jump line="37" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5sb2cuZXJyb3IoJ0xJSEJTQUxGS0hCQVNMS0ZIQkFTTEhGQkFTTEhGQkFTTEpIRkFMS1NIRkFMSktTRkxLQUhTQkZMS0FIQlNGTEtIQUJTTEtIRkJBS0xIU0ZCTEhLQVNGJykK</text>
+      <register name="&quot;" type="4">
+        <text>str(user.get('_id'))</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>str(user.get('_id'))</text>
       </register>
       <register name="/" type="4">
-        <text>facebook_statuses</text>
+        <text encoding="base64">XDxtb25nb1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9jb25uZWN0aW9uLnByb2Nlc3NfZGF0YV9ldmVudHMoKQo=</text>
@@ -366,16 +371,16 @@
         <text encoding="base64">ICAgICAgICBzZWxmLl9jb25uZWN0aW9uLnByb2Nlc3NfZGF0YV9ldmVudHMoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>182</text>
+        <text>101</text>
       </register>
     </registers>
     <search>
-      <last-search>facebook_statuses</last-search>
+      <last-search encoding="base64">XDxtb25nb1w+</last-search>
       <last-offset />
-      <last-pattern>facebook_statuses</last-pattern>
+      <last-pattern encoding="base64">XDxtb25nb1w+</last-pattern>
       <last-replace>env</last-replace>
       <last-substitute>os\.environ</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -390,9 +395,9 @@
         <entry>publish</entry>
         <entry>id2pic</entry>
         <entry>facebook_statuses</entry>
+        <entry encoding="base64">XDxtb25nb1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>37</entry>
         <entry encoding="base64">JzwsJz42Mw==</entry>
         <entry>74</entry>
         <entry>171</entry>
@@ -401,7 +406,6 @@
         <entry>300</entry>
         <entry>67</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>% s/os\.environ/env/</entry>
         <entry>60</entry>
         <entry>41</entry>
@@ -412,6 +416,8 @@
         <entry>65</entry>
         <entry>! chmod +x getall.sh</entry>
         <entry>182</entry>
+        <entry>w</entry>
+        <entry>101</entry>
       </history-cmd>
       <history-expr />
       <history-input />
