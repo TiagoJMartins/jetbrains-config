@@ -119,16 +119,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-processors/processor/skorr.py" timestamp="1520846589460" />
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/scrapers.py" timestamp="1520533225621">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" timestamp="1520857173485">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" timestamp="1520865948351">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="42" column="6" />
+        <mark key="]" line="42" column="11" />
+        <mark key="." line="42" column="11" />
+        <mark key="^" line="42" column="11" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/celebrities-scraper/getall.sh" timestamp="1520271511363">
         <mark key="[" line="4" column="8" />
@@ -183,10 +184,10 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-deployment.yaml" timestamp="1520857174880">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="24" column="18" />
-        <mark key="." line="24" column="18" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-deployment.yaml" timestamp="1520862496724">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="10" />
+        <mark key="." line="24" column="10" />
         <mark key="^" line="24" column="18" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/rabbit/outputs.tf" timestamp="1519914625784">
@@ -212,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="10" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/io.tf" />
       <jump line="10" column="1" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/io.tf" />
       <jump line="8" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/io.tf" />
       <jump line="9" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/k8s/io.tf" />
@@ -312,43 +312,44 @@
       <jump line="32" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
       <jump line="185" column="8" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" />
       <jump line="37" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbWQ6ICJweXRob24gbWFpbi5weSIK</text>
+      <register name="&quot;" type="4">
+        <text>create-file</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>create-file</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jb25uZWN0aW9uLnByb2Nlc3NfZGF0YV9ldmVudHMoKQo=</text>
+        <text encoding="base64">ICAgIC0gY3JlYXRlLWZpbGU6CiAgICAgICAgbmFtZTogY3JlYXRlIGNhLnBlbQogICAgICAgIGN3ZDogZGVwbG95bWVudAogICAgICAgIGZpbGVuYW1lOiBjYS5wZW0KICAgICAgICBjb2RlOiBlY2hvICRLOFNfQ0FfUEVNIHwgYmFzZTY0IC1kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbWQ6ICJweXRob24gbWFpbi5weSIK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZTogYWRtaW4ta2V5LnBlbQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZTogYWRtaW4ucGVtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZTogY2EucGVtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGNyZWF0ZSBjYS5wZW0KICAgICAgICBjd2Q6IGRlcGxveQogICAgICAgIGNvZGU6IHwKICAgICAgICAgIGVjaG8gWVhOayB8IGJhc2U2NCAtZCA+PiBjYS5wZW0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAtIHNjcmlwdDoKICAgICAgICBuYW1lOiBkZWJ1ZwogICAgICAgIGN3ZDogZGVwbG95CiAgICAgICAgY29kZTogfAogICAgICAgICAgbHMKICAgICAgICAgIGNhdCBjYS5wZW0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiBzY3JhcGVycwo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZTogY2EucGVtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -359,10 +360,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIGltYWdlOiAke1JFUE9fSUQ6LTY3MzYxNDcxNzE5M30uZGtyLmVjci4ke0FXU19ERUZBVUxUX1JFR0lPTjotZXUtd2VzdC0xfS5hbWF6b25hd3MuY29tLyR7UkVQT19OQU1FOi1za29yci1zb2NpYWwtc2NyYXBlcnN9OiR7V0VSQ0tFUl9HSVRfQ09NTUlUOi1tYXN0ZXJ9Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGluc3RhbGwgYXdzLWNsaQogICAgICAgIGNvZGU6IHwKICAgICAgICAgIHBpcCBpbnN0YWxsIGF3c2NsaSAtLXVwZ3JhZGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -392,7 +393,6 @@
         <entry encoding="base64">XDxtb25nb1w+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz42Mw==</entry>
         <entry>74</entry>
         <entry>171</entry>
         <entry>23</entry>
@@ -412,6 +412,7 @@
         <entry>182</entry>
         <entry>101</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
