@@ -125,10 +125,10 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" timestamp="1519829570925">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="96" />
-        <mark key="." line="36" column="44" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" timestamp="1520857173485">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/celebrities-scraper/getall.sh" timestamp="1520271511363">
         <mark key="[" line="4" column="8" />
@@ -182,6 +182,12 @@
         <mark key="]" line="16" column="5" />
         <mark key="^" line="16" column="5" />
         <mark key="." line="16" column="5" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-deployment.yaml" timestamp="1520857174880">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="24" column="18" />
+        <mark key="." line="24" column="18" />
+        <mark key="^" line="24" column="18" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/rabbit/outputs.tf" timestamp="1519914625784">
         <mark key="[" line="0" column="0" />
@@ -309,7 +315,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbWQ6ICJweXRob24gbWFpbi5weSIK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -321,28 +327,28 @@
         <text encoding="base64">ICAgICAgICBzZWxmLl9jb25uZWN0aW9uLnByb2Nlc3NfZGF0YV9ldmVudHMoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbWQ6ICJweXRob24gbWFpbi5weSIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZXhjKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpbnQoJ2FzZGFzZCcpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2FzZGFzZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jaGFubmVsLnN0YXJ0X2NvbnN1bWluZygpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBuYW1lOiBzY3JhcGVycwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgQ29ubmVjdGlvbkNsb3NlZDoKICAgICAgICAgICAgc2VsZi5sb2cud2FybmluZygnUmVjb25uZWN0aW5nLi4uJykKICAgICAgICAgICAgc2VsZi5fY29ubmVjdF9icm9rZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -353,13 +359,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnbWVyZGEnKQo=</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIGltYWdlOiAke1JFUE9fSUQ6LTY3MzYxNDcxNzE5M30uZGtyLmVjci4ke0FXU19ERUZBVUxUX1JFR0lPTjotZXUtd2VzdC0xfS5hbWF6b25hd3MuY29tLyR7UkVQT19OQU1FOi1za29yci1zb2NpYWwtc2NyYXBlcnN9OiR7V0VSQ0tFUl9HSVRfQ09NTUlUOi1tYXN0ZXJ9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgogICAgICAgICAgICB0aW1lLnNsZWVwKDEpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>101</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -404,8 +410,8 @@
         <entry>65</entry>
         <entry>! chmod +x getall.sh</entry>
         <entry>182</entry>
-        <entry>w</entry>
         <entry>101</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
