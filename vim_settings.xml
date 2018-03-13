@@ -46,6 +46,13 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/deploy/asdasd.yml" timestamp="1520960739701">
+        <mark key="'" line="20" column="4" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="14" column="16" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" timestamp="1520873783424">
         <mark key="[" line="8" column="87" />
         <mark key="]" line="8" column="87" />
@@ -80,12 +87,12 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-deployment.yml" timestamp="1520957363986">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-deployment.yml" timestamp="1520960807629">
         <mark key="'" line="44" column="6" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="45" column="24" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="6" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="11" column="6" />
       </file>
       <file name="/Dummy.txt" timestamp="1520605608225">
         <mark key="[" line="0" column="0" />
@@ -180,12 +187,11 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" timestamp="1520959493066">
-        <mark key="'" line="13" column="31" />
-        <mark key="[" line="51" column="35" />
-        <mark key="]" line="51" column="35" />
-        <mark key="." line="51" column="35" />
-        <mark key="^" line="51" column="22" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" timestamp="1520961363521">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/rabbit/outputs.tf" timestamp="1519914625784">
         <mark key="[" line="0" column="0" />
@@ -210,10 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="15" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/scrapers/scrapers.tf" />
-      <jump line="22" column="52" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" />
-      <jump line="18" column="20" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" />
-      <jump line="12" column="34" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" />
       <jump line="11" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" />
       <jump line="37" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" />
       <jump line="52" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/scrapers/scrapers.tf" />
@@ -310,43 +312,47 @@
       <jump line="39" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
       <jump line="37" column="0" filename="$USER_HOME$/www/work/skorr/skorr-nlp/wercker.yml" />
       <jump line="13" column="31" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
+      <jump line="68" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/deploy/asdasd.yml" />
+      <jump line="15" column="8" filename="$USER_HOME$/www/work/skorr/skorr-api/deploy/asdasd.yml" />
+      <jump line="20" column="4" filename="$USER_HOME$/www/work/skorr/skorr-api/deploy/asdasd.yml" />
+      <jump line="41" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzdGVwczoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>social-shares</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGNyZWF0ZSBjYS5wZW0KICAgICAgICBjd2Q6IGRlcGxveQogICAgICAgIGNvZGU6IGVjaG8gJEs4U19DQV9QRU0gfCBiYXNlNjQgLWQgPiBjYS5wZW0K</text>
+        <text encoding="base64">ICBzdGVwczoKICAgICMjIERFQlVHCiAgICAtIHNjcmlwdDoKICAgICAgICBuYW1lOiBhCiAgICAgICAgY3dkOiBkZXBsb3kKICAgICAgICBjb2RlOiBlY2hvICdhc2Rhc2Rhc2QnCiAgICAtIHNjcmlwdDoKICAgICAgICBuYW1lOiBhCiAgICAgICAgY3dkOiBkZXBsb3kKICAgICAgICBjb2RlOiBlY2hvICRLOFNfQ0FfUEVNCiAgICAtIHNjcmlwdDoKICAgICAgICBuYW1lOiBiCiAgICAgICAgY3dkOiBkZXBsb3kKICAgICAgICBjb2RlOiBlY2hvIFlYTmsgfCBiYXNlNjQgLWQKICAgICMjIC9ERUJVRwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBzdGVwczoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMjIERFQlVHCiAgICAtIHNjcmlwdDoKICAgICAgICBuYW1lOiBhCiAgICAgICAgY3dkOiBkZXBsb3kKICAgICAgICBjb2RlOiBlY2hvICdhc2Rhc2Rhc2QnCiAgICAtIHNjcmlwdDoKICAgICAgICBuYW1lOiBhCiAgICAgICAgY3dkOiBkZXBsb3kKICAgICAgICBjb2RlOiBlY2hvICRLOFNfQ0FfUEVNCiAgICAtIHNjcmlwdDoKICAgICAgICBuYW1lOiBiCiAgICAgICAgY3dkOiBkZXBsb3kKICAgICAgICBjb2RlOiBlY2hvIFlYTmsgfCBiYXNlNjQgLWQKICAgICMjIC9ERUJVRwoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGRlYnVnCiAgICAgICAgY3dkOiBkZXBsb3kKICAgICAgICBjb2RlOiB8CiAgICAgICAgICBscwojICAgICAgICAgIGVudiB8IGdyZXAgSzhTCiMgICAgICAgICAgYmFzaCAteCAiZWNobyAkSzhTX0NBX1BFTSB8IGJhc2U2NCAtZCA+IGNhLnBlbSIK</text>
+        <text encoding="base64">ICAgIHNwZWM6CiAgICAgIGNvbnRhaW5lcnM6CiAgICAgIC0gY29tbWFuZDoKICAgICAgICAtIHlhcm4KICAgICAgICAtIHN0YXJ0CiAgICAgICAgZW52OgogICAgICAgIC0gbmFtZTogTk9ERV9FTlYKICAgICAgICAgIHZhbHVlOiBzdGFnaW5nCiAgICAgICAgLSBuYW1lOiBBUElfVVJMCiAgICAgICAgICB2YWx1ZTogaHR0cDovL2FwaS9hcGkvdjEKICAgICAgICBpbWFnZTogNjczNjE0NzE3MTkzLmRrci5lY3IuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vc2tvcnItc29jaWFsLXNoYXJlczo5ZWExOWEzNGVlZDEyZDg5MmEzMjhiNDI0YjYxNjE1NmNiMDJhZDZiCiAgICAgICAgaW1hZ2VQdWxsUG9saWN5OiBBbHdheXMKICAgICAgICBuYW1lOiBzb2NpYWwtc2hhcmVzCiAgICAgICAgcG9ydHM6CiAgICAgICAgLSBjb250YWluZXJQb3J0OiA1MDAwCiAgICAgICAgICBwcm90b2NvbDogVENQCiAgICAgICAgcmVzb3VyY2VzOiB7fQogICAgICAgIHRlcm1pbmF0aW9uTWVzc2FnZVBhdGg6IC9kZXYvdGVybWluYXRpb24tbG9nCiAgICAgICAgdGVybWluYXRpb25NZXNzYWdlUG9saWN5OiBGaWxlCiAgICAgIGRuc1BvbGljeTogQ2x1c3RlckZpcnN0CiAgICAgIHJlc3RhcnRQb2xpY3k6IEFsd2F5cwogICAgICBzY2hlZHVsZXJOYW1lOiBkZWZhdWx0LXNjaGVkdWxlcgogICAgICBzZWN1cml0eUNvbnRleHQ6IHt9CiAgICAgIHRlcm1pbmF0aW9uR3JhY2VQZXJpb2RTZWNvbmRzOiAwCnN0YXR1czoKICBhdmFpbGFibGVSZXBsaWNhczogMQogIGNvbmRpdGlvbnM6CiAgLSBsYXN0VHJhbnNpdGlvblRpbWU6IDIwMTgtMDMtMTNUMTY6MTQ6MDBaCiAgICBsYXN0VXBkYXRlVGltZTogMjAxOC0wMy0xM1QxNjoxNDowMFoKICAgIG1lc3NhZ2U6IERlcGxveW1lbnQgaGFzIG1pbmltdW0gYXZhaWxhYmlsaXR5LgogICAgcmVhc29uOiBNaW5pbXVtUmVwbGljYXNBdmFpbGFibGUKICAgIHN0YXR1czogIlRydWUiCiAgICB0eXBlOiBBdmFpbGFibGUKICBvYnNlcnZlZEdlbmVyYXRpb246IDUKICByZWFkeVJlcGxpY2FzOiAxCiAgcmVwbGljYXM6IDEKICB1cGRhdGVkUmVwbGljYXM6IDEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY3JlYXRpb25UaW1lc3RhbXA6IG51bGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAtIHNjcmlwdDoKICAgICAgICBuYW1lOiBkZWJ1ZwogICAgICAgIGN3ZDogZGVwbG95CiAgICAgICAgY29kZTogfAogICAgICAgICAgbHMKICAgICAgICAgIGVudiB8IGdyZXAgSzhTCiAgICAgICAgICBiYXNoIC14ICJlY2hvICRLOFNfQ0FfUEVNIHwgYmFzZTY0IC1kID4gY2EucGVtIgo=</text>
+        <text encoding="base64">ICBzdHJhdGVneToKICAgIHJvbGxpbmdVcGRhdGU6CiAgICAgIG1heFN1cmdlOiAxCiAgICAgIG1heFVuYXZhaWxhYmxlOiAxCiAgICB0eXBlOiBSb2xsaW5nVXBkYXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIC0gc2NyaXB0Cg==</text>
+        <text encoding="base64">ICByZXBsaWNhczogMQogIHNlbGVjdG9yOgogICAgbWF0Y2hMYWJlbHM6CiAgICAgIG5hbWU6IHNvY2lhbC1zaGFyZXMK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -357,10 +363,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVwbG95OgogIGJveDogcHl0aG9uCgogIHN0ZXBzOgogICAgLSBzY3JpcHQ6CiAgICAgICAgbmFtZTogaW5zdGFsbCBhd3MtY2xpCiAgICAgICAgY29kZTogfAogICAgICAgICAgcGlwIGluc3RhbGwgYXdzY2xpIC0tdXBncmFkZQoKICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGVjcyBkZXBsb3kKICAgICAgICBjb2RlOiB8CiAgICAgICAgICBhd3MgZWNzIHJlZ2lzdGVyLXRhc2stZGVmaW5pdGlvbiBcCiAgICAgICAgICAgIC0tY2xpLWlucHV0LWpzb24gZmlsZTovLyRXRVJDS0VSX1NPVVJDRV9ESVIvZWNzLXRhc2stZGVmaW5pdGlvbi4kQVdTX0VDU19DTFVTVEVSLmpzb24KICAgICAgICAgIGF3cyBlY3MgdXBkYXRlLXNlcnZpY2UgXAogICAgICAgICAgICAtLWNsdXN0ZXIgJEFXU19FQ1NfQ0xVU1RFUiBcCiAgICAgICAgICAgIC0tc2VydmljZSAkQVdTX0VDU19TRVJWSUNFIFwKICAgICAgICAgICAgLS10YXNrLWRlZmluaXRpb24gJEFXU19FQ1NfVEFTS19ERUZJTklUSU9OCgogIGFmdGVyLXN0ZXBzOgogICAgLSBzbGFjay1ub3RpZmllcjoKICAgICAgICB1cmw6ICRTTEFDS19XRUJIT09LCiAgICAgICAgY2hhbm5lbDogc2tvcnItZGV2LXRlYW0KICAgICAgICB1c2VybmFtZTogRGVwbG95bWVudCAtIFNrb3JyIEFQSSAoJFdFUkNLRVJfR0lUX0JSQU5DSCkK</text>
+        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogMjAxOC0wMy0xM1QxNjoxNDowMFoKICBnZW5lcmF0aW9uOiA1Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbWQ6ICJqYXZhIC1qYXIgYXV0aC1hcGkuamFyIgo=</text>
+        <text encoding="base64">ICBhbm5vdGF0aW9uczoKICAgIGRlcGxveW1lbnQua3ViZXJuZXRlcy5pby9yZXZpc2lvbjogIjUiCiAgICBrdWJlY3RsLmt1YmVybmV0ZXMuaW8vbGFzdC1hcHBsaWVkLWNvbmZpZ3VyYXRpb246IHwKICAgICAgeyJhcGlWZXJzaW9uIjoiZXh0ZW5zaW9ucy92MWJldGExIiwia2luZCI6IkRlcGxveW1lbnQiLCJtZXRhZGF0YSI6eyJhbm5vdGF0aW9ucyI6e30sImxhYmVscyI6eyJuYW1lIjoic29jaWFsLXNoYXJlcyJ9LCJuYW1lIjoic29jaWFsLXNoYXJlcyIsIm5hbWVzcGFjZSI6InN0YWdpbmcifSwic3BlYyI6eyJyZXBsaWNhcyI6MSwic2VsZWN0b3IiOnsibWF0Y2hMYWJlbHMiOnsibmFtZSI6InNvY2lhbC1zaGFyZXMifX0sInRlbXBsYXRlIjp7Im1ldGFkYXRhIjp7ImxhYmVscyI6eyJuYW1lIjoic29jaWFsLXNoYXJlcyJ9fSwic3BlYyI6eyJjb250YWluZXJzIjpbeyJjb21tYW5kIjpbInlhcm4iLCJzdGFydCJdLCJlbnYiOlt7Im5hbWUiOiJOT0RFX0VOViIsInZhbHVlIjoic3RhZ2luZyJ9LHsibmFtZSI6IkFQSV9VUkwiLCJ2YWx1ZSI6Imh0dHA6Ly9hcGkvYXBpL3YxIn1dLCJpbWFnZSI6IjY3MzYxNDcxNzE5My5ka3IuZWNyLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tL3Nrb3JyLXNvY2lhbC1zaGFyZXM6OWVhMTlhMzRlZWQxMmQ4OTJhMzI4YjQyNGI2MTYxNTZjYjAyYWQ2YiIsImltYWdlUHVsbFBvbGljeSI6IkFsd2F5cyIsIm5hbWUiOiJzb2NpYWwtc2hhcmVzIiwicG9ydHMiOlt7ImNvbnRhaW5lclBvcnQiOjUwMDAsInByb3RvY29sIjoiVENQIn1dfV0sInJlc3RhcnRQb2xpY3kiOiJBbHdheXMiLCJ0ZXJtaW5hdGlvbkdyYWNlUGVyaW9kU2Vjb25kcyI6MH19fX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
