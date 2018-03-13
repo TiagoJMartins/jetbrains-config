@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/wercker.yml" timestamp="1520952902639">
-        <mark key="'" line="63" column="8" />
-        <mark key="[" line="22" column="17" />
-        <mark key="]" line="23" column="3" />
-        <mark key="." line="23" column="3" />
-        <mark key="^" line="23" column="3" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/wercker.yml" timestamp="1520956443577">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="73" column="85" />
+        <mark key="." line="73" column="41" />
+        <mark key="^" line="73" column="41" />
       </file>
       <file name="/Python Console" timestamp="1520610924098">
         <mark key="[" line="0" column="0" />
@@ -66,7 +66,6 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="32" column="16" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/Dockerfile" timestamp="1520936143734" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1520875657990">
         <mark key="'" line="78" column="0" />
         <mark key="[" line="32" column="8" />
@@ -80,6 +79,13 @@
         <mark key="]" line="5" column="28" />
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-deployment.yml" timestamp="1520955271443">
+        <mark key="'" line="44" column="6" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="/Dummy.txt" timestamp="1520605608225">
         <mark key="[" line="0" column="0" />
@@ -122,7 +128,7 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" timestamp="1520936073066">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" timestamp="1520955885308">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="8" column="14" />
         <mark key="]" line="8" column="22" />
@@ -151,8 +157,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/deploy.sh" timestamp="1520936154861" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/task-definition.json" timestamp="1520951490156" />
       <file name="$USER_HOME$/www/work/skorr/skorr-nlp/.gitignore" timestamp="1519819684354">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -163,11 +167,25 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-deployment.yaml" timestamp="1520877705742">
-        <mark key="[" line="37" column="31" />
-        <mark key="]" line="37" column="30" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-deployment.yaml" timestamp="1520955111072">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="159" />
         <mark key="." line="37" column="30" />
         <mark key="^" line="37" column="30" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-service.yml" timestamp="1520955415723">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" timestamp="1520955929775">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="75" column="31" />
+        <mark key="]" line="75" column="33" />
+        <mark key="." line="75" column="33" />
+        <mark key="^" line="75" column="33" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/modules/rabbit/outputs.tf" timestamp="1519914625784">
         <mark key="[" line="0" column="0" />
@@ -192,14 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="8" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
-      <jump line="9" column="11" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
-      <jump line="70" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/io.tf" />
-      <jump line="69" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/scrapers/scrapers.tf" />
-      <jump line="14" column="19" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
-      <jump line="51" column="31" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
       <jump line="81" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
       <jump line="4" column="15" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/scrapers/scrapers.tf" />
       <jump line="22" column="52" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" />
@@ -292,43 +302,51 @@
       <jump line="38" column="18" filename="$USER_HOME$/www/work/skorr/skorr-nlp/wercker.yml" />
       <jump line="35" column="39" filename="$USER_HOME$/www/work/skorr/skorr-nlp/wercker.yml" />
       <jump line="63" column="8" filename="$USER_HOME$/www/work/skorr/skorr-nlp/wercker.yml" />
+      <jump line="8" column="4" filename="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-service.yml" />
+      <jump line="67" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-deployment.yml" />
+      <jump line="41" column="6" filename="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-deployment.yml" />
+      <jump line="40" column="9" filename="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-deployment.yml" />
+      <jump line="4" column="2" filename="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-deployment.yml" />
+      <jump line="44" column="6" filename="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-deployment.yml" />
+      <jump line="39" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" />
+      <jump line="37" column="0" filename="$USER_HOME$/www/work/skorr/skorr-nlp/wercker.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGRvd25sb2FkIHB1bmt0CiAgICAgICAgY29kZTogcHl0aG9uIC1tIG5sdGsuZG93bmxvYWRlciBwdW5rdAo=</text>
+        <text encoding="base64">ZGVwbG95OgogIHN0ZXBzOgogICAgLSBzY3JpcHQ6CiAgICAgICAgbmFtZTogY3JlYXRlIGNhLnBlbQogICAgICAgIGN3ZDogZGVwbG95CiAgICAgICAgY29kZTogZWNobyAkSzhTX0NBX1BFTSB8IGJhc2U2NCAtZCA+PiBjYS5wZW0KCiAgICAtIHNjcmlwdDoKICAgICAgICBuYW1lOiBjcmVhdGUgYWRtaW4ucGVtCiAgICAgICAgY3dkOiBkZXBsb3kKICAgICAgICBjb2RlOiBlY2hvICRLOFNfQURNSU5fUEVNIHwgYmFzZTY0IC1kID4+IGFkbWluLnBlbQoKICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGNyZWF0ZSBhZG1pbi1rZXkucGVtCiAgICAgICAgY3dkOiBkZXBsb3kKICAgICAgICBjb2RlOiBlY2hvICRLOFNfQURNSU5fS0VZX1BFTSB8IGJhc2U2NCAtZCA+PiBhZG1pbi1rZXkucGVtCgogICAgLSBzY3JpcHQ6CiAgICAgICAgbmFtZTogZ2VuZXJhdGUga3ViZS55bWwKICAgICAgICBjd2Q6IGRlcGxveQogICAgICAgIGNvZGU6IHwKICAgICAgICAgIGNhdCBubHAtc2VydmljZS55bWwgbmxwLWRlcGxveW1lbnQueW1sIHwgLi90LnNoIC0gPiBrdWJlLnltbAogICAgICAgICAgY2F0IGt1YmUueW1sCgogICAgLSBrdWJlY3RsOgogICAgICAgIGN3ZDogZGVwbG95CiAgICAgICAgc2VydmVyOiAkSzhTX1NFUlZFUgogICAgICAgIGNlcnRpZmljYXRlLWF1dGhvcml0eTogY2EucGVtCiAgICAgICAgY2xpZW50LWNlcnRpZmljYXRlOiBhZG1pbi5wZW0KICAgICAgICBjbGllbnQta2V5OiBhZG1pbi1rZXkucGVtCiAgICAgICAgY29tbWFuZDogYXBwbHkgLWYga3ViZS55bWwKCiAgYWZ0ZXItc3RlcHM6CiAgICAtIHNsYWNrLW5vdGlmaWVyOgogICAgICAgIHVybDogJFNMQUNLX1dFQkhPT0sKICAgICAgICBjaGFubmVsOiBza29yci1kZXYtdGVhbQogICAgICAgIHVzZXJuYW1lOiBEZXBsb3ltZW50IC0gTkxQIFNlcnZpY2UgKCRXRVJDS0VSX0dJVF9CUkFOQ0ggLSAkV0VSQ0tFUl9HSVRfQ09NTUlUKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>Social Scrapers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGRvd25sb2FkIHB1bmt0CiAgICAgICAgY29kZTogcHl0aG9uIC1tIG5sdGsuZG93bmxvYWRlciBwdW5rdAo=</text>
+        <text encoding="base64">ZGVwbG95OgogIHN0ZXBzOgogICAgLSBzY3JpcHQ6CiAgICAgICAgbmFtZTogY3JlYXRlIGNhLnBlbQogICAgICAgIGN3ZDogZGVwbG95CiAgICAgICAgY29kZTogZWNobyAkSzhTX0NBX1BFTSB8IGJhc2U2NCAtZCA+PiBjYS5wZW0KCiAgICAtIHNjcmlwdDoKICAgICAgICBuYW1lOiBjcmVhdGUgYWRtaW4ucGVtCiAgICAgICAgY3dkOiBkZXBsb3kKICAgICAgICBjb2RlOiBlY2hvICRLOFNfQURNSU5fUEVNIHwgYmFzZTY0IC1kID4+IGFkbWluLnBlbQoKICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGNyZWF0ZSBhZG1pbi1rZXkucGVtCiAgICAgICAgY3dkOiBkZXBsb3kKICAgICAgICBjb2RlOiBlY2hvICRLOFNfQURNSU5fS0VZX1BFTSB8IGJhc2U2NCAtZCA+PiBhZG1pbi1rZXkucGVtCgogICAgLSBzY3JpcHQ6CiAgICAgICAgbmFtZTogZ2VuZXJhdGUga3ViZS55bWwKICAgICAgICBjd2Q6IGRlcGxveQogICAgICAgIGNvZGU6IHwKICAgICAgICAgIGNhdCBubHAtc2VydmljZS55bWwgbmxwLWRlcGxveW1lbnQueW1sIHwgLi90LnNoIC0gPiBrdWJlLnltbAogICAgICAgICAgY2F0IGt1YmUueW1sCgogICAgLSBrdWJlY3RsOgogICAgICAgIGN3ZDogZGVwbG95CiAgICAgICAgc2VydmVyOiAkSzhTX1NFUlZFUgogICAgICAgIGNlcnRpZmljYXRlLWF1dGhvcml0eTogY2EucGVtCiAgICAgICAgY2xpZW50LWNlcnRpZmljYXRlOiBhZG1pbi5wZW0KICAgICAgICBjbGllbnQta2V5OiBhZG1pbi1rZXkucGVtCiAgICAgICAgY29tbWFuZDogYXBwbHkgLWYga3ViZS55bWwKCiAgYWZ0ZXItc3RlcHM6CiAgICAtIHNsYWNrLW5vdGlmaWVyOgogICAgICAgIHVybDogJFNMQUNLX1dFQkhPT0sKICAgICAgICBjaGFubmVsOiBza29yci1kZXYtdGVhbQogICAgICAgIHVzZXJuYW1lOiBEZXBsb3ltZW50IC0gTkxQIFNlcnZpY2UgKCRXRVJDS0VSX0dJVF9CUkFOQ0ggLSAkV0VSQ0tFUl9HSVRfQ09NTUlUKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4vdC5zaCBubHAtc2VydmljZS55bWwgPiBzdmMueW1sCiAgICAgICAgICAuL3Quc2ggbmxwLWRlcGxveW1lbnQueW1sID4gZGVwbG95bWVudC55bWwK</text>
+        <text encoding="base64">ZGVwbG95OgogIGJveDogcHl0aG9uCgogIHN0ZXBzOgogICAgLSBzY3JpcHQ6CiAgICAgICAgbmFtZTogaW5zdGFsbCBhd3MtY2xpCiAgICAgICAgY29kZTogfAogICAgICAgICAgcGlwIGluc3RhbGwgYXdzY2xpIC0tdXBncmFkZQoKICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGVjcyBkZXBsb3kKICAgICAgICBjb2RlOiB8CiAgICAgICAgICBhd3MgZWNzIHJlZ2lzdGVyLXRhc2stZGVmaW5pdGlvbiBcCiAgICAgICAgICAgIC0tY2xpLWlucHV0LWpzb24gZmlsZTovLyRXRVJDS0VSX1NPVVJDRV9ESVIvZWNzLXRhc2stZGVmaW5pdGlvbi4kQVdTX0VDU19DTFVTVEVSLmpzb24KICAgICAgICAgIGF3cyBlY3MgdXBkYXRlLXNlcnZpY2UgXAogICAgICAgICAgICAtLWNsdXN0ZXIgJEFXU19FQ1NfQ0xVU1RFUiBcCiAgICAgICAgICAgIC0tc2VydmljZSAkQVdTX0VDU19TRVJWSUNFIFwKICAgICAgICAgICAgLS10YXNrLWRlZmluaXRpb24gJEFXU19FQ1NfVEFTS19ERUZJTklUSU9OCgogIGFmdGVyLXN0ZXBzOgogICAgLSBzbGFjay1ub3RpZmllcjoKICAgICAgICB1cmw6ICRTTEFDS19XRUJIT09LCiAgICAgICAgY2hhbm5lbDogc2tvcnItZGV2LXRlYW0KICAgICAgICB1c2VybmFtZTogRGVwbG95bWVudCAtIFNrb3JyIEFQSSAoJFdFUkNLRVJfR0lUX0JSQU5DSCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgLi90LnNoIAo=</text>
+        <text encoding="base64">ICAgICAgICBjbWQ6ICJqYXZhIC1qYXIgYXV0aC1hcGkuamFyIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RvY29sOiBUQ1AK</text>
+        <text encoding="base64">ICAgICAgICBwb3J0czogIjQ1NjciCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZWxlY3RvcjoKICAgIEFwcDogbmxwCg==</text>
+        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IHN0b3JlIHRhc2sgZGVmaW5pdGlvbnMKICAgICAgICBjb2RlOiB8CgogICAgLSBzY3JpcHQ6CiAgICAgICAgbmFtZTogc3RvcmUgand0IGtleXN0b3JlCiAgICAgICAgY29kZTogfAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjbHVzdGVySVA6IDEwMC43MC4xMzEuMTM3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNwIGZpcmViYXNlLWFkbWluc2RrLmpzb24gJFdFUkNLRVJfT1VUUFVUX0RJUi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogMjAxOC0wMy0wMlQxOTo0NDowNVoK</text>
+        <text encoding="base64">ICAgICAgICAgIGNwIGtleXN0b3JlLmpjZWtzICRXRVJDS0VSX09VVFBVVF9ESVIvCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -339,10 +357,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXNvdXJjZVZlcnNpb246ICI2OTg0NSIKICBzZWxmTGluazogL2FwaS92MS9uYW1lc3BhY2VzL2RlZmF1bHQvc2VydmljZXMvbmxwCiAgdWlkOiAxMGMyOWZjNC0xZTUyLTExZTgtYWZjMS0wNjIyMzU1ZmU3MjYK</text>
+        <text encoding="base64">ICAgICAgICAgIGNwIGVjcy10YXNrLWRlZmluaXRpb24uKi5qc29uICRXRVJDS0VSX09VVFBVVF9ESVIvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBleHRlcm5hbFRyYWZmaWNQb2xpY3k6IENsdXN0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgIG5hbWU6IGFwaQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
