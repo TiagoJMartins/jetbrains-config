@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/wercker.yml" timestamp="1520951529099">
-        <mark key="'" line="38" column="18" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/wercker.yml" timestamp="1520952902639">
+        <mark key="'" line="63" column="8" />
+        <mark key="[" line="22" column="17" />
+        <mark key="]" line="23" column="3" />
+        <mark key="." line="23" column="3" />
+        <mark key="^" line="23" column="3" />
       </file>
       <file name="/Python Console" timestamp="1520610924098">
         <mark key="[" line="0" column="0" />
@@ -94,9 +98,6 @@
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1520610724727">
-        <mark key="'" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1520875207821">
         <mark key="[" line="253" column="37" />
@@ -191,8 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="16" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
-      <jump line="135" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
       <jump line="124" column="8" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
       <jump line="9" column="11" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
       <jump line="70" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
@@ -291,43 +290,45 @@
       <jump line="10" column="14" filename="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-service.yml" />
       <jump line="12" column="22" filename="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-service.yml" />
       <jump line="38" column="18" filename="$USER_HOME$/www/work/skorr/skorr-nlp/wercker.yml" />
+      <jump line="35" column="39" filename="$USER_HOME$/www/work/skorr/skorr-nlp/wercker.yml" />
+      <jump line="63" column="8" filename="$USER_HOME$/www/work/skorr/skorr-nlp/wercker.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGRvd25sb2FkIHB1bmt0CiAgICAgICAgY29kZTogcHl0aG9uIC1tIG5sdGsuZG93bmxvYWRlciBwdW5rdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6ICR7SzhTX05BTUVTUEFDRX0K</text>
+        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGRvd25sb2FkIHB1bmt0CiAgICAgICAgY29kZTogcHl0aG9uIC1tIG5sdGsuZG93bmxvYWRlciBwdW5rdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByb3RvY29sOiBUQ1AK</text>
+        <text encoding="base64">ICAgICAgICAgIC4vdC5zaCBubHAtc2VydmljZS55bWwgPiBzdmMueW1sCiAgICAgICAgICAuL3Quc2ggbmxwLWRlcGxveW1lbnQueW1sID4gZGVwbG95bWVudC55bWwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBuYW1lc3BhY2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgLi90LnNoIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzZWxlY3RvcjoKICAgIEFwcDogbmxwCg==</text>
+        <text encoding="base64">ICAgIHByb3RvY29sOiBUQ1AK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjbHVzdGVySVA6IDEwMC43MC4xMzEuMTM3Cg==</text>
+        <text encoding="base64">ICBuYW1lc3BhY2U6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogMjAxOC0wMy0wMlQxOTo0NDowNVoK</text>
+        <text encoding="base64">ICBzZWxlY3RvcjoKICAgIEFwcDogbmxwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXNvdXJjZVZlcnNpb246ICI2OTg0NSIKICBzZWxmTGluazogL2FwaS92MS9uYW1lc3BhY2VzL2RlZmF1bHQvc2VydmljZXMvbmxwCiAgdWlkOiAxMGMyOWZjNC0xZTUyLTExZTgtYWZjMS0wNjIyMzU1ZmU3MjYK</text>
+        <text encoding="base64">ICBjbHVzdGVySVA6IDEwMC43MC4xMzEuMTM3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBleHRlcm5hbFRyYWZmaWNQb2xpY3k6IENsdXN0ZXIK</text>
+        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogMjAxOC0wMy0wMlQxOTo0NDowNVoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -338,10 +339,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIG5vZGVQb3J0OiAzMDEwMwo=</text>
+        <text encoding="base64">ICByZXNvdXJjZVZlcnNpb246ICI2OTg0NSIKICBzZWxmTGluazogL2FwaS92MS9uYW1lc3BhY2VzL2RlZmF1bHQvc2VydmljZXMvbmxwCiAgdWlkOiAxMGMyOWZjNC0xZTUyLTExZTgtYWZjMS0wNjIyMzU1ZmU3MjYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RhdHVzOgogIGxvYWRCYWxhbmNlcjoKICAgIGluZ3Jlc3M6CiAgICAtIGhvc3RuYW1lOiBhMTBjMjlmYzQxZTUyMTFlOGFmYzEwNjIyMzU1ZmU3Mi0xNDg1MTAyNjI0LmV1LXdlc3QtMy5lbGIuYW1hem9uYXdzLmNvbQo=</text>
+        <text encoding="base64">ICBleHRlcm5hbFRyYWZmaWNQb2xpY3k6IENsdXN0ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
