@@ -103,12 +103,12 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" timestamp="1520929437439">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="42" column="6" />
-        <mark key="]" line="42" column="11" />
-        <mark key="." line="42" column="11" />
-        <mark key="^" line="42" column="11" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" timestamp="1520933576340">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="22" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/celebrities-scraper/getall.sh" timestamp="1520271511363">
         <mark key="[" line="4" column="8" />
@@ -274,10 +274,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${user.id.json}</text>
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text>${user.id.json}</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb1w+</text>
@@ -286,28 +286,28 @@
         <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogTU9OR09fU0VSVkVSCiAgICAgICAgICAgIHZhbHVlRnJvbToKICAgICAgICAgICAgICBzZWNyZXRLZXlSZWY6CiAgICAgICAgICAgICAgICBuYW1lOiBtb25nbwogICAgICAgICAgICAgICAga2V5OiB1cmkzNAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICAgIHNlY3JldEtleVJlZjoKICAgICAgICAgICAgICAgIG5hbWU6IG1vbmdvCiAgICAgICAgICAgICAgICBrZXk6IHVyaTM0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGVjaG8gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICAgIHNlY3JldEtleVJlZjoKICAgICAgICAgICAgICAgIG5hbWU6IG1vbmdvCiAgICAgICAgICAgICAgICBrZXk6IHVyaTM0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleTogdXJpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleTogdXJpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlbmFtZTogYWRtaW4ta2V5LnBlbQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlbmFtZTogYWRtaW4ucGVtCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZTogYWRtaW4ta2V5LnBlbQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -318,10 +318,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlbmFtZTogY2EucGVtCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZTogYWRtaW4ucGVtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gc2NyaXB0OgogICAgICAgIG5hbWU6IGNyZWF0ZSBjYS5wZW0KICAgICAgICBjd2Q6IGRlcGxveQogICAgICAgIGNvZGU6IHwKICAgICAgICAgIGVjaG8gWVhOayB8IGJhc2U2NCAtZCA+PiBjYS5wZW0KCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZTogY2EucGVtCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
