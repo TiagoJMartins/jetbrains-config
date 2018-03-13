@@ -67,10 +67,10 @@
         <mark key="^" line="32" column="8" />
         <mark key="." line="32" column="8" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-deployment.yml" timestamp="1520940242301">
+      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-deployment.yml" timestamp="1520941914108">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="14" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="28" />
         <mark key="^" line="12" column="14" />
         <mark key="." line="12" column="14" />
       </file>
@@ -110,6 +110,13 @@
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-service.yml" timestamp="1520942212416">
+        <mark key="'" line="12" column="22" />
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="21" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" timestamp="1520936073066">
         <mark key="'" line="31" column="0" />
@@ -180,10 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
-      <jump line="88" column="24" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
-      <jump line="76" column="10" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
-      <jump line="68" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
       <jump line="10" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
       <jump line="138" column="16" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
       <jump line="135" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
@@ -280,43 +283,47 @@
       <jump line="21" column="14" filename="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-deployment.yml" />
       <jump line="20" column="6" filename="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-deployment.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-deployment.yml" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-service.yml" />
+      <jump line="1" column="2" filename="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-service.yml" />
+      <jump line="10" column="14" filename="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-service.yml" />
+      <jump line="12" column="22" filename="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-service.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5000</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>5000</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogTU9OR09fU0VSVkVSCiAgICAgICAgICAgIHZhbHVlRnJvbToKICAgICAgICAgICAgICBzZWNyZXRLZXlSZWY6CiAgICAgICAgICAgICAgICBuYW1lOiBtb25nbwogICAgICAgICAgICAgICAga2V5OiB1cmkzNAo=</text>
+        <text encoding="base64">ICBuYW1lc3BhY2U6ICR7SzhTX05BTUVTUEFDRX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICAgIHNlY3JldEtleVJlZjoKICAgICAgICAgICAgICAgIG5hbWU6IHJhYmJpdAogICAgICAgICAgICAgICAga2V5OiB1cmkK</text>
+        <text encoding="base64">ICAgIHByb3RvY29sOiBUQ1AK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogTU9OR09fU0VSVkVSCiAgICAgICAgICAgIHZhbHVlRnJvbToKICAgICAgICAgICAgICBzZWNyZXRLZXlSZWY6CiAgICAgICAgICAgICAgICBuYW1lOiBtb25nbwogICAgICAgICAgICAgICAga2V5OiB1cmkzNAogICAgICAgICAgLSBuYW1lOiBETlNfTkxQCiAgICAgICAgICAgIHZhbHVlOiAiaHR0cDovL25scCIKICAgICAgICAgIC0gbmFtZTogUE9TVFNfSU5TVEFOQ0VTCiAgICAgICAgICAgIHZhbHVlRnJvbToKICAgICAgICAgICAgICBjb25maWdNYXBLZXlSZWY6CiAgICAgICAgICAgICAgICBuYW1lOiBubHAKICAgICAgICAgICAgICAgIGtleTogd29ya2Vycy5wb3N0cy5pbnN0YW5jZXMKICAgICAgICAgIC0gbmFtZTogUE9TVFNfUVVFVUUKICAgICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICAgIGNvbmZpZ01hcEtleVJlZjoKICAgICAgICAgICAgICAgIG5hbWU6IG5scAogICAgICAgICAgICAgICAga2V5OiB3b3JrZXJzLnBvc3RzLnF1ZXVlCiAgICAgICAgICAtIG5hbWU6IFNDUkFQRVJTX0lOU1RBTkNFUwogICAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgICAgY29uZmlnTWFwS2V5UmVmOgogICAgICAgICAgICAgICAgbmFtZTogc2NyYXBlcnMKICAgICAgICAgICAgICAgIGtleTogd29ya2Vycy5zY3JhcGVycy5pbnN0YW5jZXMKICAgICAgICAgIC0gbmFtZTogU0NSQVBFUlNfUVVFVUUKICAgICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICAgIGNvbmZpZ01hcEtleVJlZjoKICAgICAgICAgICAgICAgIG5hbWU6IHNjcmFwZXJzCiAgICAgICAgICAgICAgICBrZXk6IHdvcmtlcnMuc2NyYXBlcnMucXVldWUKICAgICAgICAgIC0gbmFtZTogU0tPUlJfSU5TVEFOQ0VTCiAgICAgICAgICAgIHZhbHVlRnJvbToKICAgICAgICAgICAgICBjb25maWdNYXBLZXlSZWY6CiAgICAgICAgICAgICAgICBuYW1lOiBzY3JhcGVycwogICAgICAgICAgICAgICAga2V5OiB3b3JrZXJzLnNrb3JyLmluc3RhbmNlcwogICAgICAgICAgLSBuYW1lOiBTS09SUl9RVUVVRQogICAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgICAgY29uZmlnTWFwS2V5UmVmOgogICAgICAgICAgICAgICAgbmFtZTogc2NyYXBlcnMKICAgICAgICAgICAgICAgIGtleTogd29ya2Vycy5za29yci5xdWV1ZQo=</text>
+        <text encoding="base64">ICBuYW1lc3BhY2U6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVjaG8gCg==</text>
+        <text encoding="base64">ICBzZWxlY3RvcjoKICAgIEFwcDogbmxwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICAgIHNlY3JldEtleVJlZjoKICAgICAgICAgICAgICAgIG5hbWU6IG1vbmdvCiAgICAgICAgICAgICAgICBrZXk6IHVyaTM0Cg==</text>
+        <text encoding="base64">ICBjbHVzdGVySVA6IDEwMC43MC4xMzEuMTM3Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogMjAxOC0wMy0wMlQxOTo0NDowNVoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXNvdXJjZVZlcnNpb246ICI2OTg0NSIKICBzZWxmTGluazogL2FwaS92MS9uYW1lc3BhY2VzL2RlZmF1bHQvc2VydmljZXMvbmxwCiAgdWlkOiAxMGMyOWZjNC0xZTUyLTExZTgtYWZjMS0wNjIyMzU1ZmU3MjYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleTogdXJpCg==</text>
+        <text encoding="base64">ICBleHRlcm5hbFRyYWZmaWNQb2xpY3k6IENsdXN0ZXIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -327,10 +334,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAtIG5vZGVQb3J0OiAzMDEwMwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlbmFtZTogYWRtaW4ta2V5LnBlbQo=</text>
+        <text encoding="base64">c3RhdHVzOgogIGxvYWRCYWxhbmNlcjoKICAgIGluZ3Jlc3M6CiAgICAtIGhvc3RuYW1lOiBhMTBjMjlmYzQxZTUyMTFlOGFmYzEwNjIyMzU1ZmU3Mi0xNDg1MTAyNjI0LmV1LXdlc3QtMy5lbGIuYW1hem9uYXdzLmNvbQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
