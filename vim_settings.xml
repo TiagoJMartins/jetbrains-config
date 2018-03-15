@@ -10,7 +10,16 @@
         <mark key="." line="73" column="41" />
         <mark key="^" line="73" column="41" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/controllers/emotions.py" timestamp="1521107397611" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" timestamp="1521127880502">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/SkorrShareDAOImpl.kt" timestamp="1521128347747">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="64" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" timestamp="1520873783424">
         <mark key="[" line="8" column="87" />
         <mark key="]" line="8" column="87" />
@@ -27,7 +36,6 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-butler/svc.yml" timestamp="1521112489209" />
       <file name="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-service.yml" timestamp="1520942212416">
         <mark key="'" line="12" column="22" />
         <mark key="[" line="12" column="16" />
@@ -48,7 +56,6 @@
         <mark key="^" line="401" column="70" />
         <mark key="." line="401" column="70" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/sentiment/tweets/tweets_data.txt" timestamp="1521110165047" />
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-deployment.yaml" timestamp="1520955111072">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="159" />
@@ -62,24 +69,20 @@
         <mark key="." line="5" column="28" />
         <mark key="^" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" timestamp="1520961363521">
-        <mark key="'" line="56" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/wercker.yml" timestamp="1521127859468">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/image-comparison/compare.py" timestamp="1521110111665" />
       <file name="/Python Console" timestamp="1521109837919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/sentiment/amazon/amazon_data.txt" timestamp="1521110296290" />
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/io.tf" timestamp="1520249875074">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="69" />
         <mark key="." line="3" column="69" />
         <mark key="^" line="3" column="69" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/topic-modeling.py" timestamp="1521109749523" />
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" timestamp="1520604997205">
         <mark key="[" line="141" column="81" />
         <mark key="]" line="141" column="99" />
@@ -106,7 +109,6 @@
         <mark key="." line="31" column="50" />
         <mark key="^" line="31" column="50" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/nlpsvc.py" timestamp="1521108766412" />
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/main.tf" timestamp="1520331565466">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -121,13 +123,12 @@
         <mark key="." line="32" column="8" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-deployment.yml" timestamp="1520960807629">
-        <mark key="'" line="44" column="6" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="6" />
-        <mark key="^" line="10" column="15" />
-        <mark key="." line="11" column="6" />
+        <mark key="'" line="45" column="6" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="6" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/main.py" timestamp="1521108716266" />
       <file name="/Dummy.txt" timestamp="1521045916948">
         <mark key="[" line="0" column="0" />
       </file>
@@ -143,8 +144,6 @@
         <mark key="^" line="253" column="38" />
         <mark key="." line="253" column="38" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/corpus/sentiment/facebook-comments/fb_data.txt" timestamp="1521110333944" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/emotion.py" timestamp="1521110558134" />
       <file name="$USER_HOME$/www/work/skorr/celebrities-scraper/getall.sh" timestamp="1520271511363">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="8" />
@@ -261,17 +260,17 @@
       <jump line="103" column="4" filename="$USER_HOME$/www/work/skorr/skorr-butler/main.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'scrapers'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2tvcnJTaGFyZURldGFpbHMoc2hhcmUuaWQsIHNoYXJlLnZhbHVlLCB1c2VyLCBpbWFnZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>'scrapers'</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJpbnQoJ0dvdCB1c2VyOiAlcycsIHVzZXIuZ2V0KCduYW1lJywgJ1VOS05PV04nKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2tvcnJTaGFyZURldGFpbHMoc2hhcmUuaWQsIHNoYXJlLnZhbHVlLCB1c2VyLCBpbWFnZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7J3RleHQnOiAnMSd9LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsndGV4dCc6ICcyJ30K</text>
