@@ -27,6 +27,7 @@
         <mark key="^" line="25" column="30" />
         <mark key="." line="25" column="30" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-butler/svc.yml" timestamp="1521112489209" />
       <file name="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-service.yml" timestamp="1520942212416">
         <mark key="'" line="12" column="22" />
         <mark key="[" line="12" column="16" />
@@ -98,12 +99,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-butler/main.py" timestamp="1521110945997">
-        <mark key="'" line="19" column="19" />
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-        <mark key="^" line="10" column="55" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-butler/main.py" timestamp="1521112528847">
+        <mark key="'" line="103" column="4" />
+        <mark key="[" line="31" column="37" />
+        <mark key="]" line="31" column="50" />
+        <mark key="." line="31" column="50" />
+        <mark key="^" line="31" column="50" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-rd/text-analysis/nlpsvc.py" timestamp="1521108766412" />
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/main.tf" timestamp="1520331565466">
@@ -158,9 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="19" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/ai/nlp.tf" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/ai/nlp.tf" />
-      <jump line="46" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/ai/nlp.tf" />
       <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/ai/nlp.tf" />
       <jump line="2" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/ai/nlp.tf" />
       <jump line="47" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/ai/nlp.tf" />
@@ -258,13 +256,16 @@
       <jump line="74" column="52" filename="$USER_HOME$/www/work/skorr/skorr-butler/main.py" />
       <jump line="77" column="39" filename="$USER_HOME$/www/work/skorr/skorr-butler/main.py" />
       <jump line="22" column="19" filename="$USER_HOME$/www/work/skorr/skorr-butler/main.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/www/work/skorr/skorr-butler/main.py" />
+      <jump line="99" column="4" filename="$USER_HOME$/www/work/skorr/skorr-butler/main.py" />
+      <jump line="103" column="4" filename="$USER_HOME$/www/work/skorr/skorr-butler/main.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>'scrapers'</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>'scrapers'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb1w+</text>
