@@ -119,11 +119,12 @@
         <mark key="^" line="253" column="38" />
         <mark key="." line="253" column="38" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" timestamp="1521201068579">
-        <mark key="'" line="76" column="18" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" timestamp="1521202502262">
+        <mark key="'" line="96" column="3" />
+        <mark key="[" line="95" column="91" />
+        <mark key="]" line="97" column="38" />
+        <mark key="." line="97" column="38" />
+        <mark key="^" line="97" column="38" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-service.yml" timestamp="1520942212416">
         <mark key="'" line="12" column="22" />
@@ -151,7 +152,7 @@
         <mark key="^" line="401" column="70" />
         <mark key="." line="401" column="70" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" timestamp="1521200949501">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" timestamp="1521202289354">
         <mark key="[" line="271" column="0" />
         <mark key="]" line="276" column="82" />
         <mark key="." line="17" column="24" />
@@ -189,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
       <jump line="79" column="48" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
       <jump line="80" column="68" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
       <jump line="98" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/api/api.tf" />
@@ -289,13 +289,14 @@
       <jump line="58" column="29" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" />
       <jump line="77" column="18" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" />
       <jump line="79" column="18" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" />
+      <jump line="96" column="3" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb1w+</text>
@@ -304,28 +305,28 @@
         <text encoding="base64">ZGVmIGdldF9zaW5nbGVfbWVkaWFfY29tbWVudHMoYWNjZXNzX3Rva2VuLCBtZWRpYV9pZCk6CiAgICBtZWRpYV9jb21tZW50c191cmwgPSBJR19BUElfQkFTRS5mb3JtYXQoJ21lZGlhL3t9L2NvbW1lbnRzJykKICAgIHBheWxvYWQgPSB7CiAgICAgICAgJ2FjY2Vzc190b2tlbic6IGFjY2Vzc190b2tlbgogICAgfQogICAgcmV0dXJuIHJlcXVlc3RzLmdldChtZWRpYV9jb21tZW50c191cmwuZm9ybWF0KG1lZGlhX2lkKSwgcGFyYW1zPXBheWxvYWQpLmpzb24oKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgICBzZWxmX3Jlc3BvbnNlID0gc2VsZl9yZXNwb25zZVsnZGF0YSddCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBwcmludChwb3N0c1swXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBwcmludChjb21tZW50c1szXSkKICAgIHBwcmludChwb3N0c1szXSkKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgcG9zdHMgPSBwb3N0c193aXRoX2NvbW1lbnRzCg==</text>
+        <text encoding="base64">ICAgIHBwcmludChwb3N0c1swXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHppcAo=</text>
+        <text encoding="base64">ICAgIHBwcmludChjb21tZW50c1szXSkKICAgIHBwcmludChwb3N0c1szXSkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIAogICAgcG9zdHMgPSBwb3N0c193aXRoX2NvbW1lbnRzCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -336,10 +337,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHppcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDoKICAgICAgICBsb2cuaW5mbyhjb21tZW50cykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
