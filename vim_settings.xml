@@ -26,11 +26,11 @@
         <mark key="^" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" timestamp="1521191005314">
-        <mark key="'" line="35" column="8" />
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="10" column="9" />
+        <mark key="'" line="27" column="8" />
+        <mark key="[" line="1" column="4" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/SkorrShareDAOImpl.kt" timestamp="1521132258418">
         <mark key="[" line="54" column="0" />
@@ -62,10 +62,16 @@
         <mark key="." line="31" column="50" />
         <mark key="^" line="31" column="50" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" timestamp="1521195141480">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+        <mark key="^" line="6" column="41" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-processors/task-runner/task-runner.py" timestamp="1520846603831">
         <mark key="[" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram/posts.py" timestamp="1521194261236">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram/posts.py" timestamp="1521195408485">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="69" column="27" />
         <mark key="]" line="69" column="27" />
@@ -99,7 +105,7 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="12" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521045916948">
+      <file name="/Dummy.txt" timestamp="1521195090809">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-butler/Dockerfile" timestamp="1521046254139">
@@ -108,6 +114,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="8" column="22" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/skorr-social-scrapers/lib/python3.6/site-packages/setuptools/depends.py" timestamp="1521195105356" />
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1520875207821">
         <mark key="[" line="253" column="37" />
         <mark key="]" line="253" column="38" />
@@ -140,10 +147,17 @@
         <mark key="^" line="401" column="70" />
         <mark key="." line="401" column="70" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" timestamp="1521192762946">
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="226" column="15" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/instagram.py" timestamp="1521195411020">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1521195169571">
+        <mark key="[" line="111" column="86" />
+        <mark key="]" line="111" column="87" />
+        <mark key="." line="111" column="87" />
+        <mark key="^" line="111" column="87" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-deployment.yaml" timestamp="1520955111072">
         <mark key="[" line="19" column="0" />
@@ -274,10 +288,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25nb1w+</text>
