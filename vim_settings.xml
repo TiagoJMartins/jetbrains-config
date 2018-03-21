@@ -123,6 +123,7 @@
         <mark key="." line="8" column="68" />
         <mark key="^" line="8" column="68" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1521634491056" />
       <file name="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-service.yml" timestamp="1520942212416">
         <mark key="'" line="12" column="22" />
         <mark key="[" line="12" column="16" />
@@ -183,6 +184,18 @@
         <mark key="]" line="355" column="47" />
         <mark key="^" line="355" column="47" />
         <mark key="." line="355" column="47" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialToken.kt" timestamp="1521635122254">
+        <mark key="[" line="32" column="30" />
+        <mark key="]" line="32" column="37" />
+        <mark key="^" line="32" column="37" />
+        <mark key="." line="32" column="37" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1521634740265">
+        <mark key="[" line="75" column="32" />
+        <mark key="]" line="75" column="38" />
+        <mark key="." line="75" column="38" />
+        <mark key="^" line="75" column="38" />
       </file>
     </filemarks>
     <jumps>
@@ -289,40 +302,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>py</text>
+        <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>py</text>
+        <text>TODO()</text>
       </register>
       <register name="/" type="4">
         <text>queue_name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVmIGNhbGN1bGF0ZV9za29ycih1c2VyKToKICAgIHByZXZpb3VzX3Nrb3JyID0gc2tvcnJfdXRpbHMuZ2V0X3Nrb3JyX2J5X3RpbWVmcmFtZShtb25nbywgdXNlclsnX2lkJ10pCiAgICBjYWxjdWxhdGVkX3Nrb3JyID0gc2tvcnJfdXRpbHMuY2FsY3VsYXRlKG1vbmdvLCB1c2VyLCBwcmV2aW91c19za29ycikKICAgIF9pZCA9IGRiLnNhdmVfc2tvcnIobW9uZ28sIGNhbGN1bGF0ZWRfc2tvcnIpCiAgICByZXR1cm4gX2lkLCBjYWxjdWxhdGVkX3Nrb3JyCg==</text>
+        <text encoding="base64">ICAgICAgICBTb2NpYWxOZXR3b3JrLkdPT0dMRSAtPiAiZ2dfc2NyYXBlX3Byb2ZpbGUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIC0+IHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBicm9rZXIgPSBkcmFtYXRpcS5nZXRfYnJva2VyKCkK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIC0+ICJVTktOT1dOIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWxzLmNvbXB1dGF0aW9uIGFzIGNvbXB1dGF0aW9uCmltcG9ydCB3b3JrZXJzLmluc3RhZ3JhbSBhcyBpbnN0YWdyYW0KaW1wb3J0IHdvcmtlcnMuZmFjZWJvb2sgYXMgZmFjZWJvb2sKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZHJhbWF0aXEuZ2V0X2Jyb2tlcigpCg==</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnB1dCgiYSIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -333,10 +346,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVzdWx0X2JhY2tlbmQgPSBSZWRpc0JhY2tlbmQoKQpicm9rZXIgPSBSYWJiaXRtcUJyb2tlcigpCmJyb2tlci5hZGRfbWlkZGxld2FyZShSZXN1bHRzKGJhY2tlbmQ9cmVzdWx0X2JhY2tlbmQpKQpkcmFtYXRpcS5zZXRfYnJva2VyKGJyb2tlcikK</text>
+        <text encoding="base64">IyBicm9rZXIgPSBkcmFtYXRpcS5nZXRfYnJva2VyKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+        <text encoding="base64">aW1wb3J0IHV0aWxzLmNvbXB1dGF0aW9uIGFzIGNvbXB1dGF0aW9uCmltcG9ydCB3b3JrZXJzLmluc3RhZ3JhbSBhcyBpbnN0YWdyYW0KaW1wb3J0IHdvcmtlcnMuZmFjZWJvb2sgYXMgZmFjZWJvb2sKCg==</text>
       </register>
       <register name=":" type="4">
         <text>214</text>
