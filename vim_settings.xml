@@ -60,6 +60,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/kide-ms-laranjinha/config/config.yml" timestamp="1515659843011">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="72" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Config/AppConfig.js" timestamp="1511881433934">
         <mark key="[" line="15" column="28" />
         <mark key="]" line="15" column="28" />
@@ -907,7 +911,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>http://93.108.242.139/MultiWebService/MultiWebService.asmx</text>
       </register>
       <register name="-" type="4">
         <text>6</text>
@@ -915,8 +919,8 @@
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">SE9DS0VZX0FORFJPSURfQVBQX0lEPWM1NGM3M2I5NzczOTQxYmQ4OGQ2Zjc2NDNmOWY0MDNhCkhPQ0tFWV9JT1NfQVBQX0lEPTZlYjk2NWIzNDBjMTQyNTU5MGQ3ZGMxY2MxYjE0YmNiCg==</text>
+      <register name="0" type="4">
+        <text>http://93.108.242.139/MultiWebService/MultiWebService.asmx</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFNlY3JldHMpCg==</text>
