@@ -333,11 +333,10 @@
         <mark key="." line="136" column="46" />
         <mark key="^" line="136" column="46" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1522066782485">
-        <mark key="[" line="380" column="56" />
-        <mark key="]" line="380" column="56" />
-        <mark key="." line="380" column="56" />
-        <mark key="^" line="380" column="56" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1522070904421">
+        <mark key="[" line="377" column="0" />
+        <mark key="]" line="377" column="0" />
+        <mark key="." line="377" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/index.js" timestamp="1511790508377">
         <mark key="'" line="14" column="0" />
@@ -402,6 +401,7 @@
         <mark key="." line="18" column="15" />
         <mark key="^" line="18" column="15" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SkorrSocialWeight.kt" timestamp="1522069599847" />
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/facebook.py" timestamp="1521717381778">
         <mark key="'" line="113" column="39" />
         <mark key="[" line="11" column="45" />
@@ -437,7 +437,7 @@
         <mark key="." line="21" column="9" />
         <mark key="^" line="21" column="9" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/redis_db.py" timestamp="1522066337736">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/redis_db.py" timestamp="1522069167966">
         <mark key="[" line="28" column="70" />
         <mark key="]" line="28" column="69" />
         <mark key="." line="28" column="69" />
@@ -617,6 +617,12 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="14" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/PostDAOImpl.kt" timestamp="1522068266488">
+        <mark key="[" line="290" column="150" />
+        <mark key="]" line="290" column="151" />
+        <mark key="." line="290" column="151" />
+        <mark key="^" line="290" column="151" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Themes/Colors.js" timestamp="1511955578281">
         <mark key="'" line="43" column="32" />
         <mark key="[" line="31" column="36" />
@@ -666,10 +672,10 @@
         <mark key="." line="78" column="54" />
         <mark key="^" line="78" column="54" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RankedUser.kt" timestamp="1522062016621">
-        <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="8" column="28" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RankedUser.kt" timestamp="1522069611164">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/OnboardingScreens/OnboardingExtraNetworksScreen/OnboardingExtraNetworksScreen.styles.js" timestamp="1511949083461">
         <mark key="'" line="4" column="33" />
@@ -774,11 +780,10 @@
         <mark key="." line="21" column="22" />
         <mark key="^" line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1522061884962">
-        <mark key="[" line="292" column="33" />
-        <mark key="]" line="292" column="43" />
-        <mark key="." line="292" column="43" />
-        <mark key="^" line="292" column="43" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1522069621867">
+        <mark key="[" line="303" column="0" />
+        <mark key="]" line="303" column="0" />
+        <mark key="." line="303" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/RoundedButton/RoundedButton.styles.js" timestamp="1512041521190">
         <mark key="'" line="19" column="33" />
@@ -912,11 +917,11 @@
       <jump line="86" column="6" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-deployment.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdhc2QnOiAnJHsnJCd9ZnJpZW5kT2JqZWN0JywK</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>get_single</text>
@@ -925,30 +930,28 @@
         <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogRU5WCiAgICAgICAgICAgIHZhbHVlOiAke0s4U19FTlZ9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdhc2QnOiAnJHsnJCd9ZnJpZW5kT2JqZWN0JywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAiJHByb2plY3QiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbmRleDogJGluZGV4T2ZBcnJheTogeyBhc2RqYXNnb2lmaGFkfSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhbmtpbmdzOiBbXQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYXNkOiBTdHJpbmcgPSAiIiwK</text>
       </register>
-      <register name="3" type="4">
-        <text>= kotlin.run { 
-            
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgLyoKICAgICAgICB7CiAgICAgICAgICAiZGF0YSI6IFtdLAogICAgICAgICAgIm1ldGEiOiB7CiAgICAgICAgICAgICJteVBvc2l0aW9uIjogMTAsCiAgICAgICAgICAgICJuZXR3b3JrIjogIkZBQ0VCT09LIgogICAgICAgICAgfSwKICAgICAgICAgICJuZXh0IjogImFzZGFzaGRsaGFpc2RnaGFzZCIKICAgICAgICB9CiAgICAgICAgICov</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdyZXF1ZXN0ZXJQb3NpdGlvbic6IHsKCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKgogICAgICAgIHsKICAgICAgICAgICJuZXh0IjogImFzZGFzZGFzZCIsCiAgICAgICAgICAibGltaXQiOiAxMjMKICAgICAgICB9CiAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnJHsnJCd9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -959,10 +962,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnJHsnJCd9J2luZGV4T2ZBcnJheTogWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnJHsnJCd9c2tvcnJGcmllbmRzJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHtNb25nb09wZXJhdG9yLmVsZW1NYXRjaH06IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICJpbmRleCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ICR7TW9uZ29PcGVyYXRvci5zb3J0fTogeyAnZnJpZW5kT2JqZWN0LnNrb3JyLnZhbHVlJyA6IC0xIH0gfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
