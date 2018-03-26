@@ -1,0 +1,8 @@
+<templateSet group="Kotlin">
+  <template name="nexc" value="class $FILE_NAME$(&#10;    override val message: String = &quot;$END$&quot;,&#10;    val statusCode: HttpResponseStatus = HttpResponseStatus.INTERNAL_SERVER_ERROR&#10;) : Exception(message)" description="New Custom Exception" toReformat="false" toShortenFQNames="true">
+    <variable name="FILE_NAME" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>
