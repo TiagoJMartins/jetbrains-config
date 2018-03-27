@@ -212,12 +212,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" timestamp="1522138911455">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" timestamp="1522144269263">
         <mark key="'" line="50" column="0" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-        <mark key="^" line="123" column="102" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Fixtures/challengeList.json" timestamp="1511775911940">
         <mark key="'" line="7" column="43" />
@@ -343,11 +342,6 @@
         <mark key="]" line="136" column="46" />
         <mark key="." line="136" column="46" />
         <mark key="^" line="136" column="46" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1522070904421">
-        <mark key="[" line="377" column="0" />
-        <mark key="]" line="377" column="0" />
-        <mark key="." line="377" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/index.js" timestamp="1511790508377">
         <mark key="'" line="14" column="0" />
@@ -791,9 +785,9 @@
         <mark key="^" line="21" column="22" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1522069621867">
-        <mark key="[" line="303" column="0" />
-        <mark key="]" line="303" column="0" />
-        <mark key="." line="303" column="0" />
+        <mark key="[" line="302" column="0" />
+        <mark key="]" line="302" column="0" />
+        <mark key="." line="302" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/RoundedButton/RoundedButton.styles.js" timestamp="1512041521190">
         <mark key="'" line="19" column="33" />
@@ -928,7 +922,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IE11bHRpcGx5IGFsbCBieSByZXNwZWN0aXZlIHdlaWdodCBpbiBzb2NpYWwgbmV0d29yayBiZWluZyBjYWxjdWxhdGVkIGZyb20gdGhlIGJyZWFrZG93bgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -940,22 +934,22 @@
         <text encoding="base64">ICAgICAgICAjIFRPRE86IE11bHRpcGx5IGFsbCBieSByZXNwZWN0aXZlIHdlaWdodCBpbiBzb2NpYWwgbmV0d29yayBiZWluZyBjYWxjdWxhdGVkIGZyb20gdGhlIGJyZWFrZG93bgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE86IE11bHRpcGx5IGFsbCBieSByZXNwZWN0aXZlIHdlaWdodCBpbiBzb2NpYWwgbmV0d29yayBiZWluZyBjYWxjdWxhdGVkIGZyb20gdGhlIGJyZWFrZG93bgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIFRPRE86IE11bHRpcGx5IGFsbCBieSByZXNwZWN0aXZlIHdlaWdodCBpbiBzb2NpYWwgbmV0d29yayBiZWluZyBjYWxjdWxhdGVkIGZyb20gdGhlIGJyZWFrZG93bgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIEFkZCAK</text>
+        <text encoding="base64">ICAgICAgICAjIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAjIEFkZCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
@@ -975,7 +969,7 @@
         <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBwb3N0cwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
