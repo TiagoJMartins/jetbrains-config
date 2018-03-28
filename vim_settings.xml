@@ -29,7 +29,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/skorr.py" timestamp="1522170278465">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/skorr.py" timestamp="1522242238150">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -321,13 +321,6 @@
         <mark key="." line="1" column="30" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1522167572091">
-        <mark key="'" line="35" column="29" />
-        <mark key="[" line="14" column="36" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Themes/Fonts.js" timestamp="1511882491722">
         <mark key="'" line="89" column="16" />
         <mark key="[" line="89" column="28" />
@@ -584,7 +577,7 @@
         <mark key="^" line="59" column="3" />
         <mark key="." line="59" column="3" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1522170685983">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1522241103904">
         <mark key="[" line="26" column="16" />
         <mark key="]" line="26" column="16" />
         <mark key="^" line="26" column="16" />
@@ -736,17 +729,11 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/computation.py" timestamp="1522169054686">
-        <mark key="[" line="21" column="76" />
-        <mark key="]" line="21" column="109" />
-        <mark key="^" line="29" column="99" />
-        <mark key="." line="29" column="99" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-cron.yml" timestamp="1522059769062">
-        <mark key="[" line="50" column="31" />
-        <mark key="]" line="50" column="43" />
-        <mark key="." line="50" column="43" />
-        <mark key="^" line="50" column="43" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-cron.yml" timestamp="1522242304821">
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+        <mark key="^" line="21" column="36" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/HeaderComponents/index.js" timestamp="1510671763414">
         <mark key="'" line="1" column="28" />
@@ -941,16 +928,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0.5</text>
+        <text>K8S_ENVIRONMENT</text>
       </register>
       <register name="-" type="4">
-        <text>0.5</text>
+        <text>K8S_ENVIRONMENT</text>
       </register>
       <register name="/" type="4">
         <text>get_single</text>
       </register>
-      <register name="0" type="4">
-        <text>sort=[('_id', pymongo.DESCENDING)]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLSBuYW1lOiBQWVRIT05QQVRICiAgICAgICAgICAgICAgdmFsdWU6ICRXRVJDS0VSX1NPVVJDRV9ESVIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
