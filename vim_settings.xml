@@ -430,7 +430,7 @@
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="45" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/EmotionProgressChart/EmotionProgressChart.js" timestamp="1522329584770" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/EmotionProgressChart/EmotionProgressChart.js" timestamp="1522330768911" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1520875657990">
         <mark key="'" line="78" column="0" />
         <mark key="[" line="32" column="8" />
@@ -652,6 +652,7 @@
         <mark key="." line="31" column="38" />
         <mark key="^" line="31" column="38" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/EmotionChart/EmotionChart.js" timestamp="1522330777472" />
       <file name="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-service.yml" timestamp="1520955415723">
         <mark key="'" line="9" column="4" />
         <mark key="[" line="5" column="28" />
@@ -673,10 +674,10 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/AndroidManifest.xml" timestamp="1512049870492">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/AndroidManifest.xml" timestamp="1522331071863">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="28" />
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="46" />
         <mark key="." line="3" column="28" />
         <mark key="^" line="31" column="105" />
       </file>
@@ -829,6 +830,12 @@
         <mark key="." line="21" column="41" />
         <mark key="^" line="21" column="41" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/EmotionAnalytics/EmotionAnalytics.js" timestamp="1522330841877">
+        <mark key="[" line="95" column="63" />
+        <mark key="]" line="95" column="64" />
+        <mark key="^" line="95" column="64" />
+        <mark key="." line="95" column="64" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Components/OnboardingIndicator/OnboardingIndicator.js" timestamp="1511875647973">
         <mark key="'" line="23" column="17" />
         <mark key="[" line="38" column="14" />
@@ -940,8 +947,8 @@
       <jump line="181" column="30" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/skorr.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcHJpbnQoZidOTyBTS09SUlMsIEZPUk1VTEEgRk9SIHtrcGlfc3VtfScpCg==</text>
+      <register name="&quot;" type="4">
+        <text>com.skorr.android.growsocial.media</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -949,8 +956,8 @@
       <register name="/" type="4">
         <text>pd</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHBwcmludChmJ2RlbHRhOiB7ZGVsdGF9JykK</text>
+      <register name="0" type="4">
+        <text>com.skorr.android.growsocial.media</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcHJpbnQoZidOTyBTS09SUlMsIEZPUk1VTEEgRk9SIHtrcGlfc3VtfScpCg==</text>
