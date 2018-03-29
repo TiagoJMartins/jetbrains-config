@@ -459,7 +459,10 @@
         <mark key="." line="21" column="9" />
         <mark key="^" line="21" column="9" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/redis_db.py" timestamp="1522308433703" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/redis_db.py" timestamp="1522309036437">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/UserInfoScreen/UserInfoScreen.styles.js" timestamp="1511176275839">
         <mark key="'" line="8" column="15" />
         <mark key="[" line="7" column="0" />
@@ -832,7 +835,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="97" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/computation.py" />
       <jump line="8" column="45" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
       <jump line="186" column="24" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" />
       <jump line="46" column="1" filename="$USER_HOME$/www/work/skorr/skorr-social-webhooks/networks/facebook.js" />
@@ -932,6 +934,7 @@
       <jump line="41" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/skorr.py" />
       <jump line="137" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
       <jump line="124" column="23" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/skorr.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/redis_db.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
