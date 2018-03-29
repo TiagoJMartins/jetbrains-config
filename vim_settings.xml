@@ -29,12 +29,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/skorr.py" timestamp="1522320557653">
-        <mark key="'" line="182" column="30" />
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="5" column="27" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="27" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/skorr.py" timestamp="1522324900035">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
+        <mark key="^" line="165" column="35" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/.babelrc" timestamp="1511450594496">
         <mark key="'" line="10" column="34" />
@@ -242,12 +241,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" timestamp="1522246600387">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" timestamp="1522321766033">
         <mark key="'" line="134" column="0" />
-        <mark key="[" line="142" column="70" />
-        <mark key="]" line="142" column="70" />
-        <mark key="^" line="142" column="95" />
-        <mark key="." line="142" column="70" />
+        <mark key="[" line="41" column="73" />
+        <mark key="]" line="41" column="72" />
+        <mark key="^" line="41" column="72" />
+        <mark key="." line="41" column="72" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Fixtures/challengeList.json" timestamp="1511775911940">
         <mark key="'" line="7" column="43" />
@@ -743,11 +742,11 @@
         <mark key="." line="10" column="21" />
         <mark key="^" line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/computation.py" timestamp="1522250703025">
-        <mark key="[" line="17" column="56" />
-        <mark key="]" line="17" column="56" />
-        <mark key="." line="17" column="56" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/computation.py" timestamp="1522321761941">
+        <mark key="[" line="33" column="86" />
+        <mark key="]" line="33" column="103" />
+        <mark key="." line="33" column="103" />
+        <mark key="^" line="33" column="103" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-cron.yml" timestamp="1522246593158">
         <mark key="[" line="21" column="37" />
@@ -941,40 +940,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyCg==</text>
+        <text encoding="base64">ICAgICAgICBwcHJpbnQoZidOTyBTS09SUlMsIEZPUk1VTEEgRk9SIHtrcGlfc3VtfScpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>pd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHByaW50KHNrb3Jyc19pbl90aW1lZnJhbWVbNTddWydjcmVhdGVkQXQnXSkK</text>
+        <text encoding="base64">ICAgIHBwcmludChmJ2RlbHRhOiB7ZGVsdGF9JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyCg==</text>
+        <text encoding="base64">ICAgICAgICBwcHJpbnQoZidOTyBTS09SUlMsIEZPUk1VTEEgRk9SIHtrcGlfc3VtfScpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIGxlbihza29ycnNfaW5fdGltZWZyYW1lKSA9PSA1OgogICAgICAgIHBwcmludCgnU1VNIFNVTSBTVU0nKQogICAgICAgIGtwaV9zdW0gKz0gMTAwMDAKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHBwcmludChkZWx0YXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2tvcnJzX3RvX3Byb2Nlc3MgCg==</text>
+        <text encoding="base64">CiAgICBwcHJpbnQoc2tvcnJzX3RvX3Byb2Nlc3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcHJpbnQoZidhZGRpbmcge25vcm1fZHN0fScpCiAgICAgICAgcHByaW50KGYnbm9ybSBkaXN0IGF0IHtub3JtX2Rpc3RfYWNsfScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHBwcmludChmJy0xOiB7cHJvYl9ub3Jtc1stMV19IHwgLTI6IHtwcm9iX25vcm1zWy0yXX0nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHBwcmludChmJ2RlbHRhOiB7ZGVsdGF9JykKICAgIHBwcmludChmJ3Byb2Jub3Jtczoge3Byb2Jfbm9ybXN9JykKICAgIHBwcmludChmJ3Njb3JlIHBvaW50czoge3Njb3JlX3BudHN9JykKICAgIHBwcmludChmJ2xhc3Qgc2tvcnI6IHtsYXN0X3Nrb3JyfScpCgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -986,13 +985,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CiAgICBsYXN0X3Nrb3JyID0gMjcuNjcKCiAgICBkZWx0YXMgPSBbNywgNywgNSwgMCwgMCwgLTMsIDAsIC0xXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBub3JtX2Rpc3RfYWNsICs9IG5vcm1fZHN0Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>35</text>
       </register>
     </registers>
     <search>
@@ -1014,12 +1013,13 @@
       <history-cmd>
         <entry>161</entry>
         <entry>102</entry>
-        <entry>35</entry>
         <entry>109</entry>
         <entry>61</entry>
         <entry>52</entry>
         <entry>69</entry>
         <entry>w</entry>
+        <entry>34</entry>
+        <entry>35</entry>
       </history-cmd>
       <history-expr />
       <history-input />
