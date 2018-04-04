@@ -64,10 +64,10 @@
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1522846008827">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1522847939174">
         <mark key="'" line="301" column="35" />
-        <mark key="[" line="322" column="0" />
-        <mark key="]" line="322" column="92" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="25" />
         <mark key="." line="321" column="0" />
         <mark key="^" line="321" column="22" />
       </file>
@@ -241,7 +241,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0X3JlcGxpZXMubWVzc2FnZShhY2Nlc3NfdG9rZW4sIGFjY2Vzc190b2tlbl9zZWNyZXQsIHR3ZWV0KSBmb3IgdHdlZXQgaW4gdHdlZXRzCg==</text>
+        <text encoding="base64">ZGVmIGdldF90d2VldF90eXBlKHR3ZWV0KToK</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -250,7 +250,7 @@
         <text>$in</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0X3JlcGxpZXMubWVzc2FnZShhY2Nlc3NfdG9rZW4sIGFjY2Vzc190b2tlbl9zZWNyZXQsIHR3ZWV0KSBmb3IgdHdlZXQgaW4gdHdlZXRzCg==</text>
+        <text encoding="base64">ZGVmIGdldF90d2VldF90eXBlKHR3ZWV0KToK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcHJpbnQodHdlZXRzWzBdKQo=</text>
