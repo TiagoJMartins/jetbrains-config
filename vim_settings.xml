@@ -64,12 +64,12 @@
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1522840668831">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1522846008827">
         <mark key="'" line="301" column="35" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="4" />
-        <mark key="." line="37" column="4" />
-        <mark key="^" line="217" column="27" />
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="92" />
+        <mark key="." line="321" column="0" />
+        <mark key="^" line="321" column="22" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-cron.yml" timestamp="1522246593158">
         <mark key="[" line="21" column="37" />
@@ -97,11 +97,11 @@
         <mark key="[" line="10" column="30" />
         <mark key="." line="10" column="32" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1522835027855">
-        <mark key="[" line="20" column="69" />
-        <mark key="]" line="20" column="118" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1522845315906">
+        <mark key="[" line="13" column="71" />
+        <mark key="]" line="13" column="71" />
         <mark key="^" line="20" column="118" />
-        <mark key="." line="20" column="118" />
+        <mark key="." line="13" column="71" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/MySummary.kt" timestamp="1522154756147">
         <mark key="[" line="25" column="41" />
@@ -241,40 +241,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGF1dGggaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0X3JlcGxpZXMubWVzc2FnZShhY2Nlc3NfdG9rZW4sIGFjY2Vzc190b2tlbl9zZWNyZXQsIHR3ZWV0KSBmb3IgdHdlZXQgaW4gdHdlZXRzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>replieslist</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>$in</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6aW1hZ2U6aGVpZ2h0IiBjb250ZW50PSI5OTYiIC8+CiAgICAgICAgICAgICAgICAgICAgPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlOndpZHRoIiBjb250ZW50PSIxOTIwIiAvPgogICAgICAgICAgICAgICAgICAgIDxtZXRhIHByb3BlcnR5PSJvZzppbWFnZTp0eXBlIiBjb250ZW50PSJpbWFnZS9wbmciIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0X3JlcGxpZXMubWVzc2FnZShhY2Nlc3NfdG9rZW4sIGFjY2Vzc190b2tlbl9zZWNyZXQsIHR3ZWV0KSBmb3IgdHdlZXQgaW4gdHdlZXRzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIGF1dGggaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICBwcHJpbnQodHdlZXRzWzBdKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcHJpICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbXSwgMCwgMAoK</text>
+        <text encoding="base64">ICAgIGlmIGF1dGggaXMgTm9uZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHR3ZWV0cyA9IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHR3ZWV0c19jb3VudHMgPSAwCgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBbXSwgMCwgMAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHR3ZWV0cyA9IFtdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHR3ZWV0c19jb3VudHMgPSAwCg==</text>
+        <text encoding="base64">ICAgIHR3ZWV0c19jb3VudHMgPSAwCgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -286,10 +286,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6aW1hZ2U6dHlwZSIgY29udGVudD0iaW1hZ2UvanBlZyI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHR3ZWV0c19jb3VudHMgPSAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>219</text>
