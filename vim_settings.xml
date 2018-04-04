@@ -63,12 +63,12 @@
         <mark key="^" line="2" column="43" />
         <mark key="." line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1522835476837">
-        <mark key="'" line="350" column="16" />
-        <mark key="[" line="293" column="0" />
-        <mark key="]" line="293" column="0" />
-        <mark key="." line="293" column="0" />
-        <mark key="^" line="293" column="18" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1522836732833">
+        <mark key="'" line="301" column="35" />
+        <mark key="[" line="216" column="41" />
+        <mark key="]" line="217" column="27" />
+        <mark key="." line="217" column="27" />
+        <mark key="^" line="217" column="27" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-cron.yml" timestamp="1522246593158">
         <mark key="[" line="21" column="37" />
@@ -137,7 +137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
       <jump line="11" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
       <jump line="314" column="24" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" />
       <jump line="12" column="3" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
@@ -237,6 +236,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
       <jump line="384" column="67" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
       <jump line="350" column="16" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
+      <jump line="301" column="35" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -246,7 +246,7 @@
         <text>replieslist</text>
       </register>
       <register name="/" type="4">
-        <text>next</text>
+        <text>$in</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6aW1hZ2U6aGVpZ2h0IiBjb250ZW50PSI5OTYiIC8+CiAgICAgICAgICAgICAgICAgICAgPG1ldGEgcHJvcGVydHk9Im9nOmltYWdlOndpZHRoIiBjb250ZW50PSIxOTIwIiAvPgogICAgICAgICAgICAgICAgICAgIDxtZXRhIHByb3BlcnR5PSJvZzppbWFnZTp0eXBlIiBjb250ZW50PSJpbWFnZS9wbmciIC8+Cg==</text>
@@ -295,9 +295,9 @@
       </register>
     </registers>
     <search>
-      <last-search>next</last-search>
+      <last-search>$in</last-search>
       <last-offset />
-      <last-pattern>next</last-pattern>
+      <last-pattern>$in</last-pattern>
       <last-replace>env</last-replace>
       <last-substitute>os\.environ</last-substitute>
       <last-dir>1</last-dir>
@@ -311,6 +311,7 @@
         <entry>pd</entry>
         <entry>pprint</entry>
         <entry>next</entry>
+        <entry>$in</entry>
       </history-search>
       <history-cmd>
         <entry>161</entry>
