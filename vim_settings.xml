@@ -3,8 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1522835452998">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1522667282518">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1522863993596">
+        <mark key="[" line="23" column="86" />
+        <mark key="]" line="23" column="108" />
+        <mark key="^" line="23" column="108" />
+        <mark key="." line="23" column="108" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" timestamp="1522864159331">
+        <mark key="[" line="214" column="11" />
+        <mark key="]" line="214" column="11" />
+        <mark key="." line="214" column="11" />
+        <mark key="^" line="230" column="21" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" timestamp="1522861478869">
         <mark key="'" line="154" column="25" />
@@ -20,43 +35,16 @@
         <mark key="." line="65" column="46" />
         <mark key="^" line="65" column="46" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-deployment.yml" timestamp="1522852505016" />
-      <file name="$USER_HOME$/.virtualenvs/skorr-social-scrapers/lib/python3.6/site-packages/dramatiq/composition.py" timestamp="1522860360496" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1522864177459">
-        <mark key="'" line="339" column="0" />
-        <mark key="[" line="64" column="107" />
-        <mark key="]" line="64" column="106" />
-        <mark key="." line="64" column="106" />
-        <mark key="^" line="64" column="106" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserRouter.kt" timestamp="1522862797697">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="38" column="72" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-deployment.yml" timestamp="1522852270019">
         <mark key="[" line="35" column="39" />
         <mark key="]" line="35" column="42" />
         <mark key="." line="35" column="42" />
         <mark key="^" line="35" column="42" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/computation.py" timestamp="1522850870732" />
-      <file name="$USER_HOME$/.virtualenvs/skorr-social-scrapers/lib/python3.6/site-packages/tweepy/cursor.py" timestamp="1522860544742" />
-      <file name="/Dummy.txt" timestamp="1522835452998">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1522863993596">
-        <mark key="[" line="23" column="86" />
-        <mark key="]" line="23" column="108" />
-        <mark key="^" line="23" column="108" />
-        <mark key="." line="23" column="108" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" timestamp="1522864159331">
-        <mark key="[" line="214" column="11" />
-        <mark key="]" line="214" column="11" />
-        <mark key="." line="214" column="11" />
-        <mark key="^" line="230" column="21" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1522862737241" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserRouter.kt" timestamp="1522862797697">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="38" column="72" />
-        <mark key="." line="37" column="0" />
       </file>
     </filemarks>
     <jumps>
