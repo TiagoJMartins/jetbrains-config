@@ -16,12 +16,7 @@
         <mark key="." line="140" column="33" />
         <mark key="^" line="140" column="33" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1522923781575">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-        <mark key="^" line="150" column="29" />
-      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/skorr.py" timestamp="1522940333319" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/DashboardNavigator.js" timestamp="1522926813030" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ValuedFans/ValuedFans.js" timestamp="1522928166461">
         <mark key="[" line="23" column="110" />
@@ -48,6 +43,13 @@
         <mark key="." line="8" column="17" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/NavigationBar.js" timestamp="1522926660138" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1522940037228">
+        <mark key="'" line="388" column="4" />
+        <mark key="[" line="96" column="29" />
+        <mark key="]" line="96" column="29" />
+        <mark key="." line="96" column="29" />
+        <mark key="^" line="96" column="29" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ValuedFans/Fan.js" timestamp="1522929131454">
         <mark key="'" line="38" column="23" />
         <mark key="[" line="43" column="0" />
@@ -61,6 +63,13 @@
         <mark key="." line="35" column="42" />
         <mark key="^" line="35" column="42" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/computation.py" timestamp="1522940285241">
+        <mark key="[" line="80" column="103" />
+        <mark key="]" line="81" column="14" />
+        <mark key="^" line="81" column="14" />
+        <mark key="." line="81" column="14" />
+      </file>
+      <file name="$USER_HOME$/.virtualenvs/skorr-social-scrapers/lib/python3.6/site-packages/tweepy/cursor.py" timestamp="1522940131870" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Models/PushNotification.js" timestamp="1522937618035">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="11" column="27" />
@@ -71,23 +80,13 @@
         <mark key="." line="12" column="163" />
         <mark key="^" line="12" column="163" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1522922567634">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1522939817663">
         <mark key="[" line="20" column="69" />
         <mark key="]" line="20" column="118" />
         <mark key="^" line="20" column="118" />
         <mark key="." line="20" column="118" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" timestamp="1522923793909">
-        <mark key="[" line="250" column="0" />
-        <mark key="]" line="250" column="0" />
-        <mark key="." line="250" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/NotificationSagas.js" timestamp="1522937644760">
-        <mark key="[" line="61" column="13" />
-        <mark key="]" line="61" column="22" />
-        <mark key="." line="61" column="22" />
-        <mark key="^" line="61" column="22" />
-      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/NotificationsSlider/NotificationsSlider.js" timestamp="1522938861297" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/Stats/MyStatsScreen/MyStatsScreen.js" timestamp="1522927823996" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/TopComments/TopComments.js" timestamp="1522929048564">
         <mark key="'" line="54" column="42" />
@@ -107,10 +106,6 @@
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/FriendsList/FriendItem.js" timestamp="1522927318809" />
     </filemarks>
     <jumps>
-      <jump line="80" column="13" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
-      <jump line="317" column="17" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" />
-      <jump line="48" column="23" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/scrapers/twitter.py" />
-      <jump line="132" column="16" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
       <jump line="35" column="29" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
       <jump line="396" column="25" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
       <jump line="48" column="21" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
@@ -207,43 +202,47 @@
       <jump line="386" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/SkorrApi.js" />
       <jump line="53" column="42" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/TopComments/TopComments.js" />
       <jump line="38" column="23" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ValuedFans/Fan.js" />
+      <jump line="218" column="23" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
+      <jump line="139" column="8" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
+      <jump line="387" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PushNotificationType</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>PushNotificationType</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>ppri</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB0aXRsZTogc3RyaW5nCiAgbWVzc2FnZTogc3RyaW5nCiAgdHlwZTogUHVzaE5vdGlmaWNhdGlvblR5cGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZTogCg==</text>
+        <text encoding="base64">ZnJvbSBodG1sNWxpYi50cmVld2Fsa2VycyBpbXBvcnQgcHByaW50Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5vdGlmaWNhdGlvbnMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgbWVzc2FnZTogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2coaXRlbSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5vdGlmaWNhdGlvbnMgPSBbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2coaXRlbSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ZnJvbQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2coY29tbWVudCkK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBnZXRNZSA9ICgpID0+IGFwaS5nZXQoYHVzZXJzL21lYCkKCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2coY29tbWVudCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -255,19 +254,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zdCBnZXRNZSA9ICgpID0+IGFwaS5nZXQoYHVzZXJzL21lYCkKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>243</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>ppri</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>ppri</last-pattern>
       <last-replace>env</last-replace>
       <last-substitute>os\.environ</last-substitute>
       <last-dir>1</last-dir>
@@ -284,6 +283,7 @@
         <entry>post['meta']</entry>
         <entry>post</entry>
         <entry>console</entry>
+        <entry>ppri</entry>
       </history-search>
       <history-cmd>
         <entry>161</entry>
