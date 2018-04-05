@@ -42,6 +42,11 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/NotificationsSlider/NotificationsSlider.styles.js" timestamp="1522937532867">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/NavigationBar.js" timestamp="1522926660138" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ValuedFans/Fan.js" timestamp="1522929131454">
         <mark key="'" line="38" column="23" />
@@ -55,6 +60,10 @@
         <mark key="]" line="35" column="42" />
         <mark key="." line="35" column="42" />
         <mark key="^" line="35" column="42" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Models/PushNotification.js" timestamp="1522937618035">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="27" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/SkorrApi.js" timestamp="1522928737723">
         <mark key="[" line="11" column="16" />
@@ -73,6 +82,12 @@
         <mark key="]" line="250" column="0" />
         <mark key="." line="250" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/NotificationSagas.js" timestamp="1522937644760">
+        <mark key="[" line="61" column="13" />
+        <mark key="]" line="61" column="22" />
+        <mark key="." line="61" column="22" />
+        <mark key="^" line="61" column="22" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/Stats/MyStatsScreen/MyStatsScreen.js" timestamp="1522927823996" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/TopComments/TopComments.js" timestamp="1522929048564">
         <mark key="'" line="54" column="42" />
@@ -82,6 +97,7 @@
         <mark key="^" line="54" column="60" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/CommentsOverview/CommentsOverview.js" timestamp="1522928387333" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/DashboardScreen/DashboardScreen.js" timestamp="1522937322840" />
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserRouter.kt" timestamp="1522862797697">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="38" column="72" />
@@ -193,41 +209,41 @@
       <jump line="38" column="23" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ValuedFans/Fan.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2coaXRlbSkK</text>
+      <register name="&quot;" type="4">
+        <text>PushNotificationType</text>
       </register>
       <register name="-" type="4">
-        <text>username</text>
+        <text>PushNotificationType</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtpdGVtLm5hbWUgfHwgaXRlbS51c2VybmFtZX0K</text>
+        <text encoding="base64">ICB0aXRsZTogc3RyaW5nCiAgbWVzc2FnZTogc3RyaW5nCiAgdHlwZTogUHVzaE5vdGlmaWNhdGlvblR5cGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2coaXRlbSkK</text>
+        <text encoding="base64">ICAgICAgbWVzc2FnZTogCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5vdGlmaWNhdGlvbnMgPSBbXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2coaXRlbSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2coY29tbWVudCkK</text>
+        <text encoding="base64">ZnJvbQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBnZXRNZSA9ICgpID0+IGFwaS5nZXQoYHVzZXJzL21lYCkKCg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2coY29tbWVudCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAvLyBjb25zdCBnZXRNZSA9ICgpID0+IGFwaS5nZXQoYHVzZXJzL21lYCkKCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -239,10 +255,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiY3VycmVudFJhbmsiOiAyCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>243</text>
