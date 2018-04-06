@@ -48,8 +48,12 @@
         <mark key="]" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1523004329962">
-        <mark key="'" line="389" column="4" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1523007217804">
+        <mark key="'" line="386" column="4" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ValuedFans/Fan.js" timestamp="1522929131454">
         <mark key="'" line="38" column="23" />
@@ -179,8 +183,8 @@
       <jump line="387" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICIiIgogICAgICAgIEluaXRpYWxpemUgYXV0aCBhbmQgYXBpIG9iamVjdHMuCiAgICAiIiIK</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -192,28 +196,28 @@
         <text encoding="base64">ICB0aXRsZTogc3RyaW5nCiAgbWVzc2FnZTogc3RyaW5nCiAgdHlwZTogUHVzaE5vdGlmaWNhdGlvblR5cGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBodG1sNWxpYi50cmVld2Fsa2VycyBpbXBvcnQgcHByaW50Cg==</text>
+        <text encoding="base64">ICAgICIiIgogICAgICAgIEluaXRpYWxpemUgYXV0aCBhbmQgYXBpIG9iamVjdHMuCiAgICAiIiIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZTogCg==</text>
+        <text encoding="base64">ICAgICAgICBUaGlzIHdheSB3ZSBvbmx5IGluaXRpYWxpemUgb25lIHRpbWUgYW5kIHRoZXJlJ3Mgbm8gbmVlZCB0byBwYXNzIGl0IGFsb25nIHRoZSBhc3luYyBmdW5jdGlvbnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5vdGlmaWNhdGlvbnMgPSBbXQo=</text>
+        <text encoding="base64">ICAgIGdsb2JhbCBhdXRoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2coaXRlbSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbQo=</text>
+        <text encoding="base64">YXV0aCA9IE5vbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgIGlmIGF1dGggaXMgTm9uZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudHJvbi5sb2coY29tbWVudCkK</text>
+        <text encoding="base64">ZnJvbSBodG1sNWxpYi50cmVld2Fsa2VycyBpbXBvcnQgcHByaW50Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -225,10 +229,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBnZXRNZSA9ICgpID0+IGFwaS5nZXQoYHVzZXJzL21lYCkKCg==</text>
+        <text encoding="base64">ICAgICAgbWVzc2FnZTogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG5vdGlmaWNhdGlvbnMgPSBbXQo=</text>
       </register>
       <register name=":" type="4">
         <text>243</text>
