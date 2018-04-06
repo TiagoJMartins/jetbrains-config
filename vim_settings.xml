@@ -55,12 +55,12 @@
         <mark key="^" line="7" column="13" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1523008916338">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1523026271498">
         <mark key="'" line="386" column="4" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="23" column="0" />
+        <mark key="[" line="86" column="32" />
+        <mark key="]" line="86" column="46" />
+        <mark key="." line="86" column="46" />
+        <mark key="^" line="86" column="46" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ValuedFans/Fan.js" timestamp="1522929131454">
         <mark key="'" line="38" column="23" />
@@ -190,11 +190,11 @@
       <jump line="17" column="26" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+      <register name="&quot;" type="4">
+        <text>friends_count</text>
       </register>
       <register name="-" type="4">
-        <text>posts_url</text>
+        <text>friends_count</text>
       </register>
       <register name="/" type="4">
         <text>req</text>
