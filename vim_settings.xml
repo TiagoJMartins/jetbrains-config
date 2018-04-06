@@ -48,6 +48,13 @@
         <mark key="]" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" timestamp="1523022759432">
+        <mark key="'" line="17" column="26" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="13" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1523008916338">
         <mark key="'" line="386" column="4" />
         <mark key="[" line="26" column="0" />
@@ -81,24 +88,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="29" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
-      <jump line="396" column="25" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
-      <jump line="48" column="21" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
-      <jump line="391" column="37" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
-      <jump line="393" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
-      <jump line="31" column="55" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cron/scheduled-scraping.py" />
-      <jump line="1" column="12" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cron/scheduled-scraping.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-deployment.yml" />
-      <jump line="88" column="6" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-deployment.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-deployment.yml" />
-      <jump line="86" column="6" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-deployment.yml" />
-      <jump line="34" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" />
-      <jump line="43" column="35" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
-      <jump line="114" column="56" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
       <jump line="22" column="70" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" />
       <jump line="50" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
       <jump line="95" column="53" filename="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" />
@@ -181,43 +170,61 @@
       <jump line="139" column="8" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
       <jump line="5" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
       <jump line="387" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
+      <jump line="263" column="33" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="18" column="19" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="26" column="31" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="42" column="17" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="45" column="15" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="71" column="12" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="98" column="12" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="134" column="12" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="272" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="273" column="12" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="6" column="7" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="43" column="35" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="44" column="15" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="70" column="12" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="97" column="12" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="133" column="12" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="41" column="25" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="17" column="26" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgICAgIEluaXRpYWxpemUgYXV0aCBhbmQgYXBpIG9iamVjdHMuCiAgICAiIiIK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>posts_url</text>
       </register>
       <register name="/" type="4">
-        <text>ppri</text>
+        <text>req</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0aXRsZTogc3RyaW5nCiAgbWVzc2FnZTogc3RyaW5nCiAgdHlwZTogUHVzaE5vdGlmaWNhdGlvblR5cGUK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoZid7Y291bnRlci5uZXh0KCl9IHwge25leHRfdXJsfScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIiIgogICAgICAgIEluaXRpYWxpemUgYXV0aCBhbmQgYXBpIG9iamVjdHMuCiAgICAiIiIK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUaGlzIHdheSB3ZSBvbmx5IGluaXRpYWxpemUgb25lIHRpbWUgYW5kIHRoZXJlJ3Mgbm8gbmVlZCB0byBwYXNzIGl0IGFsb25nIHRoZSBhc3luYyBmdW5jdGlvbnMK</text>
+        <text encoding="base64">bG9nLnNldExldmVsKGxldmVsPWxvZ2dpbmcuREVCVUcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdsb2JhbCBhdXRoCg==</text>
+        <text encoding="base64">CmNvdW50ZXIgPSBpdGVydG9vbHMuY291bnQoKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXV0aCA9IE5vbmUK</text>
+        <text encoding="base64">ICAgIGxvZy5kZWJ1ZyhmJ3tjb3VudGVyLm5leHQoKX0gfCB7bmV4dF91cmx9JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGF1dGggaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgIGNvdW50ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBodG1sNWxpYi50cmVld2Fsa2VycyBpbXBvcnQgcHByaW50Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -229,19 +236,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbWVzc2FnZTogCg==</text>
+        <text encoding="base64">CmxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCdSRVFVRVNUUycpCmxvZ2dlci5zZXRMZXZlbChsZXZlbD1sb2dnaW5nLkRFQlVHKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5vdGlmaWNhdGlvbnMgPSBbXQo=</text>
+        <text encoding="base64">bG9nLnNldExldmVsKGxldmVsPWxvZ2dpbmcuREVCVUcpCgo=</text>
       </register>
       <register name=":" type="4">
         <text>243</text>
       </register>
     </registers>
     <search>
-      <last-search>ppri</last-search>
+      <last-search>req</last-search>
       <last-offset />
-      <last-pattern>ppri</last-pattern>
+      <last-pattern>req</last-pattern>
       <last-replace>env</last-replace>
       <last-substitute>os\.environ</last-substitute>
       <last-dir>1</last-dir>
@@ -259,6 +266,8 @@
         <entry>post</entry>
         <entry>console</entry>
         <entry>ppri</entry>
+        <entry>requests</entry>
+        <entry>req</entry>
       </history-search>
       <history-cmd>
         <entry>161</entry>
