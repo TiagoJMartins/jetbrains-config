@@ -3,10 +3,11 @@
     <extensionMap>
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="*.jsx?" type="JSX Harmony" />
+      <mapping pattern="LinkedInConstants" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="jceks" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping pattern="networking" type="Python" />
       <mapping ext="plist" type="XML" />
     </extensionMap>
