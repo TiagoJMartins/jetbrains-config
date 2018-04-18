@@ -62,12 +62,12 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" timestamp="1523280080163">
-        <mark key="'" line="16" column="41" />
-        <mark key="[" line="97" column="43" />
-        <mark key="]" line="97" column="51" />
-        <mark key="." line="97" column="51" />
-        <mark key="^" line="97" column="51" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" timestamp="1524067768579">
+        <mark key="'" line="28" column="48" />
+        <mark key="[" line="114" column="39" />
+        <mark key="]" line="114" column="43" />
+        <mark key="." line="114" column="43" />
+        <mark key="^" line="114" column="43" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/NotificationsSlider/NotificationsSlider.styles.js" timestamp="1522937532867">
         <mark key="[" line="8" column="16" />
@@ -96,6 +96,12 @@
         <mark key="^" line="80" column="14" />
         <mark key="." line="80" column="14" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/youtube/YouTubeService.kt" timestamp="1524067719940">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="12" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="12" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/SkorrApi.js" timestamp="1522928737723">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="12" column="163" />
@@ -104,6 +110,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1524062824771">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/youtube/YouTubeConstants.kt" timestamp="1524067824208">
+        <mark key="[" line="3" column="72" />
+        <mark key="]" line="3" column="72" />
+        <mark key="^" line="3" column="72" />
+        <mark key="." line="3" column="72" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1524064722719">
         <mark key="[" line="13" column="71" />
@@ -141,10 +153,11 @@
         <mark key="]" line="428" column="0" />
         <mark key="." line="428" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialToken.kt" timestamp="1523031921336">
-        <mark key="[" line="30" column="36" />
-        <mark key="]" line="30" column="37" />
-        <mark key="." line="30" column="37" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialToken.kt" timestamp="1524066857361">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="31" column="34" />
+        <mark key="." line="31" column="34" />
+        <mark key="^" line="31" column="34" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserRouter.kt" timestamp="1522862797697">
         <mark key="[" line="37" column="0" />
@@ -164,16 +177,15 @@
         <mark key="^" line="36" column="43" />
         <mark key="." line="36" column="43" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1523279759034">
-        <mark key="'" line="127" column="34" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="133" column="134" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1524067160925">
+        <mark key="'" line="129" column="34" />
+        <mark key="[" line="140" column="136" />
+        <mark key="]" line="140" column="146" />
+        <mark key="^" line="140" column="146" />
+        <mark key="." line="140" column="146" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="17" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/skorr.py" />
       <jump line="163" column="72" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/skorr.py" />
       <jump line="181" column="30" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/skorr.py" />
       <jump line="44" column="32" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Navigation/Navigators/PrimaryNavigator.js" />
@@ -273,43 +285,44 @@
       <jump line="343" column="47" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" />
       <jump line="373" column="47" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
       <jump line="340" column="28" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" />
+      <jump line="26" column="48" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1lZGlhX2luX3RpbWVmcmFtZSwgZXhpc3RpbmdfbWVkaWEsIG5ld19tZWRpYSA9IGZiX2dldF9wb3N0c19pbl90aW1lZnJhbWUoYWNjZXNzX3Rva2VuLCBzaW5jZV9kYXRlLCB1c2VyX2lkPXVzZXJbJ19pZCddKQo=</text>
+      <register name="&quot;" type="4">
+        <text>userinfo</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>userinfo</text>
       </register>
       <register name="/" type="4">
         <text>DRAMATIQ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvciBwb3N0IGluIG1lZGlhX2luX3RpbWVmcmFtZToKICAgICAgICBwb3N0X2ZyZXNobmVzcy5xdWV1ZV9yZWZyZXNoKChhY2Nlc3NfdG9rZW4sKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFycm93LmdldChwb3N0Wydwb3N0X2luc3RhbmNlJ10uZGF0ZSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb3N0WydtZXRhJ11bJ2lkJ10sIG5ldHdvcmssIHVzZXJbJ19pZCddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9maWxlSWQgPSBvLmdldCgiaWQiKS5hc1RleHQoKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1lZGlhX2luX3RpbWVmcmFtZSwgZXhpc3RpbmdfbWVkaWEsIG5ld19tZWRpYSA9IGZiX2dldF9wb3N0c19pbl90aW1lZnJhbWUoYWNjZXNzX3Rva2VuLCBzaW5jZV9kYXRlLCB1c2VyX2lkPXVzZXJbJ19pZCddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9maWxlSWQgPSAiIiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzdGFnaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBsb2cuaW5mbyhmJ01lZGlhIGNvdW50OiB7bGVuKG1lZGlhX2luX3RpbWVmcmFtZSl9JykKPT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9ic2VydmFibGUuanVzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9ic2VydmFibGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBzdGFnaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBvID0gb2JqZWN0IDogIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbCBZT1VUVUJFX0JBU0VfVVJMID0gImh0dHBzOi8vd3d3Lmdvb2dsZWFwaXMuY29tL3lvdXR1YmUvIgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -321,7 +334,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgIG1lZGlhX2luX3RpbWVmcmFtZSwgZXhpc3RpbmdfbWVkaWEsIG5ld19tZWRpYSA9IGZiX2dldF9wb3N0c19pbl90aW1lZnJhbWUoYWNjZXNzX3Rva2VuLCBzaW5jZV9kYXRlLCB1c2VyX2lkPXVzZXJbJ19pZCddKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Pj4+Pj4+PiBzdGFnaW5nCg==</text>
