@@ -58,10 +58,11 @@
         <mark key="^" line="75" column="70" />
         <mark key="." line="75" column="70" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/GoogleSagas.js" timestamp="1524150209555">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/GoogleSagas.js" timestamp="1524152313201">
+        <mark key="[" line="70" column="20" />
+        <mark key="]" line="70" column="20" />
+        <mark key="." line="70" column="20" />
+        <mark key="^" line="53" column="11" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" timestamp="1524129830819">
         <mark key="[" line="428" column="0" />
@@ -180,10 +181,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>L</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>DRAMATIQ</text>
@@ -192,28 +193,28 @@
         <text encoding="base64">ICAgICAgICBmb3JjZSA9IHRydWUKICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFzZCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF1dGhUeXBlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWxfcGFnZV9pbmZvID0gcGxheWxpc3RfaW5mb1syXQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ID0ga290bGluLnJ1biB7CgogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC5jYXRjaCgoZXJyKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCdXUk9ORyBTSUdOSU4nLCBlcnIpCiAgICAgIHJldHVybiBwdXQoQXV0aGVudGljYXRpb25BY3Rpb25zLmxvZ2luR29vZ2xlRmFpbHVyZSh7CiAgICAgICAgc3RhdHVzOiA1MDAsCiAgICAgICAgbWVzc2FnZTogJ1VzZXIgY2FuY2VsbGVkIGxvZ2luIGZsb3cnCiAgICAgIH0pKQogICAgfSkKICAgIC5kb25lKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcHJpbnQoJ25vdGlmaWNhdGlvbiBhbHJlYWR5IHNldCcpCg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC50aGVuKCh1c2VyKSA9PiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgIC5zaWduSW4oKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -225,10 +226,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
