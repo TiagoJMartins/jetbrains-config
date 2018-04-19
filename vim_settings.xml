@@ -132,11 +132,11 @@
         <mark key="." line="367" column="0" />
         <mark key="^" line="355" column="23" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cron/scheduled-scraping.py" timestamp="1524130088306">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="79" column="6" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cron/scheduled-scraping.py" timestamp="1524136550786">
+        <mark key="[" line="75" column="71" />
+        <mark key="]" line="75" column="70" />
+        <mark key="^" line="75" column="70" />
+        <mark key="." line="75" column="70" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/twitter/TwitterController.kt" timestamp="1523279132596">
         <mark key="[" line="19" column="36" />
@@ -156,9 +156,9 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" timestamp="1524129830819">
-        <mark key="[" line="429" column="0" />
-        <mark key="]" line="429" column="0" />
-        <mark key="." line="429" column="0" />
+        <mark key="[" line="428" column="0" />
+        <mark key="]" line="428" column="0" />
+        <mark key="." line="428" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialToken.kt" timestamp="1524066857361">
         <mark key="[" line="31" column="33" />
@@ -295,17 +295,17 @@
       <jump line="26" column="48" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>lk_scrape_profile</text>
       </register>
       <register name="-" type="4">
-        <text>userinfo</text>
+        <text>lk_scrape_profile</text>
       </register>
       <register name="/" type="4">
         <text>DRAMATIQ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9maWxlSWQgPSBvLmdldCgiaWQiKS5hc1RleHQoKSwK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHRva2VuX3R5cGUgPT0gU29jaWFsTmV0d29yay5MSU5LRURJTi5uYW1lOgogICAgICAgICAgICBtZXNzYWdlID0gbGlua2VkaW4ubGtfc2NyYXBlX3Byb2ZpbGUubWVzc2FnZSh0b2tlblsndG9rZW4nXSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -347,7 +347,7 @@
         <text encoding="base64">ICAgIG1lZGlhX2luX3RpbWVmcmFtZSwgZXhpc3RpbmdfbWVkaWEsIG5ld19tZWRpYSA9IGZiX2dldF9wb3N0c19pbl90aW1lZnJhbWUoYWNjZXNzX3Rva2VuLCBzaW5jZV9kYXRlLCB1c2VyX2lkPXVzZXJbJ19pZCddKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>355</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -396,6 +396,7 @@
         <entry>62</entry>
         <entry>477</entry>
         <entry>355</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
