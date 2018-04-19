@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/linkedin/LinkedInService.kt" timestamp="1523266986048">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1524055352688">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
@@ -53,6 +58,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/NotificationsSlider/NotificationsSlider.styles.js" timestamp="1522937532867">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
       </file>
       <file name="$USER_HOME$/.virtualenvs/skorr-social-scrapers/lib/python3.6/site-packages/dramatiq/composition.py" timestamp="1524130000575" />
       <file name="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-deployment.yml" timestamp="1522852270019">
@@ -116,12 +126,21 @@
         <mark key="." line="19" column="35" />
         <mark key="^" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/GoogleSagas.js" timestamp="1524142355365" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/GoogleSagas.js" timestamp="1524149324889">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/linkedin/LinkedInConstants.kt" timestamp="1523279838625">
         <mark key="[" line="3" column="47" />
         <mark key="]" line="3" column="54" />
         <mark key="." line="3" column="54" />
         <mark key="^" line="3" column="54" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" timestamp="1524057386607">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" timestamp="1524129830819">
         <mark key="[" line="428" column="0" />
@@ -139,6 +158,11 @@
         <mark key="]" line="20" column="24" />
         <mark key="." line="20" column="24" />
         <mark key="^" line="20" column="24" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserRouter.kt" timestamp="1522862797697">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="38" column="72" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/requirements.txt" timestamp="1524138296424" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/TermsConditionsScreen/TermsConditionsScreen.js" timestamp="1523284518062">
@@ -251,11 +275,11 @@
       <jump line="26" column="48" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFzZCkK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>DRAMATIQ</text>
@@ -264,28 +288,28 @@
         <text encoding="base64">ICAgICAgICBlbGlmIHRva2VuX3R5cGUgPT0gU29jaWFsTmV0d29yay5MSU5LRURJTi5uYW1lOgogICAgICAgICAgICBtZXNzYWdlID0gbGlua2VkaW4ubGtfc2NyYXBlX3Byb2ZpbGUubWVzc2FnZSh0b2tlblsndG9rZW4nXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWxfcGFnZV9pbmZvID0gcGxheWxpc3RfaW5mb1syXQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFzZCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNoYW5uZWxfcGFnZV9pbmZvID0gcGxheWxpc3RfaW5mb1syXQo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ID0ga290bGluLnJ1biB7CgogICAgfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcHJpbnQoJ25vdGlmaWNhdGlvbiBhbHJlYWR5IHNldCcpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgcHJpbnQoJ25vdGlmaWNhdGlvbiBhbHJlYWR5IHNldCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -297,10 +321,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
