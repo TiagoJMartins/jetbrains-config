@@ -3,19 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" timestamp="1524472151616">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="55" column="43" />
-        <mark key="]" line="55" column="43" />
-        <mark key="^" line="55" column="43" />
-        <mark key="." line="55" column="43" />
+      <file name="/a.dummy" timestamp="1524492619147">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/youtube.py" timestamp="1524481581995">
-        <mark key="'" line="38" column="9" />
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="46" />
-        <mark key="." line="38" column="17" />
-        <mark key="^" line="38" column="17" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/generate_user_snapshot.py" timestamp="1524232601818">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/post_freshness.py" timestamp="1524220732909">
         <mark key="[" line="34" column="30" />
@@ -29,17 +23,41 @@
         <mark key="." line="9" column="34" />
         <mark key="^" line="9" column="34" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/V1Router.kt" timestamp="1524495299608">
+        <mark key="[" line="15" column="54" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="37" />
+        <mark key="^" line="16" column="37" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" timestamp="1524491068189">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Config/AppConfig.js" timestamp="1524150329155">
         <mark key="[" line="26" column="1" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/TokenInformation.kt" timestamp="1524476323705">
-        <mark key="[" line="17" column="38" />
-        <mark key="]" line="17" column="38" />
-        <mark key="." line="17" column="38" />
-        <mark key="^" line="17" column="38" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/AppEnv.kt" timestamp="1524493143256" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/TokenInformation.kt" timestamp="1524494580650">
+        <mark key="[" line="19" column="44" />
+        <mark key="]" line="19" column="43" />
+        <mark key="." line="19" column="43" />
+        <mark key="^" line="19" column="43" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/youtube/YouTubeService.kt" timestamp="1524490801140" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/Configs.kt" timestamp="1524492084952">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/youtube/YouTubeConstants.kt" timestamp="1524490816771">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1524479010241">
         <mark key="[" line="24" column="63" />
@@ -47,18 +65,11 @@
         <mark key="." line="24" column="86" />
         <mark key="^" line="24" column="86" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1524481316089">
-        <mark key="[" line="34" column="91" />
-        <mark key="]" line="34" column="90" />
-        <mark key="^" line="34" column="90" />
-        <mark key="." line="34" column="90" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1524490118033">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="15" column="151" />
-        <mark key="]" line="15" column="150" />
-        <mark key="." line="15" column="150" />
-        <mark key="^" line="15" column="150" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/auth/AuthRouter.java" timestamp="1524492609680">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cron/scheduled-scraping.py" timestamp="1524136550786">
         <mark key="[" line="75" column="71" />
@@ -66,7 +77,101 @@
         <mark key="^" line="75" column="70" />
         <mark key="." line="75" column="70" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/user_snapshot_generator.py" timestamp="1524475680617" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/wercker.yml" timestamp="1524243655865">
+        <mark key="[" line="50" column="83" />
+        <mark key="]" line="50" column="83" />
+        <mark key="." line="50" column="83" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/exceptions/InvalidAccessToken.py" timestamp="1524241270345">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/GoogleSagas.js" timestamp="1524494195394">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/notification/NotificationRouter.kt" timestamp="1524494840412" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/auth/AuthRouter.kt" timestamp="1524494875213">
+        <mark key="'" line="14" column="15" />
+        <mark key="[" line="10" column="67" />
+        <mark key="]" line="10" column="66" />
+        <mark key="." line="10" column="66" />
+        <mark key="^" line="10" column="66" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/google/GoogleConstants.kt" timestamp="1524495690621">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="57" />
+        <mark key="^" line="4" column="57" />
+        <mark key="." line="4" column="57" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" timestamp="1524139893907">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="24" />
+        <mark key="." line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialToken.kt" timestamp="1524494525366">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="31" />
+        <mark key="^" line="24" column="31" />
+        <mark key="." line="24" column="31" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookConstants.kt" timestamp="1524491868295">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/instagram/InstagramConstants.kt" timestamp="1524491885696">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" timestamp="1524472151616">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="55" column="43" />
+        <mark key="]" line="55" column="43" />
+        <mark key="^" line="55" column="43" />
+        <mark key="." line="55" column="43" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/youtube.py" timestamp="1524494206076">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" timestamp="1524490873974">
+        <mark key="'" line="28" column="41" />
+        <mark key="[" line="113" column="49" />
+        <mark key="]" line="113" column="48" />
+        <mark key="." line="113" column="48" />
+        <mark key="^" line="113" column="48" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/notification/NotificationController.kt" timestamp="1524494613526" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/facebook/FacebookController.kt" timestamp="1524492453651" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/google/GoogleService.kt" timestamp="1524495708704">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="16" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1524471581070">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1524481316089">
+        <mark key="[" line="34" column="91" />
+        <mark key="]" line="34" column="90" />
+        <mark key="^" line="34" column="90" />
+        <mark key="." line="34" column="90" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1524494174149">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="1" column="151" />
+        <mark key="]" line="1" column="150" />
+        <mark key="." line="1" column="150" />
+        <mark key="^" line="1" column="150" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1524476336228">
         <mark key="[" line="184" column="57" />
         <mark key="]" line="184" column="56" />
@@ -84,42 +189,27 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/exceptions/InvalidAccessToken.py" timestamp="1524241270345">
-        <mark key="[" line="2" column="36" />
-        <mark key="]" line="2" column="37" />
-        <mark key="^" line="2" column="37" />
-        <mark key="." line="2" column="37" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/auth/AuthController.kt" timestamp="1524495302756">
+        <mark key="'" line="15" column="42" />
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="33" column="61" />
+        <mark key="." line="33" column="61" />
+        <mark key="^" line="33" column="61" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/GoogleSagas.js" timestamp="1524490032710">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/google/GoogleController.kt" timestamp="1524493156575">
+        <mark key="[" line="5" column="37" />
+        <mark key="]" line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+        <mark key="." line="5" column="36" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/RawSocialData.kt" timestamp="1524139893907">
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="20" column="24" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/SocialToken.kt" timestamp="1524476125948">
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="24" column="31" />
-        <mark key="^" line="24" column="31" />
-        <mark key="." line="24" column="31" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1524495264696">
+        <mark key="[" line="174" column="76" />
+        <mark key="]" line="174" column="86" />
+        <mark key="." line="174" column="86" />
+        <mark key="^" line="174" column="86" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="35" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
-      <jump line="61" column="46" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/HttpEnv.kt" />
-      <jump line="19" column="89" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" />
-      <jump line="151" column="25" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
-      <jump line="298" column="15" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
-      <jump line="283" column="6" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
-      <jump line="321" column="23" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
-      <jump line="359" column="9" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
-      <jump line="393" column="59" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
-      <jump line="126" column="38" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
-      <jump line="339" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
       <jump line="386" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/SkorrApi.js" />
       <jump line="53" column="42" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/TopComments/TopComments.js" />
       <jump line="38" column="23" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Components/ValuedFans/Fan.js" />
@@ -209,43 +299,54 @@
       <jump line="0" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" />
       <jump line="2" column="3" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" />
       <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" />
+      <jump line="28" column="41" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" />
+      <jump line="12" column="13" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/Configs.kt" />
+      <jump line="77" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/Configs.kt" />
+      <jump line="15" column="14" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/Configs.kt" />
+      <jump line="82" column="36" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/Configs.kt" />
+      <jump line="79" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/Configs.kt" />
+      <jump line="29" column="8" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/Configs.kt" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/Configs.kt" />
+      <jump line="73" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/Configs.kt" />
+      <jump line="4" column="15" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/auth/AuthRouter.kt" />
+      <jump line="8" column="42" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/auth/AuthController.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>04-23 11:50:32.515 25167 25303 I ReactNativeJS:</text>
+        <text>https://skorr-3a958.firebaseapp.com/__/auth/handler</text>
       </register>
       <register name="-" type="4">
-        <text>04-23 11:50:32.515 25167 25303 I ReactNativeJS:</text>
+        <text>https://skorr-3a958.firebaseapp.com/__/auth/handler</text>
       </register>
       <register name="/" type="4">
         <text>pprin</text>
       </register>
-      <register name="0" type="4">
-        <text>https://www.googleapis.com/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmluZDxBdXRoUm91dGVyPigpIHdpdGggcHJvdmlkZXIgeyBBdXRoUm91dGVyKGluc3RhbmNlKCksIGluc3RhbmNlKCkpIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvLyBHZXQgcmVmcmVzaCB0b2tlbgo=</text>
+        <text encoding="base64">ICAgIEBGb3JtVXJsRW5jb2RlZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgY29uc3QgZXhjaGFuZ2VDb2RlID0gY29kZSA9PiB7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKICBjb25zdCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVzZXIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -257,10 +358,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBodG1sNWxpYi50cmVld2Fsa2VycyBpbXBvcnQgcHByaW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9ic2VydmFibGUuanVzdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>156</text>
