@@ -25,12 +25,6 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/youtube.py" timestamp="1524585613198">
-        <mark key="'" line="95" column="0" />
-        <mark key="[" line="354" column="0" />
-        <mark key="]" line="354" column="0" />
-        <mark key="." line="354" column="0" />
-      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/ApplicationRouter.kt" timestamp="1524578234157">
         <mark key="[" line="48" column="4" />
         <mark key="]" line="48" column="3" />
@@ -87,6 +81,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" timestamp="1524821226372">
+        <mark key="[" line="68" column="19" />
+        <mark key="]" line="68" column="19" />
+        <mark key="." line="68" column="19" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/MySummary.kt" timestamp="1524570761216">
         <mark key="[" line="30" column="44" />
         <mark key="]" line="30" column="56" />
@@ -110,6 +109,7 @@
         <mark key="^" line="0" column="379" />
         <mark key="." line="0" column="379" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1524821059252" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/GoogleApi.js" timestamp="1524482165968">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -131,18 +131,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/vm/files/cloud-init.yml" timestamp="1524758767007">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/vm/files/cloud-init.yml" timestamp="1524760153124">
         <mark key="'" line="19" column="47" />
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="10" />
-        <mark key="." line="8" column="10" />
-        <mark key="^" line="8" column="10" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/side_effects.py" timestamp="1524575743153">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="33" />
-        <mark key="." line="8" column="33" />
-        <mark key="^" line="8" column="33" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="52" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" timestamp="1524750250578">
         <mark key="'" line="0" column="26" />
@@ -156,11 +150,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="4" column="57" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" timestamp="1524581213902">
-        <mark key="[" line="392" column="0" />
-        <mark key="]" line="392" column="0" />
-        <mark key="." line="392" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/cloud-init.yml" timestamp="1524741919025">
         <mark key="'" line="26" column="0" />
@@ -279,10 +268,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>${daazurerm_virtual_machine.vm}</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>${daazurerm_virtual_machine.vm}</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
@@ -291,28 +280,28 @@
         <text encoding="base64">CiAgdGFncyB7CiAgICBlbnZpcm9ubWVudCA9ICIke3Zhci5lbnZpcm9ubWVudH0iCiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWx1ZSA9ICIiCg==</text>
+        <text encoding="base64">ICAtIHNjcCBkaWNlcmNpYXNkaiBjYXQgX2wzIGFzMjMgPj4gZG9ja2VyLWNvbXBvc2UtdSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWx1ZSA9ICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcm92aXNpb25lciAicmVtb3RlLWV4ZWMiIHsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlubGluZSA9IFsKCiAgICBdCg==</text>
+        <text encoding="base64">ICBwcm92aXNpb25lciAicmVtb3RlLWV4ZWMiIHsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IwojcGFja2FnZV91cGRhdGU6IHRydWUKI3BhY2thZ2VzOgojICAtIGRvY2tlci1jZQo=</text>
+        <text encoding="base64">ICAgIGlubGluZSA9IFsKCiAgICBdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIAo=</text>
+        <text encoding="base64">IwojcGFja2FnZV91cGRhdGU6IHRydWUKI3BhY2thZ2VzOgojICAtIGRvY2tlci1jZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAtIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -324,10 +313,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgLSBkb2NrZXItY2UKIwo=</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2dyb3VwczoKIyAgLSBkb2NrZXIKIwojdXNlcnM6CiMgIC0gbmFtZTogY2FwaXRhbGlzZQojICAgIGdyb3VwczogZG9ja2VyCg==</text>
+        <text encoding="base64">IyAgLSBkb2NrZXItY2UKIwo=</text>
       </register>
       <register name=":" type="4">
         <text>13</text>
