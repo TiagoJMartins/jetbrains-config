@@ -15,11 +15,11 @@
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/UserRedux.js" timestamp="1524823258818" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Classes/AuthTypes.js" timestamp="1524823405845" />
-      <file name="$USER_HOME$/www/work/capitalise/dbs/outputs.tf" timestamp="1524755834838">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/outputs.tf" timestamp="1524832313283">
         <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="27" />
-        <mark key="^" line="1" column="27" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/generate_user_snapshot.py" timestamp="1524575641266">
         <mark key="[" line="17" column="22" />
@@ -39,6 +39,12 @@
         <mark key="^" line="48" column="3" />
         <mark key="." line="48" column="3" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/vm/files/docker-compose.yml" timestamp="1524832965457">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="25" column="18" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/generate_ranking_list.py" timestamp="1524566673149">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -49,12 +55,12 @@
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/vm/vm.tf" timestamp="1524758165000">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/vm/vm.tf" timestamp="1524834529351">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="139" column="11" />
-        <mark key="]" line="139" column="51" />
-        <mark key="." line="139" column="51" />
-        <mark key="^" line="139" column="51" />
+        <mark key="[" line="61" column="34" />
+        <mark key="]" line="61" column="34" />
+        <mark key="." line="61" column="34" />
+        <mark key="^" line="61" column="34" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/files/cloud-init.yml" timestamp="1524753418623">
         <mark key="[" line="34" column="0" />
@@ -135,15 +141,17 @@
         <mark key="^" line="45" column="77" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1524756997497">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1524832447183">
+        <mark key="'" line="38" column="25" />
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="52" />
+        <mark key="." line="41" column="52" />
+        <mark key="^" line="41" column="52" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/vm/files/cloud-init.yml" timestamp="1524760153124">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/vm/files/cloud-init.yml" timestamp="1524831686447">
         <mark key="'" line="19" column="47" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="137" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="52" />
       </file>
@@ -174,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="307" column="38" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" />
       <jump line="285" column="10" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
       <jump line="202" column="15" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
       <jump line="286" column="45" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
@@ -274,43 +281,44 @@
       <jump line="50" column="2" filename="$USER_HOME$/www/work/capitalise/dbs/modules/vm/vm.tf" />
       <jump line="135" column="26" filename="$USER_HOME$/www/work/capitalise/dbs/modules/vm/vm.tf" />
       <jump line="11" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/vm/vm.tf" />
+      <jump line="38" column="25" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKHVwZGF0ZS5tYXRjaGVkQ291bnQgPiAwICYmIHVwZGF0ZS5tb2RpZmllZENvdW50LnRvSW50KCkgPT0gMCkgewogICAgICAgICAgICAgICAgICAgIHRocm93IE5ldHdvcmtBY2NvdW50Tm90VXBkYXRlZEV4Y2VwdGlvbigpCiAgICAgICAgICAgICAgICB9</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzb2NpYWxUb2tlbnMuJC50b2tlblNlY3JldCI6ICR7dG9rZW5TZWNyZXQ/Lmpzb259Cg==</text>
+        <text encoding="base64">ICAgIHNvdXJjZV9wb3J0X3JhbmdlICAgICAgICAgID0gIioiCiAgICBkZXN0aW5hdGlvbl9wb3J0X3JhbmdlICAgICA9ICIxNTY3MiIK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGVsc2UgaWYgKHVwZGF0ZS5tYXRjaGVkQ291bnQgPiAwICYmIHVwZGF0ZS5tb2RpZmllZENvdW50LnRvSW50KCkgPT0gMCkgewogICAgICAgICAgICAgICAgICAgIHRocm93IE5ldHdvcmtBY2NvdW50Tm90VXBkYXRlZEV4Y2VwdGlvbigpCiAgICAgICAgICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHNvdXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgc2VjdXJpdHlfcnVsZSB7CiAgICBuYW1lICAgICAgICAgICAgICAgICAgICAgICA9ICJyYWJiaXRtcSIKICAgIGFjY2VzcyAgICAgICAgICAgICAgICAgICAgID0gIkFsbG93IgogICAgZGlyZWN0aW9uICAgICAgICAgICAgICAgICAgPSAiSW5ib3VuZCIKICAgIHByaW9yaXR5ICAgICAgICAgICAgICAgICAgID0gMTAwMwogICAgcHJvdG9jb2wgICAgICAgICAgICAgICAgICAgPSAiVGNwIgogICAgc291cmNlX2FkZHJlc3NfcHJlZml4ICAgICAgPSAiVmlydHVhbE5ldHdvcmsiCiAgICBkZXN0aW5hdGlvbl9hZGRyZXNzX3ByZWZpeCA9ICJWaXJ0dWFsTmV0d29yayIKICAgIHNvdXJjZV9wb3J0X3JhbmdlICAgICAgICAgID0gIioiCiAgICBkZXN0aW5hdGlvbl9wb3J0X3JhbmdlICAgICA9ICI1NjcyIgogIH0KCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZWxzZSBpZiAodXBkYXRlLm1hdGNoZWRDb3VudCA+IDAgJiYgdXBkYXRlLm1vZGlmaWVkQ291bnQudG9JbnQoKSA9PSAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IE5ldHdvcmtBY2NvdW50Tm90VXBkYXRlZEV4Y2VwdGlvbigpCiAgICAgICAgICAgICAgICAgICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBzZWN1cml0eV9ydWxlIHsKICAgIG5hbWUgICAgICAgICAgICAgICAgICAgICAgID0gIm1vbmdvZGIiCiAgICBhY2Nlc3MgICAgICAgICAgICAgICAgICAgICA9ICJBbGxvdyIKICAgIGRpcmVjdGlvbiAgICAgICAgICAgICAgICAgID0gIkluYm91bmQiCiAgICBwcmlvcml0eSAgICAgICAgICAgICAgICAgICA9IDEwMDAKICAgIHByb3RvY29sICAgICAgICAgICAgICAgICAgID0gIlRjcCIKICAgIHNvdXJjZV9hZGRyZXNzX3ByZWZpeCAgICAgID0gIlZpcnR1YWxOZXR3b3JrIgogICAgZGVzdGluYXRpb25fYWRkcmVzc19wcmVmaXggPSAiVmlydHVhbE5ldHdvcmsiCiAgICBzb3VyY2VfcG9ydF9yYW5nZSAgICAgICAgICA9ICIqIgogICAgZGVzdGluYXRpb25fcG9ydF9yYW5nZSAgICAgPSAiMjcwMTciCiAgfQoKICBzZWN1cml0eV9ydWxlIHsKICAgIG5hbWUgICAgICAgICAgICAgICAgICAgICAgID0gIm15c3FsIgogICAgYWNjZXNzICAgICAgICAgICAgICAgICAgICAgPSAiQWxsb3ciCiAgICBkaXJlY3Rpb24gICAgICAgICAgICAgICAgICA9ICJJbmJvdW5kIgogICAgcHJpb3JpdHkgICAgICAgICAgICAgICAgICAgPSAxMDAxCiAgICBwcm90b2NvbCAgICAgICAgICAgICAgICAgICA9ICJUY3AiCiAgICBzb3VyY2VfYWRkcmVzc19wcmVmaXggICAgICA9ICJWaXJ0dWFsTmV0d29yayIKICAgIGRlc3RpbmF0aW9uX2FkZHJlc3NfcHJlZml4ID0gIlZpcnR1YWxOZXR3b3JrIgogICAgc291cmNlX3BvcnRfcmFuZ2UgICAgICAgICAgPSAiKiIKICAgIGRlc3RpbmF0aW9uX3BvcnRfcmFuZ2UgICAgID0gIjMzMDYiCiAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBjb25zdCB7IHRva2VuLCByZWZyZXNoVG9rZW4gfSA9IHJlc3BvbnNlLmRhdGEK</text>
+        <text encoding="base64">ICAgIHNvdXJjZV9wb3J0X3JhbmdlICAgICAgICAgID0gIjU2NzIiCiAgICBkZXN0aW5hdGlvbl9wb3J0X3JhbmdlICAgICA9ICIqIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNvdXJjZV9wb3J0X3JhbmdlICAgICAgICAgID0gIjE1NjcyIgogICAgZGVzdGluYXRpb25fcG9ydF9yYW5nZSAgICAgPSAiKiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgY29uc3QgeyB0b2tlbiwgcmVmcmVzaFRva2VuIH0gPSByZXNwb25zZS5kYXRhCg==</text>
+        <text encoding="base64">ICAgIHNvdXJjZV9wb3J0X3JhbmdlICAgICAgICAgID0gIjI3MDE3IgogICAgZGVzdGluYXRpb25fcG9ydF9yYW5nZSAgICAgPSAiKiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNvdXJjZV9hZGRyZXNzX3ByZWZpeCAgICAgID0gIjEwLjAuMC4qIgogICAgZGVzdGluYXRpb25fYWRkcmVzc19wcmVmaXggPSAiMTAuMC4wLioiCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -322,10 +330,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHNvdXJjZV9hZGRyZXNzX3ByZWZpeCAgPSAiKiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3BvbnNlID0geWllbGQgY2FsbChhcGkuZ2V0R29vZ2xlVG9rZW4sIHVzZXIpCgogICAgaWYgKCFyZXNwb25zZS5vaykgewogICAgICByZXR1cm4geWllbGQgcHV0KEF1dGhlbnRpY2F0aW9uQWN0aW9ucy5sb2dpbkdvb2dsZUZhaWx1cmUoewogICAgICAgIHN0YXR1czogcmVzcG9uc2Uuc3RhdHVzLAogICAgICAgIG1lc3NhZ2U6IHJlc3BvbnNlLm1lc3NhZ2UKICAgICAgfSkpCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICA9ICIxMC4wLjAuKiIK</text>
       </register>
       <register name=":" type="4">
         <text>13</text>
