@@ -52,7 +52,7 @@
         <mark key="." line="226" column="1" />
         <mark key="^" line="226" column="1" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/computation.py" timestamp="1525097306154" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/computation.py" timestamp="1525098221600" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/SkorrApi.js" timestamp="1525097040206">
         <mark key="'" line="26" column="57" />
         <mark key="[" line="4" column="34" />
@@ -84,18 +84,18 @@
         <mark key="." line="1" column="30" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1525086294726">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1525099157803">
         <mark key="'" line="19" column="60" />
         <mark key="[" line="49" column="58" />
         <mark key="]" line="49" column="57" />
         <mark key="." line="49" column="57" />
         <mark key="^" line="49" column="57" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1525086018341">
-        <mark key="[" line="487" column="8" />
-        <mark key="]" line="487" column="8" />
-        <mark key="." line="487" column="8" />
-        <mark key="^" line="490" column="44" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1525098662174">
+        <mark key="[" line="488" column="43" />
+        <mark key="]" line="488" column="42" />
+        <mark key="." line="488" column="42" />
+        <mark key="^" line="488" column="42" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cron/scheduled-scraping.py" timestamp="1525086120531">
         <mark key="'" line="69" column="27" />
@@ -103,12 +103,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1525085907948">
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1525097862661">
         <mark key="'" line="29" column="6" />
-        <mark key="[" line="419" column="62" />
-        <mark key="]" line="419" column="61" />
-        <mark key="." line="419" column="61" />
-        <mark key="^" line="419" column="61" />
+        <mark key="[" line="411" column="40" />
+        <mark key="]" line="411" column="39" />
+        <mark key="." line="411" column="39" />
+        <mark key="^" line="411" column="39" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" timestamp="1525095915106">
         <mark key="'" line="4" column="42" />
@@ -156,23 +156,21 @@
         <mark key="." line="78" column="32" />
         <mark key="^" line="78" column="32" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAO.kt" timestamp="1525085217007">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="25" column="50" />
-        <mark key="]" line="25" column="49" />
-        <mark key="^" line="25" column="49" />
-        <mark key="." line="25" column="49" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAO.kt" timestamp="1525098081902">
+        <mark key="'" line="5" column="38" />
+        <mark key="[" line="24" column="53" />
+        <mark key="]" line="24" column="52" />
+        <mark key="." line="24" column="52" />
+        <mark key="^" line="24" column="52" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserRouter.kt" timestamp="1525085919226">
-        <mark key="[" line="24" column="49" />
-        <mark key="]" line="24" column="55" />
-        <mark key="." line="24" column="55" />
-        <mark key="^" line="24" column="55" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserRouter.kt" timestamp="1525097808562">
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="42" column="47" />
+        <mark key="." line="42" column="47" />
+        <mark key="^" line="42" column="47" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="100" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/youtube.py" />
-      <jump line="210" column="103" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/youtube.py" />
       <jump line="207" column="100" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/youtube.py" />
       <jump line="350" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/youtube.py" />
       <jump line="71" column="6" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/youtube.py" />
@@ -240,7 +238,6 @@
       <jump line="75" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cron/scheduled-scraping.py" />
       <jump line="220" column="50" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" />
       <jump line="72" column="27" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cron/scheduled-scraping.py" />
-      <jump line="29" column="6" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAO.kt" />
       <jump line="485" column="8" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" />
@@ -271,13 +268,16 @@
       <jump line="71" column="51" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" />
       <jump line="33" column="1" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" />
       <jump line="3" column="42" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" />
+      <jump line="29" column="6" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAO.kt" />
+      <jump line="5" column="38" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAO.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
@@ -286,28 +286,28 @@
         <text encoding="base64">ICAgIHlpZWxkIHB1dChVc2VyQWN0aW9ucy51cGRhdGVUaW1lem9uZSgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBwcmludGxuKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB5aWVsZCBwdXQoVXNlckFjdGlvbnMuY2hlY2tJbigpKQo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB5aWVsZCBwdXQoVXNlcikK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAKICB5aWUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -319,10 +319,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjaGVja0luOiBtb21lbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>13</text>
