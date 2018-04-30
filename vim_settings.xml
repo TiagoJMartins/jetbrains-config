@@ -6,7 +6,7 @@
       <file name="/a.dummy" timestamp="1525086940936">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/UserRedux.js" timestamp="1525094488723">
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/UserRedux.js" timestamp="1525095813894">
         <mark key="'" line="39" column="2" />
         <mark key="[" line="285" column="17" />
         <mark key="]" line="285" column="24" />
@@ -72,7 +72,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/RootContainer/RootContainer.js" timestamp="1525094036408" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/RootContainer/RootContainer.js" timestamp="1525095910120">
+        <mark key="[" line="47" column="37" />
+        <mark key="]" line="48" column="18" />
+        <mark key="^" line="48" column="18" />
+        <mark key="." line="48" column="18" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" timestamp="1525083313781">
         <mark key="[" line="1" column="31" />
         <mark key="]" line="1" column="30" />
@@ -105,12 +110,11 @@
         <mark key="." line="419" column="61" />
         <mark key="^" line="419" column="61" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" timestamp="1525094226192">
-        <mark key="'" line="3" column="42" />
-        <mark key="[" line="35" column="34" />
-        <mark key="]" line="35" column="33" />
-        <mark key="." line="35" column="33" />
-        <mark key="^" line="35" column="33" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" timestamp="1525095915106">
+        <mark key="'" line="4" column="42" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/user_triggers.py" timestamp="1525087585410">
         <mark key="[" line="14" column="51" />
@@ -145,6 +149,12 @@
         <mark key="]" line="13" column="45" />
         <mark key="." line="13" column="45" />
         <mark key="^" line="13" column="45" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/AuthSagas.js" timestamp="1525095858404">
+        <mark key="[" line="78" column="26" />
+        <mark key="]" line="78" column="32" />
+        <mark key="." line="78" column="32" />
+        <mark key="^" line="78" column="32" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAO.kt" timestamp="1525085217007">
         <mark key="'" line="1" column="0" />
@@ -263,17 +273,17 @@
       <jump line="3" column="42" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIHB1dChVc2VyQWN0aW9ucy5jaGVja0luU3VjY2VzcygpKQo=</text>
+        <text encoding="base64">ICAgIHlpZWxkIHB1dChVc2VyQWN0aW9ucy51cGRhdGVUaW1lem9uZSgpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -282,22 +292,22 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB5aWVsZCBwdXQoVXNlcikK</text>
+        <text encoding="base64">ICB5aWVsZCBwdXQoVXNlckFjdGlvbnMuY2hlY2tJbigpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKICB5aWUK</text>
+        <text encoding="base64">ICB5aWVsZCBwdXQoVXNlcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjaGVja0luOiBtb21lbnQoKQo=</text>
+        <text encoding="base64">ICAKICB5aWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -309,10 +319,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cm1vbWVudC4K</text>
+        <text encoding="base64">ICBjaGVja0luOiBtb21lbnQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY2hlY2tJbiB9IGZyb20gJy4vVXNlci9Vc2VyU2FnYXMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>13</text>
