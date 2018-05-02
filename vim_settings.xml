@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/UserRedux.js" timestamp="1525095813894">
+        <mark key="'" line="39" column="2" />
+        <mark key="[" line="285" column="17" />
+        <mark key="]" line="285" column="24" />
+        <mark key="." line="285" column="24" />
+        <mark key="^" line="285" column="24" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" timestamp="1525093960135">
         <mark key="'" line="72" column="51" />
         <mark key="[" line="7" column="9" />
@@ -10,12 +17,17 @@
         <mark key="^" line="40" column="8" />
         <mark key="." line="7" column="9" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/dbs/outputs.tf" timestamp="1524832313283">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="34" />
+        <mark key="." line="1" column="34" />
+        <mark key="^" line="1" column="34" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" timestamp="1525081281507">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/generate_user_snapshot.py" timestamp="1525086358867" />
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/user.py" timestamp="1525086696319">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="18" column="32" />
@@ -40,13 +52,25 @@
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/User/UserSagas.js" timestamp="1525093891086">
+        <mark key="'" line="210" column="82" />
+        <mark key="[" line="225" column="3" />
+        <mark key="]" line="226" column="1" />
+        <mark key="." line="226" column="1" />
+        <mark key="^" line="226" column="1" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" timestamp="1525105298700">
+        <mark key="[" line="73" column="40" />
+        <mark key="]" line="73" column="48" />
+        <mark key="^" line="73" column="48" />
+        <mark key="." line="73" column="48" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/TokenInformation.kt" timestamp="1525105271210">
         <mark key="[" line="11" column="36" />
         <mark key="]" line="12" column="31" />
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/deploy/nlp-deployment.yml" timestamp="1525106880432" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Services/SkorrApi.js" timestamp="1525097040206">
         <mark key="'" line="26" column="57" />
         <mark key="[" line="4" column="34" />
@@ -60,24 +84,44 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/RootContainer/RootContainer.js" timestamp="1525095910120">
+        <mark key="[" line="47" column="37" />
+        <mark key="]" line="48" column="18" />
+        <mark key="^" line="48" column="18" />
+        <mark key="." line="48" column="18" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" timestamp="1525083313781">
         <mark key="[" line="1" column="31" />
         <mark key="]" line="1" column="30" />
         <mark key="." line="1" column="30" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1525101818255">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1525249330691">
         <mark key="'" line="19" column="60" />
-        <mark key="[" line="49" column="58" />
-        <mark key="]" line="49" column="57" />
-        <mark key="." line="49" column="57" />
-        <mark key="^" line="49" column="57" />
+        <mark key="[" line="24" column="119" />
+        <mark key="]" line="24" column="118" />
+        <mark key="." line="24" column="118" />
+        <mark key="^" line="24" column="118" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1525107377915">
+        <mark key="'" line="523" column="94" />
+        <mark key="[" line="486" column="0" />
+        <mark key="]" line="486" column="0" />
+        <mark key="." line="486" column="0" />
+        <mark key="^" line="529" column="11" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cron/scheduled-scraping.py" timestamp="1525086120531">
         <mark key="'" line="69" column="27" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1525107340904">
+        <mark key="'" line="29" column="6" />
+        <mark key="[" line="414" column="0" />
+        <mark key="]" line="420" column="14" />
+        <mark key="." line="414" column="0" />
+        <mark key="^" line="422" column="3" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/StartupSagas.js" timestamp="1525095915106">
         <mark key="'" line="4" column="42" />
@@ -97,11 +141,23 @@
         <mark key="." line="14" column="61" />
         <mark key="^" line="14" column="61" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/AuthSagas.js" timestamp="1525095858404">
+        <mark key="[" line="78" column="26" />
+        <mark key="]" line="78" column="32" />
+        <mark key="." line="78" column="32" />
+        <mark key="^" line="78" column="32" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/google/GoogleConstants.kt" timestamp="1524843682669">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="55" />
         <mark key="^" line="5" column="55" />
         <mark key="." line="5" column="55" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAO.kt" timestamp="1525107353080">
+        <mark key="'" line="5" column="38" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/services/UserSnapshot.kt" timestamp="1525107203473">
         <mark key="'" line="21" column="2" />
@@ -115,79 +171,6 @@
         <mark key="]" line="44" column="55" />
         <mark key="." line="44" column="55" />
         <mark key="^" line="44" column="55" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/UserRedux.js" timestamp="1525095813894">
-        <mark key="'" line="39" column="2" />
-        <mark key="[" line="285" column="17" />
-        <mark key="]" line="285" column="24" />
-        <mark key="." line="285" column="24" />
-        <mark key="^" line="285" column="24" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/outputs.tf" timestamp="1524832313283">
-        <mark key="[" line="1" column="23" />
-        <mark key="]" line="1" column="34" />
-        <mark key="." line="1" column="34" />
-        <mark key="^" line="1" column="34" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/User/UserSagas.js" timestamp="1525093891086">
-        <mark key="'" line="210" column="82" />
-        <mark key="[" line="225" column="3" />
-        <mark key="]" line="226" column="1" />
-        <mark key="." line="226" column="1" />
-        <mark key="^" line="226" column="1" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" timestamp="1525105298700">
-        <mark key="[" line="73" column="40" />
-        <mark key="]" line="73" column="48" />
-        <mark key="^" line="73" column="48" />
-        <mark key="." line="73" column="48" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/computation.py" timestamp="1525098221600" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-nlp/main.py" timestamp="1525106894801" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-cron.yml" timestamp="1525083844626">
-        <mark key="[" line="28" column="53" />
-        <mark key="]" line="28" column="52" />
-        <mark key="." line="28" column="52" />
-        <mark key="^" line="28" column="52" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/RootContainer/RootContainer.js" timestamp="1525095910120">
-        <mark key="[" line="47" column="37" />
-        <mark key="]" line="48" column="18" />
-        <mark key="^" line="48" column="18" />
-        <mark key="." line="48" column="18" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAOImpl.kt" timestamp="1525107377915">
-        <mark key="'" line="523" column="94" />
-        <mark key="[" line="486" column="0" />
-        <mark key="]" line="486" column="0" />
-        <mark key="." line="486" column="0" />
-        <mark key="^" line="529" column="11" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1525107340904">
-        <mark key="'" line="29" column="6" />
-        <mark key="[" line="414" column="0" />
-        <mark key="]" line="420" column="14" />
-        <mark key="." line="414" column="0" />
-        <mark key="^" line="422" column="3" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/side_effects.py" timestamp="1525087147603">
-        <mark key="'" line="13" column="38" />
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="13" column="45" />
-        <mark key="." line="13" column="45" />
-        <mark key="^" line="13" column="45" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/AuthSagas.js" timestamp="1525095858404">
-        <mark key="[" line="78" column="26" />
-        <mark key="]" line="78" column="32" />
-        <mark key="." line="78" column="32" />
-        <mark key="^" line="78" column="32" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/UserDAO.kt" timestamp="1525107353080">
-        <mark key="'" line="5" column="38" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1525106462487">
         <mark key="[" line="198" column="64" />
