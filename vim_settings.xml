@@ -3,7 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/build.gradle" timestamp="1525359523651" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/build.gradle" timestamp="1525364246107">
+        <mark key="[" line="202" column="4" />
+        <mark key="]" line="202" column="4" />
+        <mark key="." line="200" column="66" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" timestamp="1525250506292">
         <mark key="[" line="96" column="54" />
         <mark key="]" line="98" column="37" />
@@ -32,6 +36,11 @@
         <mark key="]" line="444" column="0" />
         <mark key="^" line="451" column="101" />
         <mark key="." line="444" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/src/main/java/com/skorr/MainActivity.java" timestamp="1525342627469">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/instagram/InstagramService.kt" timestamp="1525105226357">
         <mark key="[" line="12" column="31" />
@@ -284,11 +293,11 @@
       <jump line="311" column="30" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/youtube.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>parse_datetime</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>ppri</text>
