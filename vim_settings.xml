@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/build.gradle" timestamp="1525365649536">
-        <mark key="[" line="188" column="55" />
-        <mark key="]" line="188" column="57" />
-        <mark key="." line="188" column="57" />
-        <mark key="^" line="188" column="57" />
+        <mark key="[" line="189" column="55" />
+        <mark key="]" line="189" column="57" />
+        <mark key="." line="189" column="57" />
+        <mark key="^" line="189" column="57" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/build.gradle" timestamp="1525250506292">
         <mark key="[" line="96" column="54" />
@@ -168,6 +168,7 @@
         <mark key="^" line="83" column="32" />
         <mark key="." line="83" column="32" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/Stats/StatsScreen.styles.js" timestamp="1525367490775" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/User/UserSagas.js" timestamp="1525345980584">
         <mark key="'" line="242" column="23" />
         <mark key="[" line="242" column="0" />
@@ -175,9 +176,18 @@
         <mark key="^" line="11" column="31" />
         <mark key="." line="242" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/SkorrIcon/config.json" timestamp="1525367353790">
+        <mark key="'" line="230" column="6" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/RootContainer/RootContainer.js" timestamp="1525345002470" />
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/InstagramSagas.js" timestamp="1525344996880" />
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/twitter/TwitterController.kt" timestamp="1525355268028" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/Stats/MyStatsScreen/MyStatsScreen.js" timestamp="1525367406416">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="39" column="21" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/AuthSagas.js" timestamp="1525345570989" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1525269420325">
         <mark key="[" line="1" column="0" />
@@ -187,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" />
       <jump line="56" column="16" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cron/scheduled-scraping.py" />
       <jump line="70" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cron/scheduled-scraping.py" />
       <jump line="18" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/cron/scheduled-scraping.py" />
@@ -287,10 +296,11 @@
       <jump line="51" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" />
       <jump line="6" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" />
       <jump line="311" column="30" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/youtube.py" />
+      <jump line="230" column="6" filename="$USER_HOME$/www/work/skorr/skorr-mobile/App/Lib/SkorrIcon/config.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>15.0.1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPFRvdWNoYWJsZU9wYWNpdHkKICAgICAgICBzdHlsZT17c3R5bGVzLnNldHRpbmdzQnV0dG9ufQogICAgICAgIG9uUHJlc3M9eygpID0+IG5hdmlnYXRpb24ubmF2aWdhdGUoJ1NldHRpbmdzJyl9CiAgICAgID4K</text>
       </register>
       <register name="-" type="4">
         <text>15.0.1</text>
@@ -302,7 +312,7 @@
         <text>p.get('media_info', {}).get('items', [])[0].get('snippet', {}).get('thumbnails', {}).get('standard', {}).get('uri')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPFRvdWNoYWJsZU9wYWNpdHkKICAgICAgICBzdHlsZT17c3R5bGVzLnNldHRpbmdzQnV0dG9ufQogICAgICAgIG9uUHJlc3M9eygpID0+IG5hdmlnYXRpb24ubmF2aWdhdGUoJ1NldHRpbmdzJyl9CiAgICAgID4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -320,22 +330,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcHJpbnQoc2VsZi5fY29tbWVudHMpCg==</text>
+        <text encoding="base64">ICAgICAgPC9Ub3VjaGFibGVPcGFjaXR5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGltZwo=</text>
+        <text encoding="base64">ICAgICAgey8qPFRvdWNoYWJsZU9wYWNpdHkqL30KICAgICAgICB7LypzdHlsZT17c3R5bGVzLnNldHRpbmdzQnV0dG9ufSovfQogICAgICAgIHsvKm9uUHJlc3M9eygpID0+IG5hdmlnYXRpb24ubmF2aWdhdGUoJ1NldHRpbmdzJyl9Ki99CiAgICAgIHsvKj4qL30KICAgICAgICB7Lyo8U2tvcnJJY29uKi99CiAgICAgICAgICB7LypzdHlsZT17c3R5bGVzLnNldHRpbmdzQnV0dG9uSWNvbn0qL30KICAgICAgICAgIHsvKm5hbWU9eydnZWFyJ30qL30KICAgICAgICAgIHsvKnNpemU9ezI0fSovfQogICAgICAgICAgey8qY29sb3I9e0NvbG9ycy5ncmV5TGlnaHR9Ki99CiAgICAgICAgey8qLz4qL30KICAgICAgey8qPC9Ub3VjaGFibGVPcGFjaXR5PiovfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHByaW50KGltZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGltZwo=</text>
+        <text encoding="base64">ICAgICAgICBwcHJpbnQoc2VsZi5fY29tbWVudHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHByaW50KGltZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGltZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcHJpbnQocC5nZXQoJ21lZGlhX2luZm8nLCB7fSkuZ2V0KCdpdGVtcycsIFtdKVswXS5nZXQoJ3NuaXBwZXQnLCB7fSkuZ2V0KCd0aHVtYm5haWxzJywge30pLmdldCgnc3RhbmRhcmQnLCB7fSkuZ2V0KCd1cmknKSkKICAgICAgICByZXR1cm4gcC5nZXQoJ21lZGlhX2luZm8nLCB7fSkuZ2V0KCdpdGVtcycsIFtdKVswXS5nZXQoJ3NuaXBwZXQnLCB7fSkuZ2V0KCd0aHVtYm5haWxzJywge30pLmdldCgnc3RhbmRhcmQnLCB7fSkuZ2V0KCd1cmknKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHByaW50KGltZykK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -346,15 +356,11 @@
           <key char="65535" code="9" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>json.dumps({
-    'reactions': 1,
-    'shares': 1,
-    'comments': 1
-})</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGltZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHByaW50KGltZykK</text>
       </register>
       <register name=":" type="4">
         <text>473</text>
