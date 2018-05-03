@@ -3,12 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/app/build.gradle" timestamp="1525342385056">
+        <mark key="[" line="106" column="28" />
+        <mark key="]" line="106" column="29" />
+        <mark key="." line="106" column="29" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Redux/UserRedux.js" timestamp="1525095813894">
-        <mark key="'" line="39" column="2" />
-        <mark key="[" line="285" column="17" />
-        <mark key="]" line="285" column="24" />
-        <mark key="." line="285" column="24" />
-        <mark key="^" line="285" column="24" />
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/index.js" timestamp="1525093960135">
         <mark key="'" line="72" column="51" />
@@ -55,6 +59,12 @@
         <mark key="." line="290" column="27" />
         <mark key="^" line="290" column="27" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/android/build.gradle" timestamp="1525341961539">
+        <mark key="'" line="11" column="45" />
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="36" />
+        <mark key="." line="24" column="36" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1525275961856">
         <mark key="'" line="156" column="40" />
         <mark key="[" line="218" column="39" />
@@ -72,13 +82,6 @@
         <mark key="]" line="12" column="30" />
         <mark key="^" line="12" column="30" />
         <mark key="." line="12" column="30" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/User/UserSagas.js" timestamp="1525093891086">
-        <mark key="'" line="210" column="82" />
-        <mark key="[" line="225" column="3" />
-        <mark key="]" line="226" column="1" />
-        <mark key="." line="226" column="1" />
-        <mark key="^" line="226" column="1" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/local/SocialTokenValidator.kt" timestamp="1525266038135">
         <mark key="'" line="136" column="37" />
@@ -110,12 +113,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/RootContainer/RootContainer.js" timestamp="1525095910120">
-        <mark key="[" line="47" column="37" />
-        <mark key="]" line="48" column="18" />
-        <mark key="^" line="48" column="18" />
-        <mark key="." line="48" column="18" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" timestamp="1525259462269">
         <mark key="[" line="1" column="31" />
@@ -167,12 +164,6 @@
         <mark key="." line="277" column="99" />
         <mark key="^" line="277" column="99" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Sagas/Authentication/AuthSagas.js" timestamp="1525095858404">
-        <mark key="[" line="78" column="26" />
-        <mark key="]" line="78" column="32" />
-        <mark key="." line="78" column="32" />
-        <mark key="^" line="78" column="32" />
-      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/google/GoogleConstants.kt" timestamp="1524843682669">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="55" />
@@ -214,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="17" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
       <jump line="114" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
       <jump line="0" column="26" filename="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" />
@@ -314,6 +304,7 @@
       <jump line="73" column="22" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/tumblr.py" />
       <jump line="237" column="45" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/tumblr.py" />
       <jump line="288" column="56" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/tumblr.py" />
+      <jump line="11" column="45" filename="$USER_HOME$/www/work/skorr/skorr-mobile/android/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
