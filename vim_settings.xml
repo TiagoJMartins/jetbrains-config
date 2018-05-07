@@ -16,6 +16,11 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="23" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/redis_db.py" timestamp="1525697335490">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="27" />
+        <mark key="." line="30" column="27" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/SettingsDAO.kt" timestamp="1525426713153">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -79,6 +84,7 @@
         <mark key="." line="17" column="45" />
         <mark key="^" line="17" column="45" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/generate_ranking_list.py" timestamp="1525697235841" />
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/instagram/InstagramService.kt" timestamp="1525105226357">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="30" />
@@ -388,10 +394,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
