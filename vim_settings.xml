@@ -143,12 +143,17 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" timestamp="1525682075414">
-        <mark key="'" line="123" column="51" />
-        <mark key="[" line="21" column="47" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="22" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/enums.py" timestamp="1525691292990">
+        <mark key="[" line="36" column="38" />
+        <mark key="]" line="36" column="38" />
+        <mark key="." line="36" column="38" />
+        <mark key="^" line="36" column="38" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" timestamp="1525691518917">
+        <mark key="'" line="127" column="51" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1525681760422">
         <mark key="'" line="6" column="4" />
@@ -379,19 +384,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHBwcmludChwKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>300000</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHByaW50KGYne2xlbihlbGlnaWJsZV9wb3N0cyl9IHtQT1NUU19MSU1JVH0nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ltYWdlJzogUG9zdFR5cGUuSU1BR0UsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHBwcmludChwKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -409,19 +414,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQoY29uZmlncy5EUkFNQVRJUV9USU1FT1VUKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoY29uZmlncy5EUkFNQVRJUV9USU1FT1VUKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoY29uZmlncy5EUkFNQVRJUV9USU1FT1VUKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChpbnN0YWdyYW1fcG9zdF90eXBlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoY29uZmlncy5EUkFNQVRJUV9USU1FT1VUKQo=</text>
+        <text encoding="base64">ICAgIHBwcmkgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoY29uZmlncy5EUkFNQVRJUV9USU1FT1VUKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">cHJpbnQoY29uZmlncy5EUkFNQVRJUV9USU1FT1VUKQo=</text>
@@ -436,10 +441,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RFJBTUFUSVFfVElNRU9VVCA9IDMwMDAwMAo=</text>
+        <text encoding="base64">cHJpbnQoY29uZmlncy5EUkFNQVRJUV9USU1FT1VUKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RFJBTUFUSVFfVElNRU9VVCA9IDMwMDAwMAoK</text>
+        <text encoding="base64">cHJpbnQoY29uZmlncy5EUkFNQVRJUV9USU1FT1VUKQo=</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
