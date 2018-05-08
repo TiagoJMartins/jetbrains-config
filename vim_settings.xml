@@ -120,6 +120,11 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.sh" timestamp="1525797895250">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/model/Settings.kt" timestamp="1525426638186">
         <mark key="[" line="4" column="16" />
         <mark key="]" line="4" column="16" />
@@ -214,6 +219,11 @@
         <mark key="." line="10" column="23" />
         <mark key="^" line="10" column="23" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.sh.template" timestamp="1525798066344">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/domain/dao/SettingsDAO.kt" timestamp="1525426713153">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -267,7 +277,7 @@
         <mark key="^" line="11" column="31" />
         <mark key="." line="242" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" timestamp="1525792812284">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" timestamp="1525797692745">
         <mark key="'" line="153" column="0" />
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="0" />
@@ -320,12 +330,12 @@
         <mark key="^" line="333" column="55" />
         <mark key="." line="333" column="55" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" timestamp="1525796870921">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="111" column="22" />
-        <mark key="]" line="111" column="22" />
-        <mark key="." line="111" column="22" />
-        <mark key="^" line="111" column="22" />
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" timestamp="1525798776925">
+        <mark key="'" line="162" column="2" />
+        <mark key="[" line="179" column="7" />
+        <mark key="]" line="179" column="37" />
+        <mark key="." line="179" column="37" />
+        <mark key="^" line="179" column="37" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/Stats/MyStatsScreen/MyStatsScreen.js" timestamp="1525367406416">
         <mark key="[" line="40" column="0" />
@@ -339,6 +349,11 @@
         <mark key="]" line="65" column="41" />
         <mark key="." line="65" column="41" />
         <mark key="^" line="65" column="41" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/mount_disk.sh" timestamp="1525797839833">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" timestamp="1525773838588" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1525269420325">
@@ -359,11 +374,13 @@
         <mark key="^" line="123" column="28" />
         <mark key="." line="123" column="28" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.template.sh" timestamp="1525799358009">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/android/build.gradle" />
-      <jump line="31" column="0" filename="$USER_HOME$/www/work/skorr/skorr-mobile/android/build.gradle" />
-      <jump line="26" column="12" filename="$USER_HOME$/www/work/skorr/skorr-mobile/android/build.gradle" />
       <jump line="38" column="62" filename="$USER_HOME$/www/work/skorr/skorr-mobile/android/build.gradle" />
       <jump line="36" column="58" filename="$USER_HOME$/www/work/skorr/skorr-mobile/android/build.gradle" />
       <jump line="35" column="60" filename="$USER_HOME$/www/work/skorr/skorr-mobile/android/build.gradle" />
@@ -461,13 +478,16 @@
       <jump line="39" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
       <jump line="138" column="43" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
       <jump line="86" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
+      <jump line="111" column="22" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
+      <jump line="112" column="43" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
+      <jump line="154" column="2" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>6</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>DISK_LOCATION</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
@@ -476,7 +496,7 @@
         <text encoding="base64">ICBzc2hfcHJpdmF0ZV9rZXkgICAgID0gIiR7ZmlsZSgiJHtwYXRoLnJvb3R9L2ZpbGVzL3NzaC9wbGF0ZmktdGVycmFmb3JtIil9IgogIHNzaF9wdWJsaWNfa2V5ICAgICAgPSAiJHtmaWxlKCIke3BhdGgucm9vdH0vZmlsZXMvc3NoL3BsYXRmaS10ZXJyYWZvcm0ucHViIil9Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICBwcm92aXNpb25lciAiIiB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -494,22 +514,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgInN1ZG8gc2VydmljZSBzc2hkIHJlbG9hZCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgY29ubmVjdGlvbiB7CiAgICB0eXBlICAgICAgICAgICAgICAgID0gInNzaCIKICAgIGJhc3Rpb25faG9zdCAgICAgICAgPSAiJHt2YXIuYmFzdGlvbl9ob3N0fSIKICAgIGJhc3Rpb25fdXNlciAgICAgICAgPSAiJHt2YXIuYmFzdGlvbl91c2VyfSIKICAgIGJhc3Rpb25fcHJpdmF0ZV9rZXkgPSAiJHt2YXIuYmFzdGlvbl9wcml2YXRlX2tleX0iCiAgICBob3N0ICAgICAgICAgICAgICAgID0gIiR7YXp1cmVybV9uZXR3b3JrX2ludGVyZmFjZS5tYWluLnByaXZhdGVfaXBfYWRkcmVzc30iCiAgICB1c2VyICAgICAgICAgICAgICAgID0gIiR7dmFyLm9zX2FkbWluX3VzZXJuYW1lfSIKICAgIHByaXZhdGVfa2V5ICAgICAgICAgPSAiJHt2YXIuYmFzdGlvbl9wcml2YXRlX2tleX0iCiAgfQoKICBwcm92aXNpb25lciAiZmlsZSIgewogICAgc291cmNlICAgICAgPSAiJHtwYXRoLm1vZHVsZX0vZmlsZXMvZG9ja2VyLWNvbXBvc2UueW1sIgogICAgZGVzdGluYXRpb24gPSAiL2hvbWUvJHt2YXIub3NfYWRtaW5fdXNlcm5hbWV9LyIKICB9CgogIHByb3Zpc2lvbmVyICJyZW1vdGUtZXhlYyIgewogICAgaW5saW5lID0gWwogICAgICAiY3VybCAtZnNTTCBodHRwczovL2Rvd25sb2FkLmRvY2tlci5jb20vbGludXgvdWJ1bnR1L2dwZyB8IHN1ZG8gYXB0LWtleSBhZGQgLSIsCiAgICAgICJzdWRvIGFkZC1hcHQtcmVwb3NpdG9yeSBcImRlYiBbYXJjaD1hbWQ2NF0gaHR0cHM6Ly9kb3dubG9hZC5kb2NrZXIuY29tL2xpbnV4L3VidW50dSB4ZW5pYWwgc3RhYmxlXCIiLAogICAgICAic3VkbyBhcHQtZ2V0IHVwZGF0ZSIsCiAgICAgICJ5ZXMgfCBzdWRvIGFwdC1nZXQgaW5zdGFsbCBkb2NrZXItY2UiLAogICAgICAic3VkbyBjdXJsIC1MIGh0dHBzOi8vZ2l0aHViLmNvbS9kb2NrZXIvY29tcG9zZS9yZWxlYXNlcy9kb3dubG9hZC8xLjIxLjAvZG9ja2VyLWNvbXBvc2UtTGludXgteDg2XzY0IC1vIC91c3IvbG9jYWwvYmluL2RvY2tlci1jb21wb3NlIiwKICAgICAgInN1ZG8gY2htb2QgK3ggL3Vzci9sb2NhbC9iaW4vZG9ja2VyLWNvbXBvc2UiLAogICAgICAiZG9ja2VyLWNvbXBvc2UgdXAgLWQgLWYgL2hvbWUvY2FwaXRhbGlzZS9kb2NrZXItY29tcG9zZS55bWwiCiAgICBdCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgInN1ZG8gc2VydmljZSBzc2hkIHJlbG9hZCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgInN1ZG8gc2ggLWMgXCJlY2hvICduZXQuaXB2NC5pcF9mb3J3YXJkID0gMScgPj4gL2V0Yy9zeXNjdGwuY29uZlwiIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -521,7 +541,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgInN1ZG8gc2VkIC1pIC1lIFwicy9eIyAgICBBbGxvd1RjcEZvcndhcmRpbmcgbm8vQWxsb3dUY3BGb3J3YXJkaW5nIHllcy9nXCIgL2V0Yy9zc2gvc3NoZF9jb25maWciLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
