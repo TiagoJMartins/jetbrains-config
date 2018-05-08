@@ -23,7 +23,7 @@
         <mark key="." line="4" column="31" />
         <mark key="^" line="98" column="37" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/vm/files/docker-compose.yml" timestamp="1525767770655">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/vm/files/docker-compose.yml" timestamp="1525769030097">
         <mark key="[" line="18" column="19" />
         <mark key="]" line="18" column="20" />
         <mark key="." line="18" column="20" />
@@ -228,6 +228,12 @@
         <mark key="." line="21" column="56" />
         <mark key="^" line="21" column="56" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/vm/vm.tf" timestamp="1525769069511">
+        <mark key="[" line="81" column="45" />
+        <mark key="]" line="82" column="3" />
+        <mark key="." line="82" column="3" />
+        <mark key="^" line="82" column="3" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-deployment.yml" timestamp="1525694149679">
         <mark key="[" line="30" column="29" />
         <mark key="]" line="30" column="38" />
@@ -282,7 +288,12 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1525767776175" />
+      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1525769104322">
+        <mark key="[" line="38" column="54" />
+        <mark key="]" line="38" column="53" />
+        <mark key="." line="38" column="53" />
+        <mark key="^" line="38" column="53" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1525269420325">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="12" />
@@ -406,10 +417,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>socialToken</text>
+        <text>persistence</text>
       </register>
       <register name="-" type="4">
-        <text>socialToken</text>
+        <text>persistence</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
@@ -418,7 +429,7 @@
         <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogUE9TVFNfUVVFVUUKICAgICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICAgIGNvbmZpZ01hcEtleVJlZjoKICAgICAgICAgICAgICAgIG5hbWU6IHNjcmFwZXJzCiAgICAgICAgICAgICAgICBrZXk6IHdvcmtlcnMucG9zdHMucXVldWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbmV0d29yayA9IFNvY2lhbE5ldHdvcmsK</text>
+        <text encoding="base64">ICAgICMgVE9ETzogUmVtb3ZlIHRoaXMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -436,22 +447,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHVzZXIK</text>
+        <text encoding="base64">ICAjIFRPRE86IFJlbW92ZSB0aGlzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmRvT25Db21wbGV0ZSB7CiAgICAgICAgICAgICAgICB1c2VyISEuc29jaWFsVG9rZW5zLmZvckVhY2ggewogICAgICAgICAgICAgICAgICAgIGNoYW5uZWwuYmFzaWNQdWJsaXNoKAogICAgICAgICAgICAgICAgICAgICAgICAiIiwKICAgICAgICAgICAgICAgICAgICAgICAgUkFCQklUX1BST0ZJTEVTX1FVRVVFLAogICAgICAgICAgICAgICAgICAgICAgICBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICBpdC5nZXRKc29uVGFzaygpLnRvQnl0ZUFycmF5KCkKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">CnJlc291cmNlICJhenVyZXJtX3B1YmxpY19pcCIgInZtIiB7CiAgbmFtZSAgICAgICAgICAgICAgICAgICAgICAgICA9ICIke2xvY2FsLm5hbWV9LXBpcCIKICBsb2NhdGlvbiAgICAgICAgICAgICAgICAgICAgID0gIiR7ZGF0YS5henVyZXJtX3Jlc291cmNlX2dyb3VwLnJnLmxvY2F0aW9ufSIKICByZXNvdXJjZV9ncm91cF9uYW1lICAgICAgICAgID0gIiR7ZGF0YS5henVyZXJtX3Jlc291cmNlX2dyb3VwLnJnLm5hbWV9IgogIHB1YmxpY19pcF9hZGRyZXNzX2FsbG9jYXRpb24gPSAiRHluYW1pYyIKCiAgdGFncyB7CiAgICBlbnZpcm9ubWVudCA9ICIke3Zhci5lbnZpcm9ubWVudH0iCiAgfQp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbmV0d29yayA9IAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpY19pcF9hZGRyZXNzX2lkICAgICAgICAgID0gIiR7YXp1cmVybV9wdWJsaWNfaXAudm0uaWR9Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbmV0d29yayA9IFNvY2lhbE5ldHdvcmsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBwcmludChwKQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHVzZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmRvT25Db21wbGV0ZSB7CiAgICAgICAgICAgICAgICB1c2VyISEuc29jaWFsVG9rZW5zLmZvckVhY2ggewogICAgICAgICAgICAgICAgICAgIGNoYW5uZWwuYmFzaWNQdWJsaXNoKAogICAgICAgICAgICAgICAgICAgICAgICAiIiwKICAgICAgICAgICAgICAgICAgICAgICAgUkFCQklUX1BST0ZJTEVTX1FVRVVFLAogICAgICAgICAgICAgICAgICAgICAgICBudWxsLAogICAgICAgICAgICAgICAgICAgICAgICBpdC5nZXRKc29uVGFzaygpLnRvQnl0ZUFycmF5KCkKICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -463,10 +474,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbmV0d29yayA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnN0YWdyYW1fcG9zdF90eXBlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
