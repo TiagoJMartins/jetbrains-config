@@ -53,6 +53,12 @@
         <mark key="." line="17" column="45" />
         <mark key="^" line="17" column="45" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/dbs/README.md" timestamp="1525882730941">
+        <mark key="'" line="0" column="5" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/auth/instagram/InstagramService.kt" timestamp="1525105226357">
         <mark key="[" line="12" column="31" />
         <mark key="]" line="12" column="30" />
@@ -134,7 +140,7 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.sh" timestamp="1525874968604">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.sh" timestamp="1525881050937">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -342,6 +348,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/dbs/.gitignore" timestamp="1525879271788">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1525711840445">
         <mark key="[" line="333" column="56" />
         <mark key="]" line="333" column="55" />
@@ -360,19 +371,18 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1525877995001">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1525881448620">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="56" column="49" />
-        <mark key="]" line="56" column="48" />
-        <mark key="." line="56" column="48" />
-        <mark key="^" line="56" column="48" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/mount_disk.sh" timestamp="1525797839833">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" timestamp="1525873137003">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" timestamp="1525879877338">
         <mark key="'" line="0" column="10" />
         <mark key="[" line="13" column="29" />
         <mark key="]" line="14" column="12" />
@@ -405,13 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/vpn/main.tf" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/work/capitalise/vpn/main.tf" />
-      <jump line="44" column="12" filename="$USER_HOME$/www/work/capitalise/dbs/modules/vm/vm.tf" />
-      <jump line="111" column="27" filename="$USER_HOME$/www/work/capitalise/dbs/modules/vm/vm.tf" />
-      <jump line="110" column="27" filename="$USER_HOME$/www/work/capitalise/dbs/modules/vm/vm.tf" />
-      <jump line="168" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/vm/vm.tf" />
-      <jump line="24" column="13" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
       <jump line="145" column="2" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
       <jump line="142" column="27" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
       <jump line="103" column="80" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
@@ -505,22 +508,29 @@
       <jump line="371" column="15" filename="$USER_HOME$/www/work/capitalise/dbs/files/scripts/openvpn-install.sh" />
       <jump line="110" column="31" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
       <jump line="550" column="29" filename="$USER_HOME$/www/work/capitalise/dbs/files/scripts/openvpn-install.sh" />
+      <jump line="74" column="18" filename="$USER_HOME$/www/work/capitalise/dbs/README.md" />
+      <jump line="27" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/README.md" />
+      <jump line="31" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/README.md" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/README.md" />
+      <jump line="19" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/README.md" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/README.md" />
+      <jump line="0" column="5" filename="$USER_HOME$/www/work/capitalise/dbs/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">CkZpcnN0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgInN1ZG8gY2htb2QgK3ggL2hvbWUvJHt2YXIub3NfYWRtaW5fdXNlcm5hbWV9L3Byb3Zpc2lvbl9tYW5hZ2VkX2Rpc2suc2giLAo=</text>
+        <text encoding="base64">IyMjIEluc3RhbGxpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">CkZpcnN0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -538,22 +548,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgbGlmZWN5Y2xlIHsKICAgIHByZXZlbnRfZGVzdHJveSA9IHRydWUKICB9Cgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgbGlmZWN5Y2xlIHsKICAgIHByZXZlbnRfZGVzdHJveSA9IHRydWUKICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgInN1ZG8gLi9wcm92aXNpb25fbWFuYWdlZF9kaXNrLnNoIiwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CmVjaG8gIiQjIgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CmlmIFtbICIkIyIgLW5lIDEgXV07IHRoZW4KCWVjaG8gIllvdSBtdXN0IHByb3ZpZGUgYSBwcmUtY2FsY3VsYXRlZCBESCBwYXJhbXMgLnBlbSBmaWxlIHBhdGggYXMgYW4gYXJndW1lbnQuIgoJZXhpdCAzCmZpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -565,10 +575,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CW9wZW5zc2wgZGhwYXJhbSAtb3V0IGRoLnBlbSAkREhfS0VZX1NJWkUK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWVjaG8gIiIKCWVjaG8gIkNob29zZSB3aGF0IHNpemUgb2YgRGlmZmllLUhlbGxtYW4ga2V5IHlvdSB3YW50IHRvIHVzZToiCgllY2hvICIgICAxKSAyMDQ4IGJpdHMgKGZhc3Rlc3QpIgoJZWNobyAiICAgMikgMzA3MiBiaXRzIChyZWNvbW1lbmRlZCwgYmVzdCBjb21wcm9taXNlKSIKCWVjaG8gIiAgIDMpIDQwOTYgYml0cyAobW9zdCBzZWN1cmUpIgoJd2hpbGUgW1sgJERIX0tFWV9TSVpFICE9ICIxIiAmJiAkREhfS0VZX1NJWkUgIT0gIjIiICYmICRESF9LRVlfU0laRSAhPSAiMyIgXV07IGRvCgkJcmVhZCAtcCAiREgga2V5IHNpemUgWzEtM106ICIgLWUgLWkgMiBESF9LRVlfU0laRQoJZG9uZQoJY2FzZSAkREhfS0VZX1NJWkUgaW4KCQkxKQoJCURIX0tFWV9TSVpFPSIyMDQ4IgoJCTs7CgkJMikKCQlESF9LRVlfU0laRT0iMzA3MiIKCQk7OwoJCTMpCgkJREhfS0VZX1NJWkU9IjQwOTYiCgkJOzsKCWVzYWMK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
