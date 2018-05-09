@@ -40,6 +40,13 @@
         <mark key="^" line="451" column="101" />
         <mark key="." line="444" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/dbs/files/scripts/openvpn-install.sh" timestamp="1525869130363">
+        <mark key="'" line="25" column="23" />
+        <mark key="[" line="48" column="57" />
+        <mark key="]" line="48" column="56" />
+        <mark key="." line="48" column="56" />
+        <mark key="^" line="48" column="56" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/V1Router.kt" timestamp="1525428648729">
         <mark key="[" line="16" column="38" />
         <mark key="]" line="17" column="45" />
@@ -397,8 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/www/work/capitalise/vpn/inputs.tf" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/capitalise/vpn/inputs.tf" />
       <jump line="7" column="0" filename="$USER_HOME$/www/work/capitalise/vpn/main.tf" />
       <jump line="5" column="0" filename="$USER_HOME$/www/work/capitalise/vpn/main.tf" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/vpn/main.tf" />
@@ -497,13 +502,15 @@
       <jump line="6" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
       <jump line="0" column="10" filename="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" />
       <jump line="30" column="42" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
+      <jump line="700" column="7" filename="$USER_HOME$/www/work/capitalise/dbs/files/scripts/openvpn-install.sh" />
+      <jump line="28" column="23" filename="$USER_HOME$/www/work/capitalise/dbs/files/scripts/openvpn-install.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>10.0.1.0/24</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
@@ -512,7 +519,7 @@
         <text encoding="base64">ICBuYW1lICAgICAgICAgICAgICAgICA9ICIke2RhdGEuYXp1cmVybV9yZXNvdXJjZV9ncm91cC5tYWluLm5hbWV9LXZuZXQiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZWxpZiBbWyAtZSAvZXRjL2ZlZG9yYS1yZWxlYXNlIF1dOyB0aGVuCglPUz1mZWRvcmEKCUlQVEFCTEVTPScvZXRjL2lwdGFibGVzL2lwdGFibGVzLnJ1bGVzJwoJU1lTQ1RMPScvZXRjL3N5c2N0bC5kL29wZW52cG4uY29uZicKZWxpZiBbWyAtZSAvZXRjL2NlbnRvcy1yZWxlYXNlIHx8IC1lIC9ldGMvcmVkaGF0LXJlbGVhc2UgfHwgLWUgL2V0Yy9zeXN0ZW0tcmVsZWFzZSBdXTsgdGhlbgoJT1M9Y2VudG9zCglJUFRBQkxFUz0nL2V0Yy9pcHRhYmxlcy9pcHRhYmxlcy5ydWxlcycKCVNZU0NUTD0nL2V0Yy9zeXNjdGwuY29uZicKZWxpZiBbWyAtZSAvZXRjL2FyY2gtcmVsZWFzZSBdXTsgdGhlbgoJT1M9YXJjaAoJSVBUQUJMRVM9Jy9ldGMvaXB0YWJsZXMvaXB0YWJsZXMucnVsZXMnCglTWVNDVEw9Jy9ldGMvc3lzY3RsLmQvb3BlbnZwbi5jb25mJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -530,22 +537,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyaWFibGUgIm5hbWVfc3VmZml4IiB7CiAgZGVmYXVsdCA9ICJrdWJlIgp9Cg==</text>
+        <text encoding="base64">CmlmIGdyZXAgLXFzICJDZW50T1MgcmVsZWFzZSA1IiAiL2V0Yy9yZWRoYXQtcmVsZWFzZSI7IHRoZW4KCWVjaG8gIkNlbnRPUyA1IGlzIHRvbyBvbGQgYW5kIG5vdCBzdXBwb3J0ZWQiCglleGl0IDMKZmkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhZGRyZXNzX3ByZWZpeCAgICAgICA9ICIxMC4wLjEuMC8yNCIK</text>
+        <text encoding="base64">IyBGb3JrZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhZGRyZXNzX3ByZWZpeCAgICAgICA9ICIxMC4wLjEuMC8yNCIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBuYW1lICAgICAgICAgICAgICAgICA9ICJrdWJlcm5ldGVzIgo=</text>
+        <text encoding="base64">dmFyaWFibGUgIm5hbWVfc3VmZml4IiB7CiAgZGVmYXVsdCA9ICJrdWJlIgp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhZGRyZXNzX3ByZWZpeCAgICAgICA9ICIxMC4wLjEuMC8yNCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGF0YSAiYXp1cmVybV9zdWJuZXQiICJtYWluIiB7CiAgbmFtZSAgICAgICAgICAgICAgICAgPSAiJHtkYXRhLmF6dXJlcm1fcmVzb3VyY2VfZ3JvdXAubWFpbi5uYW1lfS12bmV0IgogIHZpcnR1YWxfbmV0d29ya19uYW1lID0gIiR7ZGF0YS5henVyZXJtX3Jlc291cmNlX2dyb3VwLm1haW4ubmFtZX0tdm5ldCIKICByZXNvdXJjZV9ncm91cF9uYW1lICA9ICIke2RhdGEuYXp1cmVybV9yZXNvdXJjZV9ncm91cC5tYWluLm5hbWV9Igp9Cg==</text>
+        <text encoding="base64">ICBhZGRyZXNzX3ByZWZpeCAgICAgICA9ICIxMC4wLjEuMC8yNCIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -557,10 +564,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnJlc291cmNlICIiICIiIHt9Cg==</text>
+        <text encoding="base64">ICBuYW1lICAgICAgICAgICAgICAgICA9ICJrdWJlcm5ldGVzIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2aXJ0dWFsX25ldHdvcmtfbmFtZSA9ICIke2RhdGEuYXp1cmVybV9yZXNvdXJjZV9ncm91cC5tYWluLm5hbWV9LXZuZXQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
