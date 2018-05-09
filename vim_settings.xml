@@ -128,6 +128,12 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/main.tf" timestamp="1525898302172">
+        <mark key="[" line="161" column="31" />
+        <mark key="]" line="161" column="31" />
+        <mark key="." line="161" column="31" />
+        <mark key="^" line="161" column="31" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/config.js.dist" timestamp="1525895828262">
         <mark key="[" line="9" column="57" />
         <mark key="]" line="9" column="56" />
@@ -332,10 +338,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SCRAPE_TIMEOUT</text>
+        <text>${var.count}</text>
       </register>
       <register name="-" type="4">
-        <text>SCRAPE_TIMEOUT</text>
+        <text>${var.count}</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
