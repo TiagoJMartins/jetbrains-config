@@ -107,7 +107,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/cloud-init.yaml" timestamp="1525900538180" />
+      <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/cloud-init.yaml" timestamp="1525902053429" />
       <file name="$USER_HOME$/www/work/capitalise/dbs/outputs.tf" timestamp="1525777193375">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="23" />
@@ -129,11 +129,11 @@
         <mark key="^" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/main.tf" timestamp="1525900031885">
-        <mark key="[" line="161" column="31" />
-        <mark key="]" line="161" column="32" />
-        <mark key="." line="161" column="32" />
-        <mark key="^" line="161" column="31" />
+      <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/main.tf" timestamp="1525902010696">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="102" column="18" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/config.js.dist" timestamp="1525895828262">
         <mark key="[" line="9" column="57" />
@@ -338,8 +338,8 @@
       <jump line="40" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-webhooks/server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>${var.count}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBhcm4gPSAiIgo=</text>
       </register>
       <register name="-" type="4">
         <text>${var.count}</text>
@@ -351,7 +351,7 @@
         <text encoding="base64">ICAgICAgICAtIG5hbWU6IFNDUkFQRV9USU1FT1VUCiAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgIGNvbmZpZ01hcEtleVJlZjoKICAgICAgICAgICAgICBrZXk6IHNjcmFwZS50aW1lb3V0Lm1zCiAgICAgICAgICAgICAgbmFtZTogd2ViaG9va3MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBhcm4gPSAiIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -369,22 +369,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bW9uZ29vc2UuY29ubmVjdChjb25maWcuTU9OR09fREIpCiAgICAudGhlbigoKSA9PiB7CiAgICAgICAgY29uc29sZS5sb2coJ01PTkdPIENPTk5FQ1RFRCBUTzogJywgY29uZmlnLk1PTkdPX0RCKTsKICAgICAgICBVc2VyLmNvdW50KHt9KS50aGVuKChjb3VudCkgPT4gewogICAgICAgICAgICBjb25zb2xlLmxvZyhgJHtjb3VudH0gdXNlcnMgZm91bmQuYCkKICAgICAgICAgICAgaHR0cC5jcmVhdGVTZXJ2ZXIoYXBwLmNhbGxiYWNrKCkpLmxpc3RlbigzMDAwKTsKICAgICAgICB9KQogICAgfSkKICAgIC5jYXRjaChlcnIgPT4gY29uc29sZS5sb2coJ0ZBSUxFRCBDT05ORUNUIFRPIE1PTkdPIC0+JywgZXJyKSkKOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">bW9uZ29vc2UuY29ubmVjdChjb25maWcuTU9OR09fREIpCiAgICAudGhlbigoKSA9PiB7CiAgICAgICAgY29uc29sZS5sb2coJ01PTkdPIENPTk5FQ1RFRCBUTzogJywgY29uZmlnLk1PTkdPX0RCKTsKICAgICAgICBVc2VyLmNvdW50KHt9KS50aGVuKChjb3VudCkgPT4gewogICAgICAgICAgICBjb25zb2xlLmxvZyhgJHtjb3VudH0gdXNlcnMgZm91bmQuYCkKICAgICAgICAgICAgaHR0cC5jcmVhdGVTZXJ2ZXIoYXBwLmNhbGxiYWNrKCkpLmxpc3RlbigzMDAwKTsKICAgICAgICB9KQogICAgfSkKICAgIC5jYXRjaChlcnIgPT4gY29uc29sZS5sb2coJ0ZBSUxFRCBDT05ORUNUIFRPIE1PTkdPIC0+JywgZXJyKSkKOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmNvbnN0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnN0IAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -396,10 +396,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnJvdXRlcgogICAgLmdldCgnLycsIChjdHgpID0+IHsgY3R4LmJvZHkgPSBgSSdtIHVwYCB9KQogICAgLmdldCgnL2ZhY2Vib29rJywgZmFjZWJvb2tIYW5kbGVyLnZlcmlmeSkKICAgIC5wb3N0KCcvZmFjZWJvb2snLCBmYWNlYm9va0hhbmRsZXIudXBkYXRlKQogICAgLmdldCgnL2luc3RhZ3JhbScsIGluc3RhZ3JhbUhhbmRsZXIudmVyaWZ5KQogICAgLnBvc3QoJy9pbnN0YWdyYW0nLCBpbnN0YWdyYW1IYW5kbGVyLnVwZGF0ZSkKOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
