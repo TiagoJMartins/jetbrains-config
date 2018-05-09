@@ -346,11 +346,11 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1525859488761">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1525860091165">
         <mark key="'" line="43" column="8" />
-        <mark key="[" line="51" column="36" />
-        <mark key="]" line="51" column="35" />
-        <mark key="." line="51" column="35" />
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="37" column="15" />
+        <mark key="." line="37" column="15" />
         <mark key="^" line="51" column="35" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/mount_disk.sh" timestamp="1525797839833">
@@ -487,10 +487,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>datasources</text>
+        <text>rc</text>
       </register>
       <register name="-" type="4">
-        <text>datasources</text>
+        <text>rc</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
