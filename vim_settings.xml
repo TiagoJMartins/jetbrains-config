@@ -120,7 +120,7 @@
         <mark key="." line="0" column="17" />
         <mark key="^" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.sh" timestamp="1525797895250">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.sh" timestamp="1525858438302">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -277,12 +277,12 @@
         <mark key="^" line="11" column="31" />
         <mark key="." line="242" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" timestamp="1525797692745">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" timestamp="1525858913170">
         <mark key="'" line="153" column="0" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-        <mark key="^" line="136" column="43" />
+        <mark key="[" line="166" column="11" />
+        <mark key="]" line="166" column="61" />
+        <mark key="." line="166" column="61" />
+        <mark key="^" line="166" column="61" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1525682065112">
         <mark key="'" line="438" column="14" />
@@ -333,12 +333,12 @@
         <mark key="^" line="333" column="55" />
         <mark key="." line="333" column="55" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" timestamp="1525810657285">
-        <mark key="'" line="164" column="2" />
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="13" column="1" />
-        <mark key="^" line="13" column="1" />
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" timestamp="1525859444587">
+        <mark key="'" line="80" column="44" />
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-mobile/App/Containers/Screens/Stats/MyStatsScreen/MyStatsScreen.js" timestamp="1525367406416">
         <mark key="[" line="40" column="0" />
@@ -346,12 +346,12 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1525810745491">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="65" column="41" />
-        <mark key="]" line="65" column="41" />
-        <mark key="." line="65" column="41" />
-        <mark key="^" line="65" column="41" />
+      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1525859488761">
+        <mark key="'" line="43" column="8" />
+        <mark key="[" line="51" column="36" />
+        <mark key="]" line="51" column="35" />
+        <mark key="." line="51" column="35" />
+        <mark key="^" line="51" column="35" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/mount_disk.sh" timestamp="1525797839833">
         <mark key="[" line="2" column="0" />
@@ -376,25 +376,14 @@
         <mark key="^" line="123" column="28" />
         <mark key="." line="123" column="28" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.template.sh" timestamp="1525810641400">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.template.sh" timestamp="1525858332097">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="44" column="121" />
-        <mark key="]" line="44" column="120" />
-        <mark key="." line="44" column="120" />
-        <mark key="^" line="44" column="120" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="18" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/skorr.py" />
-      <jump line="347" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/skorr.py" />
-      <jump line="390" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
-      <jump line="422" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
-      <jump line="254" column="34" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/tumblr.py" />
-      <jump line="280" column="48" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/tumblr.py" />
-      <jump line="192" column="32" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/tumblr.py" />
-      <jump line="125" column="51" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" />
-      <jump line="154" column="45" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
-      <jump line="560" column="45" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
       <jump line="263" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/tumblr.py" />
       <jump line="247" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/tumblr.py" />
       <jump line="438" column="14" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
@@ -485,22 +474,32 @@
       <jump line="31" column="38" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.template.sh" />
       <jump line="44" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.template.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.template.sh" />
+      <jump line="176" column="31" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
+      <jump line="18" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
+      <jump line="23" column="27" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
+      <jump line="180" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
+      <jump line="52" column="42" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
+      <jump line="81" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
+      <jump line="63" column="33" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
+      <jump line="64" column="46" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
+      <jump line="43" column="8" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
+      <jump line="79" column="44" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>datasources</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>datasources</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CkRJU0tfTE9DQVRJT049JChsc2JsayAtUyB8IGdyZXAgNjMgfCBhd2sgJ3twcmludCAkMX0nKQpESVNLX1BBVEg9L2Rldi8kRElTS19MT0NBVElPTgpEQVRBX1BBVEg9L2RhdGEKCmVjaG8gIlRhcmdldCBkaXNrIHBhdGg6ICRESVNLX1BBVEgiCgpmdW5jdGlvbiBpc19kaXNrX3BhcnRpdGlvbmVkKCkgewogICAgZmRpc2sgLWwgfCBncmVwIC1xICIkRElTS19QQVRIWzAtOV0iCn0KCmlmIGlzX2Rpc2tfcGFydGl0aW9uZWQ7IHRoZW4KICAgIGVjaG8gIkRpc2sgaXMgcGFydGl0aW9uZWQuIgplbHNlCiAgICBlY2hvICJEaXNrIGhhcyBubyBwYXJ0aXRpb25zLiBDcmVhdGluZyBwcmltYXJ5IHBhcnRpdGlvbi4uLiIKICAgIGVjaG8gIm4KICAgIHAKICAgIDEKCgogICAgdyIgfCBmZGlzayAkRElTS19QQVRICgogICAgaWYgaXNfZGlza19wYXJ0aXRpb25lZDsgdGhlbgogICAgICAgIERJU0tfUEFSVElUSU9OPSR7RElTS19QQVRIfTEKCiAgICAgICAgZWNobyAiRGlzayBwYXJ0aXRpb25lZCBzdWNjZXNzZnVsbHkuIEZvcm1hdHRpbmcgdG8gZXh0NC4uLiIKICAgICAgICBta2ZzLmV4dDQgJERJU0tfUEFSVElUSU9OCgogICAgICAgIGVjaG8gIkNyZWF0aW5nIGRhdGEgZm9sZGVyLi4uIgogICAgICAgIG1rZGlyIC1wICREQVRBX1BBVEgKCiAgICAgICAgZWNobyAiTW91bnRpbmcgZGlzayB0byBkYXRhIGZvbGRlci4uLiIKICAgICAgICBtb3VudCAkRElTS19QQVJUSVRJT04gJERBVEFfUEFUSAogICAgZWxzZQogICAgICAgIGVjaG8gIkVycm9yIGNyZWF0aW5nIHBhcnRpdGlvbiwgZXhpdGluZyB3aXRoIGVycm9yIGNvZGU6IDEiCiAgICAgICAgZXhpdCAxCiAgICBmaQpmaQoKZWNobyAiRmluaXNoZWQiCmV4aXQgMAo=</text>
+        <text encoding="base64">ICAgIHNvdXJjZV9wb3J0X3JhbmdlID0gIjIyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -518,22 +517,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhpdCAwCgoKRElTS19MT0NBVElPTj0kKGxzYmxrIC1TIHwgZ3JlcCA2MyB8IGF3ayAne3ByaW50ICQxfScpCkRJU0tfUEFUSD0vZGV2LyRESVNLX0xPQ0FUSU9OCkRBVEFfUEFUSD0vZGF0YQoKZWNobyAiVGFyZ2V0IGRpc2sgcGF0aDogJERJU0tfUEFUSCIKCmZ1bmN0aW9uIGlzX2Rpc2tfcGFydGl0aW9uZWQoKSB7CiAgICBmZGlzayAtbCB8IGdyZXAgLXEgIiRESVNLX1BBVEhbMC05XSIKfQoKaWYgaXNfZGlza19wYXJ0aXRpb25lZDsgdGhlbgogICAgZWNobyAiRGlzayBpcyBwYXJ0aXRpb25lZC4iCmVsc2UKICAgIGVjaG8gIkRpc2sgaGFzIG5vIHBhcnRpdGlvbnMuIENyZWF0aW5nIHByaW1hcnkgcGFydGl0aW9uLi4uIgogICAgZWNobyAibgogICAgcAogICAgMQoKCiAgICB3IiB8IGZkaXNrICRESVNLX1BBVEgKCiAgICBpZiBpc19kaXNrX3BhcnRpdGlvbmVkOyB0aGVuCiAgICAgICAgRElTS19QQVJUSVRJT049JHtESVNLX1BBVEh9MQoKICAgICAgICBlY2hvICJEaXNrIHBhcnRpdGlvbmVkIHN1Y2Nlc3NmdWxseS4gRm9ybWF0dGluZyB0byBleHQ0Li4uIgogICAgICAgIG1rZnMuZXh0NCAkRElTS19QQVJUSVRJT04KCiAgICAgICAgZWNobyAiQ3JlYXRpbmcgZGF0YSBmb2xkZXIuLi4iCiAgICAgICAgbWtkaXIgLXAgJERBVEFfUEFUSAoKICAgICAgICBlY2hvICJNb3VudGluZyBkaXNrIHRvIGRhdGEgZm9sZGVyLi4uIgogICAgICAgIG1vdW50ICRESVNLX1BBUlRJVElPTiAkREFUQV9QQVRICiAgICBlbHNlCiAgICAgICAgZWNobyAiRXJyb3IgY3JlYXRpbmcgcGFydGl0aW9uLCBleGl0aW5nIHdpdGggZXJyb3IgY29kZTogMSIKICAgICAgICBleGl0IDEKICAgIGZpCmZpCgplY2hvICJGaW5pc2hlZCIKZXhpdCAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fZG5zX2FfcmVjb3JkIiAibWFpbiIgewogIG5hbWUgICAgICAgICAgICAgICAgPSAiZGF0YXNvdXJjZSIKICByZWNvcmRzICAgICAgICAgICAgID0gWyIke21vZHVsZS5kYXRhc291cmNlLnByaXZhdGVfaXB9Il0KICByZXNvdXJjZV9ncm91cF9uYW1lID0gIiR7ZGF0YS5henVyZXJtX3Jlc291cmNlX2dyb3VwLnJnLm5hbWV9IgogIHR0bCAgICAgICAgICAgICAgICAgPSAwCiAgem9uZV9uYW1lICAgICAgICAgICA9ICIke2F6dXJlcm1fZG5zX3pvbmUubWFpbi5uYW1lfSIKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAiQ3JlYXRpbmcgZGF0YSBmb2xkZXIuLi4iCnN1ZG8gbWtkaXIgLXAgL2RhdGEKCmVjaG8gIk1vdW50aW5nIGRpc2sgdG8gZGF0YSBmb2xkZXIuLi4iCnN1ZG8gbW91bnQK</text>
+        <text encoding="base64">b3V0cHV0ICJkYXRhc291cmNlX3ByaXZhdGVfaXAiIHsKICB2YWx1ZSA9ICIke21vZHVsZS5kYXRhc291cmNlLnByaXZhdGVfaXB9Igp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">b3V0cHV0ICJiYXN0aW9uX2RucyIgewogIHZhbHVlID0gIiR7YXp1cmVybV9kbnNfYV9yZWNvcmQuLm5hbWV9LiR7YXp1cmVybV9kbnNfem9uZS5tYWluLm5hbWV9Igp9Cgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3V0cHV0ICJiYXN0aW9uX2RucyIgewogIHZhbHVlID0gIiR7YXp1cmVybV9kbnNfYV9yZWNvcmQuZGF0YXNvdXJjZS5uYW1lfS4ke2F6dXJlcm1fZG5zX3pvbmUubWFpbi5uYW1lfSIKfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -545,13 +544,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ZGF0YSAidGVtcGxhdGVfZmlsZSIgInByb3Zpc2lvbl9tYW5hZ2VkX2Rpc2siIHsKICB0ZW1wbGF0ZSA9ICIke2ZpbGUoIiR7cGF0aC5tb2R1bGV9L3Byb3Zpc2lvbl9tYW5hZ2VkX2Rpc2suc2giKX0iCgogIHZhcnMgewogICAgdGFyZ2V0X2x1biA9ICIke2xvY2FsLmRhdGFfZGlza19sdW59IgogIH0KfQoK</text>
       </register>
       <register name=":" type="4">
-        <text>106</text>
+        <text>51</text>
       </register>
     </registers>
     <search>
@@ -584,7 +583,6 @@
         <entry>pprint</entry>
       </history-search>
       <history-cmd>
-        <entry>62</entry>
         <entry>477</entry>
         <entry>355</entry>
         <entry>48</entry>
@@ -604,6 +602,7 @@
         <entry>473</entry>
         <entry>183</entry>
         <entry>106</entry>
+        <entry>51</entry>
       </history-cmd>
       <history-expr />
       <history-input />
