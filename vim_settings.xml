@@ -131,6 +131,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1525962860726">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="46" />
+        <mark key="^" line="0" column="30" />
+        <mark key="." line="0" column="46" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.template.sh" timestamp="1525858332097">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="0" />
@@ -139,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="30" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
       <jump line="124" column="39" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
       <jump line="138" column="19" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
       <jump line="34" column="68" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
@@ -239,13 +245,14 @@
       <jump line="50" column="1" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
       <jump line="55" column="1" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
       <jump line="83" column="23" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
+      <jump line="10" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlY3VyaXR5X2dyb3VwcyA9IFsiJHt2YXIuZWxiX3NlY3VyaXR5X2dyb3VwX2lkc30iXQo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>main</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
