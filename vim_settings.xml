@@ -33,6 +33,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/variables.tf" timestamp="1525950640973" />
       <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/cloud-init.yaml" timestamp="1525938907353" />
       <file name="$USER_HOME$/www/work/capitalise/dbs/outputs.tf" timestamp="1525777193375">
         <mark key="'" line="0" column="0" />
@@ -75,7 +76,7 @@
         <mark key="." line="379" column="12" />
         <mark key="^" line="386" column="146" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/main.tf" timestamp="1525944282672">
+      <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/main.tf" timestamp="1525950551605">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
@@ -120,6 +121,13 @@
         <mark key="." line="36" column="66" />
         <mark key="^" line="36" column="66" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/.gitignore" timestamp="1525949817350">
+        <mark key="'" line="2" column="15" />
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1525682065112">
         <mark key="'" line="438" column="14" />
         <mark key="[" line="21" column="27" />
@@ -155,6 +163,7 @@
         <mark key="." line="50" column="60" />
         <mark key="^" line="50" column="60" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/example/main.tf" timestamp="1525950260152" />
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.sh" timestamp="1525883938917">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -188,6 +197,14 @@
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" timestamp="1525950774280">
+        <mark key="'" line="88" column="23" />
+        <mark key="[" line="95" column="57" />
+        <mark key="]" line="95" column="56" />
+        <mark key="." line="95" column="56" />
+        <mark key="^" line="95" column="56" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/.gitignore" timestamp="1525949769228" />
       <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/networks/facebook.js" timestamp="1525895993459">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -241,11 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="27" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
-      <jump line="103" column="80" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
-      <jump line="133" column="63" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
-      <jump line="106" column="58" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
       <jump line="115" column="30" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
       <jump line="124" column="39" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
       <jump line="138" column="19" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
@@ -341,22 +353,27 @@
       <jump line="6" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/README.md" />
       <jump line="0" column="5" filename="$USER_HOME$/www/work/capitalise/dbs/README.md" />
       <jump line="40" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-webhooks/server.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/.gitignore" />
+      <jump line="2" column="15" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/.gitignore" />
+      <jump line="50" column="1" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
+      <jump line="55" column="1" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
+      <jump line="83" column="23" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhcm4gPSAiIgo=</text>
+        <text encoding="base64">ICAgIHNlY3VyaXR5X2dyb3VwcyA9IFsiJHt2YXIuZWxiX3NlY3VyaXR5X2dyb3VwX2lkc30iXQo=</text>
       </register>
       <register name="-" type="4">
-        <text>${var.count}</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtIG5hbWU6IFNDUkFQRV9USU1FT1VUCiAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgIGNvbmZpZ01hcEtleVJlZjoKICAgICAgICAgICAgICBrZXk6IHNjcmFwZS50aW1lb3V0Lm1zCiAgICAgICAgICAgICAgbmFtZTogd2ViaG9va3MK</text>
+        <text encoding="base64">ICAgIGNpZHJfYmxvY2tzID0gWyIke2RhdGEuYXdzX3ZwYy5rdWJlX3ZwYy5jaWRyX2Jsb2NrfSJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBhcm4gPSAiIgo=</text>
+        <text encoding="base64">ICAgIHNlY3VyaXR5X2dyb3VwcyA9IFsiJHt2YXIuZWxiX3NlY3VyaXR5X2dyb3VwX2lkc30iXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -374,22 +391,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHNlY3VyaXR5X2dyb3VwcyA9IFsiJHt2YXIuZWxiX3NlY3VyaXR5X2dyb3VwX2lkc30iXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bW9uZ29vc2UuY29ubmVjdChjb25maWcuTU9OR09fREIpCiAgICAudGhlbigoKSA9PiB7CiAgICAgICAgY29uc29sZS5sb2coJ01PTkdPIENPTk5FQ1RFRCBUTzogJywgY29uZmlnLk1PTkdPX0RCKTsKICAgICAgICBVc2VyLmNvdW50KHt9KS50aGVuKChjb3VudCkgPT4gewogICAgICAgICAgICBjb25zb2xlLmxvZyhgJHtjb3VudH0gdXNlcnMgZm91bmQuYCkKICAgICAgICAgICAgaHR0cC5jcmVhdGVTZXJ2ZXIoYXBwLmNhbGxiYWNrKCkpLmxpc3RlbigzMDAwKTsKICAgICAgICB9KQogICAgfSkKICAgIC5jYXRjaChlcnIgPT4gY29uc29sZS5sb2coJ0ZBSUxFRCBDT05ORUNUIFRPIE1PTkdPIC0+JywgZXJyKSkKOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">dmFyaWFibGUgInNzaF9zZWN1cml0eV9ncm91cF9pZHMiIHsKICB0eXBlID0gImxpc3QiCn0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CmNvbnN0IAo=</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -401,13 +418,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gCiAgdHlwZSA9ICJsaXN0Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">dmFyaWFibGUgInN1Ym5ldF9pZHMiIHt9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>51</text>
+        <text>54</text>
       </register>
     </registers>
     <search>
@@ -440,7 +457,6 @@
         <entry>pprint</entry>
       </history-search>
       <history-cmd>
-        <entry>477</entry>
         <entry>355</entry>
         <entry>48</entry>
         <entry>397</entry>
@@ -460,6 +476,7 @@
         <entry>183</entry>
         <entry>106</entry>
         <entry>51</entry>
+        <entry>54</entry>
       </history-cmd>
       <history-expr />
       <history-input />
