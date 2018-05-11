@@ -18,7 +18,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/terraform.tfvars" timestamp="1526038107383">
+      <file name="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/terraform.tfvars" timestamp="1526039421424">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="20" />
         <mark key="." line="2" column="20" />
@@ -46,6 +46,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/cloud-init.yaml" timestamp="1526040853988">
+        <mark key="[" line="61" column="61" />
+        <mark key="]" line="61" column="61" />
+        <mark key="^" line="61" column="61" />
+        <mark key="." line="61" column="61" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/config.js" timestamp="1525896467871">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="25" />
@@ -65,12 +71,12 @@
         <mark key="^" line="333" column="55" />
         <mark key="." line="333" column="55" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" timestamp="1526038214465">
-        <mark key="'" line="24" column="26" />
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="^" line="233" column="0" />
-        <mark key="." line="237" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" timestamp="1526040541576">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="153" column="24" />
+        <mark key="]" line="153" column="3" />
+        <mark key="." line="153" column="3" />
+        <mark key="^" line="153" column="3" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/main.tf" timestamp="1526037868435">
         <mark key="[" line="142" column="17" />
@@ -111,7 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
       <jump line="126" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
       <jump line="158" column="47" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
       <jump line="8" column="24" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
@@ -194,7 +199,6 @@
       <jump line="18" column="15" filename="$USER_HOME$/www/work/skorr/skorr-social-webhooks/deploy/webhooks-deployment.yml" />
       <jump line="49" column="14" filename="$USER_HOME$/www/work/skorr/skorr-social-webhooks/deploy/webhooks-deployment.yml" />
       <jump line="84" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
-      <jump line="59" column="30" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
       <jump line="117" column="35" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
       <jump line="7" column="29" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
       <jump line="116" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
@@ -211,22 +215,24 @@
       <jump line="27" column="25" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
       <jump line="133" column="19" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
       <jump line="24" column="26" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
+      <jump line="220" column="33" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
+      <jump line="59" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2NrZXIgZXhlYyByYWJiaXRtcSByYWJiaXRtcWN0bCBhZGRfdmhvc3QgLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>dns_name</text>
+        <text>skorr</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">b3V0cHV0ICJlbGIiIHsKICB2YWx1ZSA9ICIke2F3c19lbGIuZWxiLmRuc19uYW1lfSIKfQo=</text>
+        <text encoding="base64">ICAgICAgICBkb2NrZXIgZXhlYyByYWJiaXRtcSByYWJiaXRtcWN0bCBhZGRfdmhvc3QgLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2NrZXIgZXhlYyByYWJiaXRtcSByYWJiaXRtcWN0bCBhZGRfdmhvc3QgLwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -244,22 +250,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlY3VyaXR5X2dyb3VwcyA9IFsiJHt2YXIua3ViZV9zZ19saXN0fSJdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">b3V0cHV0ICJlbGIiIHsKICB2YWx1ZSA9ICIke2F3c19lbGIuZWxiLmRuc19uYW1lfSIKfQoK</text>
+        <text encoding="base64">ICAgIHNlY3VyaXR5X2dyb3VwcyA9IFsiJHt2YXIua3ViZV9zZ19saXN0fSJdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b3V0cHV0ICJlbGIiIHsKICB2YWx1ZSA9ICIke2F3c19lbGIuZWxiLmRuc19uYW1lfSIKfQoKb3V0cHV0ICJub2RlLWlwcyIgewo=</text>
+        <text encoding="base64">ICAgIHNlbGYgICAgICAgICAgICA9IHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">b3V0cHV0ICJub2RlLWlwcyIgewogIHZhbHVlID0gIiR7YXdzX2VsYi5lbGIuaW5zdGFuY2VzfSIKfQoK</text>
+        <text encoding="base64">ICAgIHByb3RvY29sICA9ICItMSIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3V0cHV0ICJhc2QiIHsKICB2YWx1ZSA9ICIke2F3c19lbGIuZWxiLn0iCn0K</text>
+        <text encoding="base64">b3V0cHV0ICJub2RlLWlwcyIgewogIHZhbHVlID0gIiR7YXdzX2VsYi5lbGIuaW5zdGFuY2VzfSIKfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -271,7 +277,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF3c19zZWN1cml0eV9ncm91cCIgInNjeXRhbGUiIHsKICBpZCA9ICIiCn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
