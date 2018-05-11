@@ -18,12 +18,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/terraform.tfvars" timestamp="1526052454047">
+      <file name="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/terraform.tfvars" timestamp="1526053509426">
         <mark key="'" line="2" column="35" />
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="5" column="43" />
-        <mark key="." line="5" column="43" />
-        <mark key="^" line="5" column="43" />
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="27" />
+        <mark key="." line="7" column="27" />
+        <mark key="^" line="7" column="27" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" timestamp="1525944297646">
         <mark key="'" line="134" column="0" />
@@ -72,12 +72,12 @@
         <mark key="^" line="333" column="55" />
         <mark key="." line="333" column="55" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" timestamp="1526050812108">
-        <mark key="'" line="204" column="35" />
-        <mark key="[" line="55" column="29" />
-        <mark key="]" line="55" column="51" />
-        <mark key="." line="55" column="51" />
-        <mark key="^" line="55" column="51" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" timestamp="1526053727648">
+        <mark key="'" line="208" column="35" />
+        <mark key="[" line="179" column="13" />
+        <mark key="]" line="180" column="31" />
+        <mark key="." line="180" column="31" />
+        <mark key="^" line="180" column="31" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/main.tf" timestamp="1526037868435">
         <mark key="[" line="142" column="17" />
@@ -220,11 +220,11 @@
       <jump line="205" column="35" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>small</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNyZWF0ZV9iZWZvcmVfZGVzdHJveSA9IHRydWUK</text>
       </register>
       <register name="-" type="4">
-        <text>small</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
@@ -233,7 +233,7 @@
         <text encoding="base64">dmFyaWFibGUgInJhYmJpdG1xX2FkbWluX3Bhc3N3b3JkIiB7fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyaWFibGUgInJhYmJpdG1xX2FkbWluX3Bhc3N3b3JkIiB7fQo=</text>
+        <text encoding="base64">ICAgIGNyZWF0ZV9iZWZvcmVfZGVzdHJveSA9IHRydWUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -251,22 +251,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyaWFibGUgInJhYmJpdG1xX2FkbWluX3Bhc3N3b3JkIiB7fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsYXVuY2hfY29uZmlndXJhdGlvbiA9ICIKICAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmFiYml0bXFfYWRtaW5fcGFzc3dvcmQgID0gIjQtY3Jvd2QtS0lORy1yYWluLTMwIgo=</text>
+        <text encoding="base64">ICBsYXVuY2hfY29uZmlndXJhdGlvbiA9ICIKICAiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhc3NvY2lhdGVfcHVibGljX2lwX2FkZHJlc3MgPSB0cnVlCg==</text>
+        <text encoding="base64">cmFiYml0bXFfYWRtaW5fcGFzc3dvcmQgID0gIjQtY3Jvd2QtS0lORy1yYWluLTMwIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkb2NrZXIgZXhlYyByYWJiaXRtcSByYWJiaXRtcWN0bCBhZGRfdmhvc3QgLwo=</text>
+        <text encoding="base64">ICBhc3NvY2lhdGVfcHVibGljX2lwX2FkZHJlc3MgPSB0cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNlY3VyaXR5X2dyb3VwcyA9IFsiJHt2YXIua3ViZV9zZ19saXN0fSJdCg==</text>
+        <text encoding="base64">ICAgICAgICBkb2NrZXIgZXhlYyByYWJiaXRtcSByYWJiaXRtcWN0bCBhZGRfdmhvc3QgLwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -281,7 +281,7 @@
         <text encoding="base64">ICAgIHNlY3VyaXR5X2dyb3VwcyA9IFsiJHt2YXIua3ViZV9zZ19saXN0fSJdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbGYgICAgICAgICAgICA9IHRydWUK</text>
+        <text encoding="base64">ICAgIHNlY3VyaXR5X2dyb3VwcyA9IFsiJHt2YXIua3ViZV9zZ19saXN0fSJdCg==</text>
       </register>
       <register name=":" type="4">
         <text>54</text>
