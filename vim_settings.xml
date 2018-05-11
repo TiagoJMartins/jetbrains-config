@@ -19,12 +19,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" timestamp="1526061197577">
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" timestamp="1526061942999">
         <mark key="'" line="170" column="87" />
-        <mark key="[" line="170" column="48" />
-        <mark key="]" line="170" column="52" />
-        <mark key="." line="170" column="52" />
-        <mark key="^" line="170" column="52" />
+        <mark key="[" line="170" column="46" />
+        <mark key="]" line="170" column="46" />
+        <mark key="." line="170" column="46" />
+        <mark key="^" line="170" column="46" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/config.js" timestamp="1525896467871">
         <mark key="[" line="10" column="21" />
@@ -77,7 +77,7 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/terraform.tfvars" timestamp="1526061044618">
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/terraform.tfvars" timestamp="1526061957506">
         <mark key="[" line="7" column="26" />
         <mark key="]" line="7" column="27" />
         <mark key="." line="7" column="27" />
@@ -257,8 +257,8 @@
       <jump line="170" column="87" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>name</text>
@@ -270,7 +270,7 @@
         <text encoding="base64">ICBsaWZlY3ljbGUgewogICAgY3JlYXRlX2JlZm9yZV9kZXN0cm95ID0gdHJ1ZQogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBuYW1lICAgICAgICAgICAgICAgICAgICAgID0gInJhYmJpdG1xLWFzZyIK</text>
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -288,22 +288,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsaWZlY3ljbGUgewogICAgaWdub3JlX2NoYW5nZXMgPSBbInVzZXJfZGF0YSJdCiAgfQo=</text>
+        <text encoding="base64">ICBuYW1lICAgICAgICAgICAgICAgICAgICAgID0gInJhYmJpdG1xLWFzZyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsaWZlY3ljbGUgewogICAgaWdub3JlX2NoYW5nZXMgPSBbInVzZXJfZGF0YSJdCiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlnbm9yZV9jaGFuZ2VzID0gWyJ1c2VyX2RhdGEiXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGlnbm9yZV9jaGFuZ2VzID0gWyJ1c2VyX2RhdGEiXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtIHBhdGg6IC9ldGMvZGVmYXVsdC9yYWJiaXRtcS1zZXJ2ZXIKICAgIGNvbnRlbnQ6IHwKICAgICAgICB1bGltaXQgLW4gMTA0ODU3Ngo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbcmFiYml0bXFfbWFuYWdlbWVudF0uCg==</text>
+        <text encoding="base64">ICAtIHBhdGg6IC9ldGMvZGVmYXVsdC9yYWJiaXRtcS1zZXJ2ZXIKICAgIGNvbnRlbnQ6IHwKICAgICAgICB1bGltaXQgLW4gMTA0ODU3Ngo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -315,10 +315,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBbcmFiYml0bXFfbWFuYWdlbWVudF0uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZhY3RvcnkudmlydHVhbEhvc3QgPSAiLyIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>54</text>
