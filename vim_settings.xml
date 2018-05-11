@@ -18,47 +18,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/variables.tf" timestamp="1525950640973" />
-      <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/cloud-init.yaml" timestamp="1525938907353" />
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/config.js" timestamp="1525896467871">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="25" />
-        <mark key="." line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1525943920747">
-        <mark key="'" line="156" column="40" />
-        <mark key="[" line="444" column="0" />
-        <mark key="]" line="444" column="0" />
-        <mark key="^" line="451" column="101" />
-        <mark key="." line="444" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/main.tf" timestamp="1525950551605">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="102" column="18" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/config.js.dist" timestamp="1525895828262">
-        <mark key="[" line="9" column="57" />
-        <mark key="]" line="9" column="56" />
-        <mark key="^" line="9" column="56" />
-        <mark key="." line="9" column="56" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/server.js" timestamp="1525896379016">
-        <mark key="[" line="36" column="66" />
-        <mark key="]" line="36" column="66" />
-        <mark key="." line="36" column="66" />
-        <mark key="^" line="36" column="66" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/.gitignore" timestamp="1525949817350">
-        <mark key="'" line="2" column="15" />
-        <mark key="[" line="5" column="10" />
-        <mark key="]" line="5" column="10" />
-        <mark key="^" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/scrapers-cron.yml" timestamp="1525970722295" />
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/instagram.py" timestamp="1525944297646">
         <mark key="'" line="134" column="0" />
         <mark key="[" line="462" column="82" />
@@ -66,7 +25,6 @@
         <mark key="." line="462" column="89" />
         <mark key="^" line="462" column="89" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/example/main.tf" timestamp="1525959939638" />
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.sh" timestamp="1525883938917">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -82,24 +40,61 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/config.js" timestamp="1525896467871">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/skorr.py" timestamp="1525943920747">
+        <mark key="'" line="156" column="40" />
+        <mark key="[" line="444" column="0" />
+        <mark key="]" line="444" column="0" />
+        <mark key="^" line="451" column="101" />
+        <mark key="." line="444" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1525903547005">
         <mark key="[" line="333" column="56" />
         <mark key="]" line="333" column="55" />
         <mark key="^" line="333" column="55" />
         <mark key="." line="333" column="55" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" timestamp="1525952645777">
-        <mark key="'" line="88" column="23" />
-        <mark key="[" line="95" column="57" />
-        <mark key="]" line="95" column="56" />
-        <mark key="." line="95" column="56" />
-        <mark key="^" line="95" column="56" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" timestamp="1526028829070">
+        <mark key="'" line="205" column="29" />
+        <mark key="[" line="215" column="26" />
+        <mark key="]" line="215" column="29" />
+        <mark key="." line="215" column="29" />
+        <mark key="^" line="215" column="29" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/.gitignore" timestamp="1525949769228" />
+      <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/main.tf" timestamp="1526028555514">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+        <mark key="^" line="103" column="18" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/config.js.dist" timestamp="1525895828262">
+        <mark key="[" line="9" column="57" />
+        <mark key="]" line="9" column="56" />
+        <mark key="^" line="9" column="56" />
+        <mark key="." line="9" column="56" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/mount_disk.sh" timestamp="1525797839833">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/server.js" timestamp="1525896379016">
+        <mark key="[" line="36" column="66" />
+        <mark key="]" line="36" column="66" />
+        <mark key="." line="36" column="66" />
+        <mark key="^" line="36" column="66" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/.gitignore" timestamp="1525949817350">
+        <mark key="'" line="2" column="15" />
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="5" column="10" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1525963464753">
         <mark key="'" line="0" column="15" />
@@ -110,18 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="68" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
-      <jump line="46" column="35" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
-      <jump line="47" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/outputs.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/outputs.tf" />
-      <jump line="48" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
-      <jump line="119" column="13" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
-      <jump line="143" column="74" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
-      <jump line="16" column="23" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
-      <jump line="153" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
-      <jump line="123" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
       <jump line="7" column="21" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
       <jump line="152" column="2" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
       <jump line="31" column="20" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
@@ -210,22 +193,34 @@
       <jump line="10" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
       <jump line="18" column="15" filename="$USER_HOME$/www/work/skorr/skorr-social-webhooks/deploy/webhooks-deployment.yml" />
       <jump line="49" column="14" filename="$USER_HOME$/www/work/skorr/skorr-social-webhooks/deploy/webhooks-deployment.yml" />
+      <jump line="84" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
+      <jump line="59" column="30" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
+      <jump line="117" column="35" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
+      <jump line="7" column="29" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
+      <jump line="116" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
+      <jump line="2" column="39" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
+      <jump line="155" column="19" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
+      <jump line="48" column="4" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
+      <jump line="179" column="26" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
+      <jump line="196" column="19" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
+      <jump line="205" column="29" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>pprint</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNpZHJfYmxvY2tzID0gWyIke2RhdGEuYXdzX3ZwYy5rdWJlX3ZwYy5jaWRyX2Jsb2NrfSJdCg==</text>
+        <text encoding="base64">CiAgdGFncyB7CiAgICBFbnZpcm9ubWVudCA9ICJwcm9kdWN0aW9uIgogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlY3VyaXR5X2dyb3VwcyA9IFsiJHt2YXIuZWxiX3NlY3VyaXR5X2dyb3VwX2lkc30iXQo=</text>
+        <text encoding="base64">ICAgIHByb3BhZ2F0ZV9hdF9sYXVuY2ggPSBmYWxzZQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -243,22 +238,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlY3VyaXR5X2dyb3VwcyA9IFsiJHt2YXIuZWxiX3NlY3VyaXR5X2dyb3VwX2lkc30iXQo=</text>
+        <text encoding="base64">ICBtYXhfc2l6ZSAgICAgICAgICAgICA9IDAKICBtaW5fc2l6ZSAgICAgICAgICAgICA9IDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgMyBkYXlzCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyaWFibGUgInNzaF9zZWN1cml0eV9ncm91cF9pZHMiIHsKICB0eXBlID0gImxpc3QiCn0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gCg==</text>
+        <text encoding="base64">ICBhY2NvdW50X2lkID0gIiIKICBpbWFnZV9pZCAgID0gIiIKICBpbnN0YW5jZV90eXBlID0gIiIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -270,10 +265,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWZhdWx0ID0gCiAgdHlwZSA9ICJsaXN0Igo=</text>
+        <text encoding="base64">ICAgIGZyb21fcG9ydCA9IDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyaWFibGUgInN1Ym5ldF9pZHMiIHt9Cg==</text>
+        <text encoding="base64">ICAgIGZyb21fcG9ydCA9IDAK</text>
       </register>
       <register name=":" type="4">
         <text>54</text>
