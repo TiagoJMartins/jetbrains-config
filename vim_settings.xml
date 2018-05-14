@@ -63,6 +63,12 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1526304862224">
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
+        <mark key="^" line="233" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-deployment.yml" timestamp="1526298754169" />
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/Configs.kt" timestamp="1526303653737">
         <mark key="[" line="11" column="76" />
@@ -91,11 +97,10 @@
         <mark key="." line="462" column="89" />
         <mark key="^" line="462" column="89" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1526286250032">
-        <mark key="[" line="20" column="90" />
-        <mark key="]" line="20" column="104" />
-        <mark key="^" line="20" column="104" />
-        <mark key="." line="20" column="104" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1526303760603">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.sh" timestamp="1525883938917">
         <mark key="[" line="4" column="0" />
@@ -164,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="27" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
       <jump line="180" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
       <jump line="52" column="42" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
       <jump line="81" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
@@ -264,13 +268,14 @@
       <jump line="26" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/README.md" />
       <jump line="225" column="29" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" />
       <jump line="15" column="85" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/README.md" />
+      <jump line="235" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>item for sublist in comments for item in sublist</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
@@ -279,7 +284,7 @@
         <text encoding="base64">YXNnX3JhYmJpdF90YWcgICAgICAgICAgPSAicmFiYml0bXEtcHJvZC1ub2RlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZyb21fcG9ydCA9IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -297,22 +302,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZyb21fcG9ydCA9IDE1NjcyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGRyYW1hdGlxLmFjdG9yKHF1ZXVlX25hbWU9Y29uZmlncy5QT1NUU19RVUVVRSwgc3RvcmVfcmVzdWx0cz1UcnVlLCBtYXhfcmV0cmllcz0wKQpkZWYgZ2V0X3JlcGxpZXMoYWNjZXNzX3Rva2VuLCBhY2Nlc3NfdG9rZW5fc2VjcmV0LCBzY3JlZW5fbmFtZSwgdHdlZXRfaWQpOgogICAgbWF4X2lkID0gTm9uZQogICAgbG9nLmluZm8oIkxvb2tpbmcgZm9yIHJlcGxpZXMgdG86ICVzIiAlIHR3ZWV0X3VybChzY3JlZW5fbmFtZSwgdHdlZXRfaWQpKQogICAgcmVwbGllc19saXN0ID0gW10KICAgIGFwaSA9IGdldF9hcGkoYWNjZXNzX3Rva2VuLCBhY2Nlc3NfdG9rZW5fc2VjcmV0KQogICAgd2hpbGUgVHJ1ZToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHJlcGxpZXMgPSBhcGkuc2VhcmNoKHE9InRvOiIgKyBzY3JlZW5fbmFtZSwgc2luY2VfaWQ9dHdlZXRfaWQsIG1heF9pZD1tYXhfaWQsIGNvdW50PTEwMCkKICAgICAgICBleGNlcHQgdHdlZXB5LlJhdGVMaW1pdEVycm9yOgogICAgICAgICAgICByciA9IGdldF9yZXBsaWVzLnNlbmRfd2l0aF9vcHRpb25zKGFyZ3M9KGFjY2Vzc190b2tlbiwgYWNjZXNzX3Rva2VuX3NlY3JldCwgc2NyZWVuX25hbWUsIHR3ZWV0X2lkKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWxheT1jYWxsX2RlbGF5KS5nZXRfcmVzdWx0cygpCiAgICAgICAgICAgIGZvciByIGluIHJyOgogICAgICAgICAgICAgICAgcmVwbGllc19saXN0LmFwcGVuZChyLl9qc29uKQoKICAgICAgICBmb3IgcmVwbHkgaW4gcmVwbGllczoKICAgICAgICAgICAgbG9nLmluZm8oImV4YW1pbmluZzogJXMiICUgdHdlZXRfdXJsKHJlcGx5LnVzZXIuc2NyZWVuX25hbWUsIHJlcGx5LmlkKSkKICAgICAgICAgICAgaWYgcmVwbHkuaW5fcmVwbHlfdG9fc3RhdHVzX2lkID09IHR3ZWV0X2lkOgogICAgICAgICAgICAgICAgbG9nLmluZm8oImZvdW5kIHJlcGx5OiAlcyIgJSB0d2VldF91cmwocmVwbHkudXNlci5zY3JlZW5fbmFtZSwgcmVwbHkuaWQpKQogICAgICAgICAgICAgICAgcmVwbGllc19saXN0LmFwcGVuZChyZXBseS5fanNvbikKICAgICAgICAgICAgICAgICMgcmVjdXJzaXZlIG1hZ2ljIHRvIGFsc28gZ2V0IHRoZSByZXBsaWVzIHRvIHRoaXMgcmVwbHkKICAgICAgICAgICAgICAgIHJyID0gZ2V0X3JlcGxpZXMuc2VuZF93aXRoX29wdGlvbnMoCiAgICAgICAgICAgICAgICAgICAgYXJncz0oYWNjZXNzX3Rva2VuLCBhY2Nlc3NfdG9rZW5fc2VjcmV0LCByZXBseS51c2VyLnNjcmVlbl9uYW1lLCByZXBseS5pZCksCiAgICAgICAgICAgICAgICAgICAgZGVsYXk9Y2FsbF9kZWxheSkuZ2V0X3Jlc3VsdHMoKQogICAgICAgICAgICAgICAgZm9yIHIgaW4gcnI6CiAgICAgICAgICAgICAgICAgICAgcmVwbGllc19saXN0LmFwcGVuZChyLl9qc29uKQogICAgICAgICAgICBtYXhfaWQgPSByZXBseS5pZAogICAgICAgIGlmIGxlbihyZXBsaWVzKSAhPSAxMDA6CiAgICAgICAgICAgIGJyZWFrCgogICAgcmV0dXJuIHJlcGxpZXNfbGlzdAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CnwgTmFtZSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgY2FsY3VsYXRlIHJlYWwgdHdpdHRlciB0eXBlLCBiZWNhdXNlIHRoZXJlcyBubyB0eXBlIHByb3BlcnR5CiAgICAjIGNhbGN1bGF0ZWQgd2l0aCB0eXBlIG9mIGVudGl0aWVzIGludm9sdmVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fC0tLS0tLS0tLS0tLS0tLS0tLXwKCg==</text>
+        <text encoding="base64">ICAgICMgZ2V0IGxpc3Qgb2YgY29tbWVudHMgZm9yIHRoaXMgdHdlZXQKICAgICMgaW4gdHdpdHRlciwgY29tbWVudHMgYXJlIGEgcmVwbHkgdG8gdHdlZXQoaW5fcmVwbHlfdG9fc3RhdHVzX2lkKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZ2V0IGxpc3Qgb2YgY29tbWVudHMgZm9yIHRoaXMgdHdlZXQKICAgICMgaW4gdHdpdHRlciwgY29tbWVudHMgYXJlIGEgcmVwbHkgdG8gdHdlZXQoaW5fcmVwbHlfdG9fc3RhdHVzX2lkKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -324,10 +329,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKCdHZXR0aW5nIHJlcGxpZXMnKQogICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwogICMgSU5TRUNVUkUgQUNDRVNTLCBERUJVRyBPTkxZICMKICAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCiAgaW5ncmVzcyB7CiAgICBwcm90b2NvbCAgICA9ICJ0Y3AiCiAgICBmcm9tX3BvcnQgICA9IDIyCiAgICB0b19wb3J0ICAgICA9IDIyCiAgICBjaWRyX2Jsb2NrcyA9IFsiMC4wLjAuMC8wIl0KICB9CgogIGluZ3Jlc3MgewogICAgcHJvdG9jb2wgICAgPSAidGNwIgogICAgZnJvbV9wb3J0ICAgPSAxNTY3MgogICAgdG9fcG9ydCAgICAgPSAxNTY3MgogICAgY2lkcl9ibG9ja3MgPSBbIjAuMC4wLjAvMCJdCiAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbW1lbnRzID0gW2MgZm9yIGMgaW4gZHJhbWF0aXEuZ3JvdXAoWwogICAgICAgIGdldF9yZXBsaWVzLm1lc3NhZ2UoYWNjZXNzX3Rva2VuLCBhY2Nlc3NfdG9rZW5fc2VjcmV0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHdlZXQudXNlci5zY3JlZW5fbmFtZSwgdHdlZXQuaWQpIGZvciB0d2VldCBpbiB0d2VldHMKICAgIF0pLnJ1bigpLmdldF9yZXN1bHRzKGJsb2NrPVRydWUsIHRpbWVvdXQ9Y29uZmlncy5EUkFNQVRJUV9USU1FT1VUX01TKV0KCiAgICAjIGZsYXR0ZW4gbGlzdCwgYmVjYXVzZSBnZXRfcmVwbGllcyByZWN1cnNpdmUgaXRlcmF0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>54</text>
