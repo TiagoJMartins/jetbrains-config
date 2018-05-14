@@ -18,12 +18,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" timestamp="1526286262490">
-        <mark key="'" line="170" column="87" />
-        <mark key="[" line="170" column="46" />
-        <mark key="]" line="170" column="46" />
-        <mark key="." line="170" column="46" />
-        <mark key="^" line="170" column="46" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" timestamp="1526288267450">
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
+        <mark key="^" line="207" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/config.js" timestamp="1525896467871">
         <mark key="[" line="10" column="21" />
@@ -76,7 +75,7 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/terraform.tfvars" timestamp="1526286215690">
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/terraform.tfvars" timestamp="1526288297601">
         <mark key="[" line="7" column="26" />
         <mark key="]" line="7" column="27" />
         <mark key="." line="7" column="27" />
@@ -113,6 +112,13 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/cloud-init.yaml" timestamp="1526288258812">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="76" column="82" />
+        <mark key="]" line="76" column="81" />
+        <mark key="." line="76" column="81" />
+        <mark key="^" line="76" column="81" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1525903547005">
         <mark key="[" line="333" column="56" />
@@ -153,19 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="33" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
-      <jump line="175" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
-      <jump line="156" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
-      <jump line="173" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
-      <jump line="45" column="2" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
-      <jump line="136" column="19" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
-      <jump line="135" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" />
-      <jump line="39" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
-      <jump line="138" column="43" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
-      <jump line="86" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
-      <jump line="111" column="22" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
       <jump line="112" column="43" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
       <jump line="154" column="2" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
       <jump line="18" column="33" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.template.sh" />
@@ -253,22 +246,35 @@
       <jump line="178" column="0" filename="$USER_HOME$/www/work/skorr/skorr-rabbit-cluster/main.tf" />
       <jump line="181" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" />
       <jump line="170" column="87" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" />
+      <jump line="230" column="54" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" />
+      <jump line="123" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" />
+      <jump line="246" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" />
+      <jump line="224" column="50" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" />
+      <jump line="229" column="37" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" />
+      <jump line="243" column="17" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" />
+      <jump line="169" column="14" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" />
+      <jump line="2" column="30" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/cloud-init.yaml" />
+      <jump line="74" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/cloud-init.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/cloud-init.yaml" />
+      <jump line="76" column="81" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/cloud-init.yaml" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/cloud-init.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>pprint</text>
+        <text>launch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBsaWZlY3ljbGUgewogICAgY3JlYXRlX2JlZm9yZV9kZXN0cm95ID0gdHJ1ZQogIH0K</text>
+        <text encoding="base64">ICAtIHBhdGg6IC9yb290L2NvbmYvZW5hYmxlZF9wbHVnaW5zCiAgICBjb250ZW50OiB8CiAgICAgICAgW3JhYmJpdG1xX21hbmFnZW1lbnRdLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBbcmFiYml0bXFfbWFuYWdlbWVudF0uCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -286,22 +292,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBuYW1lICAgICAgICAgICAgICAgICAgICAgID0gInJhYmJpdG1xLWFzZyIK</text>
+        <text encoding="base64">ICAgIGNvbnRlbnQ6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsaWZlY3ljbGUgewogICAgaWdub3JlX2NoYW5nZXMgPSBbInVzZXJfZGF0YSJdCiAgfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">cmVzb3VyY2UgImF3c19sYXVuY2hfY29uZmlndXJhdGlvbiIgInJhYmJpdG1xIiB7CiAgbmFtZV9wcmVmaXggICAgICAgICAgICAgICAgID0gInJhYmJpdG1xLWxjLSIKICBpbWFnZV9pZCAgICAgICAgICAgICAgICAgICAgPSAiJHtkYXRhLmF3c19hbWlfaWRzLmFtaS5pZHNbMF19IgogIGluc3RhbmNlX3R5cGUgICAgICAgICAgICAgICA9ICIke3Zhci5pbnN0YW5jZV90eXBlfSIKICBrZXlfbmFtZSAgICAgICAgICAgICAgICAgICAgPSAiJHt2YXIua2V5X3BhaXJfbmFtZX0iCiAgc2VjdXJpdHlfZ3JvdXBzICAgICAgICAgICAgID0gWyIke2F3c19zZWN1cml0eV9ncm91cC5yYWJiaXRtcV9ub2Rlcy5pZH0iXQogIGlhbV9pbnN0YW5jZV9wcm9maWxlICAgICAgICA9ICIke2F3c19pYW1faW5zdGFuY2VfcHJvZmlsZS5wcm9maWxlLmlkfSIKICB1c2VyX2RhdGEgICAgICAgICAgICAgICAgICAgPSAiJHtkYXRhLnRlbXBsYXRlX2ZpbGUuY2xvdWQtaW5pdC5yZW5kZXJlZH0iCiAgYXNzb2NpYXRlX3B1YmxpY19pcF9hZGRyZXNzID0gdHJ1ZQoKICBsaWZlY3ljbGUgewogICAgY3JlYXRlX2JlZm9yZV9kZXN0cm95ID0gdHJ1ZQogIH0KfQoK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlnbm9yZV9jaGFuZ2VzID0gWyJ1c2VyX2RhdGEiXQo=</text>
+        <text encoding="base64">ICB3YWl0X2Zvcl9lbGJfY2FwYWNpdHkgPSAiJHt2YXIucmFiYml0bXFfbm9kZV9jb3VudH0iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAtIHBhdGg6IC9ldGMvZGVmYXVsdC9yYWJiaXRtcS1zZXJ2ZXIKICAgIGNvbnRlbnQ6IHwKICAgICAgICB1bGltaXQgLW4gMTA0ODU3Ngo=</text>
+        <text encoding="base64">ICBuYW1lICAgICAgICAgICAgICAgICAgICAgID0gInJhYmJpdG1xLWFzZyIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -313,19 +319,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBbcmFiYml0bXFfbWFuYWdlbWVudF0uCg==</text>
+        <text encoding="base64">ICBsaWZlY3ljbGUgewogICAgaWdub3JlX2NoYW5nZXMgPSBbInVzZXJfZGF0YSJdCiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>54</text>
       </register>
     </registers>
     <search>
-      <last-search>pprint</last-search>
+      <last-search>launch</last-search>
       <last-offset />
-      <last-pattern>pprint</last-pattern>
+      <last-pattern>launch</last-pattern>
       <last-replace>env</last-replace>
       <last-substitute>os\.environ</last-substitute>
       <last-dir>1</last-dir>
@@ -350,6 +356,7 @@
         <entry>postIds</entry>
         <entry>ppri</entry>
         <entry>pprint</entry>
+        <entry>launch</entry>
       </history-search>
       <history-cmd>
         <entry>355</entry>
