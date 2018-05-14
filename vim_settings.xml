@@ -113,12 +113,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/cloud-init.yaml" timestamp="1526288258812">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="76" column="82" />
-        <mark key="]" line="76" column="81" />
-        <mark key="." line="76" column="81" />
-        <mark key="^" line="76" column="81" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/cloud-init.yaml" timestamp="1526289872189">
+        <mark key="'" line="85" column="8" />
+        <mark key="[" line="95" column="4" />
+        <mark key="]" line="95" column="51" />
+        <mark key="." line="95" column="51" />
+        <mark key="^" line="95" column="51" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/rest/v1/user/UserController.kt" timestamp="1525903547005">
         <mark key="[" line="333" column="56" />
@@ -159,8 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="43" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
-      <jump line="154" column="2" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
       <jump line="18" column="33" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.template.sh" />
       <jump line="5" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.template.sh" />
       <jump line="30" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/provision_managed_disk.template.sh" />
@@ -259,22 +257,24 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/cloud-init.yaml" />
       <jump line="76" column="81" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/cloud-init.yaml" />
       <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/cloud-init.yaml" />
+      <jump line="69" column="26" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/cloud-init.yaml" />
+      <jump line="73" column="8" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/cloud-init.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>echo &quot;bash /root/init.sh&quot; | tee -a /etc/rc.local</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAtIHBhdGg6IC9yb290L2NvbmYvZW5hYmxlZF9wbHVnaW5zCiAgICBjb250ZW50OiB8CiAgICAgICAgW3JhYmJpdG1xX21hbmFnZW1lbnRdLgo=</text>
+      <register name="0" type="4">
+        <text>echo &quot;bash /root/init.sh&quot; | tee -a /etc/rc.local</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbcmFiYml0bXFfbWFuYWdlbWVudF0uCg==</text>
+        <text encoding="base64">ICAtIGRvY2tlciBydW4gLWQgLS1uYW1lIHJhYmJpdG1xIC0taG9zdG5hbWUgJEhPU1ROQU1FIC1wIDQzNjk6NDM2OSAtcCA1NjcyOjU2NzIgLXAgMTU2NzI6MTU2NzIgLXAgMjU2NzI6MjU2NzIgLWUgUkFCQklUTVFfRVJMQU5HX0NPT0tJRT0nJHtzZWNyZXRfY29va2llfScgLXYgL3Jvb3QvZGF0YTovdmFyL2xpYi9yYWJiaXRtcSAtdiAvcm9vdC9jb25mLzovZXRjL3JhYmJpdG1xIC12IC9yb290L3JhYmJpdG1xLXNlcnZlcjovZXRjL2RlZmF1bHQvcmFiYml0bXEtc2VydmVyIC12IC9yb290L2JpbjovdG1wL2JpbiByYWJiaXRtcTozLjctbWFuYWdlbWVudAogIC0gc2xlZXAgMQogIC0gZG9ja2VyIGV4ZWMgcmFiYml0bXEgYmFzaCAvdG1wL2Jpbi9qb2luX2NsdXN0ZXIuc2ggJChiYXNoIC9yb290L2ZpbmRfaG9zdHMuc2gpCiAgLSBzbGVlcCAxCiAgLSBiYXNoIC9yb290L2NvbmZpZ3VyZS5zaAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -292,22 +292,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnQ6Cg==</text>
+        <text encoding="base64">ICAgIGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF3c19sYXVuY2hfY29uZmlndXJhdGlvbiIgInJhYmJpdG1xIiB7CiAgbmFtZV9wcmVmaXggICAgICAgICAgICAgICAgID0gInJhYmJpdG1xLWxjLSIKICBpbWFnZV9pZCAgICAgICAgICAgICAgICAgICAgPSAiJHtkYXRhLmF3c19hbWlfaWRzLmFtaS5pZHNbMF19IgogIGluc3RhbmNlX3R5cGUgICAgICAgICAgICAgICA9ICIke3Zhci5pbnN0YW5jZV90eXBlfSIKICBrZXlfbmFtZSAgICAgICAgICAgICAgICAgICAgPSAiJHt2YXIua2V5X3BhaXJfbmFtZX0iCiAgc2VjdXJpdHlfZ3JvdXBzICAgICAgICAgICAgID0gWyIke2F3c19zZWN1cml0eV9ncm91cC5yYWJiaXRtcV9ub2Rlcy5pZH0iXQogIGlhbV9pbnN0YW5jZV9wcm9maWxlICAgICAgICA9ICIke2F3c19pYW1faW5zdGFuY2VfcHJvZmlsZS5wcm9maWxlLmlkfSIKICB1c2VyX2RhdGEgICAgICAgICAgICAgICAgICAgPSAiJHtkYXRhLnRlbXBsYXRlX2ZpbGUuY2xvdWQtaW5pdC5yZW5kZXJlZH0iCiAgYXNzb2NpYXRlX3B1YmxpY19pcF9hZGRyZXNzID0gdHJ1ZQoKICBsaWZlY3ljbGUgewogICAgY3JlYXRlX2JlZm9yZV9kZXN0cm95ID0gdHJ1ZQogIH0KfQoK</text>
+        <text encoding="base64">ICAgICAgICBbcmFiYml0bXFfbWFuYWdlbWVudF0uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3YWl0X2Zvcl9lbGJfY2FwYWNpdHkgPSAiJHt2YXIucmFiYml0bXFfbm9kZV9jb3VudH0iCg==</text>
+        <text encoding="base64">ICAgIGNvbnRlbnQ6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuYW1lICAgICAgICAgICAgICAgICAgICAgID0gInJhYmJpdG1xLWFzZyIK</text>
+        <text encoding="base64">cmVzb3VyY2UgImF3c19sYXVuY2hfY29uZmlndXJhdGlvbiIgInJhYmJpdG1xIiB7CiAgbmFtZV9wcmVmaXggICAgICAgICAgICAgICAgID0gInJhYmJpdG1xLWxjLSIKICBpbWFnZV9pZCAgICAgICAgICAgICAgICAgICAgPSAiJHtkYXRhLmF3c19hbWlfaWRzLmFtaS5pZHNbMF19IgogIGluc3RhbmNlX3R5cGUgICAgICAgICAgICAgICA9ICIke3Zhci5pbnN0YW5jZV90eXBlfSIKICBrZXlfbmFtZSAgICAgICAgICAgICAgICAgICAgPSAiJHt2YXIua2V5X3BhaXJfbmFtZX0iCiAgc2VjdXJpdHlfZ3JvdXBzICAgICAgICAgICAgID0gWyIke2F3c19zZWN1cml0eV9ncm91cC5yYWJiaXRtcV9ub2Rlcy5pZH0iXQogIGlhbV9pbnN0YW5jZV9wcm9maWxlICAgICAgICA9ICIke2F3c19pYW1faW5zdGFuY2VfcHJvZmlsZS5wcm9maWxlLmlkfSIKICB1c2VyX2RhdGEgICAgICAgICAgICAgICAgICAgPSAiJHtkYXRhLnRlbXBsYXRlX2ZpbGUuY2xvdWQtaW5pdC5yZW5kZXJlZH0iCiAgYXNzb2NpYXRlX3B1YmxpY19pcF9hZGRyZXNzID0gdHJ1ZQoKICBsaWZlY3ljbGUgewogICAgY3JlYXRlX2JlZm9yZV9kZXN0cm95ID0gdHJ1ZQogIH0KfQoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -319,10 +319,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsaWZlY3ljbGUgewogICAgaWdub3JlX2NoYW5nZXMgPSBbInVzZXJfZGF0YSJdCiAgfQo=</text>
+        <text encoding="base64">ICB3YWl0X2Zvcl9lbGJfY2FwYWNpdHkgPSAiJHt2YXIucmFiYml0bXFfbm9kZV9jb3VudH0iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>54</text>
