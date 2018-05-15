@@ -9,12 +9,12 @@
         <mark key="^" line="11" column="75" />
         <mark key="." line="11" column="75" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" timestamp="1526412600762">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" timestamp="1526413619970">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="49" column="23" />
-        <mark key="]" line="49" column="46" />
-        <mark key="^" line="49" column="46" />
-        <mark key="." line="49" column="46" />
+        <mark key="[" line="47" column="31" />
+        <mark key="]" line="47" column="63" />
+        <mark key="^" line="47" column="63" />
+        <mark key="." line="47" column="63" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" timestamp="1526395195034">
         <mark key="'" line="1" column="0" />
@@ -232,11 +232,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>${data.azurerm_subnet.main.id}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB2aXJ0dWFsX25ldHdvcmtfbmFtZSAgICAgID0gIiIK</text>
       </register>
       <register name="-" type="4">
-        <text>${data.azurerm_subnet.main.id}</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
@@ -245,7 +245,7 @@
         <text encoding="base64">dmFyaWFibGUgInNlcnZpY2VfcHJpbmNpcGFsX2NsaWVudF9pZCIge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmRhdGEgImF6dXJlcm1fc3VibmV0IiAibWFpbiIgewogIG5hbWUgICAgICAgICAgICAgICAgID0gImRlZmF1bHQiCiAgcmVzb3VyY2VfZ3JvdXBfbmFtZSAgPSAiJHtkYXRhLmF6dXJlcm1fcmVzb3VyY2VfZ3JvdXAubWFpbi5uYW1lfSIKICB2aXJ0dWFsX25ldHdvcmtfbmFtZSA9ICIke2RhdGEuYXp1cmVybV92aXJ0dWFsX25ldHdvcmsubWFpbi5uYW1lfSIKfQo=</text>
+        <text encoding="base64">ICB2aXJ0dWFsX25ldHdvcmtfbmFtZSAgICAgID0gIiIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -263,19 +263,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwZWVyX3ZwY19pZCA9ICIiCiAgdnBjX2lkICAgICAgPSAiIgogIG5hbWUgICAgICAgID0gIiIKICByZW1vdGVfdmlydHVhbF9uZXR3b3JrX2lkID0gIiIKICByZXNvdXJjZV9ncm91cF9uYW1lID0gIiIKICB2aXJ0dWFsX25ldHdvcmtfbmFtZSA9ICIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHYK</text>
+        <text encoding="base64">CmRhdGEgImF6dXJlcm1fc3VibmV0IiAibWFpbiIgewogIG5hbWUgICAgICAgICAgICAgICAgID0gImRlZmF1bHQiCiAgcmVzb3VyY2VfZ3JvdXBfbmFtZSAgPSAiJHtkYXRhLmF6dXJlcm1fcmVzb3VyY2VfZ3JvdXAubWFpbi5uYW1lfSIKICB2aXJ0dWFsX25ldHdvcmtfbmFtZSA9ICIke2RhdGEuYXp1cmVybV92aXJ0dWFsX25ldHdvcmsubWFpbi5uYW1lfSIKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -290,10 +290,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>54</text>
