@@ -33,6 +33,13 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/drone/vm.tf" timestamp="1526389722426">
+        <mark key="'" line="109" column="10" />
+        <mark key="[" line="129" column="27" />
+        <mark key="]" line="129" column="26" />
+        <mark key="." line="129" column="26" />
+        <mark key="^" line="129" column="26" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/server.js" timestamp="1525896379016">
         <mark key="[" line="36" column="66" />
         <mark key="]" line="36" column="66" />
@@ -74,12 +81,18 @@
         <mark key="." line="8" column="20" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/docker-compose.dist.yml" timestamp="1526383458124" />
-      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1526383552054">
-        <mark key="'" line="65" column="2" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="72" column="41" />
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" timestamp="1526389453525">
+        <mark key="'" line="65" column="47" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1526388867954">
+        <mark key="'" line="69" column="2" />
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="38" column="11" />
+        <mark key="." line="38" column="11" />
+        <mark key="^" line="38" column="11" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/publisher/publisher.js" timestamp="1526303663322">
         <mark key="[" line="5" column="39" />
@@ -94,7 +107,7 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" timestamp="1526385230579" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" timestamp="1526388636929" />
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/deploy/signup-scrapers-deployment.yml" timestamp="1526372993751">
         <mark key="[" line="70" column="24" />
         <mark key="]" line="70" column="31" />
@@ -109,13 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="8" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
-      <jump line="79" column="44" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
-      <jump line="33" column="17" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
-      <jump line="16" column="36" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
-      <jump line="58" column="44" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
       <jump line="57" column="27" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
       <jump line="6" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" />
       <jump line="2" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
@@ -209,22 +215,29 @@
       <jump line="4" column="24" filename="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" />
       <jump line="6" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/terraform.tfvars" />
       <jump line="67" column="2" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
+      <jump line="58" column="35" filename="$USER_HOME$/www/work/capitalise/dbs/modules/drone/vm.tf" />
+      <jump line="76" column="47" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
+      <jump line="97" column="2" filename="$USER_HOME$/www/work/capitalise/dbs/modules/drone/vm.tf" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/drone/vm.tf" />
+      <jump line="116" column="27" filename="$USER_HOME$/www/work/capitalise/dbs/modules/drone/vm.tf" />
+      <jump line="124" column="22" filename="$USER_HOME$/www/work/capitalise/dbs/modules/drone/vm.tf" />
+      <jump line="109" column="10" filename="$USER_HOME$/www/work/capitalise/dbs/modules/drone/vm.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bastion_private_ip</text>
       </register>
       <register name="-" type="4">
-        <text>.value</text>
+        <text>bastion_private_ip</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyaWFibGUgImNsaWVudF9zZWNyZXQiIHt9Cg==</text>
+        <text encoding="base64">dmFyaWFibGUgImJhc3Rpb25faG9zdCIge30KdmFyaWFibGUgImJhc3Rpb25fcHJpdmF0ZV9pcCIge30KdmFyaWFibGUgImJhc3Rpb25fdXNlciIge30KdmFyaWFibGUgImJhc3Rpb25fcHJpdmF0ZV9rZXkiIHt9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3V0cHV0ICJiYXN0aW9uX3VzZXIiIHsKICB2YWx1ZSA9ICIke3Zhci5vc19hZG1pbl91c2VybmFtZX0iCn0KCm91dHB1dCAiYmFzdGlvbl9ob3N0IiB7CiAgdmFsdWUgPSAiJHtkYXRhLmF6dXJlcm1fcHVibGljX2lwLnZtLmlwX2FkZHJlc3N9Igp9CgpvdXRwdXQgImJhc3Rpb25fcHJpdmF0ZV9rZXkiIHsKICB2YWx1ZSA9ICIke3Zhci5zc2hfcHJpdmF0ZV9rZXl9Igp9Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -242,22 +255,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3V0cHV0ICJrdWJlX2Nvbm4iIHsKICB2YWx1ZSA9ICIke2F6dXJlcm1fa3ViZXJuZXRlc19jbHVzdGVyLmNsdXN0ZXIuY29ubmVjdGlvbn0iCn0K</text>
+        <text encoding="base64">ICAgICAgImVjaG8gJ0FsbG93VGNwRm9yd2FyZGluZyB5ZXMnIHwgc3VkbyB0ZWUgLWEgL2V0Yy9zc2gvc3NoZF9jb25maWciLAogICAgICAiZWNobyAnbmV0LmlwdjQuaXBfZm9yd2FyZCA9IDEnIHwgc3VkbyB0ZWUgLWEgL2V0Yy9zeXNjdGwuY29uZiIsCiAgICAgICJzdWRvIHN5c2N0bCAtcCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cm91dHB1dCAia3ViZV9jb25uIiB7CiAgdmFsdWUgPSAiJHttb2R1bGUua3ViZS5rdWJlX2Nvbm59Igp9Cg==</text>
+        <text encoding="base64">ZGF0YSAiYXp1cmVybV9wdWJsaWNfaXAiICJ2bSIgewogIGRlcGVuZHNfb24gICAgICAgICAgPSBbImF6dXJlcm1fdmlydHVhbF9tYWNoaW5lLnZtIl0KCiAgbmFtZSAgICAgICAgICAgICAgICA9ICIke2F6dXJlcm1fcHVibGljX2lwLnZtLm5hbWV9IgogIHJlc291cmNlX2dyb3VwX25hbWUgPSAiJHthenVyZXJtX3ZpcnR1YWxfbWFjaGluZS52bS5yZXNvdXJjZV9ncm91cF9uYW1lfSIKfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhZGRyZXNzX3ByZWZpeCAgICAgICA9ICIke3Zhci5zdWJuZXRfY2lkcn0iCgogIHJlc291cmNlX2dyb3VwX25hbWUgID0gIiR7ZGF0YS5henVyZXJtX3Jlc291cmNlX2dyb3VwLm1haW4ubmFtZX0iCiAgdmlydHVhbF9uZXR3b3JrX25hbWUgPSAiJHtkYXRhLmF6dXJlcm1fdmlydHVhbF9uZXR3b3JrLm1haW4ubmFtZX0iCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZGF0YSAiYXp1cmVybV9zdWJuZXQiICJrdWJlIiB7CiAgbmFtZSAgICAgICAgICAgICAgICAgPSAiIgogIHJlc291cmNlX2dyb3VwX25hbWUgID0gIiIKICB2aXJ0dWFsX25ldHdvcmtfbmFtZSA9ICIiCn0KCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkYXRhICJhenVyZXJtX3BsYXRmb3JtX2ltYWdlIiAiY29yZW9zIiB7CiAgICBsb2NhdGlvbiAgPSAiJHtkYXRhLmF6dXJlcm1fcmVzb3VyY2VfZ3JvdXAucmcubG9jYXRpb259IgogIH0KCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1Ymxpc2hlciA9ICJDYW5vbmljYWwiCiAgICBvZmZlciAgICAgPSAiVWJ1bnR1U2VydmVyIgogICAgc2t1ICAgICAgID0gIjE2LjA0LUxUUyIK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fc3VibmV0IiAibWFpbiIgewogIG5hbWUgICAgICAgICAgICAgICAgID0gImt1YmVybmV0ZXMiCiAgYWRkcmVzc19wcmVmaXggICAgICAgPSAiJHt2YXIuc3VibmV0X2NpZHJ9IgoKICByZXNvdXJjZV9ncm91cF9uYW1lICA9ICIke2RhdGEuYXp1cmVybV9yZXNvdXJjZV9ncm91cC5tYWluLm5hbWV9IgogIHZpcnR1YWxfbmV0d29ya19uYW1lID0gIiR7ZGF0YS5henVyZXJtX3ZpcnR1YWxfbmV0d29yay5tYWluLm5hbWV9Igp9Cg==</text>
+        <text encoding="base64">ICAgIG9mZmVyICAgICA9ICJDb3JlT1MiCiAgICBwdWJsaXNoZXIgPSAiQ29yZU9TIgogICAgc2t1ICAgICAgID0gIlN0YWJsZSIK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -269,10 +282,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdWJzY3JpcHRpb25faWQgICAgICAgICAgICA9ICIiCg==</text>
+        <text encoding="base64">ZGF0YSAiYXp1cmVybV9wbGF0Zm9ybV9pbWFnZSIgImNvcmVvcyIgewogIGxvY2F0aW9uICA9ICIke2RhdGEuYXp1cmVybV9yZXNvdXJjZV9ncm91cC5yZy5sb2NhdGlvbn0iCiAgb2ZmZXIgICAgID0gIkNvcmVPUyIKICBwdWJsaXNoZXIgPSAiQ29yZU9TIgogIHNrdSAgICAgICA9ICJTdGFibGUiCn0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name=":" type="4">
         <text>54</text>
