@@ -34,7 +34,6 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="/k8s.tf" timestamp="1526465035356" />
       <file name="$USER_HOME$/www/work/capitalise/dbs/terraform.tfvars" timestamp="1526462552102">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="12" column="34" />
@@ -93,7 +92,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="17" column="18" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/bastion/vm.tf" timestamp="1526462802828" />
       <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/server.js" timestamp="1525896379016">
         <mark key="[" line="36" column="66" />
         <mark key="]" line="36" column="66" />
@@ -118,11 +116,11 @@
         <mark key="^" line="70" column="31" />
         <mark key="." line="70" column="31" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-deployment.yml" timestamp="1526396184424">
-        <mark key="[" line="31" column="26" />
-        <mark key="]" line="31" column="33" />
-        <mark key="^" line="31" column="33" />
-        <mark key="." line="31" column="33" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-deployment.yml" timestamp="1526468363233">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/Application.kt" timestamp="1526393765730">
         <mark key="[" line="106" column="63" />
@@ -235,10 +233,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>azurerm_virtual_network.main.id</text>
+        <text>extensions/v1beta1</text>
       </register>
       <register name="-" type="4">
-        <text>azurerm_virtual_network.main.id</text>
+        <text>extensions/v1beta1</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
