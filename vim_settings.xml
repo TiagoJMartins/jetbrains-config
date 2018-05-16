@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" timestamp="1526474491765">
-        <mark key="'" line="129" column="0" />
-        <mark key="[" line="135" column="29" />
-        <mark key="]" line="135" column="50" />
-        <mark key="." line="135" column="50" />
-        <mark key="^" line="135" column="50" />
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" timestamp="1526480653053">
+        <mark key="'" line="135" column="33" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" timestamp="1526475034421">
         <mark key="'" line="2" column="0" />
@@ -105,7 +104,7 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/terraform.tfvars" timestamp="1526473680650">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/terraform.tfvars" timestamp="1526480612314">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="27" />
@@ -124,12 +123,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1526474498201">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="71" column="43" />
-        <mark key="]" line="71" column="63" />
-        <mark key="." line="71" column="63" />
-        <mark key="^" line="71" column="63" />
+      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1526480944537">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/datasources-configmap.yaml" timestamp="1526475089449">
         <mark key="'" line="9" column="0" />
@@ -178,10 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="7" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/cloud-init.yaml" />
-      <jump line="87" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/cloud-init.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/cloud-init.yaml" />
-      <jump line="259" column="38" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" />
       <jump line="23" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" />
       <jump line="12" column="46" filename="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/Configs.kt" />
       <jump line="3" column="22" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/terraform.tfvars" />
@@ -278,10 +272,14 @@
       <jump line="13" column="16" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" />
       <jump line="9" column="2" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" />
       <jump line="15" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" />
+      <jump line="135" column="33" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
+      <jump line="49" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
+      <jump line="74" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kOgogICAgICAgICAgLSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -293,7 +291,7 @@
         <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogTVlTUUxfSE9TVAogICAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgICAgY29uZmlnTWFwS2V5UmVmOgogICAgICAgICAgICAgICAgbmFtZTogZGF0YXNvdXJjZXMKICAgICAgICAgICAgICAgIGtleTogbXlzcWwuaG9zdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb21tYW5kOgogICAgICAgICAgLSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -311,22 +309,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcG9ydAo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcG9ydHM6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBjb250YWluZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0eXBlOiBDbHVzdGVySVAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3RvY29sOiBUQ1AK</text>
+        <text encoding="base64">bW9kdWxlICJrdWJlIiB7CiAgc291cmNlICAgICAgICAgICAgICAgICAgICAgICAgICA9ICIuL21vZHVsZXMva3ViZSIKCiAgbmFtZV9zdWZmaXggICAgICAgICAgICAgICAgICAgICA9ICJrdWJlcm5ldGVzIgogIGVudmlyb25tZW50ICAgICAgICAgICAgICAgICAgICAgPSAiJHt2YXIuZW52aXJvbm1lbnR9IgogIHJlc291cmNlX2dyb3VwX25hbWUgICAgICAgICAgICAgPSAiJHtkYXRhLmF6dXJlcm1fcmVzb3VyY2VfZ3JvdXAucmcubmFtZX0iCiAgcHJlZml4ICAgICAgICAgICAgICAgICAgICAgICAgICA9ICIke2RhdGEuYXp1cmVybV9yZXNvdXJjZV9ncm91cC5yZy5uYW1lfSIKICB2bV9zaXplICAgICAgICAgICAgICAgICAgICAgICAgID0gIiR7dmFyLmt1YmVfbm9kZV9zaXplfSIKICBhZG1pbl91c2VybmFtZSAgICAgICAgICAgICAgICAgID0gIiR7dmFyLmFkbWluX3VzZXJuYW1lfSIKICBzc2hfcHVibGljX2tleSAgICAgICAgICAgICAgICAgID0gIiR7bG9jYWwuc3NoX3B1YmxpY19rZXl9IgogIG9zX2Rpc2tfc2l6ZV9nYiAgICAgICAgICAgICAgICAgPSAiJHt2YXIua3ViZV9ub2RlX2Rpc2tfZ2J9IgogIG1hc3Rlcl9jb3VudCAgICAgICAgICAgICAgICAgICAgPSAiJHt2YXIua3ViZV9tYXN0ZXJfY291bnR9IgogIG5vZGVfY291bnQgICAgICAgICAgICAgICAgICAgICAgPSAiJHt2YXIua3ViZV9ub2RlX2NvdW50fSIKICBzZXJ2aWNlX3ByaW5jaXBhbF9jbGllbnRfaWQgICAgID0gIiR7dmFyLmNsaWVudF9pZH0iCiAgc2VydmljZV9wcmluY2lwYWxfY2xpZW50X3NlY3JldCA9ICIke3Zhci5jbGllbnRfc2VjcmV0fSIKICB2cGNfY2lkciAgICAgICAgICAgICAgICAgICAgICAgID0gIiR7dmFyLmt1YmVfdnBjX2NpZHJ9IgogIG1hc3Rlcl9zdWJuZXRfY2lkciAgICAgICAgICAgICAgPSAiJHt2YXIua3ViZV9tYXN0ZXJfc3VibmV0X2NpZHJ9IgogIG5vZGVfc3VibmV0X2NpZHIgICAgICAgICAgICAgICAgPSAiJHt2YXIua3ViZV9ub2RlX3N1Ym5ldF9jaWRyfSIKfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBuYW1lOiByZWRpcwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -338,10 +336,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RhdHVzOgogIGxvYWRCYWxhbmNlcjoge30K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogbnVsbAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>54</text>
