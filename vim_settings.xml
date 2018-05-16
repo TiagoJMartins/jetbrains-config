@@ -9,8 +9,12 @@
         <mark key="^" line="11" column="75" />
         <mark key="." line="11" column="75" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" timestamp="1526413619970">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" timestamp="1526458060683">
         <mark key="'" line="3" column="0" />
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" timestamp="1526395195034">
         <mark key="'" line="1" column="0" />
@@ -30,12 +34,12 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/terraform.tfvars" timestamp="1526382093065">
+      <file name="$USER_HOME$/www/work/capitalise/dbs/terraform.tfvars" timestamp="1526458326004">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="8" column="20" />
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="10" column="33" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/config.js" timestamp="1525896467871">
         <mark key="[" line="10" column="21" />
@@ -61,7 +65,7 @@
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1526414897375" />
+      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1526458080391" />
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/drone/vm.tf" timestamp="1526390112712">
         <mark key="'" line="109" column="10" />
         <mark key="[" line="129" column="27" />
@@ -222,11 +226,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB2aXJ0dWFsX25ldHdvcmtfbmFtZSAgICAgID0gIiIK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
@@ -235,7 +239,7 @@
         <text encoding="base64">dmFyaWFibGUgInNlcnZpY2VfcHJpbmNpcGFsX2NsaWVudF9pZCIge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2aXJ0dWFsX25ldHdvcmtfbmFtZSAgICAgID0gIiIK</text>
+        <text encoding="base64">ICBkZWZhdWx0ID0gIjEwLjAuMC4wLzE2Igo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -253,22 +257,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwZWVyX3ZwY19pZCA9ICIiCiAgdnBjX2lkICAgICAgPSAiIgogIG5hbWUgICAgICAgID0gIiIKICByZW1vdGVfdmlydHVhbF9uZXR3b3JrX2lkID0gIiIKICByZXNvdXJjZV9ncm91cF9uYW1lID0gIiIKICB2aXJ0dWFsX25ldHdvcmtfbmFtZSA9ICIiCg==</text>
+        <text encoding="base64">ICB2aXJ0dWFsX25ldHdvcmtfbmFtZSAgICAgID0gIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmRhdGEgImF6dXJlcm1fc3VibmV0IiAibWFpbiIgewogIG5hbWUgICAgICAgICAgICAgICAgID0gImRlZmF1bHQiCiAgcmVzb3VyY2VfZ3JvdXBfbmFtZSAgPSAiJHtkYXRhLmF6dXJlcm1fcmVzb3VyY2VfZ3JvdXAubWFpbi5uYW1lfSIKICB2aXJ0dWFsX25ldHdvcmtfbmFtZSA9ICIke2RhdGEuYXp1cmVybV92aXJ0dWFsX25ldHdvcmsubWFpbi5uYW1lfSIKfQo=</text>
+        <text encoding="base64">ICBwZWVyX3ZwY19pZCA9ICIiCiAgdnBjX2lkICAgICAgPSAiIgogIG5hbWUgICAgICAgID0gIiIKICByZW1vdGVfdmlydHVhbF9uZXR3b3JrX2lkID0gIiIKICByZXNvdXJjZV9ncm91cF9uYW1lID0gIiIKICB2aXJ0dWFsX25ldHdvcmtfbmFtZSA9ICIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CmRhdGEgImF6dXJlcm1fc3VibmV0IiAibWFpbiIgewogIG5hbWUgICAgICAgICAgICAgICAgID0gImRlZmF1bHQiCiAgcmVzb3VyY2VfZ3JvdXBfbmFtZSAgPSAiJHtkYXRhLmF6dXJlcm1fcmVzb3VyY2VfZ3JvdXAubWFpbi5uYW1lfSIKICB2aXJ0dWFsX25ldHdvcmtfbmFtZSA9ICIke2RhdGEuYXp1cmVybV92aXJ0dWFsX25ldHdvcmsubWFpbi5uYW1lfSIKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHYK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
