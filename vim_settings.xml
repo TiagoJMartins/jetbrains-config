@@ -113,11 +113,12 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" timestamp="1526467528067">
-        <mark key="'" line="65" column="47" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" timestamp="1526489419400">
+        <mark key="'" line="68" column="60" />
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="68" column="64" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/redis-deployment.yaml" timestamp="1526478622874">
         <mark key="'" line="7" column="0" />
@@ -125,12 +126,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1526488671445">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="101" column="48" />
-        <mark key="]" line="101" column="46" />
-        <mark key="." line="101" column="46" />
-        <mark key="^" line="101" column="46" />
+      <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1526489449337">
+        <mark key="'" line="70" column="61" />
+        <mark key="[" line="70" column="54" />
+        <mark key="]" line="70" column="54" />
+        <mark key="." line="70" column="54" />
+        <mark key="^" line="70" column="60" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/datasources-configmap.yaml" timestamp="1526475089449">
         <mark key="'" line="9" column="0" />
@@ -179,10 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="2" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/terraform.tfvars" />
-      <jump line="4" column="24" filename="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/terraform.tfvars" />
       <jump line="67" column="2" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
       <jump line="58" column="35" filename="$USER_HOME$/www/work/capitalise/dbs/modules/drone/vm.tf" />
       <jump line="76" column="47" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
@@ -279,13 +276,17 @@
       <jump line="14" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/cluster.tf" />
       <jump line="115" column="36" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
+      <jump line="67" column="34" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
+      <jump line="70" column="61" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
+      <jump line="71" column="42" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
+      <jump line="70" column="60" filename="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>environment=${var.environment}</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>environment=${var.environment}</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
@@ -294,7 +295,7 @@
         <text encoding="base64">b3V0cHV0ICJrdWJlX2h0dHBfYXBwX3JvdXRpbmciIHsKICB2YWx1ZSA9ICJZRVMiCn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3V0cHV0ICJrdWJlIiB7CiAgdmFsdWUgPSAiIgp9Cg==</text>
+        <text encoding="base64">ICB0eXBlID0gImxpc3QiCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -312,22 +313,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fc3VibmV0IiAicHJpbWFyeSIgewogIGFkZHJlc3NfcHJlZml4ICAgICAgID0gIiR7dmFyLnByaW1hcnlfc3VibmV0X2NpZHJ9IgogIG5hbWUgICAgICAgICAgICAgICAgID0gIiIKICByZXNvdXJjZV9ncm91cF9uYW1lICA9ICIiCiAgdmlydHVhbF9uZXR3b3JrX25hbWUgPSAiIgp9Cg==</text>
+        <text encoding="base64">b3V0cHV0ICJrdWJlIiB7CiAgdmFsdWUgPSAiIgp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWx1ZSA9ICIke3Zhci5kb2NrZXJfY2lkcn0iCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fc3VibmV0IiAicHJpbWFyeSIgewogIGFkZHJlc3NfcHJlZml4ICAgICAgID0gIiR7dmFyLnByaW1hcnlfc3VibmV0X2NpZHJ9IgogIG5hbWUgICAgICAgICAgICAgICAgID0gIiIKICByZXNvdXJjZV9ncm91cF9uYW1lICA9ICIiCiAgdmlydHVhbF9uZXR3b3JrX25hbWUgPSAiIgp9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">b3V0cHV0ICJrdWJlX3ZuZXRfbmFtZSIgewogIHZhbHVlID0gIiR7YXp1cmVybV92aXJ0dWFsX25ldHdvcmsua3ViZS5uYW1lfSIKfQo=</text>
+        <text encoding="base64">ICB2YWx1ZSA9ICIke3Zhci5kb2NrZXJfY2lkcn0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3V0cHV0ICJrdWJlX3ZuZXQiIHsKICB2YWx1ZSA9ICIiCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -339,10 +340,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3V0cHV0ICJrdWJlX3ZuZXRfbmFtZSIgewogIHZhbHVlID0gIiR7YXp1cmVybV92aXJ0dWFsX25ldHdvcmsua3ViZS5uYW1lfSIKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3V0cHV0ICJrdWJlX3ZlcnNpb24iIHsKICB2YWx1ZSA9ICIiCn0K</text>
+        <text encoding="base64">b3V0cHV0ICJrdWJlX3ZuZXQiIHsKICB2YWx1ZSA9ICIiCn0K</text>
       </register>
       <register name=":" type="4">
         <text>54</text>
