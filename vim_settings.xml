@@ -118,11 +118,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/redis-deployment.yaml" timestamp="1526476028020">
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/redis-deployment.yaml" timestamp="1526476629685">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="19" column="30" />
-        <mark key="." line="19" column="30" />
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="10" />
+        <mark key="." line="21" column="10" />
         <mark key="^" line="19" column="30" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1526474498201">
@@ -281,11 +281,11 @@
       <jump line="15" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcG9ydAo=</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
