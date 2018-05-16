@@ -23,6 +23,12 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/post_freshness.py" timestamp="1526472001172">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="22" />
+        <mark key="." line="19" column="22" />
+        <mark key="^" line="19" column="22" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/rabbitmq-aws-cluster/main.tf" timestamp="1526037868435">
         <mark key="[" line="142" column="17" />
         <mark key="]" line="143" column="29" />
@@ -49,10 +55,10 @@
         <mark key="^" line="36" column="66" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/twitter.py" timestamp="1526304862224">
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="." line="233" column="0" />
-        <mark key="^" line="233" column="0" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="234" column="0" />
+        <mark key="." line="234" column="0" />
+        <mark key="^" line="234" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-api/deploy/api-deployment.yml" timestamp="1526468363233">
         <mark key="[" line="1" column="12" />
@@ -78,12 +84,10 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" timestamp="1526469788477">
-        <mark key="'" line="26" column="18" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="33" column="58" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="22" column="26" />
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" timestamp="1526472058017">
+        <mark key="]" line="25" column="16" />
+        <mark key="^" line="25" column="16" />
+        <mark key="." line="25" column="16" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/.gitignore" timestamp="1526398796570">
         <mark key="[" line="5" column="10" />
@@ -246,11 +250,11 @@
       <jump line="21" column="2" filename="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBEZXRlcm1pbmUgdGhlIFJld3JpdGVCYXNlIGF1dG9tYXRpY2FsbHkgYW5kIHNldCBpdCBhcyBlbnZpcm9ubWVudCB2YXJpYWJsZS4KICAgICAgICAjIElmIHlvdSBhcmUgdXNpbmcgQXBhY2hlIGFsaWFzZXMgdG8gZG8gbWFzcyB2aXJ0dWFsIGhvc3Rpbmcgb3IgaW5zdGFsbGVkIHRoZQogICAgICAgICMgcHJvamVjdCBpbiBhIHN1YmRpcmVjdG9yeSwgdGhlIGJhc2UgcGF0aCB3aWxsIGJlIHByZXBlbmRlZCB0byBhbGxvdyBwcm9wZXIKICAgICAgICAjIHJlc29sdXRpb24gb2YgdGhlIGFwcC5waHAgZmlsZSBhbmQgdG8gcmVkaXJlY3QgdG8gdGhlIGNvcnJlY3QgVVJJLiBJdCB3aWxsCiAgICAgICAgIyB3b3JrIGluIGVudmlyb25tZW50cyB3aXRob3V0IHBhdGggcHJlZml4IGFzIHdlbGwsIHByb3ZpZGluZyBhIHNhZmUsIG9uZS1zaXplCiAgICAgICAgIyBmaXRzIGFsbCBzb2x1dGlvbi4gQnV0IGFzIHlvdSBkbyBub3QgbmVlZCBpdCBpbiB0aGlzIGNhc2UsIHlvdSBjYW4gY29tbWVudAogICAgICAgICMgdGhlIGZvbGxvd2luZyAyIGxpbmVzIHRvIGVsaW1pbmF0ZSB0aGUgb3ZlcmhlYWQuCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>Always</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
