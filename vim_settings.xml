@@ -53,12 +53,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" timestamp="1526557778619">
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" timestamp="1526568714309">
         <mark key="'" line="20" column="23" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-        <mark key="^" line="0" column="2" />
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="27" />
+        <mark key="." line="23" column="27" />
+        <mark key="^" line="23" column="27" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/kube/cluster.tf" timestamp="1526551434693">
         <mark key="'" line="14" column="0" />
@@ -226,10 +226,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>/etc/apache2/sites-enabled/000-default.conf</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>/etc/apache2/sites-enabled/000-default.conf</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -238,7 +238,7 @@
         <text>platfi.azurecr.io/platfi/service-questionnaire-manager:unstable</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogCg==</text>
+        <text encoding="base64">ICAgICAgLSBuYW1lOiBob3N0CiAgICAgICAgY29uZmlnTWFwOgogICAgICAgICAgbmFtZTogYXBpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -256,22 +256,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdHJhdGVneToge30K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXBsaWNhczogMQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBuYW1lOiBzZXJ2aWNlLXF1ZXN0aW9ubmFpcmUtbWFuYWdlcgo=</text>
+        <text encoding="base64">ICBzdHJhdGVneToge30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbm5vdGF0aW9uczoKICAgIGtvbXBvc2UuY21kOiBrb21wb3NlIGNvbnZlcnQKICAgIGtvbXBvc2UudmVyc2lvbjogMS4xMy4wIChIRUFEKQogIGNyZWF0aW9uVGltZXN0YW1wOiBudWxsCg==</text>
+        <text encoding="base64">ICByZXBsaWNhczogMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5hbWUK</text>
+        <text encoding="base64">ICBuYW1lOiBzZXJ2aWNlLXF1ZXN0aW9ubmFpcmUtbWFuYWdlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRpb25UaW1lc3RhbXA6IG51bGwK</text>
+        <text encoding="base64">ICBhbm5vdGF0aW9uczoKICAgIGtvbXBvc2UuY21kOiBrb21wb3NlIGNvbnZlcnQKICAgIGtvbXBvc2UudmVyc2lvbjogMS4xMy4wIChIRUFEKQogIGNyZWF0aW9uVGltZXN0YW1wOiBudWxsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -283,10 +283,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RhdHVzOiB7fQo=</text>
+        <text encoding="base64">ICAgIG5hbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZXM6IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgY3JlYXRpb25UaW1lc3RhbXA6IG51bGwK</text>
       </register>
       <register name=":" type="4">
         <text>% s/redis/service-questionnaire-manager/</text>
