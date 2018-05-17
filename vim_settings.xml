@@ -9,11 +9,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-ingress.yaml" timestamp="1526570192891">
-        <mark key="'" line="15" column="18" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-ingress.yaml" timestamp="1526573134483">
+        <mark key="'" line="21" column="18" />
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="9" />
+        <mark key="." line="12" column="9" />
+        <mark key="^" line="12" column="9" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" timestamp="1526558637486">
         <mark key="'" line="2" column="0" />
@@ -238,17 +239,17 @@
       <jump line="14" column="18" filename="$USER_HOME$/www/work/capitalise/kube/final/api-ingress.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-ingress</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>-ingress</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
       <register name="0" type="4">
-        <text>platfi.azurecr.io/platfi/service-questionnaire-manager:unstable</text>
+        <text>53e1616b-2772-4bd2-aaf5-04c764c06d02.westeurope.aksapp.io</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
