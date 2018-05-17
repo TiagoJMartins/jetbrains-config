@@ -9,7 +9,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" timestamp="1526475034421">
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" timestamp="1526558637486">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="4" column="11" />
@@ -83,6 +83,13 @@
         <mark key="^" line="11" column="75" />
         <mark key="." line="11" column="75" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" timestamp="1526559296326">
+        <mark key="'" line="34" column="17" />
+        <mark key="[" line="53" column="59" />
+        <mark key="]" line="53" column="65" />
+        <mark key="." line="53" column="65" />
+        <mark key="^" line="53" column="65" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" timestamp="1526395195034">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="1" column="0" />
@@ -95,7 +102,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" timestamp="1526555756850">
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" timestamp="1526557778619">
         <mark key="'" line="20" column="23" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -141,12 +148,12 @@
         <mark key="." line="81" column="44" />
         <mark key="^" line="81" column="44" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/datasources-configmap.yaml" timestamp="1526551296296">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="18" />
-        <mark key="^" line="9" column="18" />
-        <mark key="." line="9" column="18" />
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/datasources-configmap.yaml" timestamp="1526559311778">
+        <mark key="'" line="8" column="23" />
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="12" column="47" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="12" column="47" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-webhooks/publisher/publisher.js" timestamp="1526303663322">
         <mark key="[" line="5" column="39" />
@@ -188,12 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
-      <jump line="73" column="35" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
-      <jump line="176" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
-      <jump line="60" column="44" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
-      <jump line="65" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
       <jump line="68" column="2" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
       <jump line="42" column="3" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
       <jump line="70" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
@@ -288,22 +289,28 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" />
       <jump line="12" column="14" filename="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" />
       <jump line="11" column="36" filename="$USER_HOME$/www/work/capitalise/dbs/terraform.tfvars" />
+      <jump line="18" column="6" filename="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" />
+      <jump line="6" column="24" filename="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" />
+      <jump line="24" column="6" filename="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" />
+      <jump line="34" column="17" filename="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" />
+      <jump line="8" column="23" filename="$USER_HOME$/www/work/capitalise/kube/final/datasources-configmap.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Standard</text>
+        <text>password</text>
       </register>
       <register name="-" type="4">
-        <text>Standard</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
         <text>launch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBTU0wgUG9ydDogNjM4MAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogTU9OR09EQl9QQVNTV09SRAogICAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgICAgY29uZmlnTWFwS2V5UmVmOgogICAgICAgICAgICAgICAgbmFtZTogZGF0YXNvdXJjZXMKICAgICAgICAgICAgICAgIGtleTogbW9uZ29kYi5zZXJ2aWNlLXF1ZXN0aW9ubmFpcmUtbWFuYWdlci5wYXNzd29yZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBOb24tU1NMIFBvcnQ6IDYzNzkK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -321,22 +328,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBFbmFibGUgNjM3OQo=</text>
+        <text encoding="base64">ICBzdHJhdGVneToge30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVkaXNfZW5hYmxlX25vbl9zc2xfcG9ydCA9ICJmYWxzZSIK</text>
+        <text encoding="base64">ICByZXBsaWNhczogMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVkaXNfc2t1X25hbWUgPSAiU3RhbmRhcmQiCg==</text>
+        <text encoding="base64">ICBuYW1lOiBzZXJ2aWNlLXF1ZXN0aW9ubmFpcmUtbWFuYWdlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVkaXNfY2FwYWNpdHkgPSAwCg==</text>
+        <text encoding="base64">ICBhbm5vdGF0aW9uczoKICAgIGtvbXBvc2UuY21kOiBrb21wb3NlIGNvbnZlcnQKICAgIGtvbXBvc2UudmVyc2lvbjogMS4xMy4wIChIRUFEKQogIGNyZWF0aW9uVGltZXN0YW1wOiBudWxsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG5hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVkaQogIAo=</text>
+        <text encoding="base64">ICAgICAgY3JlYXRpb25UaW1lc3RhbXA6IG51bGwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -348,10 +355,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVkaXNfZW5hYmxlX25vbl9zc2xfcG9ydCA9IAo=</text>
+        <text encoding="base64">c3RhdHVzOiB7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZXM6IHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>54</text>
