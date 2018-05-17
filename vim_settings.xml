@@ -33,10 +33,10 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="22" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" timestamp="1526477400207">
-        <mark key="'" line="16" column="0" />
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" timestamp="1526560894217">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
+        <mark key="]" line="15" column="13" />
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
       </file>
@@ -77,13 +77,14 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/docker-compose.yml" timestamp="1526561091009" />
       <file name="$USER_HOME$/www/work/skorr/skorr-api/src/main/kotlin/social/skorr/api/env/Configs.kt" timestamp="1526303653737">
         <mark key="[" line="11" column="76" />
         <mark key="]" line="11" column="75" />
         <mark key="^" line="11" column="75" />
         <mark key="." line="11" column="75" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" timestamp="1526559296326">
+      <file name="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" timestamp="1526560814585">
         <mark key="'" line="34" column="17" />
         <mark key="[" line="53" column="59" />
         <mark key="]" line="53" column="65" />
@@ -148,7 +149,14 @@
         <mark key="." line="81" column="44" />
         <mark key="^" line="81" column="44" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/datasources-configmap.yaml" timestamp="1526559311778">
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-service.yaml" timestamp="1526561076589">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/datasources-configmap.yaml" timestamp="1526560763354">
         <mark key="'" line="8" column="23" />
         <mark key="[" line="12" column="40" />
         <mark key="]" line="12" column="47" />
@@ -174,7 +182,7 @@
         <mark key="." line="21" column="14" />
         <mark key="^" line="21" column="14" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" timestamp="1526551819567">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" timestamp="1526561094892">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="34" />
@@ -195,14 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="2" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
-      <jump line="42" column="3" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
-      <jump line="70" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
-      <jump line="5" column="21" filename="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" />
-      <jump line="37" column="45" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
-      <jump line="44" column="30" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
-      <jump line="9" column="13" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
-      <jump line="65" column="41" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
       <jump line="61" column="56" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
       <jump line="16" column="7" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
       <jump line="42" column="41" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
@@ -250,7 +250,6 @@
       <jump line="10" column="6" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-deployment.yaml" />
       <jump line="16" column="15" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-deployment.yaml" />
       <jump line="7" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-deployment.yaml" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" />
       <jump line="13" column="16" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" />
       <jump line="9" column="2" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" />
       <jump line="15" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" />
@@ -295,19 +294,28 @@
       <jump line="24" column="6" filename="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" />
       <jump line="34" column="17" filename="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" />
       <jump line="8" column="23" filename="$USER_HOME$/www/work/capitalise/kube/final/datasources-configmap.yaml" />
+      <jump line="3" column="8" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-service.yaml" />
+      <jump line="8" column="10" filename="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-service.yaml" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-service.yaml" />
+      <jump line="10" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-service.yaml" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-service.yaml" />
+      <jump line="12" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-service.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>password</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
-        <text>launch</text>
+        <text>redis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogTU9OR09EQl9QQVNTV09SRAogICAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgICAgY29uZmlnTWFwS2V5UmVmOgogICAgICAgICAgICAgICAgbmFtZTogZGF0YXNvdXJjZXMKICAgICAgICAgICAgICAgIGtleTogbW9uZ29kYi5zZXJ2aWNlLXF1ZXN0aW9ubmFpcmUtbWFuYWdlci5wYXNzd29yZAo=</text>
+        <text encoding="base64">LS0tCmFwaVZlcnNpb246IHYxCmtpbmQ6IFNlcnZpY2UKbWV0YWRhdGE6CiAgbmFtZTogcmVkaXMKICBsYWJlbHM6CiAgICBhcHA6IHJlZGlzCnNwZWM6CiAgdHlwZTogQ2x1c3RlcklQCiAgcG9ydHM6CiAgLSBuYW1lOiBtYWluCiAgICBwcm90b2NvbDogVENQCiAgICBwb3J0OiA2Mzc5CiAgICB0YXJnZXRQb3J0OiA2Mzc5CiAgc2VsZWN0b3I6CiAgICBhcHA6IHJlZGlzCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogCg==</text>
@@ -361,15 +369,15 @@
         <text encoding="base64">ICAgICAgICByZXNvdXJjZXM6IHt9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>54</text>
+        <text>% s/redis/service-questionnaire-manager/</text>
       </register>
     </registers>
     <search>
-      <last-search>launch</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern>launch</last-pattern>
-      <last-replace>env</last-replace>
-      <last-substitute>os\.environ</last-substitute>
+      <last-pattern>redis</last-pattern>
+      <last-replace>service-questionnaire-manager</last-replace>
+      <last-substitute>redis</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -393,13 +401,9 @@
         <entry>ppri</entry>
         <entry>pprint</entry>
         <entry>launch</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
-        <entry>355</entry>
-        <entry>48</entry>
-        <entry>397</entry>
-        <entry>156</entry>
-        <entry>128</entry>
         <entry>89</entry>
         <entry>wq</entry>
         <entry>11</entry>
@@ -415,6 +419,11 @@
         <entry>106</entry>
         <entry>51</entry>
         <entry>54</entry>
+        <entry>s /redis/service-questionnaire-manager/</entry>
+        <entry>s /redis/service-questionnaire-manager/g</entry>
+        <entry>s /redis/service-questionnaire-manager/gim</entry>
+        <entry>% s/redis/service-questionnaire-manager/gim</entry>
+        <entry>% s/redis/service-questionnaire-manager/</entry>
       </history-cmd>
       <history-expr />
       <history-input />
