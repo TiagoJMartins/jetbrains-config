@@ -9,6 +9,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-ingress.yaml" timestamp="1526570192891">
+        <mark key="'" line="15" column="18" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" timestamp="1526558637486">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="2" column="0" />
@@ -40,6 +46,13 @@
         <mark key="]" line="15" column="77" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/docker-compose.yml" timestamp="1526561716349" />
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" timestamp="1526569626422">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="3" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" timestamp="1526560814585">
         <mark key="'" line="34" column="17" />
         <mark key="[" line="53" column="59" />
@@ -123,14 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="56" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
-      <jump line="16" column="7" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
-      <jump line="42" column="41" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
-      <jump line="82" column="43" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
-      <jump line="38" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
-      <jump line="56" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
-      <jump line="93" column="26" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
       <jump line="40" column="38" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
       <jump line="27" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
       <jump line="49" column="2" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
@@ -223,13 +228,21 @@
       <jump line="10" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-service.yaml" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-service.yaml" />
       <jump line="12" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-service.yaml" />
+      <jump line="13" column="6" filename="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" />
+      <jump line="4" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" />
+      <jump line="10" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" />
+      <jump line="12" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" />
+      <jump line="15" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" />
+      <jump line="14" column="18" filename="$USER_HOME$/www/work/capitalise/kube/final/api-ingress.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/etc/apache2/sites-enabled/000-default.conf</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/etc/apache2/sites-enabled/000-default.conf</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -238,7 +251,7 @@
         <text>platfi.azurecr.io/platfi/service-questionnaire-manager:unstable</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBuYW1lOiBob3N0CiAgICAgICAgY29uZmlnTWFwOgogICAgICAgICAgbmFtZTogYXBpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -256,22 +269,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gbmFtZTogCg==</text>
+        <text encoding="base64">ICAgIHByb3RvY29sOiBUQ1AK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdHJhdGVneToge30K</text>
+        <text encoding="base64">ICB0eXBlOiBDbHVzdGVySVAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXBsaWNhczogMQo=</text>
+        <text encoding="base64">ICBzZWxlY3RvcjoKICAgIGFwcDogYXBpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBuYW1lOiBzZXJ2aWNlLXF1ZXN0aW9ubmFpcmUtbWFuYWdlcgo=</text>
+        <text encoding="base64">ICBzZWxlY3RvcjoKICAgIGFwcDogYXBpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbm5vdGF0aW9uczoKICAgIGtvbXBvc2UuY21kOiBrb21wb3NlIGNvbnZlcnQKICAgIGtvbXBvc2UudmVyc2lvbjogMS4xMy4wIChIRUFEKQogIGNyZWF0aW9uVGltZXN0YW1wOiBudWxsCg==</text>
+        <text encoding="base64">c3RhdHVzOgogIGxvYWRCYWxhbmNlcjoge30K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -283,10 +296,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5hbWUK</text>
+        <text encoding="base64">ICBuYW1lOiBhcGkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRpb25UaW1lc3RhbXA6IG51bGwK</text>
+        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogbnVsbAo=</text>
       </register>
       <register name=":" type="4">
         <text>% s/redis/service-questionnaire-manager/</text>
