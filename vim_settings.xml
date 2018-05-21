@@ -3,26 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-ingress.yaml" timestamp="1526573134483">
-        <mark key="'" line="21" column="18" />
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="9" />
-        <mark key="." line="12" column="9" />
-        <mark key="^" line="12" column="9" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" timestamp="1526558637486">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="0" column="2" />
-      </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-startup" timestamp="1526901693511" />
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-console" timestamp="1526901714340">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="38" />
-        <mark key="^" line="7" column="38" />
-        <mark key="." line="7" column="38" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-console" timestamp="1526906889473">
+        <mark key="[" line="7" column="48" />
+        <mark key="]" line="7" column="48" />
+        <mark key="^" line="7" column="75" />
+        <mark key="." line="7" column="48" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/outputs.tf" timestamp="1526552469664">
         <mark key="[" line="0" column="0" />
@@ -35,19 +21,12 @@
         <mark key="^" line="5" column="12" />
         <mark key="." line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" timestamp="1526560894217">
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" timestamp="1526904955755">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="13" />
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/redis/redis.tf" timestamp="1526552690226">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="8" column="64" />
-        <mark key="]" line="8" column="64" />
-        <mark key="^" line="8" column="62" />
-        <mark key="." line="8" column="64" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-deployment.yaml" timestamp="1526895388117">
         <mark key="[" line="23" column="0" />
@@ -56,26 +35,12 @@
         <mark key="^" line="22" column="48" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/docker-compose.yml" timestamp="1526894149012" />
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" timestamp="1526569626422">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="3" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" timestamp="1526560814585">
-        <mark key="'" line="34" column="17" />
-        <mark key="[" line="53" column="59" />
-        <mark key="]" line="53" column="65" />
-        <mark key="." line="53" column="65" />
-        <mark key="^" line="53" column="65" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" timestamp="1526901126013">
-        <mark key="'" line="135" column="54" />
-        <mark key="[" line="136" column="80" />
-        <mark key="]" line="136" column="80" />
-        <mark key="." line="136" column="80" />
-        <mark key="^" line="136" column="80" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" timestamp="1526904840908">
+        <mark key="'" line="6" column="20" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" timestamp="1526901429872">
         <mark key="'" line="20" column="23" />
@@ -84,17 +49,14 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" timestamp="1526901364799" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" timestamp="1526907161310">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/consumer-crm-deployment.yaml" timestamp="1526896262207">
         <mark key="'" line="33" column="7" />
         <mark key="^" line="28" column="7" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/kube/cluster.tf" timestamp="1526551434693">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="131" column="39" />
-        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-consumer" timestamp="1526900545586">
         <mark key="'" line="25" column="0" />
@@ -114,41 +76,21 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/terraform.tfvars" timestamp="1526564949877">
-        <mark key="'" line="11" column="36" />
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="33" />
-        <mark key="." line="15" column="33" />
-        <mark key="^" line="15" column="33" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" timestamp="1526489419400">
-        <mark key="'" line="68" column="60" />
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="12" column="36" />
-        <mark key="." line="12" column="36" />
-        <mark key="^" line="68" column="64" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/parameters-configmap.yaml" timestamp="1526901270790">
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/parameters-configmap.yaml" timestamp="1526905140029">
         <mark key="'" line="209" column="55" />
         <mark key="[" line="5" column="2" />
         <mark key="]" line="5" column="15" />
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy.xml" timestamp="1526906882520" />
       <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1526551321796">
         <mark key="[" line="81" column="25" />
         <mark key="]" line="81" column="44" />
         <mark key="." line="81" column="44" />
         <mark key="^" line="81" column="44" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-service.yaml" timestamp="1526564954152">
-        <mark key="'" line="12" column="4" />
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="17" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/datasources-configmap.yaml" timestamp="1526901564368">
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/datasources-configmap.yaml" timestamp="1526906925742">
         <mark key="'" line="9" column="23" />
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="21" />
@@ -156,39 +98,22 @@
         <mark key="^" line="12" column="21" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/swagger/spec.yml" timestamp="1526896159871" />
-      <file name="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" timestamp="1526551318703">
-        <mark key="'" line="12" column="14" />
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="38" />
-        <mark key="." line="20" column="38" />
-        <mark key="^" line="21" column="16" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" timestamp="1526906540176">
+        <mark key="'" line="6" column="47" />
+        <mark key="[" line="6" column="54" />
+        <mark key="]" line="6" column="54" />
+        <mark key="." line="6" column="54" />
+        <mark key="^" line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" timestamp="1526900175163">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="28" />
-        <mark key="]" line="6" column="34" />
-        <mark key="." line="6" column="34" />
-        <mark key="^" line="6" column="34" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/consumer-crm-deployment.yaml" timestamp="1526901536167">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="20" column="64" />
-        <mark key="]" line="20" column="63" />
-        <mark key="." line="20" column="63" />
-        <mark key="^" line="20" column="63" />
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/consumer-crm-deployment.yaml" timestamp="1526906935087">
+        <mark key="'" line="45" column="12" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/generic-configmap.yaml" timestamp="1526900057880" />
     </filemarks>
     <jumps>
-      <jump line="5" column="34" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" />
-      <jump line="7" column="4" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/datasources-configmap.yaml" />
-      <jump line="20" column="23" filename="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" />
-      <jump line="14" column="27" filename="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" />
-      <jump line="23" column="14" filename="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" />
       <jump line="10" column="6" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-deployment.yaml" />
       <jump line="16" column="15" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-deployment.yaml" />
       <jump line="7" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/redis-deployment.yaml" />
@@ -277,25 +202,34 @@
       <jump line="14" column="23" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
       <jump line="135" column="54" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
       <jump line="209" column="55" filename="$USER_HOME$/www/work/capitalise/kube/final/parameters-configmap.yaml" />
-      <jump line="24" column="11" filename="$USER_HOME$/www/work/capitalise/kube/final/consumer-crm-deployment.yaml" />
       <jump line="35" column="6" filename="$USER_HOME$/www/work/capitalise/kube/final/consumer-crm-deployment.yaml" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/consumer-crm-deployment.yaml" />
+      <jump line="16" column="4" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
+      <jump line="142" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
+      <jump line="2" column="4" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
+      <jump line="6" column="20" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
+      <jump line="24" column="12" filename="$USER_HOME$/www/work/capitalise/kube/final/consumer-crm-deployment.yaml" />
+      <jump line="45" column="12" filename="$USER_HOME$/www/work/capitalise/kube/final/consumer-crm-deployment.yaml" />
+      <jump line="3" column="40" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" />
+      <jump line="4" column="48" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" />
+      <jump line="5" column="49" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" />
+      <jump line="6" column="47" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZTogcGFyYW1zLXZvbHVtZQo=</text>
+      <register name="&quot;" type="4">
+        <text>redis</text>
       </register>
       <register name="-" type="4">
-        <text>b.yml</text>
+        <text>redis</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
-      <register name="0" type="4">
-        <text>/var/www/platfi/web/.htaccess</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGVudihSQUJCSVRNUV9IT1NUKTogbG9jYWxob3N0CiAgICBlbnYoUkFCQklUTVFfUE9SVCk6IGxvY2FsaG9zdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZTogcGFyYW1zLXZvbHVtZQo=</text>
+        <text encoding="base64">UlVOIGNobW9kIC1SICtydyBhcHAvY2FjaGUgYXBwL2xvZ3MK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -313,22 +247,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">UlVOIGNobW9kIC1SICtydyBhcHAvY2FjaGUgYXBwL2xvZ3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtIG5hbWU6IAo=</text>
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZXM6CiAgICAgICAgICBsaW1pdHM6CiAgICAgICAgICAgIGNweQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlZGlzX3NlcnZlcjogJWVudihNT05HT0RCX0NPTk5fU1RSSU5HKSUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbnY6CiAgICAgICAgICAtIG5hbWU6IE1ZU1FMX0hPU1QKICAgICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICAgIGNvbmZpZ01hcEtleVJlZjoKICAgICAgICAgICAgICAgIG5hbWU6IGRhdGFzb3VyY2VzCiAgICAgICAgICAgICAgICBrZXk6IG15c3FsLmhvc3QKICAgICAgICAgIC0gbmFtZTogTU9OR09EQl9IT1NUCiAgICAgICAgICAgIHZhbHVlRnJvbToKICAgICAgICAgICAgICBjb25maWdNYXBLZXlSZWY6CiAgICAgICAgICAgICAgICBuYW1lOiBkYXRhc291cmNlcwogICAgICAgICAgICAgICAga2V5OiBtb25nb2RiLmhvc3QKICAgICAgICAgIC0gbmFtZTogUkVESVNfSE9TVAogICAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgICAgY29uZmlnTWFwS2V5UmVmOgogICAgICAgICAgICAgICAgbmFtZTogZGF0YXNvdXJjZXMKICAgICAgICAgICAgICAgIGtleTogcmVkaXMuaG9zdAogICAgICAgICAgLSBuYW1lOiBSQUJCSVRNUV9IT1NUCiAgICAgICAgICAgIHZhbHVlRnJvbToKICAgICAgICAgICAgICBjb25maWdNYXBLZXlSZWY6CiAgICAgICAgICAgICAgICBuYW1lOiBkYXRhc291cmNlcwogICAgICAgICAgICAgICAga2V5OiByYWJiaXRtcS5ob3N0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIG1hdGNoRXhwcmVzc2lvbnM6CiAgICAgIC0ga2V5OiAKICAgICAgICBvcGVyYXRvcjogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBrZXk6IAo=</text>
+        <text encoding="base64">CiAgICBkYXRhYmFzZV9wb3J0OiAlZW52KE1ZU1FMX1BPUlQpJQogICAgbW9uZ29kYl9ob3N0OiAlZW52KE1PTkdPREJfSE9TVCklCiAgICBtb25nb2RiX3BvcnQ6ICVlbnYoTU9OR09EQl9QT1JUKSUKICAgIHJhYmJpdG1xX2hvc3Q6ICVlbnYoUkFCQklUTVFfSE9TVCklCiAgICByYWJiaXRtcV9wb3J0OiAlZW52KFJBQkJJVE1RX1BPUlQpJQogICAgcmVkaXNfc2VydmVyOiAnJWVudihSRURJU19IT1NUKSU6JWVudihSRURJU19QT1JUKSUnCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -340,10 +274,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwYXJhbWV0ZXJzLnltbDogfAogICAgICBwYXJhbWV0ZXJzOgogICAgICAgICAgZGF0YWJhc2VfZHJpdmVyOiBwZG9fbXlzcWwKICAgICAgICAgIGRhdGFiYXNlX2hvc3Q6IGRldmNhcGl0YWxpc2UubXlzcWwuZGF0YWJhc2UuYXp1cmUuY29tCiAgICAgICAgICBkYXRhYmFzZV9wb3J0OiBudWxsCiAgICAgICAgICBkYXRhYmFzZV9uYW1lOiBwbGF0ZmlfZGV2CiAgICAgICAgICBkYXRhYmFzZV9uYW1lX3Rlc3Q6IHBsYXRmaV90ZXN0CiAgICAgICAgICBkYXRhYmFzZV91c2VyOiBjYXBpdGFsaXNlZGV2QGRldmNhcGl0YWxpc2UKICAgICAgICAgIGRhdGFiYXNlX3Bhc3N3b3JkOiBNNThkbWxjeUhoWlE5TGxRbGRDbjNHeAogICAgICAgICAgbW9uZ29kYl9ob3N0OiBtb25nb2RiCiAgICAgICAgICBtb25nb2RiX3BvcnQ6IDI3MDE3CiAgICAgICAgICBtb25nb2RiX2RiOiBwbGF0ZmkKICAgICAgICAgIG1vbmdvZGJfZGJfdGVzdDogcGxhdGZpX3Rlc3QKICAgICAgICAgIHJhYmJpdG1xX2hvc3Q6IHJhYmJpdG1xCiAgICAgICAgICByYWJiaXRtcV9wb3J0OiA1NjcyCiAgICAgICAgICByYWJiaXRtcV91c2VyOiBndWVzdAogICAgICAgICAgcmFiYml0bXFfcGFzc3dvcmQ6IGd1ZXN0CiAgICAgICAgICByYWJiaXRtcV92aG9zdDogLwogICAgICAgICAgbWFpbGVyX3RyYW5zcG9ydDogc210cAogICAgICAgICAgbWFpbGVyX2hvc3Q6IDEyNy4wLjAuMQogICAgICAgICAgbWFpbGVyX3VzZXI6IG51bGwKICAgICAgICAgIG1haWxlcl9wYXNzd29yZDogbnVsbAogICAgICAgICAgbG9jYWxlOiBlbgogICAgICAgICAgc2VjcmV0OiBUaGlzVG9rZW5Jc05vdFNvU2VjcmV0Q2hhbmdlSXQKICAgICAgICAgIGRlYnVnX3Rvb2xiYXI6IHRydWUKICAgICAgICAgIGRlYnVnX3JlZGlyZWN0czogZmFsc2UKICAgICAgICAgIHVzZV9hc3NldGljX2NvbnRyb2xsZXI6IHRydWUKICAgICAgICAgIHNlc3Npb25fbGlmZXRpbWU6IDM2MDAKICAgICAgICAgIHNlc3Npb25fcmVkaXJlY3Q6IHBsYXRmaV9vbmJvYXJkaW5nX3N0YXRpY19ob21lcGFnZQogICAgICAgICAgc2VuZF9jcmFzaF9lbWFpbDogdHJ1ZQogICAgICAgICAgc2VuZGdyaWRfYXBpX3VzZXI6IGNhcGl0YWxpc2UuY29tCiAgICAgICAgICBzZW5kZ3JpZF9hcGlfa2V5OiAnITZLXnZMLDhHJwogICAgICAgICAgc2VuZGdyaWRfbWFpbGluZ19saXN0OiAnQWxsIC0gRGV2JwogICAgICAgICAgc2VuZGdyaWRfdjNfYXBpX2tleTogJ1NHLnp5c0FtMGZyU1JPNWdQM245T0tVMHcuOWR5dGRBNlBRYXpOb0JJNWN6amcwa1I2NEFXTWJOLXlpY0o4TVNiYzhhRScKICAgICAgICAgIGRpc2FibGVfZW1haWxfZGVsaXZlcnk6IGZhbHNlCiAgICAgICAgICBpbmdlc3Rvcl91cmw6ICdodHRwOi8vcGxhdGZpLXNlcnZpY2UtaW5nZXN0b3IubG9jYWw6OTAwMCcKICAgICAgICAgIGluZ2VzdG9yX3NpbXVsYXRlOiBmYWxzZQogICAgICAgICAgeGVyb19rZXk6IEhBWTFHU0pEVE1VSFpWT1hOTVhGSUs2UkE0SEdZSAogICAgICAgICAgeGVyb19zZWNyZXQ6IDBIV1UwVlQ3QlpXUVNBQThCQ09LVVBWRjdRWEpFWQogICAgICAgICAgeGVyb19jb3JlX3ZlcnNpb246ICcyLjAnCiAgICAgICAgICB4ZXJvX3BheXJvbGxfdmVyc2lvbjogJzEuMCcKICAgICAgICAgIHhlcm9fZmlsZV92ZXJzaW9uOiAnMS4wJwogICAgICAgICAgeGVyb19hcHBsaWNhdGlvbl90eXBlOiBQdWJsaWMKICAgICAgICAgIHhlcm9fb2F1dGhfY2FsbGJhY2s6ICdodHRwczovL2Rldi5jYXBpdGFsaXNlLmNvbS9hcHAvYXV0aC9oYW5kbGVyL3hlcm8nCiAgICAgICAgICB4ZXJvX3VzZXJfYWdlbnQ6ICdYZXJvLU9BdXRoLVBIUCBQdWJsaWMnCgogICAgICAgICAgIyBEZXYgQ3JlZGVudGlhbHMKICAgICAgICAgICNjcmVkaXRzYWZlX2xvZ2luOiBzaXhsZWFwc3Rlc3QKICAgICAgICAgICNjcmVkaXRzYWZlX3Bhc3N3b3JkOiBzaXhsZWFwczY3NDgxOQogICAgICAgICAgI2NyZWRpdHNhZmVfc2ltdWxhdGU6IGZhbHNlCiAgICAgICAgICAjY3JlZGl0c2FmZV91cmw6ICdodHRwczovL3Rlc3R3ZWJzZXJ2aWNlcy5jcmVkaXRzYWZlLmNvbS9HbG9iYWxEYXRhLzEuMy9NYWluU2VydmljZUJhc2ljLnN2Yy9tZXRhP3dzZGwnCiAgICAgICAgICBjcmVkaXRzYWZlX3JlcXVlc3RfdGltZW91dDogMzAKICAgICAgICAgIGNyZWRpdHNhZmVfY2FjaGVfZXhwaXJhdGlvbl9wZXJpb2Q6IDMwCgogICAgICAgICAgIyBMaXZlIENyZWRlbnRpYWxzCiAgICAgICAgICBjcmVkaXRzYWZlX2xvZ2luOiBwbGF0ZmlsaXZlCiAgICAgICAgICBjcmVkaXRzYWZlX3Bhc3N3b3JkOiBwbGF0ZmkyNDY5CiAgICAgICAgICBjcmVkaXRzYWZlX3NpbXVsYXRlOiBmYWxzZQogICAgICAgICAgY3JlZGl0c2FmZV9yZXF1ZXN0X3RpbWVvdXQ6IDMwCiAgICAgICAgICBjcmVkaXRzYWZlX3VybDogJ2h0dHBzOi8vd2Vic2VydmljZXMuY3JlZGl0c2FmZS5jb20vR2xvYmFsRGF0YS8xLjMvTWFpblNlcnZpY2VCYXNpYy5zdmMvbWV0YT93c2RsJwoKCiAgICAgICAgICBnZWNrb19hcGlfa2V5OiBlZDhkMzRmYTQwMDc4MzcyOTJmZDM5YjI4Yzk1YzNlMAogICAgICAgICAgZ2Vja29fZnVuZGluZ19zZWFyY2hfZnVubmVsX2lkOiAxMjk0MjUtMDJlZTBiMDMtYmFhYS00YjRmLTg0MWMtM2IzZjUwOTk1MTRjCiAgICAgICAgICBnZWNrb19zaWdudXBzX2NoYXJ0X2lkOiAxMjk0MjUtNmFhNWI5YmEtNDUzYy00ZTliLWJmZmUtNTk3ZThhMjlmYjhlCiAgICAgICAgICBpbmZ1c2lvbnNvZnRfY2xpZW50X2lkOiBmajl5azZobTZya3U1ZmdidHB2Y3FwdjQKICAgICAgICAgIGluZnVzaW9uc29mdF9zaW11bGF0ZTogdHJ1ZQogICAgICAgICAgaW5mdXNpb25zb2Z0X2NsaWVudF9zZWNyZXQ6IHFwSjN1a1ZrWGIKICAgICAgICAgIGludGVyY29tX2FwcF9pZDogejZyb3RrYnoKICAgICAgICAgIGludGVyY29tX2FjcXVpcmVfY2hhdF9kZWxheTogMTUKICAgICAgICAgIGludGVyY29tX3VzZXJfaGFzaF9zZWNyZXRfa2V5OiAnTGtXZ2NESm9FRzZXUzhncElocXZ6ajRvRHg1c1A0OTJjMHZuMHZqUycKICAgICAgICAgIGVtYWlsX25vX3JlcGx5OiBuby1yZXBseUBjYXBpdGFsaXNlLmNvbQogICAgICAgICAgZW1haWxfc3VwcG9ydDogc3VwcG9ydEBjYXBpdGFsaXNlLmNvbQogICAgICAgICAgZW1haWxfYWRtaW46IGFkbWluQGNhcGl0YWxpc2UuY29tCiAgICAgICAgICBlbWFpbF9wYXVsOiBwYXVsQGNhcGl0YWxpc2UuY29tCiAgICAgICAgICBnYV90cmFja2luZzogVUEtNjE0NzYzNzMtMQogICAgICAgICAgZ29vZ2xlX3RhZ19pZDogR1RNLTVHRlNMMwogICAgICAgICAgZ29vZ2xlX21hcHNfc3RhdGljX2FwaTogQUl6YVN5RFlod2tmZS13Q3ZKY1FCam9fMXh4SEstRmxCUnRVd1BFCgogICAgICAgICAgIyMgU2xhY2sgQ29uZmlndXJhdGlvbgogICAgICAgICAgc2xhY2tfY3VzdG9tZXJfY2hhbm5lbDogJyNzYWxlcy1hY3Rpdml0eS11YXQnCiAgICAgICAgICBzbGFja19zdXBwb3J0X2NoYW5uZWw6ICcjcGxhdGZpLWxvZ3MtZGV2LXVhdCcKICAgICAgICAgIHNsYWNrX2ZvbGxvd3VwX2NoYW5uZWw6ICcjc2FsZXMtZm9sbG93dXBzLXVhdCcKICAgICAgICAgIHNsYWNrX2ludHJvZHVjZXJzX2NoYW5uZWw6ICcjc2FsZXMtaW50cm9kdWNlcnMtdWF0JwogICAgICAgICAgc2xhY2tfZG9jdW1lbnRzX2NoYW5uZWw6ICdzYWxlcy1kb2N1bWVudHMtdWF0JwogICAgICAgICAgc2xhY2tfbG9nX2NoYW5uZWw6ICcjcHJvZC1jcm0tbG9nLXVhdCcKICAgICAgICAgIHNsYWNrX2JvdF91c2VybmFtZTogJ0NhcGl0YWxpc2UgQm90IC0gREVWJwogICAgICAgICAgc2xhY2tfYXBpX3Rva2VuOiB4b3hwLTI4MzQyNjM3NDYxMy0yODM0MjYzNzY2NzctMjg3NzQwNzU1NjIzLWRhMzMzZjE2NmJkNGYwZDdjYWU2MWNlMjI3MjkwMTc3CgogICAgICAgICAgI2Z1bmRpbmdfc2VhcmNoX2RlZmF1bHRfY29uc3VsdGFudDogYWRtaW5AY2FwaXRhbGlzZS5jb20KICAgICAgICAgICNpbnRyb2R1Y2VyX2RlZmF1bHRfY29uc3VsdGFudDogYWRtaW5AY2FwaXRhbGlzZS5jb20KICAgICAgICAgIGZ1bmRpbmdfc2VhcmNoX2RlZmF1bHRfY29uc3VsdGFudDogb2xpdmVyLmN1bW1pbmdzLXhhbnlAZm9yY2UuY29tLmNwdGxzZGV2CiAgICAgICAgICBpbnRyb2R1Y2VyX2RlZmF1bHRfY29uc3VsdGFudDogb2xpdmVyLmN1bW1pbmdzLXhhbnlAZm9yY2UuY29tLmNwdGxzZGV2CiAgICAgICAgICBzZXJ2ZXJfZG9tYWluOiAnaHR0cHM6Ly9kZXYuY2FwaXRhbGlzZS5jb20nCiAgICAgICAgICBiYXNlX3VybF9hYnNvbHV0ZTogJyVzZXJ2ZXJfZG9tYWluJS9hcHAnCiAgICAgICAgICBzd2l0Y2hib2FyZF9waG9uZV9udW1iZXI6ICcwMjAgMzY5NiA5NzAwJwogICAgICAgICAgbWV0cmljc19saWtlbGlob29kX29mX29mZmVyX2VuYWJsZWQ6IHRydWUKICAgICAgICAgIG1ldHJpY3NfcHJvZHVjdF9jb21wYXJpc29uX2VuYWJsZWQ6IHRydWUKICAgICAgICAgIG1ldHJpY3Nfc2VydmVyX2FkZHJlc3M6ICdodHRwOi8vc2VydmljZS1tZXRyaWNzOjkwMDAnCiAgICAgICAgICBtZXRyaWNzX2RlZmF1bHRfdGltZWZyYW1lOiA5MAogICAgICAgICAgbWV0cmljc19yZXZpZXdfc2NvcmVfZW5hYmxlZDogdHJ1ZQogICAgICAgICAgbWV0cmljc19yZXNwb25zZV90aW1lX2VuYWJsZWQ6IHRydWUKICAgICAgICAgIG1ldHJpY3NfbGlrZWxpaG9vZF9vZl9vZmZlcl9pbmZsYXRlX2ZhY3RvcjogMC4yCiAgICAgICAgICBtZW1iZXJzaGlwX2xldmVsX3NlcnZpY2VfYWRkcmVzczogJ2h0dHA6Ly9wbGF0Zmktc2VydmljZS1tZW1iZXJzaGlwLWxldmVscy5sb2NhbDo5MDAwL2FwaS92MS8nCiAgICAgICAgICBtZW1iZXJzaGlwX2xldmVsX3NlcnZpY2Vfc2ltdWxhdGU6IGZhbHNlCiAgICAgICAgICBxdWVzdGlvbm5haXJlX3ByZXNlbGVjdF9yZXN1bHRzOiA0CiAgICAgICAgICBxdWVzdGlvbm5haXJlX29iZnVzY2F0ZV9yZXN1bHRzX2VuYWJsZWQ6IHRydWUKICAgICAgICAgIGludHJvZHVjZXJfdHlwZXMuanNvbjogJ3siMSI6IkFjY291bnRhbnQiLCIyIjoiQ29tbWVyY2lhbCBCcm9rZXIiLCIzIjoiUHJvZmVzc2lvbmFsIEFkdmlzZXIiLCI0IjoiVHJhZGUgQXNzb2NpYXRpb24ifScKICAgICAgICAgIGludHJvZHVjZXJfdHlwZXMuYXJyYXk6CiAgICAgICAgICAgICAgMTogQWNjb3VudGFudAogICAgICAgICAgICAgIDI6ICdDb21tZXJjaWFsIEJyb2tlcicKICAgICAgICAgICAgICAzOiAnUHJvZmVzc2lvbmFsIEFkdmlzZXInCiAgICAgICAgICAgICAgNDogJ1RyYWRlIEFzc29jaWF0aW9uJwogICAgICAgICAgY3JlZGl0X3Njb3JlX2ludmFsaWRhdGlvbl90aW1lOiAxNQogICAgICAgICAgZGVmYXVsdF9zdGFsZV9wZXJpb2Q6IDcKICAgICAgICAgIG1ldHJpY3NfZXhjbHVkZWRfc3RhdHVzZXM6CiAgICAgICAgICAgICAgLSAnRnVuZGluZ01hdGNoOjpTVEFUVVNfTk9OX1JFU1BPTlNJVkUnCiAgICAgICAgICAgICAgLSAnRnVuZGluZ01hdGNoOjpTVEFUVVNfQ0xJRU5UX0RFQ0xJTkUnCiAgICAgICAgICBhd3Nfa2V5OiBBS0lBSVdBUk1NTU5NRUVERUFDQQogICAgICAgICAgYXdzX3NlY3JldDogSkFWTTJtNWNEQ2lvOHlrNS9aK1l4TWNKYndEMEdraTJzM2IxeE16bgogICAgICAgICAgYXdzX3JlZ2lvbjogZXUtd2VzdC0xCiAgICAgICAgICBhd3NfcHVibGljX2J1Y2tldF9uYW1lOiBkZXYuY2FwaXRhbGlzZS5jb20KICAgICAgICAgIGF3c19wcml2YXRlX2J1Y2tldF9uYW1lOiBkZXYuY2FwaXRhbGlzZS5jb20tcHJpdmF0ZQogICAgICAgICAgYXdzX3ByaXZhdGVfdGVtcF9idWNrZXRfbmFtZTogZGV2LmNhcGl0YWxpc2UuY29tLXByaXZhdGUtdG1wCiAgICAgICAgICBnb29nbGVfb2F1dGhfY2xpZW50X2lkOiA4MTEwNDA0NTc0ODctc3BxNjI3OXZtcnBiMHV2ZGJuaGsxOGdvMHRxcW1vYXUuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20KICAgICAgICAgIGdvb2dsZV9vYXV0aF9jbGllbnRfc2VjcmV0OiBkdXhyUVFVNXd6U0hIMzZicElnSlQ3UzkKICAgICAgICAgIHF1b3RlX3NlcnZpY2VfcHJvdmlkZXJfZW5hYmxlZDogZmFsc2UKICAgICAgICAgIHF1b3RlX3NlcnZpY2VfcHJvdmlkZXJfc2VydmVyX2FkZHJlc3M6ICdodHRwOi8vcGxhdGZpLXNlcnZpY2UtcXVvdGUtcHJvdmlkZXIubG9jYWw6OTAwMCcKICAgICAgICAgIG5vdGlmaWNhdGlvbnNfcmVmcmVzaF90aW1lOiAzMDAwMAogICAgICAgICAgbm90aWZpY2F0aW9uc19saW1pdDogMTAKICAgICAgICAgIGFzc2V0X2Nkbl91cmw6ICdodHRwczovL2Rldi5jYXBpdGFsaXNlLmNvbS9hcHAvJwogICAgICAgICAgZnVuZGluZ190aXBzX3NlcnZpY2VfYWRkcmVzczogImh0dHA6Ly9wbGF0Zmktc2VydmljZS1mdW5kaW5nLXRpcHMubG9jYWw6OTAwMC9hcGkvdjEvIgogICAgICAgICAgZnVuZGluZ190aXBzX3NlcnZpY2Vfc2ltdWxhdGU6IGZhbHNlCiAgICAgICAgICBjYXBpdGFsaXNlX2FwaV9nYXRld2F5X2FkZHJlc3M6ICJodHRwOi8vcGxhdGZpLXNlcnZpY2UtYXBpLWdhdGV3YXkubG9jYWwvYXBwL2FwaS8iCiAgICAgICAgICBpbnRlcmNvbV9hY2Nlc3NfdG9rZW46IGRHOXJPalk0T0dKaU5UbG1Yell4T1RsZk5HTXdZVjg1TnpabFh6VmpOVE16TURkaFpqY3lOVG94T2pBPQogICAgICAgICAgZnVuZGluZ19zZWFyY2hfZG9jdW1lbnRzX2RlbGF5OiAyMCAjMjAgbWludXRlcyBvZiBkZWxheQogICAgICAgICAgcmVkaXNfc2VydmVyOiAncmVkaXM6NjM3OScKICAgICAgICAgIHF1ZXN0aW9ubmFpcmVfbWFuYWdlcl9zZXJ2aWNlX2FkZHJlc3M6ICdodHRwOi8vcGxhdGZpLXNlcnZpY2UtcXVlc3Rpb25uYWlyZS1tYW5hZ2VyLmxvY2FsLycKICAgICAgICAgIHF1ZXN0aW9ubmFpcmVfc2VydmljZV9zaW11bGF0ZTogZmFsc2UKICAgICAgICAgIGNvbXBhbmllc19ob3VzZV9hcGlfa2V5OiAnLWpTakRpT2VqVGNuOEpQWGNuLVNXVmpCdFNZMTEyQlNvU1Y5OXEtbycKICAgICAgICAgIGNvbXBhbmllc19ob3VzZV9pbnRlZ3JhdGlvbl9lbmFibGVkOiB0cnVlCiAgICAgICAgICBzYWdlb25lX2NsaWVudElkOiAnMTIzODA2ODgxNmRhZDRiOGIyODcnCiAgICAgICAgICBzYWdlb25lX2NsaWVudFNlY3JldDogJ2I1MDQzOWVjNTFiYmZlODBhNTVlMjAyYjFhYjZhNWQzMTI1NWQ5YzMnCiAgICAgICAgICBzYWdlb25lX2F1dGhvcml6YXRpb25VUkw6ICdodHRwczovL3d3dy5zYWdlb25lLmNvbS9vYXV0aDIvYXV0aC9jZW50cmFsJwogICAgICAgICAgc2FnZW9uZV9hY2Nlc3NUb2tlblVSTDogJ2h0dHBzOi8vYXBwLnNhZ2VvbmUuY29tL29hdXRoMi90b2tlbicKICAgICAgICAgIHNhZ2VvbmVfcmVkaXJlY3RVUkw6ICclYmFzZV91cmxfYWJzb2x1dGUlL2F1dGgvaGFuZGxlci9zYWdlb25lJwogICAgICAgICAgc2FnZW9uZV9zY29wZTogcmVhZG9ubHkKCiAgICAgICAgICAjIFF1aWNrYm9va3MgY29uZmlndXJhdGlvbnMKICAgICAgICAgIHF1aWNrYm9va3NfY2xpZW50SWQ6IFEwd3ZDWXRzUjEyMWNlc295ZjVveUszdm52MzBoMFJzTHBWWURkbXNTaDlqQUU5V3FZCiAgICAgICAgICBxdWlja2Jvb2tzX2NsaWVudFNlY3JldDogYkw0eFlsckMzMWRuWHI4TG1zRFVYY0txRGI1ZTdsVFVNTkR0VkJWUQogICAgICAgICAgcXVpY2tib29rc19hdXRob3JpemF0aW9uVVJMOiAnaHR0cHM6Ly9hcHBjZW50ZXIuaW50dWl0LmNvbS9jb25uZWN0L29hdXRoMicKICAgICAgICAgIHF1aWNrYm9va3NfYWNjZXNzVG9rZW5VUkw6ICdodHRwczovL29hdXRoLnBsYXRmb3JtLmludHVpdC5jb20vb2F1dGgyL3YxL3Rva2Vucy9iZWFyZXInCiAgICAgICAgICBxdWlja2Jvb2tzX3JlZGlyZWN0VVJMOiAnJWJhc2VfdXJsX2Fic29sdXRlJS9hdXRoL2hhbmRsZXIvcXVpY2tib29rcycKICAgICAgICAgIHF1aWNrYm9va3Nfc2NvcGU6ICdvcGVuaWQgcHJvZmlsZSBlbWFpbCBjb20uaW50dWl0LnF1aWNrYm9va3MuYWNjb3VudGluZycKCiAgICAgICAgICBsZW5kZXJfY3JpdGVyaWFfZXhwaXJhdGlvbl9wZXJpb2Q6IDYKCiAgICAgICAgICAjIFJlY29tbWVuZGVkIG1hdGNoZXMgZmVhdHVyZSB0b2dnbGUKICAgICAgICAgIG1ldHJpY3NfcmVjb21tZW5kZWRfbWF0Y2hlc19lbmFibGVkOiBmYWxzZQoKICAgICAgICAgIHF1ZXN0aW9ubmFpcmVfYXNzaXN0YW50X2VuYWJsZWQ6IHRydWUKCiAgICAgICAgICAjIyBTYWxlc2ZvcmNlIGNvbmZpZ3MKICAgICAgICAgIHNhbGVzZm9yY2UuY2xpZW50X2lkOiAnM01WRzlzU05fUE1uOHRqU29keUQyOGpTSnB3ZV83T0dUZWNwQzQySkpBeXFha2VhZktRdXp3SzB4OGtkaHFYaXpEZ1FPTEFCWmE3STYwSm53ZFRCeicKICAgICAgICAgIHNhbGVzZm9yY2UuY2xpZW50X3NlY3JldDogJzcxOTE1MjQwMTIzODQ4MzQxMDInCiAgICAgICAgICBzYWxlc2ZvcmNlLmFwaV92ZXJzaW9uOiAnNDAuMCcKICAgICAgICAgIHNhbGVzZm9yY2UubG9naW5fdXJsOiAnaHR0cHM6Ly90ZXN0LnNhbGVzZm9yY2UuY29tJwogICAgICAgICAgc2FsZXNmb3JjZS51c2VybmFtZTogJ2NhcGl0YWxpc2VhcHBAY2FwaXRhbGlzZS5jb20uY3B0bHNkZXYnCiAgICAgICAgICBzYWxlc2ZvcmNlLnBhc3N3b3JkOiAnRmludGVjaDE4JwogICAgICAgICAgc2FsZXNmb3JjZS5zaW11bGF0ZTogZmFsc2UKCiAgICAgICAgICAjIyBTdGl0Y2hlcyBXZWJob29rIGZvciBEYXRhLVdhcmVob3VzaW5nCiAgICAgICAgICBzdGl0Y2hlc19xdWVzdGlvbm5haXJlX3N1Ym1pc3Npb25fd2ViaG9va191cmw6ICdmaWxsLW1lLWluJwogICAgICAgICAgc3RpdGNoZXNfd2ViaG9va19zaW11bGF0ZTogdHJ1ZQoKICAgICAgICAgIGxlbmRlcl9yZXF1aXJlX2FjdGlvbl9saW1pdDogMTAKICAgICAgICAgIHNsYWNrX2RvY3VtZW50c19jaGFubmVsOiAnY2FwaXRhbGlzZS1kb2N1bWVudHMyJwoKICAgICAgICAgICMjIEZlYXR1cmUgdG9nZ2xlcyAobmVlZCB0byBtb3ZlIHRoZSBleGlzdGluZyBvbmVzIHRvIHRoaXMgc2VjdGlvbikKICAgICAgICAgIG1ldHJpY3NfcHJvZHVjdF9jb3N0X2VuYWJsZWQ6IGZhbHNlCgogICAgICAgICAgIyMgQ1JNIEluYm91bmQgc2V0dGluZ3MKICAgICAgICAgIGNybV9pbmJvdW5kX3NlY3VyaXR5X3Rva2VuOiAnbGluZWZlZWRzNzI3ODpsYWRsZXMnCgogICAgICAgICAgIyMgQXV0aDAgY29uZmlndXJhdGlvbnMKICAgICAgICAgIGF1dGgwX2Jhc2VfdXJsOiAnaHR0cHM6Ly9jYXBpdGFsaXNlLWRldi5ldS5hdXRoMC5jb20nCiAgICAgICAgICBhdXRoMF9hcGlfaWRlbnRpZmllcjogJ2h0dHBzOi8vY2FwaXRhbGlzZS1kZXYuZXUuYXV0aDAuY29tL2FwaS92Mi8nCiAgICAgICAgICBhdXRoMF9kYl9jb25uY2V0aW9uX25hbWU6ICdVc2VybmFtZS1QYXNzd29yZC1BdXRoZW50aWNhdGlvbicKICAgICAgICAgIGF1dGgwX2NsaWVudF9pZDogJ3VLZ3B2M2JaWEtrTGRmRm16ejAwZTNWRWFWTjc2UnJZJwogICAgICAgICAgYXV0aDBfY2xpZW50X3NlY3JldDogJ2drRTY0S0MwMjdaaFpDTXl0NFlnRWF3TFhrTTl1a1l4OUFwajgxcFRSSVQ5TEM2V2tQSzlvcGFLeDJvWFMzUkMnCiAgICAgICAgICBhdXRoMC5wdWJsaWNfa2V5OiAnY2FwaXRhbGlzZV9hdXRoMF9wdWJsaWMucGVtJwoKICAgICAgICAgICMjIFN0YXRpYyBsb2dpbiBwYWdlIGNvbmZpZ3VyYXRpb24KICAgICAgICAgIHN0YXRpY19sb2dpbl9lbmFibGVkOiB0cnVlCgogICAgICAgICAgIyMgQXp1cmUgYmxvYiBzdG9yYWdlIGNvbmZpZ3VyYXRpb24KICAgICAgICAgIGF6dXJlX2Jsb2Jfc3RvcmFnZV9jb25uZWN0aW9uX3N0cmluZzogJ0RlZmF1bHRFbmRwb2ludHNQcm90b2NvbD1odHRwcztBY2NvdW50TmFtZT1jYXBpdGFsaXNlZGV2O0FjY291bnRLZXk9WmU4L2R4WHRVdE90UTVGOEV6N0ZZQW90WGpsNFRKdkd4RGM1Q2lIa0pNMXM3KzJ6bXFFY0VvTWpxdTA4eENuS2tqWTkxTVR3Lzg4akNwaHZGTjlKQlE9PScKICAgICAgICAgIGF6dXJlX2Jsb2Jfc3RvcmFnZV9wdWJsaWNfY29udGFpbmVyX25hbWU6ICdkZXYtY2FwaXRhbGlzZS1jb20nCiAgICAgICAgICBhenVyZV9ibG9iX3N0b3JhZ2VfcHJpdmF0ZV9jb250YWluZXJfbmFtZTogJ2Rldi1jYXBpdGFsaXNlLWNvbS1wcml2YXRlJwogICAgICAgICAgYXp1cmVfYmxvYl9zdG9yYWdlX3ByaXZhdGVfdGVtcF9jb250YWluZXJfbmFtZTogJ2Rldi1jYXBpdGFsaXNlLWNvbS1wcml2YXRlLXRtcCcKCgogICAgICAgICAgIyBBdXRvbWF0aWMgZGFzaGJvYXJkIFNQQSByZWRpcmVjdAogICAgICAgICAgc3BhX2Rhc2hib2FyZF9hdXRvbWF0aWNfcmVkaXJlY3RfZW5hYmxlZDogZmFsc2UK</text>
+        <text encoding="base64">ICAgIGVudihNT05HT0RCX0hPU1QpOiBsb2NhbGhvc3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdm9sdW1lczoKICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZTogcGFyYW1zLXZvbHVtZQo=</text>
       </register>
       <register name=":" type="4">
         <text>% s/redis/service-questionnaire-manager/</text>
