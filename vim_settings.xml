@@ -305,6 +305,12 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="21" column="16" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/cms-deployment.yaml" timestamp="1526924537069">
+        <mark key="[" line="21" column="62" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/ui-questionnaire-service.yaml" timestamp="1526921459728">
         <mark key="'" line="16" column="0" />
       </file>
@@ -412,8 +418,8 @@
       <jump line="145" column="26" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>versions</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>versions</text>
@@ -425,7 +431,7 @@
         <text encoding="base64">LS0tCmFwaVZlcnNpb246IHYxCmtpbmQ6IFBlcnNpc3RlbnRWb2x1bWVDbGFpbQptZXRhZGF0YToKICBuYW1lOiBjbXMtdmVyc2lvbnMKICBsYWJlbHM6CiAgICBhcHA6IGNtcwpzcGVjOgogIGFjY2Vzc01vZGVzOgogIC0gUmVhZFdyaXRlT25jZQogIHJlc291cmNlczoKICAgIHJlcXVlc3RzOgogICAgICBzdG9yYWdlOiAxMDBNaQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -443,22 +449,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwZXJzaXN0ZW50Vm9sdW1lQ2xhaW06Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBuYW1lOiBwbGF0ZmktY21zLXNvdXJjZS1jbGFpbTQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBuYW1lOiBwbGF0ZmktY21zLXNvdXJjZS1jbGFpbTQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3RhdHVzOiB7fQo=</text>
+        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogbnVsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBpVmVyc2lvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -470,10 +476,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZXM6IHt9Cg==</text>
+        <text encoding="base64">c3RhdHVzOiB7fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiBwbGF0ZmktY21zLXNvdXJjZQo=</text>
+        <text encoding="base64">YXBpVmVyc2lvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>% s/metrics/funding-tips/</text>
