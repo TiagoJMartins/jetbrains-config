@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" timestamp="1526482123357">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/api-ingress.yaml" timestamp="1526573134483">
         <mark key="'" line="21" column="18" />
         <mark key="[" line="12" column="6" />
@@ -23,10 +17,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/outputs.tf" timestamp="1526552469664">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/www/work/capitalise/kube/generic-configmap.yaml" timestamp="1526893695910">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="5" column="12" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" timestamp="1526560894217">
         <mark key="'" line="0" column="0" />
@@ -42,11 +37,13 @@
         <mark key="^" line="8" column="62" />
         <mark key="." line="8" column="64" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-deployment.yaml" timestamp="1526565993979">
-        <mark key="[" line="15" column="15" />
-        <mark key="]" line="15" column="77" />
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-deployment.yaml" timestamp="1526895388117">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="22" column="48" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/docker-compose.yml" timestamp="1526561716349" />
+      <file name="$USER_HOME$/www/work/capitalise/kube/docker-compose.yml" timestamp="1526894149012" />
       <file name="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" timestamp="1526569626422">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="11" column="0" />
@@ -61,18 +58,22 @@
         <mark key="." line="53" column="65" />
         <mark key="^" line="53" column="65" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" timestamp="1526395195034">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" timestamp="1526896335413">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" timestamp="1526568714309">
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" timestamp="1526894909340">
         <mark key="'" line="20" column="23" />
         <mark key="[" line="23" column="19" />
         <mark key="]" line="23" column="27" />
         <mark key="." line="23" column="27" />
         <mark key="^" line="23" column="27" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/consumer-crm-deployment.yaml" timestamp="1526896262207">
+        <mark key="'" line="33" column="7" />
+        <mark key="^" line="28" column="7" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/kube/cluster.tf" timestamp="1526551434693">
         <mark key="'" line="14" column="0" />
@@ -80,6 +81,25 @@
         <mark key="]" line="42" column="0" />
         <mark key="^" line="131" column="39" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-consumer" timestamp="1526899202772">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-configmap.yaml" timestamp="1526895401044">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/consumers-configmap.yaml" timestamp="1526893666233">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/terraform.tfvars" timestamp="1526564949877">
         <mark key="'" line="11" column="36" />
@@ -95,12 +115,6 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="68" column="64" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/redis-deployment.yaml" timestamp="1526478622874">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/main.tf" timestamp="1526551321796">
         <mark key="[" line="81" column="25" />
         <mark key="]" line="81" column="44" />
@@ -114,13 +128,14 @@
         <mark key="." line="13" column="17" />
         <mark key="^" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/datasources-configmap.yaml" timestamp="1526565998227">
-        <mark key="'" line="8" column="23" />
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="47" />
-        <mark key="." line="8" column="22" />
-        <mark key="^" line="12" column="47" />
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/datasources-configmap.yaml" timestamp="1526898420076">
+        <mark key="'" line="9" column="23" />
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="21" />
+        <mark key="." line="12" column="21" />
+        <mark key="^" line="12" column="21" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/swagger/spec.yml" timestamp="1526896159871" />
       <file name="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" timestamp="1526551318703">
         <mark key="'" line="12" column="14" />
         <mark key="[" line="20" column="38" />
@@ -128,33 +143,20 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" timestamp="1526561707304">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" timestamp="1526894351182">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="28" />
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="34" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/consumer-crm-deployment.yaml" timestamp="1526899019108">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="38" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
-      <jump line="27" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/main.tf" />
-      <jump line="49" column="2" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
-      <jump line="114" column="4" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
-      <jump line="129" column="0" filename="$USER_HOME$/www/work/capitalise/dbs/modules/kube/k8s.tf" />
-      <jump line="56" column="8" filename="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" />
-      <jump line="53" column="2" filename="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" />
-      <jump line="9" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" />
-      <jump line="33" column="18" filename="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" />
-      <jump line="15" column="22" filename="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" />
-      <jump line="1" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" />
-      <jump line="6" column="8" filename="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" />
-      <jump line="21" column="2" filename="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" />
-      <jump line="27" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" />
-      <jump line="24" column="10" filename="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" />
-      <jump line="0" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.yml" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" />
       <jump line="12" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" />
       <jump line="22" column="8" filename="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" />
       <jump line="2" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" />
@@ -237,22 +239,40 @@
       <jump line="15" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" />
       <jump line="14" column="18" filename="$USER_HOME$/www/work/capitalise/kube/final/api-ingress.yaml" />
+      <jump line="14" column="12" filename="$USER_HOME$/www/work/capitalise/kube/consumer-crm-deployment.yaml" />
+      <jump line="28" column="6" filename="$USER_HOME$/www/work/capitalise/kube/consumer-crm-deployment.yaml" />
+      <jump line="9" column="4" filename="$USER_HOME$/www/work/capitalise/kube/consumer-crm-deployment.yaml" />
+      <jump line="7" column="4" filename="$USER_HOME$/www/work/capitalise/kube/consumer-crm-deployment.yaml" />
+      <jump line="20" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-consumer" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-consumer" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-consumer" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-consumer" />
+      <jump line="22" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-consumer" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-consumer" />
+      <jump line="23" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-consumer" />
+      <jump line="1" column="5" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-consumer" />
+      <jump line="19" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-consumer" />
+      <jump line="33" column="7" filename="$USER_HOME$/www/work/capitalise/kube/consumer-crm-deployment.yaml" />
+      <jump line="22" column="52" filename="$USER_HOME$/www/work/capitalise/kube/final/consumer-crm-deployment.yaml" />
+      <jump line="23" column="56" filename="$USER_HOME$/www/work/capitalise/kube/final/consumer-crm-deployment.yaml" />
+      <jump line="24" column="58" filename="$USER_HOME$/www/work/capitalise/kube/final/consumer-crm-deployment.yaml" />
+      <jump line="25" column="38" filename="$USER_HOME$/www/work/capitalise/kube/final/consumer-crm-deployment.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-ingress</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaW5pdENvbnRhaW5lcnM6CiAgICAgICAgLSBuYW1lOiB3YWl0CiAgICAgICAgICBpbWFnZTogandpbGRlci9kb2NrZXJpemU6MC42LjAKICAgICAgICAgIGNvbW1hbmQ6CiAgICAgICAgICAgIC0gL2Jpbi9zaAogICAgICAgICAgYXJnczoKICAgICAgICAgICAgLSAtYwogICAgICAgICAgICAtIGRvY2tlcml6ZQogICAgICAgICAgICAtIC13YWl0IHRjcDovL2dvb2dsZS5jb206ODAKICAgICAgICAgICAgLSAtd2FpdCB0Y3A6Ly8kKE1ZU1FMX0hPU1QpOiQoTVlTUUxfUE9SVCkKICAgICAgICAgICAgLSAtd2FpdCB0Y3A6Ly8kKE1PTkdPREJfSE9TVCk6JChNT05HT0RCX1BPUlQpCiAgICAgICAgICAgIC0gLXdhaXQgdGNwOi8vJChSQUJCSVRNUV9IT1NUKTokKFJBQkJJVE1RX1BPUlQpCiAgICAgICAgICAgIC0gLXdhaXQgdGNwOi8vJChSRURJU19IT1NUKTokKFJFRElTX1BPUlQpCiAgICAgICAgICAgIC0gLXRpbWVvdXQgNjAwcwogICAgICAgICAgICAtIC9iaW4vdHJ1ZQogICAgICAgICAgZW52RnJvbToKICAgICAgICAgICAgLSBjb25maWdNYXBSZWY6CiAgICAgICAgICAgICAgICBuYW1lOiBkYXRhc291cmNlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>-ingress</text>
+        <text>6379</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
-      <register name="0" type="4">
-        <text>53e1616b-2772-4bd2-aaf5-04c764c06d02.westeurope.aksapp.io</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVudkZyb206CiAgICAgICAgICAgIC0gY29uZmlnTWFwUmVmOgogICAgICAgICAgICAgICAgbmFtZTogZGF0YXNvdXJjZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaW5pdENvbnRhaW5lcnM6CiAgICAgICAgLSBuYW1lOiB3YWl0CiAgICAgICAgICBpbWFnZTogandpbGRlci9kb2NrZXJpemU6MC42LjAKICAgICAgICAgIGNvbW1hbmQ6CiAgICAgICAgICAgIC0gL2Jpbi9zaAogICAgICAgICAgYXJnczoKICAgICAgICAgICAgLSAtYwogICAgICAgICAgICAtIGRvY2tlcml6ZQogICAgICAgICAgICAtIC13YWl0IHRjcDovL2dvb2dsZS5jb206ODAKICAgICAgICAgICAgLSAtd2FpdCB0Y3A6Ly8kKE1ZU1FMX0hPU1QpOiQoTVlTUUxfUE9SVCkKICAgICAgICAgICAgLSAtd2FpdCB0Y3A6Ly8kKE1PTkdPREJfSE9TVCk6JChNT05HT0RCX1BPUlQpCiAgICAgICAgICAgIC0gLXdhaXQgdGNwOi8vJChSQUJCSVRNUV9IT1NUKTokKFJBQkJJVE1RX1BPUlQpCiAgICAgICAgICAgIC0gLXdhaXQgdGNwOi8vJChSRURJU19IT1NUKTokKFJFRElTX1BPUlQpCiAgICAgICAgICAgIC0gLXRpbWVvdXQgNjAwcwogICAgICAgICAgICAtIC9iaW4vdHJ1ZQogICAgICAgICAgZW52RnJvbToKICAgICAgICAgICAgLSBjb25maWdNYXBSZWY6CiAgICAgICAgICAgICAgICBuYW1lOiBkYXRhc291cmNlcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -270,22 +290,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBzaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3RvY29sOiBUQ1AK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSAtYyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0eXBlOiBDbHVzdGVySVAK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbW1hbmQ6CiAgICAgICAgICAgIC0gZG9ja2VyaXplCiAgICAgICAgICAgIC0gLXdhaXQgdGNwOi8vJHtNWVNRTF9IT1NUfToke01ZU1FMX1BPUlR9CiAgICAgICAgICAgIC0gLXdhaXQgdGNwOi8vJHtNT05HT0RCX0hPU1R9OiR7TU9OR09EQl9QT1JUfQogICAgICAgICAgICAtIC13YWl0IHRjcDovLyR7UkFCQklUTVFfSE9TVH06JHtSQUJCSVRNUV9QT1JUfQogICAgICAgICAgICAtIC13YWl0IHRjcDovLyR7UkVESVNfSE9TVH06JHtSRURJU19QT1JUfQogICAgICAgICAgICAtIC10aW1lb3V0IDYwMHMKICAgICAgICAgICAgLSAvYmluL3RydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZWxlY3RvcjoKICAgIGFwcDogYXBpCg==</text>
+        <text encoding="base64">ICAgICAgcmVzdGFydFBvbGljeTogQWx3YXlzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZWxlY3RvcjoKICAgIGFwcDogYXBpCg==</text>
+        <text encoding="base64">ICAgICAgICBuYW1lOiBjb25zdW1lci1jcm0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c3RhdHVzOgogIGxvYWRCYWxhbmNlcjoge30K</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZTogcGxhdGZpLmF6dXJlY3IuaW8vcGxhdGZpL2FwaTp1bnN0YWJsZQogICAgICAgIG5hbWU6IGNvbnN1bWVyLWNybQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -297,10 +317,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBuYW1lOiBhcGkK</text>
+        <text encoding="base64">ICAgICAgICBlbnZGcm9tOgogICAgICAgICAgLSBjb25maWdNYXBSZWY6CiAgICAgICAgICAgICAgbmFtZTogZGF0YXNvdXJjZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGVudjoKICAgICAgICAgICAgLSBuYW1lOiBNWVNRTF9IT1NUCiAgICAgICAgICAgICAgdmFsdWVGcm9tOgogICAgICAgICAgICAgICAgY29uZmlnTWFwS2V5UmVmOgogICAgICAgICAgICAgICAgICBuYW1lOiBkYXRhc291cmNlcwogICAgICAgICAgICAgICAgICBrZXk6IG15c3FsLmhvc3QKICAgICAgICAgICAgLSBuYW1lOiBNT05HT0RCX0hPU1QKICAgICAgICAgICAgICB2YWx1ZUZyb206CiAgICAgICAgICAgICAgICBjb25maWdNYXBLZXlSZWY6CiAgICAgICAgICAgICAgICAgIG5hbWU6IGRhdGFzb3VyY2VzCiAgICAgICAgICAgICAgICAgIGtleTogbW9uZ29kYi5ob3N0CiAgICAgICAgICAgIC0gbmFtZTogUkVESVNfSE9TVAogICAgICAgICAgICAgIHZhbHVlRnJvbToKICAgICAgICAgICAgICAgIGNvbmZpZ01hcEtleVJlZjoKICAgICAgICAgICAgICAgICAgbmFtZTogZGF0YXNvdXJjZXMKICAgICAgICAgICAgICAgICAga2V5OiByZWRpcy5ob3N0CiAgICAgICAgICAgIC0gbmFtZTogUkFCQklUTVFfSE9TVAogICAgICAgICAgICAgIHZhbHVlRnJvbToKICAgICAgICAgICAgICAgIGNvbmZpZ01hcEtleVJlZjoKICAgICAgICAgICAgICAgICAgbmFtZTogZGF0YXNvdXJjZXMKICAgICAgICAgICAgICAgICAga2V5OiByYWJiaXRtcS5ob3N0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>% s/redis/service-questionnaire-manager/</text>
