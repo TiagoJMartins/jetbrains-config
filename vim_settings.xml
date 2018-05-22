@@ -65,13 +65,11 @@
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-service.yaml" timestamp="1526917465483">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/web-deployment.yaml" timestamp="1526920130976" />
-      <file name="$USER_HOME$/www/work/capitalise/kube/docker-compose.yml" timestamp="1526921755916">
+      <file name="$USER_HOME$/www/work/capitalise/kube/docker-compose.yml" timestamp="1526976716991">
         <mark key="'" line="25" column="34" />
-        <mark key="[" line="224" column="73" />
-        <mark key="]" line="225" column="5" />
-        <mark key="^" line="225" column="5" />
-        <mark key="." line="225" column="5" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" timestamp="1526911144603">
         <mark key="'" line="0" column="0" />
@@ -104,7 +102,6 @@
         <mark key="^" line="131" column="39" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/platfi-cms-source-claim0-persistentvolumeclaim.yaml" timestamp="1526922917928" />
       <file name="$USER_HOME$/www/work/capitalise/dbs/terraform.tfvars" timestamp="1526564949877">
         <mark key="'" line="11" column="36" />
         <mark key="[" line="15" column="29" />
@@ -119,7 +116,6 @@
         <mark key="^" line="21" column="58" />
         <mark key="." line="21" column="58" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy.xml" timestamp="1526906882520" />
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-service.yaml" timestamp="1526564954152">
         <mark key="'" line="12" column="4" />
         <mark key="[" line="13" column="16" />
@@ -148,7 +144,6 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/generic-configmap.yaml" timestamp="1526900057880" />
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-service.yaml" timestamp="1526919350629">
         <mark key="'" line="4" column="28" />
         <mark key="[" line="0" column="0" />
@@ -170,7 +165,6 @@
         <mark key="." line="25" column="23" />
         <mark key="^" line="25" column="23" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-startup" timestamp="1526901693511" />
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-configmap.yaml" timestamp="1526915979187">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="4" column="5" />
@@ -203,7 +197,6 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/consumer-crm-hook-deployment.yaml" timestamp="1526908399408" />
       <file name="$USER_HOME$/www/work/capitalise/kube/final/nginx-secret.yaml" timestamp="1526920864398">
         <mark key="[" line="6" column="6881" />
         <mark key="]" line="6" column="6880" />
@@ -260,7 +253,7 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-consumer" timestamp="1526919301071">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-consumer" timestamp="1526975968385">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="6" column="32" />
         <mark key="]" line="6" column="41" />
@@ -286,7 +279,6 @@
         <mark key="." line="12" column="36" />
         <mark key="^" line="68" column="64" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/consumer-match-runner-deployment.yaml" timestamp="1526908370270" />
       <file name="$USER_HOME$/www/work/capitalise/kube/final/nginx-deployment.yaml" timestamp="1526920576876">
         <mark key="]" line="36" column="28" />
       </file>
@@ -297,7 +289,6 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/swagger/spec.yml" timestamp="1526896159871" />
       <file name="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" timestamp="1526551318703">
         <mark key="'" line="12" column="14" />
         <mark key="[" line="20" column="38" />
@@ -305,7 +296,7 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/cms-deployment.yaml" timestamp="1526924537069">
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/cms-deployment.yaml" timestamp="1526976376426">
         <mark key="[" line="21" column="62" />
         <mark key="]" line="22" column="23" />
         <mark key="." line="22" column="23" />
@@ -419,7 +410,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>versions</text>
@@ -431,7 +422,7 @@
         <text encoding="base64">LS0tCmFwaVZlcnNpb246IHYxCmtpbmQ6IFBlcnNpc3RlbnRWb2x1bWVDbGFpbQptZXRhZGF0YToKICBuYW1lOiBjbXMtdmVyc2lvbnMKICBsYWJlbHM6CiAgICBhcHA6IGNtcwpzcGVjOgogIGFjY2Vzc01vZGVzOgogIC0gUmVhZFdyaXRlT25jZQogIHJlc291cmNlczoKICAgIHJlcXVlc3RzOgogICAgICBzdG9yYWdlOiAxMDBNaQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -449,22 +440,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJzaXN0ZW50Vm9sdW1lQ2xhaW06Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwZXJzaXN0ZW50Vm9sdW1lQ2xhaW06Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBuYW1lOiBwbGF0ZmktY21zLXNvdXJjZS1jbGFpbTQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogbnVsbAo=</text>
+        <text encoding="base64">ICBuYW1lOiBwbGF0ZmktY21zLXNvdXJjZS1jbGFpbTQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogbnVsbAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -476,10 +467,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c3RhdHVzOiB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBpVmVyc2lvbgo=</text>
+        <text encoding="base64">c3RhdHVzOiB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>% s/metrics/funding-tips/</text>
