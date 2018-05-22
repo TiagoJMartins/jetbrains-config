@@ -150,8 +150,11 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/generic-configmap.yaml" timestamp="1526981783350">
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/generic-configmap.yaml" timestamp="1526991669636">
         <mark key="[" line="5" column="18" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-service.yaml" timestamp="1526919350629">
         <mark key="'" line="4" column="28" />
@@ -306,11 +309,11 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/cms-deployment.yaml" timestamp="1526976376426">
-        <mark key="[" line="21" column="62" />
-        <mark key="]" line="22" column="23" />
-        <mark key="." line="22" column="23" />
-        <mark key="^" line="22" column="23" />
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/cms-deployment.yaml" timestamp="1526992786764">
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="16" column="51" />
+        <mark key="." line="16" column="51" />
+        <mark key="^" line="16" column="51" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/ui-questionnaire-service.yaml" timestamp="1526921459728">
         <mark key="'" line="16" column="0" />
@@ -419,11 +422,11 @@
       <jump line="145" column="26" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>versions</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>metrics</text>
@@ -432,7 +435,7 @@
         <text encoding="base64">LS0tCmFwaVZlcnNpb246IHYxCmtpbmQ6IFBlcnNpc3RlbnRWb2x1bWVDbGFpbQptZXRhZGF0YToKICBuYW1lOiBjbXMtdmVyc2lvbnMKICBsYWJlbHM6CiAgICBhcHA6IGNtcwpzcGVjOgogIGFjY2Vzc01vZGVzOgogIC0gUmVhZFdyaXRlT25jZQogIHJlc291cmNlczoKICAgIHJlcXVlc3RzOgogICAgICBzdG9yYWdlOiAxMDBNaQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZW52Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -450,22 +453,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJzaXN0ZW50Vm9sdW1lQ2xhaW06Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwZXJzaXN0ZW50Vm9sdW1lQ2xhaW06Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBuYW1lOiBwbGF0ZmktY21zLXNvdXJjZS1jbGFpbTQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogbnVsbAo=</text>
+        <text encoding="base64">ICBuYW1lOiBwbGF0ZmktY21zLXNvdXJjZS1jbGFpbTQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -477,10 +480,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogbnVsbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RhdHVzOiB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>% s/metrics/funding-tips/</text>
