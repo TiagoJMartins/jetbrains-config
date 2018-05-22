@@ -52,6 +52,9 @@
         <mark key="^" line="8" column="62" />
         <mark key="." line="8" column="64" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/nginx-service.yaml" timestamp="1526999475090">
+        <mark key="'" line="5" column="2" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-configmap.yaml" timestamp="1526917618073">
         <mark key="'" line="3" column="29" />
         <mark key="[" line="3" column="16" />
@@ -115,7 +118,12 @@
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/nginx-ingress.yaml" timestamp="1526998468728" />
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/nginx-ingress.yaml" timestamp="1527000555947">
+        <mark key="'" line="4" column="8" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-deployment.yaml" timestamp="1526921807137">
         <mark key="'" line="19" column="15" />
         <mark key="[" line="21" column="0" />
@@ -194,12 +202,12 @@
         <mark key="^" line="7" column="75" />
         <mark key="." line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/nginx-configmap.yaml" timestamp="1526998243979">
-        <mark key="'" line="72" column="15" />
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="16" column="39" />
-        <mark key="^" line="16" column="39" />
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/nginx-configmap.yaml" timestamp="1526999748879">
+        <mark key="'" line="74" column="15" />
+        <mark key="[" line="24" column="103" />
+        <mark key="]" line="24" column="102" />
+        <mark key="." line="24" column="102" />
+        <mark key="^" line="24" column="102" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-metrics-configmap.yaml" timestamp="1526916923987">
         <mark key="[" line="16" column="46" />
@@ -323,8 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="12" filename="$USER_HOME$/www/work/capitalise/kube/final/consumer-crm-deployment.yaml" />
-      <jump line="3" column="40" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" />
       <jump line="4" column="48" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" />
       <jump line="5" column="49" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" />
       <jump line="6" column="47" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" />
@@ -423,22 +429,24 @@
       <jump line="147" column="17" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
       <jump line="145" column="26" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
       <jump line="4" column="8" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-service.yaml" />
+      <jump line="4" column="8" filename="$USER_HOME$/www/work/capitalise/kube/final/nginx-ingress.yaml" />
+      <jump line="5" column="2" filename="$USER_HOME$/www/work/capitalise/kube/final/nginx-service.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>app.53e1616b-2772-4bd2-aaf5-04c764c06d02.westeurope.aksapp.io</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aDogLwo=</text>
       </register>
       <register name="-" type="4">
-        <text>app.53e1616b-2772-4bd2-aaf5-04c764c06d02.westeurope.aksapp.io</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>ui-app</text>
+        <text>cms</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHNlcnZlcl9uYW1lIGRldi5jYXBpdGFsaXNlLmNvbSBhcHAuNTNlMTYxNmItMjc3Mi00YmQyLWFhZjUtMDRjNzY0YzA2ZDAyLndlc3RldXJvcGUuYWtzYXBwLmlvOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlcnZlcl9uYW1lIGRldi5jYXBpdGFsaXNlLmNvbTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aDogLwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -456,22 +464,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZW52Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB0bHM6CiAgLSBzZWNyZXROYW1lOiB0bHMtc2VjcmV0CiAgICBob3N0czoKICAgICAgLSBhcHAuNTNlMTYxNmItMjc3Mi00YmQyLWFhZjUtMDRjNzY0YzA2ZDAyLndlc3RldXJvcGUuYWtzYXBwLmlvCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJzaXN0ZW50Vm9sdW1lQ2xhaW06Cg==</text>
+        <text encoding="base64">ICAgIG5naW54LmluZ3Jlc3Mua3ViZXJuZXRlcy5pby9zc2wtcmVkaXJlY3Q6ICJ0cnVlIgogICAga3ViZXJuZXRlcy5pby90bHMtYWNtZTogInRydWUiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlcnZlcl9uYW1lIGRldi5jYXBpdGFsaXNlLmNvbSA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlcnZlcl9uYW1lIGRldi5jYXBpdGFsaXNlLmNvbTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -483,27 +491,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBuYW1lOiBwbGF0ZmktY21zLXNvdXJjZS1jbGFpbTQK</text>
+        <text encoding="base64">ICAgICAgZW52Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjcmVhdGlvblRpbWVzdGFtcDogbnVsbAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>% s/ui-app/cms/</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>ui-app</last-search>
+      <last-search>cms</last-search>
       <last-offset />
-      <last-pattern>ui-app</last-pattern>
-      <last-replace>cms</last-replace>
-      <last-substitute>ui-app</last-substitute>
+      <last-pattern>cms</last-pattern>
+      <last-replace>nginx</last-replace>
+      <last-substitute>cms</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>req</entry>
         <entry>MIN_SKO</entry>
         <entry>ppr</entry>
         <entry>DRAMATIQ</entry>
@@ -523,10 +530,9 @@
         <entry>ingestor</entry>
         <entry>metrics</entry>
         <entry>ui-app</entry>
+        <entry>cms</entry>
       </history-search>
       <history-cmd>
-        <entry>s /redis/service-questionnaire-manager/g</entry>
-        <entry>s /redis/service-questionnaire-manager/gim</entry>
         <entry>% s/redis/service-questionnaire-manager/gim</entry>
         <entry>% s/redis/service-questionnaire-manager/</entry>
         <entry>% s/crm-hook/notification/</entry>
@@ -545,6 +551,8 @@
         <entry>43</entry>
         <entry>% s/metrics/funding-tips/</entry>
         <entry>% s/ui-app/cms/</entry>
+        <entry>% s/cms/nginx/</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
