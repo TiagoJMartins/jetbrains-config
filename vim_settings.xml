@@ -109,6 +109,11 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/confs/platfi-cms/httpd.conf" timestamp="1526981375545">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-deployment.yaml" timestamp="1526921807137">
         <mark key="'" line="19" column="15" />
         <mark key="[" line="21" column="0" />
@@ -143,6 +148,9 @@
         <mark key="]" line="16" column="27" />
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/generic-configmap.yaml" timestamp="1526981783350">
+        <mark key="[" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-service.yaml" timestamp="1526919350629">
         <mark key="'" line="4" column="28" />
@@ -213,6 +221,7 @@
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-funding-tips-configmap.yaml" timestamp="1526918507169">
         <mark key="'" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-configmap.yaml" timestamp="1526981389104" />
       <file name="$USER_HOME$/www/work/capitalise/kube/confs/platfi-membership-levels/application.conf" timestamp="1526915856688">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="51" />
@@ -260,7 +269,7 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="41" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-configmap.yaml" timestamp="1526909628968">
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-configmap.yaml" timestamp="1526981404105">
         <mark key="[" line="8" column="2" />
         <mark key="]" line="8" column="17" />
         <mark key="^" line="8" column="17" />
