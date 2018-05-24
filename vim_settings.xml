@@ -55,7 +55,12 @@
       <file name="$USER_HOME$/www/work/capitalise/kube/final/nginx-service.yaml" timestamp="1526999475090">
         <mark key="'" line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/kube-cluster/setup_terraform.sh" timestamp="1527159022193" />
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/setup_terraform.sh" timestamp="1527163479131">
+        <mark key="[" line="4" column="48" />
+        <mark key="]" line="5" column="37" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-configmap.yaml" timestamp="1526917618073">
         <mark key="'" line="3" column="29" />
         <mark key="[" line="3" column="16" />
@@ -82,12 +87,24 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" timestamp="1527159658258">
-        <mark key="'" line="13" column="33" />
-        <mark key="[" line="26" column="11" />
-        <mark key="]" line="26" column="54" />
-        <mark key="^" line="26" column="54" />
-        <mark key="." line="26" column="54" />
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" timestamp="1527163024984">
+        <mark key="'" line="44" column="118" />
+        <mark key="[" line="60" column="14" />
+        <mark key="]" line="60" column="51" />
+        <mark key="." line="60" column="51" />
+        <mark key="^" line="60" column="51" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/gen_ansible_hosts.sh" timestamp="1527160481885">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/hosts" timestamp="1527161404170">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="8" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-service-startup" timestamp="1526919293515">
         <mark key="'" line="15" column="14" />
@@ -258,17 +275,23 @@
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-funding-tips-configmap.yaml" timestamp="1526918507169">
         <mark key="'" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/templates/hosts" timestamp="1527163458822">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="2" />
+        <mark key="." line="4" column="2" />
+        <mark key="^" line="1" column="9" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/confs/platfi-membership-levels/application.conf" timestamp="1526915856688">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="51" />
         <mark key="." line="12" column="51" />
         <mark key="^" line="12" column="51" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/kube-cluster/initial.yml" timestamp="1527159768352">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/initial.yml" timestamp="1527162880913">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="17" column="20" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" timestamp="1526560814585">
         <mark key="'" line="34" column="17" />
@@ -355,17 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="47" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" />
-      <jump line="27" column="30" filename="$USER_HOME$/www/work/capitalise/kube/consumer-crm-hook-deployment.yaml" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/work/capitalise/kube/consumer-crm-hook-deployment.yaml" />
-      <jump line="29" column="27" filename="$USER_HOME$/www/work/capitalise/kube/consumer-crm-hook-deployment.yaml" />
-      <jump line="16" column="28" filename="$USER_HOME$/www/work/capitalise/kube/consumer-crm-hook-deployment.yaml" />
-      <jump line="6" column="2" filename="$USER_HOME$/www/work/capitalise/kube/consumer-match-runner-deployment.yaml" />
-      <jump line="12" column="4" filename="$USER_HOME$/www/work/capitalise/kube/consumer-match-runner-deployment.yaml" />
-      <jump line="19" column="27" filename="$USER_HOME$/www/work/capitalise/kube/consumer-match-runner-deployment.yaml" />
-      <jump line="20" column="26" filename="$USER_HOME$/www/work/capitalise/kube/consumer-notification-deployment.yaml" />
-      <jump line="41" column="6" filename="$USER_HOME$/www/work/capitalise/kube/consumer-notification-deployment.yaml" />
-      <jump line="41" column="31" filename="$USER_HOME$/www/work/capitalise/kube/consumer-report-generation-deployment.yaml" />
       <jump line="42" column="0" filename="$USER_HOME$/www/work/capitalise/kube/consumer-funding-tips-deployment.yaml" />
       <jump line="42" column="0" filename="$USER_HOME$/www/work/capitalise/kube/consumer-rebuild-questionnaire-cache-deployment.yaml" />
       <jump line="17" column="19" filename="$USER_HOME$/www/work/capitalise/kube/consumer-rebuild-questionnaire-cache-deployment.yaml" />
@@ -455,22 +467,33 @@
       <jump line="5" column="2" filename="$USER_HOME$/www/work/capitalise/kube/final/nginx-service.yaml" />
       <jump line="8" column="30" filename="$USER_HOME$/www/work/scytale/kube-cluster/inputs.tf" />
       <jump line="13" column="33" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
+      <jump line="33" column="0" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
+      <jump line="18" column="0" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
+      <jump line="20" column="0" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
+      <jump line="41" column="36" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
+      <jump line="42" column="47" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
+      <jump line="59" column="19" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
+      <jump line="64" column="0" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
+      <jump line="35" column="12" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
+      <jump line="44" column="118" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSBob3N0czogYWxsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text>master</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>cms</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CnJlc291cmNlICJkaWdpdGFsb2NlYW5fZHJvcGxldCIgIm1hc3RlciIgewogIGltYWdlICAgID0gIiR7dmFyLmRyb3BsZXRfaW1hZ2V9IgogIG5hbWUgICAgID0gIiR7dmFyLnByZWZpeH1rOHMtbWFzdGVyIgogIHJlZ2lvbiAgID0gIiR7dmFyLmRvX3JlZ2lvbn0iCiAgc2l6ZSAgICAgPSAiJHt2YXIuc2l6ZV9tYXN0ZXJ9IgogIHNzaF9rZXlzID0gWyIke3NwbGl0KCIsIiwgdmFyLnNzaF9maW5nZXJwcmludCl9Il0KfQo=</text>
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojCiMgT3V0cHV0cwojCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LSBob3N0czogYWxsCg==</text>
+        <text encoding="base64">ICAKRU9GCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -488,22 +511,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogQ3JlYXRlcyBkaXJlY3RvcnkKICAgICAgZmlsZToKICAgICAgICBwYXRoOiAvc3JjL3d3dwogICAgICAgIHN0YXRlOiBkaXJlY3RvcnkKICAgICAgICBvd25lcjogd3d3LWRhdGEKICAgICAgICBncm91cDogd3d3LWRhdGEKICAgICAgICBtb2RlOiAwNzc1CiAgICAgICAgcmVjdXJzZTogeWVzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB1c2VyX2RhdGEgPSAiJHtkYXRhfSIK</text>
+        <text encoding="base64">ICAKICBwcm92aXNpb25lciAiIiB7fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1hZ2UK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -515,13 +538,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQgPSAyCg==</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZSA9IDw8RU9GCgogIEVPRgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQgPSAiMWdiIgo=</text>
+        <text encoding="base64">Cm91dHB1dCAibWFzdGVyX2lwIiB7CiAgdmFsdWUgPSAiJHtkaWdpdGFsb2NlYW5fZHJvcGxldC5tYXN0ZXIuaXB2NF9hZGRyZXNzfSIKfQoKb3V0cHV0ICJ3b3JrZXJfaXBzIiB7CiAgdmFsdWUgPSAiJHtkaWdpdGFsb2NlYW5fZHJvcGxldC53b3JrZXIuKi5pcHY0X2FkZHJlc3N9Igp9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>17</text>
       </register>
     </registers>
     <search>
@@ -557,7 +580,6 @@
         <entry>cms</entry>
       </history-search>
       <history-cmd>
-        <entry>% s/redis/service-questionnaire-manager/gim</entry>
         <entry>% s/redis/service-questionnaire-manager/</entry>
         <entry>% s/crm-hook/notification/</entry>
         <entry>26</entry>
@@ -577,6 +599,7 @@
         <entry>% s/ui-app/cms/</entry>
         <entry>% s/cms/nginx/</entry>
         <entry>wq</entry>
+        <entry>17</entry>
       </history-cmd>
       <history-expr />
       <history-input />
