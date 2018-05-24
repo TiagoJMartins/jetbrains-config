@@ -72,12 +72,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" timestamp="1527182753757">
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" timestamp="1527189340214">
         <mark key="'" line="141" column="0" />
-        <mark key="[" line="115" column="41" />
-        <mark key="]" line="115" column="43" />
-        <mark key="." line="115" column="43" />
-        <mark key="^" line="115" column="43" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/scytale/kube-cluster/gen_ansible_hosts.sh" timestamp="1527160481885">
         <mark key="[" line="0" column="11" />
@@ -131,10 +130,12 @@
         <mark key="]" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/kube-cluster/.gitignore" timestamp="1527182461240">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/.gitignore" timestamp="1527189298834">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="1" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-deployment.yaml" timestamp="1526921807137">
         <mark key="'" line="19" column="15" />
@@ -218,7 +219,7 @@
         <mark key="." line="3" column="7" />
         <mark key="^" line="17" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/kube-cluster/cluster-plugins.yml" timestamp="1527183138567">
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/cluster-plugins.yml" timestamp="1527189065858">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -288,7 +289,6 @@
         <mark key="^" line="21" column="40" />
         <mark key="." line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/kube-cluster/03-master.yml" timestamp="1527183134483" />
       <file name="$USER_HOME$/www/work/scytale/kube-cluster/templates/hosts" timestamp="1527168213148">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
@@ -374,7 +374,6 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/kube-cluster/tiller-rbac.yaml" timestamp="1527179558871" />
       <file name="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" timestamp="1526551318703">
         <mark key="'" line="12" column="14" />
         <mark key="[" line="20" column="38" />
@@ -390,7 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/capitalise/kube/service-ingestor-deployment.yaml" />
       <jump line="22" column="34" filename="$USER_HOME$/www/work/capitalise/kube/service-ingestor-deployment.yaml" />
       <jump line="5" column="6" filename="$USER_HOME$/www/work/capitalise/kube/service-ingestor-deployment.yaml" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/kube/service-ingestor-deployment.yaml" />
@@ -490,13 +488,14 @@
       <jump line="6" column="59" filename="$USER_HOME$/www/work/scytale/kube-cluster/kube-config.yml" />
       <jump line="99" column="0" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
       <jump line="36" column="0" filename="$USER_HOME$/www/work/scytale/kube-cluster/06-cluster-plugins.yml" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/scytale/kube-cluster/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>cms</text>
@@ -505,7 +504,7 @@
         <text encoding="base64">ICAgIHdoZW4gICA9ICJkZXN0cm95Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB1c2VyX2RhdGEgPSAiIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -523,22 +522,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogd2FpdCBmb3IgdGlsbGVyIHRvIGJlIHJlYWR5CiAgICAgIHdhaXRfZm9yOgo=</text>
+        <text encoding="base64">ICB1c2VyX2RhdGEgPSAiIgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoOiAkSE9NRS8ua3ViZQogICAgICAgIGRlc3Q6IC9ob21lL3VidW50dS8ua3ViZS8KICAgICAgICByZW1vdGVfc3JjOiB5ZXMKICAgICAgICByZWN1cnNlOiB5ZXMKICAgICAgICBvd25lcjogdWJ1bnR1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYmVjb21lOiB5ZXMKICAgICAgYmVjb21lX3VzZXI6IHVidW50dQo=</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogd2FpdCBmb3IgdGlsbGVyIHRvIGJlIHJlYWR5CiAgICAgIHdhaXRfZm9yOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYXJnczoKICAgICAgICBjaGRpcjogJEhPTUUKICAgICAgICBjcmVhdGVzOiBjbHVzdGVyX2luaXRpYWxpemVkLnR4dAo=</text>
+        <text encoding="base64">ICAgICAgICAKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBrdWJlYWRtIGluaXQgXAogICAgICAgICAgLS1wb2QtbmV0d29yay1jaWRyPTEwLjI0NC4wLjAvMTYgPj4gY2x1c3Rlcl9pbml0aWFsaXplZC50eHQK</text>
+        <text encoding="base64">ICAgICAgICBwYXRoOiAkSE9NRS8ua3ViZQogICAgICAgIGRlc3Q6IC9ob21lL3VidW50dS8ua3ViZS8KICAgICAgICByZW1vdGVfc3JjOiB5ZXMKICAgICAgICByZWN1cnNlOiB5ZXMKICAgICAgICBvd25lcjogdWJ1bnR1Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -550,10 +549,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmVjb21lOiB5ZXMKICAgICAgYmVjb21lX3VzZXI6IHVidW50dQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LnRlcnJhZm9ybS8K</text>
+        <text encoding="base64">ICAgICAgYXJnczoKICAgICAgICBjaGRpcjogJEhPTUUKICAgICAgICBjcmVhdGVzOiBjbHVzdGVyX2luaXRpYWxpemVkLnR4dAo=</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
