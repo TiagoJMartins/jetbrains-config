@@ -55,6 +55,7 @@
       <file name="$USER_HOME$/www/work/capitalise/kube/final/nginx-service.yaml" timestamp="1526999475090">
         <mark key="'" line="5" column="2" />
       </file>
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/setup_terraform.sh" timestamp="1527159022193" />
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-configmap.yaml" timestamp="1526917618073">
         <mark key="'" line="3" column="29" />
         <mark key="[" line="3" column="16" />
@@ -81,6 +82,13 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" timestamp="1527159658258">
+        <mark key="'" line="13" column="33" />
+        <mark key="[" line="26" column="11" />
+        <mark key="]" line="26" column="54" />
+        <mark key="^" line="26" column="54" />
+        <mark key="." line="26" column="54" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-service-startup" timestamp="1526919293515">
         <mark key="'" line="15" column="14" />
       </file>
@@ -98,7 +106,6 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="19" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" timestamp="1526991651335" />
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/kube/cluster.tf" timestamp="1526551434693">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="42" column="0" />
@@ -168,12 +175,25 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="32" />
       </file>
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/terraform.tfvars" timestamp="1527159437006">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-service.yaml" timestamp="1526919350629">
         <mark key="'" line="4" column="28" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="29" />
         <mark key="^" line="4" column="29" />
         <mark key="." line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/inputs.tf" timestamp="1527159171186">
+        <mark key="'" line="8" column="30" />
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="22" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/api-ingress.yaml" timestamp="1526921309600">
         <mark key="'" line="21" column="18" />
@@ -238,12 +258,17 @@
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-funding-tips-configmap.yaml" timestamp="1526918507169">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-configmap.yaml" timestamp="1526981389104" />
       <file name="$USER_HOME$/www/work/capitalise/kube/confs/platfi-membership-levels/application.conf" timestamp="1526915856688">
         <mark key="[" line="12" column="39" />
         <mark key="]" line="12" column="51" />
         <mark key="." line="12" column="51" />
         <mark key="^" line="12" column="51" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/initial.yml" timestamp="1527159768352">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" timestamp="1526560814585">
         <mark key="'" line="34" column="17" />
@@ -312,7 +337,6 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/datasources-configmap.yaml" timestamp="1526996734747" />
       <file name="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" timestamp="1526551318703">
         <mark key="'" line="12" column="14" />
         <mark key="[" line="20" column="38" />
@@ -331,8 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="48" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" />
-      <jump line="5" column="49" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" />
       <jump line="6" column="47" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" />
       <jump line="27" column="30" filename="$USER_HOME$/www/work/capitalise/kube/consumer-crm-hook-deployment.yaml" />
       <jump line="7" column="0" filename="$USER_HOME$/www/work/capitalise/kube/consumer-crm-hook-deployment.yaml" />
@@ -431,22 +453,24 @@
       <jump line="4" column="8" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-service.yaml" />
       <jump line="4" column="8" filename="$USER_HOME$/www/work/capitalise/kube/final/nginx-ingress.yaml" />
       <jump line="5" column="2" filename="$USER_HOME$/www/work/capitalise/kube/final/nginx-service.yaml" />
+      <jump line="8" column="30" filename="$USER_HOME$/www/work/scytale/kube-cluster/inputs.tf" />
+      <jump line="13" column="33" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aDogLwo=</text>
+        <text encoding="base64">LSBob3N0czogYWxsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>master</text>
       </register>
       <register name="/" type="4">
         <text>cms</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlcnZlcl9uYW1lIGRldi5jYXBpdGFsaXNlLmNvbSBhcHAuNTNlMTYxNmItMjc3Mi00YmQyLWFhZjUtMDRjNzY0YzA2ZDAyLndlc3RldXJvcGUuYWtzYXBwLmlvOwo=</text>
+        <text encoding="base64">CnJlc291cmNlICJkaWdpdGFsb2NlYW5fZHJvcGxldCIgIm1hc3RlciIgewogIGltYWdlICAgID0gIiR7dmFyLmRyb3BsZXRfaW1hZ2V9IgogIG5hbWUgICAgID0gIiR7dmFyLnByZWZpeH1rOHMtbWFzdGVyIgogIHJlZ2lvbiAgID0gIiR7dmFyLmRvX3JlZ2lvbn0iCiAgc2l6ZSAgICAgPSAiJHt2YXIuc2l6ZV9tYXN0ZXJ9IgogIHNzaF9rZXlzID0gWyIke3NwbGl0KCIsIiwgdmFyLnNzaF9maW5nZXJwcmludCl9Il0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF0aDogLwo=</text>
+        <text encoding="base64">LSBob3N0czogYWxsCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -464,22 +488,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0bHM6CiAgLSBzZWNyZXROYW1lOiB0bHMtc2VjcmV0CiAgICBob3N0czoKICAgICAgLSBhcHAuNTNlMTYxNmItMjc3Mi00YmQyLWFhZjUtMDRjNzY0YzA2ZDAyLndlc3RldXJvcGUuYWtzYXBwLmlvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5naW54LmluZ3Jlc3Mua3ViZXJuZXRlcy5pby9zc2wtcmVkaXJlY3Q6ICJ0cnVlIgogICAga3ViZXJuZXRlcy5pby90bHMtYWNtZTogInRydWUiCg==</text>
+        <text encoding="base64">ICB1c2VyX2RhdGEgPSAiJHtkYXRhfSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlcnZlcl9uYW1lIGRldi5jYXBpdGFsaXNlLmNvbSA7Cg==</text>
+        <text encoding="base64">aW1hZ2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlcnZlcl9uYW1lIGRldi5jYXBpdGFsaXNlLmNvbTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -491,10 +515,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZW52Cg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQgPSAyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQgPSAiMWdiIgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
