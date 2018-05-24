@@ -87,12 +87,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" timestamp="1527163024984">
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" timestamp="1527170051136">
         <mark key="'" line="44" column="118" />
-        <mark key="[" line="60" column="14" />
-        <mark key="]" line="60" column="51" />
-        <mark key="." line="60" column="51" />
-        <mark key="^" line="60" column="51" />
+        <mark key="[" line="80" column="15" />
+        <mark key="]" line="80" column="55" />
+        <mark key="." line="80" column="55" />
+        <mark key="^" line="80" column="55" />
       </file>
       <file name="$USER_HOME$/www/work/scytale/kube-cluster/gen_ansible_hosts.sh" timestamp="1527160481885">
         <mark key="[" line="0" column="11" />
@@ -100,14 +100,21 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/kube-cluster/hosts" timestamp="1527161404170">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="8" />
-        <mark key="." line="4" column="8" />
-        <mark key="^" line="4" column="8" />
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/hosts" timestamp="1527169037222">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-service-startup" timestamp="1526919293515">
         <mark key="'" line="15" column="14" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/kube-dependencies.yml" timestamp="1527168222824">
+        <mark key="'" line="40" column="8" />
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="34" column="15" />
+        <mark key="^" line="34" column="15" />
+        <mark key="." line="34" column="15" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" timestamp="1526904840908">
         <mark key="'" line="6" column="20" />
@@ -136,11 +143,6 @@
         <mark key="]" line="15" column="33" />
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/confs/platfi-cms/httpd.conf" timestamp="1526981375545">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="4" />
-        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/nginx-ingress.yaml" timestamp="1527000555947">
         <mark key="'" line="4" column="8" />
@@ -226,6 +228,13 @@
         <mark key="." line="25" column="23" />
         <mark key="^" line="25" column="23" />
       </file>
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/workers.yml" timestamp="1527169440868">
+        <mark key="'" line="17" column="45" />
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="17" column="40" />
+        <mark key="^" line="17" column="40" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-configmap.yaml" timestamp="1526915979187">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="4" column="5" />
@@ -246,6 +255,13 @@
         <mark key="." line="24" column="102" />
         <mark key="^" line="24" column="102" />
       </file>
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/master.yml" timestamp="1527168226263">
+        <mark key="'" line="4" column="87" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="24" column="38" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-metrics-configmap.yaml" timestamp="1526916923987">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="16" column="58" />
@@ -265,6 +281,12 @@
         <mark key="^" line="6" column="6880" />
         <mark key="." line="6" column="6880" />
       </file>
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/kube-config.yml" timestamp="1527172601015">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+        <mark key="^" line="17" column="29" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-funding-tips-deployment.yaml" timestamp="1526918880662">
         <mark key="'" line="26" column="18" />
         <mark key="[" line="21" column="33" />
@@ -275,11 +297,11 @@
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-funding-tips-configmap.yaml" timestamp="1526918507169">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/kube-cluster/templates/hosts" timestamp="1527163458822">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="2" />
-        <mark key="." line="4" column="2" />
-        <mark key="^" line="1" column="9" />
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/templates/hosts" timestamp="1527168213148">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="9" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/confs/platfi-membership-levels/application.conf" timestamp="1526915856688">
         <mark key="[" line="12" column="39" />
@@ -287,7 +309,7 @@
         <mark key="." line="12" column="51" />
         <mark key="^" line="12" column="51" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/kube-cluster/initial.yml" timestamp="1527162880913">
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/initial.yml" timestamp="1527167598769">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="17" column="20" />
         <mark key="." line="17" column="20" />
@@ -378,12 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/www/work/capitalise/kube/consumer-funding-tips-deployment.yaml" />
-      <jump line="42" column="0" filename="$USER_HOME$/www/work/capitalise/kube/consumer-rebuild-questionnaire-cache-deployment.yaml" />
-      <jump line="17" column="19" filename="$USER_HOME$/www/work/capitalise/kube/consumer-rebuild-questionnaire-cache-deployment.yaml" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/kube/consumer-rebuild-questionnaire-cache-deployment.yaml" />
-      <jump line="39" column="6" filename="$USER_HOME$/www/work/capitalise/kube/consumer-rebuild-questionnaire-cache-deployment.yaml" />
-      <jump line="31" column="10" filename="$USER_HOME$/www/work/capitalise/kube/service-ingestor-deployment.yaml" />
       <jump line="7" column="2" filename="$USER_HOME$/www/work/capitalise/kube/service-ingestor-deployment.yaml" />
       <jump line="26" column="2" filename="$USER_HOME$/www/work/capitalise/kube/service-ingestor-deployment.yaml" />
       <jump line="4" column="0" filename="$USER_HOME$/www/work/capitalise/kube/service-ingestor-deployment.yaml" />
@@ -478,22 +494,28 @@
       <jump line="4" column="0" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
       <jump line="35" column="12" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
       <jump line="44" column="118" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
+      <jump line="32" column="10" filename="$USER_HOME$/www/work/scytale/kube-cluster/kube-dependencies.yml" />
+      <jump line="40" column="8" filename="$USER_HOME$/www/work/scytale/kube-cluster/kube-dependencies.yml" />
+      <jump line="4" column="87" filename="$USER_HOME$/www/work/scytale/kube-cluster/master.yml" />
+      <jump line="20" column="45" filename="$USER_HOME$/www/work/scytale/kube-cluster/workers.yml" />
+      <jump line="18" column="6" filename="$USER_HOME$/www/work/scytale/kube-cluster/kube-config.yml" />
+      <jump line="6" column="59" filename="$USER_HOME$/www/work/scytale/kube-cluster/kube-config.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text>cms</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIwojCiMgT3V0cHV0cwojCiMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogZ2V0IHNlcnZlcl91cmwKICAgICAgc2hlbGw6IHwKICAgICAgICBjYXQgc2VydmVyLWhvc3QKICAgICAgcmVnaXN0ZXI6IGt1YmVfc2VydmVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKRU9GCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -511,22 +533,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBrdWJlY3RsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogZ2V0IGNhIGZpbGUKICAgICAgc2hlbGw6IHwKICAgICAgICBrdWJlY3RsIGNvbmZpZyB2aWV3IC1vIGpzb25wYXRoPSd7LmNsdXN0ZXJzWzBdLmNsdXN0ZXIuc2VydmVyfScKICAgICAgcmVnaXN0ZXI6IGt1YmVfc2VydmVyCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogQ3JlYXRlcyBkaXJlY3RvcnkKICAgICAgZmlsZToKICAgICAgICBwYXRoOiAvc3JjL3d3dwogICAgICAgIHN0YXRlOiBkaXJlY3RvcnkKICAgICAgICBvd25lcjogd3d3LWRhdGEKICAgICAgICBncm91cDogd3d3LWRhdGEKICAgICAgICBtb2RlOiAwNzc1CiAgICAgICAgcmVjdXJzZTogeWVzCg==</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogZ2V0IHNlcnZlcl91cmwKICAgICAgc2hlbGw6IHwKICAgICAgICBjYXQgc2VydmVyLWhvc3QKICAgICAgcmVnaXN0ZXI6IGt1YmVfc2VydmVyCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICBwcm92aXNpb25lciAiIiB7fQo=</text>
+        <text encoding="base64">Lwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgc2hlbGw6IHwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -538,10 +560,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZSA9IDw8RU9GCgogIEVPRgo=</text>
+        <text encoding="base64">ICAgICAgICBjYXQgL2hvbWUvdWJ1bnR1Ly5rdWJlL2NvbmZpZyB8IGdyZXAgY2xpZW50LWtleS1kYXRhIHwgYXdrICd7cHJpbnQgJDJ9JyB8IGJhc2U2NCAtZCA+IGNsaWVudC1rZXkucGVtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cm91dHB1dCAibWFzdGVyX2lwIiB7CiAgdmFsdWUgPSAiJHtkaWdpdGFsb2NlYW5fZHJvcGxldC5tYXN0ZXIuaXB2NF9hZGRyZXNzfSIKfQoKb3V0cHV0ICJ3b3JrZXJfaXBzIiB7CiAgdmFsdWUgPSAiJHtkaWdpdGFsb2NlYW5fZHJvcGxldC53b3JrZXIuKi5pcHY0X2FkZHJlc3N9Igp9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXQgL2hvbWUvdWJ1bnR1Ly5rdWJlL2NvbmZpZyB8IGdyZXAgJ3NlcnZlcjogaHR0cCcgfCBhd2sgJ3twcmludCAkMn0nID4gc2VydmVyLWhvc3QKICAgICAgICBjYXQgL2hvbWUvdWJ1bnR1Ly5rdWJlL2NvbmZpZyB8IGdyZXAgY2VydGlmaWNhdGUtYXV0aG9yaXR5LWRhdGEgfCBhd2sgJ3twcmludCAkMn0nIHwgYmFzZTY0IC1kID4gY2EucGVtCiAgICAgICAgY2F0IC9ob21lL3VidW50dS8ua3ViZS9jb25maWcgfCBncmVwIGNsaWVudC1jZXJ0aWZpY2F0ZS1kYXRhIHwgYXdrICd7cHJpbnQgJDJ9JyB8IGJhc2U2NCAtZCA+IGNsaWVudC5wZW0K</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
