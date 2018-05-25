@@ -158,12 +158,10 @@
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="31" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/azure-apim-swagger-updater/main.go" timestamp="1527245223219">
-        <mark key="'" line="0" column="23" />
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-        <mark key="^" line="4" column="7" />
+      <file name="$USER_HOME$/www/work/capitalise/azure-apim-swagger-updater/main.go" timestamp="1527246072947">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" timestamp="1526906540176">
         <mark key="'" line="6" column="47" />
@@ -495,11 +493,11 @@
       <jump line="99" column="0" filename="$USER_HOME$/www/work/scytale/kube-cluster/deploy.tf" />
       <jump line="36" column="0" filename="$USER_HOME$/www/work/scytale/kube-cluster/06-cluster-plugins.yml" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/scytale/kube-cluster/.gitignore" />
-      <jump line="3" column="23" filename="$USER_HOME$/www/work/capitalise/azure-apim-swagger-updater/main.go" />
+      <jump line="3" column="12" filename="$USER_HOME$/www/work/capitalise/azure-apim-swagger-updater/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CSJnaXRodWIuY29tL2Jyb256ZTFtYW4veWFtbDJqc29uIgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -511,7 +509,7 @@
         <text encoding="base64">ICAgIHdoZW4gICA9ICJkZXN0cm95Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSJnaXRodWIuY29tL2Jyb256ZTFtYW4veWFtbDJqc29uIgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -528,23 +526,23 @@
           <key char="120" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">aW1wb3J0IHsKfQo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CSJnb3BrZy5pbi95YW1sLnYyIgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICB1c2VyX2RhdGEgPSAiIgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICB1c2VyX2RhdGEgPSAiIgoK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -556,10 +554,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogd2FpdCBmb3IgdGlsbGVyIHRvIGJlIHJlYWR5CiAgICAgIHdhaXRfZm9yOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKCg==</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogd2FpdCBmb3IgdGlsbGVyIHRvIGJlIHJlYWR5CiAgICAgIHdhaXRfZm9yOgo=</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
