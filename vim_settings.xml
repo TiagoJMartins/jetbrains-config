@@ -177,11 +177,12 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/docs/skorr/index.md" timestamp="1527502878618">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/www/work/scytale/docs/skorr/index.md" timestamp="1527504314167">
+        <mark key="'" line="24" column="19" />
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+        <mark key="^" line="1" column="15" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/generic-configmap.yaml" timestamp="1526991669636">
         <mark key="[" line="5" column="18" />
@@ -406,11 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="6" filename="$USER_HOME$/www/work/capitalise/kube/service-ingestor-deployment.yaml" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/kube/service-ingestor-deployment.yaml" />
-      <jump line="16" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-service.yaml" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-service.yaml" />
-      <jump line="6" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-service.yaml" />
       <jump line="1" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-service.yaml" />
       <jump line="15" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-service.yaml" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-service.yaml" />
@@ -506,13 +502,18 @@
       <jump line="36" column="0" filename="$USER_HOME$/www/work/scytale/kube-cluster/06-cluster-plugins.yml" />
       <jump line="3" column="0" filename="$USER_HOME$/www/work/scytale/kube-cluster/.gitignore" />
       <jump line="3" column="12" filename="$USER_HOME$/www/work/capitalise/azure-apim-swagger-updater/main.go" />
+      <jump line="1" column="1" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
+      <jump line="12" column="84" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
+      <jump line="19" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
+      <jump line="16" column="35" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
+      <jump line="21" column="19" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2Jyb256ZTFtYW4veWFtbDJqc29uIgo=</text>
+      <register name="&quot;" type="4">
+        <text>(Skorr Logo)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(Skorr Logo)</text>
       </register>
       <register name="/" type="4">
         <text>cms</text>
@@ -521,7 +522,7 @@
         <text encoding="base64">ICAgIHdoZW4gICA9ICJkZXN0cm95Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSJnaXRodWIuY29tL2Jyb256ZTFtYW4veWFtbDJqc29uIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -541,20 +542,20 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aW1wb3J0IHsKfQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSJnb3BrZy5pbi95YW1sLnYyIgo=</text>
+        <text encoding="base64">CllvdSB3aWxsIHJlcXVpcmUgdmFsaWQgQVdTIGNyZWRlbnRpYWxzLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB1c2VyX2RhdGEgPSAiIgo=</text>
+        <text encoding="base64">WW91J2xsIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1c2VyX2RhdGEgPSAiIgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -569,7 +570,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogd2FpdCBmb3IgdGlsbGVyIHRvIGJlIHJlYWR5CiAgICAgIHdhaXRfZm9yOgo=</text>
+        <text encoding="base64">IEFjY2Vzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
