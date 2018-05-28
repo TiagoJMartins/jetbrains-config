@@ -44,6 +44,12 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/www/scripts/compose/mongo.yml" timestamp="1527513014535">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-deployment.yaml" timestamp="1526919307143">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="27" column="0" />
@@ -289,7 +295,8 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/www/scripts/ansible/ubuntu-mongo.yaml" timestamp="1527511709120">
+      <file name="$USER_HOME$/www/scripts/ansible/ubuntu-mongo.yaml" timestamp="1527512924960">
+        <mark key="'" line="10" column="0" />
         <mark key="[" line="9" column="26" />
         <mark key="]" line="9" column="25" />
         <mark key="." line="9" column="25" />
@@ -378,7 +385,7 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/docs/security/index.md" timestamp="1527508875846">
+      <file name="$USER_HOME$/www/work/scytale/docs/security/index.md" timestamp="1527512907066">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="19" column="112" />
         <mark key="]" line="19" column="112" />
@@ -426,7 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="3" filename="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-deployment.yaml" />
       <jump line="30" column="10" filename="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-deployment.yaml" />
       <jump line="19" column="15" filename="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-deployment.yaml" />
       <jump line="22" column="34" filename="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-deployment.yaml" />
@@ -526,6 +532,7 @@
       <jump line="13" column="3" filename="$USER_HOME$/www/work/scytale/docs/security/index.md" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/scytale/docs/security/index.md" />
       <jump line="18" column="0" filename="$USER_HOME$/www/work/scytale/docs/security/index.md" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/scripts/ansible/ubuntu-mongo.yaml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -592,7 +599,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>17</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -628,7 +635,6 @@
         <entry>cms</entry>
       </history-search>
       <history-cmd>
-        <entry>% s/redis/service-questionnaire-manager/</entry>
         <entry>% s/crm-hook/notification/</entry>
         <entry>26</entry>
         <entry>% s/crm-hook/report-generation/</entry>
@@ -648,6 +654,7 @@
         <entry>% s/cms/nginx/</entry>
         <entry>wq</entry>
         <entry>17</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
