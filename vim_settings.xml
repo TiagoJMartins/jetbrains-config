@@ -30,6 +30,12 @@
         <mark key="^" line="21" column="56" />
         <mark key="." line="21" column="56" />
       </file>
+      <file name="$USER_HOME$/www/work/scytale/documentation/docs/index.md" timestamp="1527515534555">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/platfi-cms-source-deployment.yaml" timestamp="1526921884797">
         <mark key="'" line="86" column="13" />
         <mark key="[" line="16" column="0" />
@@ -189,12 +195,12 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/docs/skorr/index.md" timestamp="1527508648289">
-        <mark key="'" line="10" column="16" />
-        <mark key="[" line="21" column="40" />
-        <mark key="]" line="21" column="60" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="21" column="60" />
+      <file name="$USER_HOME$/www/work/scytale/docs/skorr/index.md" timestamp="1527515076887">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="121" />
+        <mark key="]" line="25" column="120" />
+        <mark key="." line="25" column="120" />
+        <mark key="^" line="25" column="120" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/generic-configmap.yaml" timestamp="1526991669636">
         <mark key="[" line="5" column="18" />
@@ -247,6 +253,11 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/docs/skorr/infrastructure.md" timestamp="1527514897571">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-configmap.yaml" timestamp="1526915979187">
         <mark key="'" line="53" column="0" />
@@ -385,12 +396,12 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/docs/security/index.md" timestamp="1527512907066">
+      <file name="$USER_HOME$/www/work/scytale/docs/security/index.md" timestamp="1527515155773">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="19" column="112" />
-        <mark key="]" line="19" column="112" />
-        <mark key="." line="19" column="112" />
-        <mark key="^" line="19" column="176" />
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="17" column="10" />
+        <mark key="^" line="16" column="10" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/azure-file-storageclass.yaml" timestamp="1526922906150">
         <mark key="[" line="4" column="37" />
@@ -433,14 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="10" filename="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-deployment.yaml" />
-      <jump line="19" column="15" filename="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-deployment.yaml" />
-      <jump line="22" column="34" filename="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-deployment.yaml" />
-      <jump line="6" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-deployment.yaml" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-deployment.yaml" />
-      <jump line="50" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-configmap.yaml" />
-      <jump line="16" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-service.yaml" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-service.yaml" />
       <jump line="25" column="34" filename="$USER_HOME$/www/work/capitalise/kube/docker-compose.yml" />
       <jump line="4" column="19" filename="$USER_HOME$/www/work/capitalise/kube/final/service-metrics-deployment.yaml" />
       <jump line="27" column="17" filename="$USER_HOME$/www/work/capitalise/kube/final/service-metrics-deployment.yaml" />
@@ -533,13 +536,21 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/work/scytale/docs/security/index.md" />
       <jump line="18" column="0" filename="$USER_HOME$/www/work/scytale/docs/security/index.md" />
       <jump line="10" column="0" filename="$USER_HOME$/www/scripts/ansible/ubuntu-mongo.yaml" />
+      <jump line="24" column="11" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
+      <jump line="26" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
+      <jump line="28" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
+      <jump line="27" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
+      <jump line="30" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>Documentation</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Documentation</text>
       </register>
       <register name="/" type="4">
         <text>cms</text>
@@ -548,7 +559,7 @@
         <text>skorr-staging-mongo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -566,22 +577,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">fAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVnaXN0ZXI6IG91dAo=</text>
+        <text encoding="base64">WW91IGNhbiBhY2Nlc3MgdGhlIGNsdXN0ZXIgdGhyb3VnaCBba3ViZWN0bF0oaHR0cDovL25vdCBhIHZhbGlkIHVybCkgYXMgbG9uZyBhcyB5b3UgaGF2ZSB0aGUgbmVjZXNzYXJ5IGFjY2VzcyBjcmVkZW50aWFscy5WCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCgogICAgLSBuYW1lOiBkZWJ1ZwogICAgICBkZWJ1ZzoK</text>
+        <text encoding="base64">UAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LSBob3N0czogNTIuNDcuMTE1LjEyMAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhbnNpYmxlX2hvc3Q6IAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -593,10 +604,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RWl0aGVyIHdheSwgdGhlIGZvbGxvd2luZyBmaW5nZXJwcmludCBoYXMgYWNjZXNzIHRvIHRoZSBjbHVzdGVyOiBgOTI6ZWQ6ZTk6MzA6YTg6MGU6Njk6ZmM6MWM6MDU6YWM6MzU6NDE6NDQ6N2I6MGVgCg==</text>
+        <text encoding="base64">ICAgICAgcmVnaXN0ZXI6IG91dAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
