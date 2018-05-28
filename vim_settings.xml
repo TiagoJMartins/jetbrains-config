@@ -30,11 +30,11 @@
         <mark key="^" line="21" column="56" />
         <mark key="." line="21" column="56" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/documentation/docs/index.md" timestamp="1527515534555">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="$USER_HOME$/www/work/scytale/documentation/docs/index.md" timestamp="1527515982949">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="63" />
+        <mark key="^" line="2" column="63" />
+        <mark key="." line="2" column="63" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/platfi-cms-source-deployment.yaml" timestamp="1526921884797">
         <mark key="'" line="86" column="13" />
@@ -69,6 +69,12 @@
         <mark key="]" line="8" column="64" />
         <mark key="^" line="8" column="62" />
         <mark key="." line="8" column="64" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/documentation/docs/skorr/infrastructure.md" timestamp="1527516309306">
+        <mark key="[" line="6" column="119" />
+        <mark key="]" line="6" column="119" />
+        <mark key="^" line="6" column="120" />
+        <mark key="." line="6" column="119" />
       </file>
       <file name="$USER_HOME$/www/work/scytale/kube-cluster/setup_terraform.sh" timestamp="1527163479131">
         <mark key="[" line="4" column="48" />
@@ -129,6 +135,13 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="19" />
       </file>
+      <file name="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" timestamp="1527516354794">
+        <mark key="'" line="19" column="39" />
+        <mark key="[" line="19" column="87" />
+        <mark key="]" line="19" column="86" />
+        <mark key="." line="19" column="86" />
+        <mark key="^" line="19" column="86" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/kube/cluster.tf" timestamp="1526551434693">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="42" column="0" />
@@ -155,7 +168,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/documentation/docs/mkdocs.yml" timestamp="1527515555626" />
+      <file name="$USER_HOME$/www/work/scytale/documentation/docs/mkdocs.yml" timestamp="1527515607933">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-deployment.yaml" timestamp="1526921807137">
         <mark key="'" line="19" column="15" />
         <mark key="[" line="21" column="0" />
@@ -181,6 +199,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/documentation/mkdocs.yml" timestamp="1527515920652">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" timestamp="1526906540176">
         <mark key="'" line="6" column="47" />
@@ -332,6 +356,7 @@
         <mark key="^" line="21" column="40" />
         <mark key="." line="21" column="40" />
       </file>
+      <file name="$USER_HOME$/www/work/scytale/documentation/docs/security/index.md" timestamp="1527516315748" />
       <file name="$USER_HOME$/www/work/scytale/kube-cluster/templates/hosts" timestamp="1527168213148">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
@@ -445,17 +470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="34" filename="$USER_HOME$/www/work/capitalise/kube/docker-compose.yml" />
-      <jump line="4" column="19" filename="$USER_HOME$/www/work/capitalise/kube/final/service-metrics-deployment.yaml" />
-      <jump line="27" column="17" filename="$USER_HOME$/www/work/capitalise/kube/final/service-metrics-deployment.yaml" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-metrics-deployment.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-metrics-deployment.yaml" />
-      <jump line="31" column="6" filename="$USER_HOME$/www/work/capitalise/kube/final/service-metrics-deployment.yaml" />
-      <jump line="16" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-metrics-service.yaml" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-metrics-service.yaml" />
-      <jump line="3" column="7" filename="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-deployment.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-deployment.yaml" />
-      <jump line="32" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-deployment.yaml" />
       <jump line="28" column="30" filename="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-deployment.yaml" />
       <jump line="30" column="6" filename="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-deployment.yaml" />
       <jump line="6" column="32" filename="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-configmap.yaml" />
@@ -545,22 +559,33 @@
       <jump line="27" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
       <jump line="30" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
+      <jump line="16" column="34" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
+      <jump line="12" column="120" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
+      <jump line="27" column="4" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
+      <jump line="21" column="86" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
+      <jump line="6" column="1" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
+      <jump line="18" column="0" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
+      <jump line="23" column="0" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
+      <jump line="19" column="39" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Documentation</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>Documentation</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>cms</text>
       </register>
       <register name="0" type="4">
-        <text>skorr-staging-mongo</text>
+        <text>https://github.com/kubernetes/kops</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">IyMgSW5mcmFzdHJ1Y3R1cmUgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -578,22 +603,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fAo=</text>
+        <text encoding="base64">ClsxXTogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">WW91IGNhbiBhY2Nlc3MgdGhlIGNsdXN0ZXIgdGhyb3VnaCBba3ViZWN0bF0oaHR0cDovL25vdCBhIHZhbGlkIHVybCkgYXMgbG9uZyBhcyB5b3UgaGF2ZSB0aGUgbmVjZXNzYXJ5IGFjY2VzcyBjcmVkZW50aWFscy5WCg==</text>
+        <text encoding="base64">WzJdOiBodHRwczovL2dpdGh1Yi5jb20va3ViZXJuZXRlcy9rb3BzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WzNdOiAKWzRdOiAuLi9zZWN1cml0eS9pbmRleC5tZCNza29ycgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">UAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">fAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">WW91IGNhbiBhY2Nlc3MgdGhlIGNsdXN0ZXIgdGhyb3VnaCBba3ViZWN0bF0oaHR0cDovL25vdCBhIHZhbGlkIHVybCkgYXMgbG9uZyBhcyB5b3UgaGF2ZSB0aGUgbmVjZXNzYXJ5IGFjY2VzcyBjcmVkZW50aWFscy5WCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -605,10 +630,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmVnaXN0ZXI6IG91dAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">UAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
