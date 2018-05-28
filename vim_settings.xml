@@ -177,12 +177,12 @@
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/docs/skorr/index.md" timestamp="1527504314167">
-        <mark key="'" line="24" column="19" />
-        <mark key="[" line="1" column="16" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
-        <mark key="^" line="1" column="15" />
+      <file name="$USER_HOME$/www/work/scytale/docs/skorr/index.md" timestamp="1527508648289">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="60" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="21" column="60" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/generic-configmap.yaml" timestamp="1526991669636">
         <mark key="[" line="5" column="18" />
@@ -366,6 +366,13 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="8" column="17" />
       </file>
+      <file name="$USER_HOME$/www/work/scytale/docs/security/index.md" timestamp="1527508875846">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="19" column="112" />
+        <mark key="]" line="19" column="112" />
+        <mark key="." line="19" column="112" />
+        <mark key="^" line="19" column="176" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/azure-file-storageclass.yaml" timestamp="1526922906150">
         <mark key="[" line="4" column="37" />
         <mark key="]" line="6" column="30" />
@@ -407,10 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-service.yaml" />
-      <jump line="15" column="4" filename="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-service.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-service.yaml" />
-      <jump line="28" column="13" filename="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-deployment.yaml" />
       <jump line="7" column="3" filename="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-deployment.yaml" />
       <jump line="30" column="10" filename="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-deployment.yaml" />
       <jump line="19" column="15" filename="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-deployment.yaml" />
@@ -507,22 +510,26 @@
       <jump line="19" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
       <jump line="16" column="35" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
       <jump line="21" column="19" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
+      <jump line="10" column="16" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
+      <jump line="13" column="3" filename="$USER_HOME$/www/work/scytale/docs/security/index.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/scytale/docs/security/index.md" />
+      <jump line="18" column="0" filename="$USER_HOME$/www/work/scytale/docs/security/index.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(Skorr Logo)</text>
+        <text encoding="base64">PGJyPk51bm8gRmVycmVpcmE8YnI+Sm/Do28gVmVpZ2E8YnI+VGlhZ28gTGVpdGU8YnI+U29yYWlhIE1hcnRpbnM=</text>
       </register>
       <register name="-" type="4">
-        <text>(Skorr Logo)</text>
+        <text encoding="base64">PGJyPk51bm8gRmVycmVpcmE8YnI+Sm/Do28gVmVpZ2E8YnI+VGlhZ28gTGVpdGU8YnI+U29yYWlhIE1hcnRpbnM=</text>
       </register>
       <register name="/" type="4">
         <text>cms</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHdoZW4gICA9ICJkZXN0cm95Igo=</text>
+        <text encoding="base64">YGBgCm9wZW5zc2wgcGtjczggLWluIHF1ZXJ5LnBlbSAtaW5mb3JtIFBFTSAtb3V0Zm9ybSBERVIgLXRvcGs4IC1ub2NyeXB0IHwgb3BlbnNzbCBzaGExIC1jCmBgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RWl0aGVyIHdheSwgdGhlIGZvbGxvd2luZyBmaW5nZXJwcmludCBoYXMgYWNjZXNzIHRvIHRoZSBjbHVzdGVyOiBgOTI6ZWQ6ZTk6MzA6YTg6MGU6Njk6ZmM6MWM6MDU6YWM6MzU6NDE6NDQ6N2I6MGVgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -543,16 +550,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CllvdSB3aWxsIHJlcXVpcmUgdmFsaWQgQVdTIGNyZWRlbnRpYWxzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">WW91J2xsIAo=</text>
+        <text encoding="base64">fHNrb3JyLWRldnxgNTk6YmQ6YmI6MGI6ZGY6YTA6MmE6OTg6MWQ6YjY6ZDc6OGE6YmM6Zjg6OWI6NTE6OTQ6YTU6Y2U6ZTZgfFRpYWdvIE1hcnRpbnM8YnI+TnVubyBGZXJyZWlyYTxicj5Kb8OjbyBWZWlnYTxicj5UaWFnbyBMZWl0ZTxicj5Tb3JhaWEgTWFydGlucwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -570,7 +577,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IEFjY2Vzcwo=</text>
+        <text encoding="base64">IyBGb3IgQVdTIGdlbmVyYXRlZCBrZXlzCg==</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
