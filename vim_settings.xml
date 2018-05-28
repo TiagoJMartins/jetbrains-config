@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/scripts/hosts" timestamp="1527511190340">
+        <mark key="[" line="1" column="69" />
+        <mark key="]" line="1" column="68" />
+        <mark key="^" line="1" column="68" />
+        <mark key="." line="1" column="68" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-service.yaml" timestamp="1526919704321">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="16" />
@@ -283,6 +289,12 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/www/scripts/ansible/ubuntu-mongo.yaml" timestamp="1527511709120">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
+        <mark key="^" line="9" column="25" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/nginx-secret.yaml" timestamp="1526920864398">
         <mark key="[" line="6" column="6881" />
         <mark key="]" line="6" column="6880" />
@@ -516,20 +528,20 @@
       <jump line="18" column="0" filename="$USER_HOME$/www/work/scytale/docs/security/index.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PGJyPk51bm8gRmVycmVpcmE8YnI+Sm/Do28gVmVpZ2E8YnI+VGlhZ28gTGVpdGU8YnI+U29yYWlhIE1hcnRpbnM=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGJyPk51bm8gRmVycmVpcmE8YnI+Sm/Do28gVmVpZ2E8YnI+VGlhZ28gTGVpdGU8YnI+U29yYWlhIE1hcnRpbnM=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cms</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YGBgCm9wZW5zc2wgcGtjczggLWluIHF1ZXJ5LnBlbSAtaW5mb3JtIFBFTSAtb3V0Zm9ybSBERVIgLXRvcGs4IC1ub2NyeXB0IHwgb3BlbnNzbCBzaGExIC1jCmBgYAo=</text>
+      <register name="0" type="4">
+        <text>skorr-staging-mongo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RWl0aGVyIHdheSwgdGhlIGZvbGxvd2luZyBmaW5nZXJwcmludCBoYXMgYWNjZXNzIHRvIHRoZSBjbHVzdGVyOiBgOTI6ZWQ6ZTk6MzA6YTg6MGU6Njk6ZmM6MWM6MDU6YWM6MzU6NDE6NDQ6N2I6MGVgCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -547,22 +559,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgICAgcmVnaXN0ZXI6IG91dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fHNrb3JyLWRldnxgNTk6YmQ6YmI6MGI6ZGY6YTA6MmE6OTg6MWQ6YjY6ZDc6OGE6YmM6Zjg6OWI6NTE6OTQ6YTU6Y2U6ZTZgfFRpYWdvIE1hcnRpbnM8YnI+TnVubyBGZXJyZWlyYTxicj5Kb8OjbyBWZWlnYTxicj5UaWFnbyBMZWl0ZTxicj5Tb3JhaWEgTWFydGlucwo=</text>
+        <text encoding="base64">ICAgICAgCgogICAgLSBuYW1lOiBkZWJ1ZwogICAgICBkZWJ1ZzoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fAo=</text>
+        <text encoding="base64">LSBob3N0czogNTIuNDcuMTE1LjEyMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbnNpYmxlX2hvc3Q6IAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -574,10 +586,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RWl0aGVyIHdheSwgdGhlIGZvbGxvd2luZyBmaW5nZXJwcmludCBoYXMgYWNjZXNzIHRvIHRoZSBjbHVzdGVyOiBgOTI6ZWQ6ZTk6MzA6YTg6MGU6Njk6ZmM6MWM6MDU6YWM6MzU6NDE6NDQ6N2I6MGVgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBGb3IgQVdTIGdlbmVyYXRlZCBrZXlzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
