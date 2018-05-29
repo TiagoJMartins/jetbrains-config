@@ -467,12 +467,12 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" timestamp="1527596717692">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="180" column="22" />
-        <mark key="]" line="181" column="15" />
-        <mark key="." line="181" column="15" />
-        <mark key="^" line="181" column="15" />
+      <file name="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" timestamp="1527599577061">
+        <mark key="'" line="72" column="26" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="67" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/cms-deployment.yaml" timestamp="1526997858083">
         <mark key="[" line="16" column="44" />
@@ -482,11 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
-      <jump line="117" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
-      <jump line="131" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
-      <jump line="130" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
-      <jump line="147" column="17" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
       <jump line="145" column="26" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
       <jump line="4" column="8" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-service.yaml" />
       <jump line="4" column="8" filename="$USER_HOME$/www/work/capitalise/kube/final/nginx-ingress.yaml" />
@@ -582,13 +577,18 @@
       <jump line="114" column="55" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
       <jump line="171" column="30" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
       <jump line="29" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="169" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="160" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="30" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="182" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="70" column="26" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>return</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vc3RyaW5nVG9TaWduIDo9IGZtdC5TcHJpbnRmKCIlc1xuJXMiLCBpZGVudGlmaWVyLCBleHBpcnkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>signature</text>
       </register>
       <register name="/" type="4">
         <text>cms</text>
@@ -597,7 +597,7 @@
         <text encoding="base64">CQljb2xvci5SZWQoImVycm9yIHVwZGF0aW5nIG9wZXJhdGlvbjoiLCBzdHJpbmcoYm9keSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vc3RyaW5nVG9TaWduIDo9IGZtdC5TcHJpbnRmKCIlc1xuJXMiLCBpZGVudGlmaWVyLCBleHBpcnkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -615,22 +615,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHN0cmluZyhtYWMuU3VtKG5pbCkpKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cgl0b2tlbiA6PSBmbXQuU3ByaW50ZigiU2hhcmVkQWNjZXNzU2lnbmF0dXJlICVzJiVzJiVzIiwgaWRlbnRpZmllciwgZXhwaXJ5LCBzaWduYXR1cmUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CmZ1bmMgZ2VuZXJhdGVBY2Nlc3NUb2tlbigpIHN0cmluZyB7CglleHBpcnkgOj0gIjIwMTgwNjI0MDgzNCIKCWlkZW50aWZpZXIgOj0gImludGVncmF0aW9uIgoJc2lnbktleSA6PSAiY0V4dUc5OWptbk1WQWZnT1RtQVpCQmJiYWJhcHRBam93ZHhzOGcwUU5aeGtzbkZ3SVZkd09uVUtQYldobHdUclF6ZjRCUkI5TmZCREY0YnI2ZnNUdHc9PSIKCglzdHJpbmdUb1NpZ24gOj0gZm10LlNwcmludGYoIiVzXG4lcyIsIGlkZW50aWZpZXIsIGV4cGlyeSkKCW1hYyA6PSBobWFjLk5ldyhzaGE1MTIuTmV3LCBbXWJ5dGUoc2lnbktleSkpCgltYWMuV3JpdGUoW11ieXRlKHN0cmluZ1RvU2lnbikpCgoJc2lnbmF0dXJlIDo9IGJhc2U2NC5TdGRFbmNvZGluZy5FbmNvZGVUb1N0cmluZyhtYWMuU3VtKG5pbCkpCgoJdG9rZW4gOj0gZm10LlNwcmludGYoIlNoYXJlZEFjY2Vzc1NpZ25hdHVyZSB1aWQ9JXMmZXg9JXMmc249JXMiLCBpZGVudGlmaWVyLCBleHBpcnksIHNpZ25hdHVyZSkKCWZtdC5QcmludGxuKHRva2VuKQoJcmV0dXJuIHRva2VuCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJlcy5TdGF0dXNDb2RlKQo=</text>
+        <text encoding="base64">CWlvLldyaXRlU3RyaW5nKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQljb2xvci5SZWQoImVycm9yIHVwZGF0aW5nIG9wZXJhdGlvbjoiLCBzdHJpbmcoYm9keSkpCg==</text>
+        <text encoding="base64">CWggOj0gc2hhNTEyLk5ldygpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -642,10 +642,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigiZXJyb3IgcmVhZGluZyByZXNwb25zZToiLCBlcnIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
