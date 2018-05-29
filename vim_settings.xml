@@ -200,6 +200,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/go/src/tmartins/azure-apim-updater/cmd/root.go" timestamp="1527585626026">
+        <mark key="[" line="13" column="74" />
+        <mark key="]" line="13" column="73" />
+        <mark key="." line="13" column="73" />
+        <mark key="^" line="13" column="73" />
+      </file>
       <file name="$USER_HOME$/www/work/scytale/documentation/mkdocs.yml" timestamp="1527515920652">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="2" column="17" />
@@ -461,6 +467,13 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="21" column="16" />
       </file>
+      <file name="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" timestamp="1527596717692">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="180" column="22" />
+        <mark key="]" line="181" column="15" />
+        <mark key="." line="181" column="15" />
+        <mark key="^" line="181" column="15" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/cms-deployment.yaml" timestamp="1526997858083">
         <mark key="[" line="16" column="44" />
         <mark key="]" line="16" column="51" />
@@ -469,45 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="30" filename="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-deployment.yaml" />
-      <jump line="30" column="6" filename="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-deployment.yaml" />
-      <jump line="6" column="32" filename="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-configmap.yaml" />
-      <jump line="61" column="31" filename="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-configmap.yaml" />
-      <jump line="16" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-service.yaml" />
-      <jump line="3" column="29" filename="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-configmap.yaml" />
-      <jump line="26" column="18" filename="$USER_HOME$/www/work/capitalise/kube/final/service-funding-tips-deployment.yaml" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-funding-tips-configmap.yaml" />
-      <jump line="16" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-funding-tips-service.yaml" />
-      <jump line="21" column="29" filename="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-deployment.yaml" />
-      <jump line="20" column="6" filename="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-deployment.yaml" />
-      <jump line="31" column="6" filename="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-deployment.yaml" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-deployment.yaml" />
-      <jump line="32" column="6" filename="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-deployment.yaml" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-deployment.yaml" />
-      <jump line="15" column="14" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-service-startup" />
-      <jump line="15" column="28" filename="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-service.yaml" />
-      <jump line="82" column="6" filename="$USER_HOME$/www/work/capitalise/kube/final/nginx-configmap.yaml" />
-      <jump line="72" column="15" filename="$USER_HOME$/www/work/capitalise/kube/final/nginx-configmap.yaml" />
-      <jump line="16" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/ui-questionnaire-service.yaml" />
-      <jump line="11" column="12" filename="$USER_HOME$/www/work/capitalise/kube/platfi-cms-source-deployment.yaml" />
-      <jump line="3" column="10" filename="$USER_HOME$/www/work/capitalise/kube/platfi-cms-source-deployment.yaml" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/work/capitalise/kube/platfi-cms-source-deployment.yaml" />
-      <jump line="88" column="2" filename="$USER_HOME$/www/work/capitalise/kube/platfi-cms-source-deployment.yaml" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/work/capitalise/kube/platfi-cms-source-deployment.yaml" />
-      <jump line="90" column="13" filename="$USER_HOME$/www/work/capitalise/kube/platfi-cms-source-deployment.yaml" />
-      <jump line="99" column="17" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-configmap.yaml" />
-      <jump line="3" column="8" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
-      <jump line="12" column="6" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
-      <jump line="22" column="16" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
-      <jump line="26" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
-      <jump line="39" column="2" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
-      <jump line="40" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
-      <jump line="52" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
-      <jump line="65" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
-      <jump line="78" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
-      <jump line="91" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
       <jump line="104" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
       <jump line="117" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
       <jump line="131" column="0" filename="$USER_HOME$/www/work/capitalise/kube/final/cms-persistentvolumeclaims.yaml" />
@@ -569,22 +543,61 @@
       <jump line="23" column="0" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
       <jump line="19" column="39" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
+      <jump line="8" column="18" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="6" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="28" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="35" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="17" column="20" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="56" column="4" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="59" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="60" column="45" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="65" column="11" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="83" column="31" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="9" column="23" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="94" column="21" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="12" column="27" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="36" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="31" column="15" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="22" column="29" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="16" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="41" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="18" column="30" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="26" column="46" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="40" column="25" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="37" column="42" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="53" column="30" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="109" column="22" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="0" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="81" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="14" column="12" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="13" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="64" column="18" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="121" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="54" column="62" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="67" column="28" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="90" column="43" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="20" column="27" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="154" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="99" column="5" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="114" column="55" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="171" column="30" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
+      <jump line="29" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQo=</text>
+      <register name="&quot;" type="4">
+        <text>return</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>cms</text>
       </register>
-      <register name="0" type="4">
-        <text>https://github.com/kubernetes/kops</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQljb2xvci5SZWQoImVycm9yIHVwZGF0aW5nIG9wZXJhdGlvbjoiLCBzdHJpbmcoYm9keSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -614,10 +627,10 @@
         <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXlhbWwyanNvbgo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHJlcy5TdGF0dXNDb2RlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMgSW5mcmFzdHJ1Y3R1cmUgCg==</text>
+        <text encoding="base64">CQljb2xvci5SZWQoImVycm9yIHVwZGF0aW5nIG9wZXJhdGlvbjoiLCBzdHJpbmcoYm9keSkpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -629,10 +642,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ClsxXTogCg==</text>
+        <text encoding="base64">CQlmbXQuUHJpbnRsbigiZXJyb3IgcmVhZGluZyByZXNwb25zZToiLCBlcnIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">WzJdOiBodHRwczovL2dpdGh1Yi5jb20va3ViZXJuZXRlcy9rb3BzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
