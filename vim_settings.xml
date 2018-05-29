@@ -195,10 +195,10 @@
         <mark key="^" line="38" column="32" />
         <mark key="." line="38" column="31" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/azure-apim-swagger-updater/main.go" timestamp="1527268074961">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/www/work/capitalise/azure-apim-swagger-updater/main.go" timestamp="1527585044895">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/scytale/documentation/mkdocs.yml" timestamp="1527515920652">
         <mark key="[" line="2" column="17" />
@@ -356,7 +356,6 @@
         <mark key="^" line="21" column="40" />
         <mark key="." line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/documentation/docs/security/index.md" timestamp="1527516315748" />
       <file name="$USER_HOME$/www/work/scytale/kube-cluster/templates/hosts" timestamp="1527168213148">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
@@ -572,8 +571,8 @@
       <jump line="19" column="39" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -585,7 +584,7 @@
         <text>https://github.com/kubernetes/kops</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMgSW5mcmFzdHJ1Y3R1cmUgCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -603,22 +602,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ClsxXTogCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">WzJdOiBodHRwczovL2dpdGh1Yi5jb20va3ViZXJuZXRlcy9rb3BzCg==</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">WzNdOiAKWzRdOiAuLi9zZWN1cml0eS9pbmRleC5tZCNza29ycgo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fAo=</text>
+        <text encoding="base64">CXlhbWwyanNvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">WW91IGNhbiBhY2Nlc3MgdGhlIGNsdXN0ZXIgdGhyb3VnaCBba3ViZWN0bF0oaHR0cDovL25vdCBhIHZhbGlkIHVybCkgYXMgbG9uZyBhcyB5b3UgaGF2ZSB0aGUgbmVjZXNzYXJ5IGFjY2VzcyBjcmVkZW50aWFscy5WCg==</text>
+        <text encoding="base64">IyMgSW5mcmFzdHJ1Y3R1cmUgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -630,10 +629,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ClsxXTogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UAo=</text>
+        <text encoding="base64">WzJdOiBodHRwczovL2dpdGh1Yi5jb20va3ViZXJuZXRlcy9rb3BzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
