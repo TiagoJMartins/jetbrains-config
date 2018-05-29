@@ -468,14 +468,12 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" timestamp="1527603828129">
-        <mark key="'" line="179" column="42" />
-        <mark key="[" line="60" column="4" />
-        <mark key="]" line="61" column="25" />
-        <mark key="." line="61" column="25" />
-        <mark key="^" line="61" column="25" />
+      <file name="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" timestamp="1527605340141">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/go/src/tmartins/azure-apim-updater/secrets.txt" timestamp="1527601922486">
+      <file name="$USER_HOME$/go/src/tmartins/azure-apim-updater/secrets.txt" timestamp="1527604973029">
         <mark key="[" line="3" column="34" />
         <mark key="]" line="3" column="35" />
         <mark key="^" line="3" column="34" />
@@ -592,7 +590,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXJlcS5IZWFkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>4</text>
@@ -601,10 +599,10 @@
         <text>cms</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlmbXQuUHJpbnRsbigiZXJyb3IgcmVhZGluZyByZXNwb25zZToiLCBlcnIpCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHVybCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJlcS5IZWFkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -622,22 +620,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWpzb24uCg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHJlcS5IZWFkZXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CW9zLmNyZWEK</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKEFwaVVybCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQoJZm10LlByaW50bG4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CglmbXQuUHJpbnRsbihvcGVyYXRpb25zKQo=</text>
+        <text encoding="base64">CWVyciA9IGlvdXRpbC5Xcml0ZUZpbGUoIi4vc3dhZ2dlci5qc29uIiwganNvblN3YWdnZXIsIDA2NDQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKHVybCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -649,10 +647,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZtdC5QcmludGxuKGpzb24pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CglmbXQuUHJpbnRsbihzdHJpbmcoYm9keSkpCg==</text>
+        <text encoding="base64">CXJlcS5IZWFkZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
