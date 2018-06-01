@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/work/scytale/ops-cluster/playbooks/rexray.yml" timestamp="1527867936988">
+        <mark key="'" line="18" column="32" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="7" column="48" />
+      </file>
       <file name="$USER_HOME$/www/scripts/hosts" timestamp="1527511190340">
         <mark key="[" line="1" column="69" />
         <mark key="]" line="1" column="68" />
@@ -102,6 +109,13 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
+      <file name="$USER_HOME$/www/work/scytale/ops-cluster/playbooks/templates/rexray-config.yml.j2" timestamp="1527866555558">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="2" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/04-master.yml" timestamp="1527864735089" />
       <file name="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" timestamp="1526911144603">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="11" column="0" />
@@ -186,6 +200,11 @@
         <mark key="^" line="21" column="58" />
         <mark key="." line="21" column="58" />
       </file>
+      <file name="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/02-kube-dependencies.yml" timestamp="1527863962527">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/ci/.editorconfig" timestamp="1527606840975">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="15" />
@@ -262,6 +281,11 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/ops-cluster/playbooks/03-master.yml" timestamp="1527866657351">
+        <mark key="'" line="19" column="20" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="35" column="37" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-service.yaml" timestamp="1526919350629">
         <mark key="'" line="4" column="28" />
@@ -435,6 +459,13 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="14" column="25" />
       </file>
+      <file name="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/templates/rexray-config.yml.j2" timestamp="1527865314272">
+        <mark key="'" line="14" column="14" />
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" timestamp="1526901429872">
         <mark key="'" line="20" column="23" />
         <mark key="[" line="19" column="21" />
@@ -480,11 +511,12 @@
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/03-rex-ray.yml" timestamp="1527862378904">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="15" />
-        <mark key="^" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+      <file name="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/03-rex-ray.yml" timestamp="1527865410608">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="11" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1527694200213">
         <mark key="'" line="3" column="0" />
@@ -513,6 +545,7 @@
         <mark key="^" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
+      <file name="$USER_HOME$/www/work/scytale/farm-cluster/setup_terraform.sh" timestamp="1527865305314" />
       <file name="$USER_HOME$/www/work/capitalise/dbs/inputs.tf" timestamp="1526551318703">
         <mark key="'" line="12" column="14" />
         <mark key="[" line="20" column="38" />
@@ -539,11 +572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/www/scripts/ansible/ubuntu-mongo.yaml" />
-      <jump line="24" column="11" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
-      <jump line="26" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
-      <jump line="28" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
       <jump line="2" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
       <jump line="27" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
       <jump line="30" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
@@ -639,22 +667,27 @@
       <jump line="10" column="2" filename="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/build.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/build.sh" />
       <jump line="11" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/build.sh" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/03-rex-ray.yml" />
+      <jump line="14" column="14" filename="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/templates/rexray-config.yml.j2" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/work/scytale/ops-cluster/playbooks/rexray.yml" />
+      <jump line="19" column="20" filename="$USER_HOME$/www/work/scytale/ops-cluster/playbooks/03-master.yml" />
+      <jump line="15" column="32" filename="$USER_HOME$/www/work/scytale/ops-cluster/playbooks/rexray.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>all</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlOiAwNzQ0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text encoding="base64">JEtVQkVMRVRfRVhUUkFfQVJHUyA=</text>
       </register>
       <register name="/" type="4">
         <text>cms</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LSBpbXBvcnRfcGxheWJvb2s6IC4vcGxheWJvb2tzLzAzLW1hc3Rlci55bWwK</text>
+      <register name="0" type="4">
+        <text>Environment=&quot;KUBELET_EXTRA_ARGS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBtb2RlOiAwNzQ0Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -672,22 +705,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CiAgICAtIG5hbWU6IHJlc3RhcnQga3ViZWxldAogICAgICBzZXJ2aWNlOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lOiBrdWJlbGV0CiAgICAgICAgc3RhdGU6IHJlc3RhcnRlZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtIHBhdGg6IGFwcC9ub2RlX21vZHVsZXMK</text>
+        <text encoding="base64">ICAgICAgICAKICAgIC0gbmFtZTogZGFlbW9uLXJlbG9hZCBzZXJ2aWNlcwogICAgICBzeXN0ZW1kOgogICAgICAgIGRhZW1vbl9yZWxvYWQ6IHRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFyYW1zOgogIC0gR0lUX1NTSF9LRVk6IExTMHRMUzFDUlVkSlRpQlNVMEVnVUZKSlZrRlVSU0JMUlZrdExTMHRMUXBOU1VsRmIzZEpRa0ZCUzBOQlVVVkJPRVZQY1djelNUSXdRWG8xTWxJelJtZFZMM0I2YVhKT2QyeE5aVXcwTVRoSmRrNURMM0J6T0hjdk0zcHZPVVpUQ2pZclRTOHhVbUZtTlhoTE0yWjZLMEpyWVhGR2NFTXlSWEJ2YW1ZemRWcHNZVkpaTTBWclJEZEpUbXhOZFRReVNGVlJWVGRpWmxab2FYUkJVSE5SSzNVS1pXTlVTakIwZUhWaVVuQm1SV1JYYlhKQ1UySjBPWE4xUkZGd1IwZ3lSVTkyYTNCQ1Z5OVRTMDF0ZVROMlRWRm9NM2N6YjJaMmIwODNkM05ITjJSekx3cDZUMGxXUVM5WUwwNUtjemQzYWpWcVdYSjFaRTlIU201SU1HWXpiemhsUWs1emJFNUlhRGRHU1RkRlFYVjRhVmxMZDJaVWJHNUphVkpxVTFsWVJtTXlDbTB2Vm5SaFJDdG1SMFo1YkhoMlNHSnVkRGR4T0dwSk5XVmtRbEphWTB0alFrMXJNMlpGVVVKTFdGVnBVRU55VUhOTFdFUnlUM0JEZDJoamFFeFpXRGtLZEM5V2JHVnBSV3BMV1hWT2JtSkljVzVoU0dsaFZDOWtUM1ZhVUU4d1JXNUtTRWhSU0hkSlJFRlJRVUpCYjBsQ1FVSm5ialZZVUZSMmRHdExRbEJEYXdwUmNVRjFjR0ZaV25aYVoyc3ZVM0ozZDJGT1RqWTVWbTVVUTA4d1Z6VlBSSHA0T1hsUFNTc3lPVFZ4YlRCb1dWVkVNMWhUZGtJM01tbEthWEIxUlVKVUNubzJlRk5HU0ZaaldGTk5MMVpoZVdodVVrbDZVVmhrWW5KV1VHdGxWRGx1UVZSaGVUVXdkWGMxT1ZaSFUyNXhhbXBXT1U1eWVEUTRRbWhSTDJwVE9Va0taR1JCUWpkVVNrOXJjbkJvU0dSUU0zTkRVVm8xVGpodVUzVnpWR05rTmxoamQxWlNVQ3Q2VDJkWlN6SnFUbmxzYm1scWJEaHpjMVI1TXpabmJUQnlTQXBCYVhkMmJUQlFSSEk0YUV4R2FuQkRlWE14ZG5ObFYzaDZTRkYxUTBJMVlVSlllbVp4TUVadlRIVnJNWGc1VVZjMlFVUkRkM0JUYms5VWRHUjNja1JsQ2tWS1pGUnhSRVFyY1doU1kwa3dUMVJ2ZWsxcWNuQjNTbWxGWm5SMVduQk1NMWhyYW5oelNrVndkWGhGUlVOTlZFVlplSGRpTDFSSmFYZHZkVkFyVWk4S1kwZHVWMlUyYTBObldVVkJLM0pFY1V0Vk4ybGFXamgxYTI0M2FtRmtlR3BFVGxKc2VVbFNhRkJKVFVsVWVWZzROR3d2VDI5cVNraDZOREp6VURCcmJRcHpjMHN2YTFaWWVUZE1hSEV2WnlzNVIyOVhkRFJOVm0wNWNuZERTbnBGV1VsdVRVTkVUWGRHUVVKU1pEaHlSU3RsVVRSTlFXdE5Takk0TmxsTWFVSndDbU14TXpsSlUwcFlWMFFyVUVGb2IyOWhjR1YwWlVaS1MzVXlNMVZWU0cwcmVtcFJTSEpOY2tOWVoydHlkMnMwZUhkTUt6WkllRTFEWjFsRlFUbFdielVLWVVZd1pXTnROa1J3TUVOVVRYTnViazFvWlZrNFVIbHBNbFpDZUdWSGNIVlpkVWg0ZEhOMU1UTTVOVUZNYUVKRmVFTXplRGxGU25wcVJFbDRXamhoYUFvNWRGUlpaSFpSVWpndlVHdERRVTFrVTA1TFRYWlphMnRXVG1WWmJWVldRV0l2TlU5Uk0xVkhOVmh5ZVdGcVJsTm9aRTR2Y0Rkbk5GbEpZVFpSYlRWRUNrMHJXSEZKT1hVdlp6TnZjMEUyU1ZsdWJFUnJhRTlwYWprNFVFUjBORk4zWVV0TVdUQkZWVU5uV1VGUEsyTkRWRkpUV1dKSlpqUTNVRUk1UkhSTGJYRUtSelJ2VmtJeWRIcHVVRkpFU0dsaVZVMTRjalUzTXpCQmRHaHlha1ZRUTJnemVWcHZabFJVY3pGVWRESXZLMDk0UlU5c1NrMTVSM0ZtWVVzelUzRlRRZ3BqYkU1bFFteFpTMGxwTVZkclUxbEdVREJUVTFsblZGWjJObkY0Ym5KblRqY3dRblV5Vld4VlpWUXJSM2hhT1VOa2RITnFRU3M1TkRoT0szUkRkMnBPQ2poeFpTdDBPRWxUYzJkUFQwMVFUMmcyZUVsdlVuZExRbWRSUkhRNE0zTktlRWxZY1RWV1R6VjFaRGhKZFhSblIzUlBkMWhxUnpGRU5XTnBiWGxHU1ZjS2FFcHpkMlJhUlVka1ZEUTFZbTR6UXpWbGVIRjNTMlptY1VNMVUxQXdjVVpaVW1kMlFtSmpSSEZrTTFkQ01qZ3pWMVIzTVRsbVVFOWtUMjlEWmtNNWNRcGlia1J2TmpJMmN6QlFhV0ZHVVhVM2VuTjBXR3hyY2xoRmRFNUNObW8wZVRkNVEwNWtiVzVsTUZoWmRXSTVPRUZoSzA4eFNYZHpha2RFUjFGdmNHVlZDbGsxZEhwSlVVdENaMEZIZUZCT1NuSlRUbkoyU25JeGRVcFZUWEJUZFdSdlpUWndjV3RyZFhGa1FWUlhRbWhuY0RkUWIzWktka2RCWTJaWlpXTlJVVGtLWVRKdU5XTnZTemxXTVcxYU4xUmpUR2h5WTFsRU9IVnVNbHAxSzJZMFNYUlJaMUpKZEZGcU9FMXdLMVJ2ZEVKV2RVVTViMEpYTjBGRksyVXljM0ZoVEFvck1VMVBPV3A0TUdaaVJURlpLMDh5UTNKVVNGTldWMjFqTTIxVlVUZFFPVW8wY1dOSVZEaGpWMVI0VEcxbmMybzRjRkpoQ2kwdExTMHRSVTVFSUZKVFFTQlFVa2xXUVZSRklFdEZXUzB0TFMwdENnPT0K</text>
+        <text encoding="base64">ICAgIC0gbmFtZToga3ViZWxldCBlbmFibGUtY29udHJvbGxlci1hdHRhY2gtZGV0YWNoCiAgICAgIHNoZWxsOiB8CiAgICAgICAgZXhwb3J0IEtVQkVMRVRfRVhUUkFfQVJHUz0iIgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzZWQ6IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -699,10 +732,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgc2hlbGw6IHwKICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
