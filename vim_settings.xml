@@ -102,7 +102,6 @@
         <mark key="." line="13" column="27" />
         <mark key="^" line="13" column="27" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/ops-cluster/deploy.tf" timestamp="1527862018405" />
       <file name="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" timestamp="1526911144603">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="11" column="0" />
@@ -385,7 +384,6 @@
         <mark key="^" line="21" column="40" />
         <mark key="." line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/farm-cluster/deploy.tf" timestamp="1527862002513" />
       <file name="$USER_HOME$/www/work/scytale/kube-cluster/templates/hosts" timestamp="1527168213148">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="7" />
@@ -417,6 +415,12 @@
         <mark key="]" line="25" column="23" />
         <mark key="." line="25" column="23" />
         <mark key="^" line="25" column="23" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/farm-cluster/kube-setup.ubuntu.yml" timestamp="1527862212074">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="40" />
+        <mark key="." line="3" column="40" />
+        <mark key="^" line="3" column="40" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/cms-configmap.yaml" timestamp="1526922266176">
         <mark key="'" line="99" column="17" />
@@ -475,6 +479,12 @@
         <mark key="]" line="7" column="47" />
         <mark key="^" line="7" column="47" />
         <mark key="." line="7" column="47" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/03-rex-ray.yml" timestamp="1527862378904">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1527694200213">
         <mark key="'" line="3" column="0" />
@@ -632,16 +642,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>all</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>all</text>
       </register>
       <register name="/" type="4">
         <text>cms</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IHJhYmJpdG1xCiAgICB0eXBlOiBkb2NrZXItaW1hZ2UKICAgIHNvdXJjZToKICAgICAgcmVwb3NpdG9yeTogcmFiYml0bXEKICAgICAgdGFnOiAzLW1hbmFnZW1lbnQK</text>
+        <text encoding="base64">LSBpbXBvcnRfcGxheWJvb2s6IC4vcGxheWJvb2tzLzAzLW1hc3Rlci55bWwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cgo=</text>
