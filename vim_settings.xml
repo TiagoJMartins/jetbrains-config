@@ -3,32 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/scytale/ops-cluster/playbooks/rexray.yml" timestamp="1528119212295">
-        <mark key="'" line="18" column="32" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="7" column="48" />
-      </file>
       <file name="$USER_HOME$/www/scripts/hosts" timestamp="1527511190340">
         <mark key="[" line="1" column="69" />
         <mark key="]" line="1" column="68" />
         <mark key="^" line="1" column="68" />
         <mark key="." line="1" column="68" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/post_install.sh" timestamp="1527685598942">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="8" column="39" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-service.yaml" timestamp="1526919704321">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="19" />
-        <mark key="." line="13" column="19" />
-        <mark key="^" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/api-configmap.yaml" timestamp="1526558637486">
         <mark key="'" line="2" column="0" />
@@ -36,13 +15,6 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-metrics-deployment.yaml" timestamp="1526917208199">
-        <mark key="'" line="31" column="6" />
-        <mark key="[" line="21" column="57" />
-        <mark key="]" line="21" column="56" />
-        <mark key="^" line="21" column="56" />
-        <mark key="." line="21" column="56" />
       </file>
       <file name="$USER_HOME$/www/work/scytale/documentation/docs/index.md" timestamp="1527515982949">
         <mark key="[" line="2" column="21" />
@@ -57,26 +29,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/service-ingestor-deployment.yaml" timestamp="1526909886135">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="19" column="34" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/scripts/compose/mongo.yml" timestamp="1527513014535">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-deployment.yaml" timestamp="1526919307143">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="23" column="29" />
-      </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/redis/redis.tf" timestamp="1526552690226">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="8" column="64" />
@@ -90,19 +42,6 @@
         <mark key="^" line="6" column="120" />
         <mark key="." line="6" column="119" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/kube-cluster/setup_terraform.sh" timestamp="1527163479131">
-        <mark key="[" line="4" column="48" />
-        <mark key="]" line="5" column="37" />
-        <mark key="^" line="5" column="37" />
-        <mark key="." line="5" column="37" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-configmap.yaml" timestamp="1526917618073">
-        <mark key="'" line="3" column="29" />
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="29" />
-        <mark key="." line="3" column="29" />
-        <mark key="^" line="3" column="29" />
-      </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/build.yml" timestamp="1527694340380">
         <mark key="[" line="13" column="23" />
         <mark key="]" line="13" column="27" />
@@ -114,13 +53,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="2" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" timestamp="1526911144603">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/www/work/scytale/kube-cluster/gen_ansible_hosts.sh" timestamp="1527160481885">
         <mark key="[" line="0" column="11" />
@@ -134,70 +66,12 @@
         <mark key="." line="1" column="44" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/kube-cluster/kube-dependencies.yml" timestamp="1527177071448">
-        <mark key="'" line="40" column="8" />
-        <mark key="[" line="34" column="15" />
-        <mark key="]" line="34" column="15" />
-        <mark key="^" line="34" column="15" />
-        <mark key="." line="34" column="15" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" timestamp="1526904840908">
-        <mark key="'" line="6" column="20" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="6" column="27" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-service.yaml" timestamp="1526916677370">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="13" column="15" />
-        <mark key="]" line="13" column="19" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="19" />
-      </file>
-      <file name="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" timestamp="1527516354794">
-        <mark key="'" line="19" column="39" />
-        <mark key="[" line="19" column="87" />
-        <mark key="]" line="19" column="86" />
-        <mark key="." line="19" column="86" />
-        <mark key="^" line="19" column="86" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" timestamp="1527694698774">
-        <mark key="'" line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/kube/cluster.tf" timestamp="1526551434693">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="131" column="39" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/dbs/terraform.tfvars" timestamp="1526564949877">
-        <mark key="'" line="11" column="36" />
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="33" />
-        <mark key="." line="15" column="33" />
-        <mark key="^" line="15" column="33" />
-      </file>
       <file name="$USER_HOME$/www/work/scytale/kube-cluster/.gitignore" timestamp="1527189298834">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="1" />
-      </file>
-      <file name="$USER_HOME$/www/work/scytale/documentation/docs/mkdocs.yml" timestamp="1527515607933">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="31" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="31" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-deployment.yaml" timestamp="1526921807137">
-        <mark key="'" line="19" column="15" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="20" />
-        <mark key="^" line="21" column="58" />
-        <mark key="." line="21" column="58" />
       </file>
       <file name="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/02-kube-dependencies.yml" timestamp="1527863962527">
         <mark key="[" line="33" column="0" />
@@ -209,26 +83,6 @@
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="15" />
         <mark key="^" line="1" column="11" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-service.yaml" timestamp="1526564954152">
-        <mark key="'" line="12" column="4" />
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="17" />
-        <mark key="." line="13" column="17" />
-        <mark key="^" line="13" column="17" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/consumer-crm-hook-deployment.yaml" timestamp="1526907898701">
-        <mark key="'" line="16" column="28" />
-        <mark key="[" line="38" column="30" />
-        <mark key="]" line="38" column="31" />
-        <mark key="^" line="38" column="32" />
-        <mark key="." line="38" column="31" />
-      </file>
-      <file name="$USER_HOME$/go/src/tmartins/azure-apim-updater/cmd/root.go" timestamp="1527585626026">
-        <mark key="[" line="13" column="74" />
-        <mark key="]" line="13" column="73" />
-        <mark key="." line="13" column="73" />
-        <mark key="^" line="13" column="73" />
       </file>
       <file name="$USER_HOME$/www/work/scytale/documentation/mkdocs.yml" timestamp="1527515920652">
         <mark key="[" line="2" column="17" />
@@ -257,24 +111,12 @@
         <mark key="." line="25" column="120" />
         <mark key="^" line="25" column="120" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/generic-configmap.yaml" timestamp="1526991669636">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="6" column="32" />
-      </file>
-      <file name="$USER_HOME$/www/work/scytale/kube-cluster/terraform.tfvars" timestamp="1527182114853">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="6" column="21" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/post_install.yml" timestamp="1527685555327">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="14" column="23" />
-        <mark key="]" line="14" column="34" />
-        <mark key="^" line="14" column="34" />
-        <mark key="." line="14" column="34" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" timestamp="1528122486438">
+        <mark key="'" line="28" column="23" />
+        <mark key="[" line="227" column="32" />
+        <mark key="]" line="227" column="63" />
+        <mark key="." line="227" column="63" />
+        <mark key="^" line="227" column="63" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/install_dependencies.sh" timestamp="1527694572756">
         <mark key="[" line="17" column="0" />
@@ -314,26 +156,12 @@
         <mark key="." line="25" column="23" />
         <mark key="^" line="25" column="23" />
       </file>
-      <file name="$USER_HOME$/www/work/scytale/kube-cluster/workers.yml" timestamp="1527180039661">
-        <mark key="'" line="16" column="45" />
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-        <mark key="^" line="17" column="24" />
-      </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/run_tests.yml" timestamp="1527694113247">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="29" column="11" />
         <mark key="]" line="29" column="22" />
         <mark key="." line="29" column="22" />
         <mark key="^" line="29" column="22" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-configmap.yaml" timestamp="1526915979187">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="4" column="5" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="6" column="31" />
-        <mark key="^" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-console" timestamp="1526906889473">
         <mark key="[" line="7" column="48" />
@@ -348,13 +176,6 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/nginx-configmap.yaml" timestamp="1526999748879">
-        <mark key="'" line="74" column="15" />
-        <mark key="[" line="24" column="103" />
-        <mark key="]" line="24" column="102" />
-        <mark key="." line="24" column="102" />
-        <mark key="^" line="24" column="102" />
-      </file>
       <file name="$USER_HOME$/www/work/scytale/kube-cluster/master.yml" timestamp="1527182538520">
         <mark key="'" line="4" column="87" />
         <mark key="[" line="0" column="15" />
@@ -362,11 +183,274 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="24" column="38" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" timestamp="1528122206985">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="180" column="113" />
+        <mark key="]" line="180" column="112" />
+        <mark key="^" line="180" column="112" />
+        <mark key="." line="180" column="112" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-metrics-configmap.yaml" timestamp="1526916923987">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="16" column="58" />
         <mark key="." line="16" column="58" />
         <mark key="^" line="16" column="58" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/run_tests.sh" timestamp="1527693567830">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" timestamp="1526560814585">
+        <mark key="'" line="34" column="17" />
+        <mark key="[" line="53" column="59" />
+        <mark key="]" line="53" column="65" />
+        <mark key="." line="53" column="65" />
+        <mark key="^" line="53" column="65" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/install_dependencies.yml" timestamp="1527694327489">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="20" />
+        <mark key="^" line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/templates/rexray-config.yml.j2" timestamp="1527865314272">
+        <mark key="'" line="14" column="14" />
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="46" />
+        <mark key="." line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-consumer" timestamp="1527606445029">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-configmap.yaml" timestamp="1526981404105">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/docs/security/index.md" timestamp="1527515155773">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="19" />
+        <mark key="." line="17" column="10" />
+        <mark key="^" line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" timestamp="1528121636398">
+        <mark key="[" line="153" column="68" />
+        <mark key="]" line="153" column="67" />
+        <mark key="." line="153" column="67" />
+        <mark key="^" line="153" column="67" />
+      </file>
+      <file name="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" timestamp="1527683068963">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/go/src/tmartins/azure-apim-updater/secrets.txt" timestamp="1527604973029">
+        <mark key="[" line="3" column="34" />
+        <mark key="]" line="3" column="35" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/cms-deployment.yaml" timestamp="1526997858083">
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="16" column="51" />
+        <mark key="." line="16" column="51" />
+        <mark key="^" line="16" column="51" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/ops-cluster/playbooks/rexray.yml" timestamp="1528119212295">
+        <mark key="'" line="18" column="32" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="7" column="48" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/post_install.sh" timestamp="1527685598942">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="8" column="39" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-service.yaml" timestamp="1526919704321">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-metrics-deployment.yaml" timestamp="1526917208199">
+        <mark key="'" line="31" column="6" />
+        <mark key="[" line="21" column="57" />
+        <mark key="]" line="21" column="56" />
+        <mark key="^" line="21" column="56" />
+        <mark key="." line="21" column="56" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/service-ingestor-deployment.yaml" timestamp="1526909886135">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="19" column="34" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/scripts/compose/mongo.yml" timestamp="1527513014535">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-api-gateway-deployment.yaml" timestamp="1526919307143">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="23" column="29" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/setup_terraform.sh" timestamp="1527163479131">
+        <mark key="[" line="4" column="48" />
+        <mark key="]" line="5" column="37" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-quote-provider-configmap.yaml" timestamp="1526917618073">
+        <mark key="'" line="3" column="29" />
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" timestamp="1526911144603">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="3" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/kube-dependencies.yml" timestamp="1527177071448">
+        <mark key="'" line="40" column="8" />
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="34" column="15" />
+        <mark key="^" line="34" column="15" />
+        <mark key="." line="34" column="15" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" timestamp="1526904840908">
+        <mark key="'" line="6" column="20" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-service.yaml" timestamp="1526916677370">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/configs.py" timestamp="1528121921880" />
+      <file name="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" timestamp="1527516354794">
+        <mark key="'" line="19" column="39" />
+        <mark key="[" line="19" column="87" />
+        <mark key="]" line="19" column="86" />
+        <mark key="." line="19" column="86" />
+        <mark key="^" line="19" column="86" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" timestamp="1527694698774">
+        <mark key="'" line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/dbs/modules/kube/cluster.tf" timestamp="1526551434693">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="131" column="39" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/dbs/terraform.tfvars" timestamp="1526564949877">
+        <mark key="'" line="11" column="36" />
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/documentation/docs/mkdocs.yml" timestamp="1527515607933">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="31" />
+        <mark key="^" line="0" column="31" />
+        <mark key="." line="0" column="31" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-ingestor-deployment.yaml" timestamp="1526921807137">
+        <mark key="'" line="19" column="15" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="23" column="20" />
+        <mark key="^" line="21" column="58" />
+        <mark key="." line="21" column="58" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-service.yaml" timestamp="1526564954152">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/consumer-crm-hook-deployment.yaml" timestamp="1526907898701">
+        <mark key="'" line="16" column="28" />
+        <mark key="[" line="38" column="30" />
+        <mark key="]" line="38" column="31" />
+        <mark key="^" line="38" column="32" />
+        <mark key="." line="38" column="31" />
+      </file>
+      <file name="$USER_HOME$/go/src/tmartins/azure-apim-updater/cmd/root.go" timestamp="1527585626026">
+        <mark key="[" line="13" column="74" />
+        <mark key="]" line="13" column="73" />
+        <mark key="." line="13" column="73" />
+        <mark key="^" line="13" column="73" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/generic-configmap.yaml" timestamp="1526991669636">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/terraform.tfvars" timestamp="1527182114853">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/post_install.yml" timestamp="1527685555327">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="34" />
+        <mark key="^" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+      </file>
+      <file name="$USER_HOME$/www/work/scytale/kube-cluster/workers.yml" timestamp="1527180039661">
+        <mark key="'" line="16" column="45" />
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="17" column="24" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-configmap.yaml" timestamp="1526915979187">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+        <mark key="^" line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/kube/final/nginx-configmap.yaml" timestamp="1526999748879">
+        <mark key="'" line="74" column="15" />
+        <mark key="[" line="24" column="103" />
+        <mark key="]" line="24" column="102" />
+        <mark key="." line="24" column="102" />
+        <mark key="^" line="24" column="102" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/redis-service.yaml" timestamp="1526904955755">
         <mark key="'" line="0" column="0" />
@@ -394,12 +478,6 @@
         <mark key="." line="10" column="15" />
         <mark key="^" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/run_tests.sh" timestamp="1527693567830">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-funding-tips-deployment.yaml" timestamp="1526918880662">
         <mark key="'" line="26" column="18" />
         <mark key="[" line="21" column="33" />
@@ -419,18 +497,18 @@
         <mark key="." line="12" column="51" />
         <mark key="^" line="12" column="51" />
       </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/computation.py" timestamp="1528122144475">
+        <mark key="'" line="36" column="10" />
+        <mark key="[" line="46" column="103" />
+        <mark key="]" line="47" column="3" />
+        <mark key="." line="47" column="3" />
+        <mark key="^" line="47" column="3" />
+      </file>
       <file name="$USER_HOME$/www/work/scytale/kube-cluster/initial.yml" timestamp="1527182527225">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="17" column="20" />
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" timestamp="1526560814585">
-        <mark key="'" line="34" column="17" />
-        <mark key="[" line="53" column="59" />
-        <mark key="]" line="53" column="65" />
-        <mark key="." line="53" column="65" />
-        <mark key="^" line="53" column="65" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/consumer-funding-tips-deployment.yaml" timestamp="1526908606470">
         <mark key="'" line="42" column="0" />
@@ -452,19 +530,6 @@
         <mark key="^" line="101" column="17" />
         <mark key="." line="101" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/install_dependencies.yml" timestamp="1527694327489">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="14" column="20" />
-        <mark key="." line="14" column="20" />
-        <mark key="^" line="14" column="25" />
-      </file>
-      <file name="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/templates/rexray-config.yml.j2" timestamp="1527865314272">
-        <mark key="'" line="14" column="14" />
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="46" />
-        <mark key="." line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/api-deployment.yaml" timestamp="1526901429872">
         <mark key="'" line="20" column="23" />
         <mark key="[" line="19" column="21" />
@@ -477,26 +542,6 @@
         <mark key="]" line="3" column="24" />
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="24" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/sf-consumer" timestamp="1527606445029">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-        <mark key="^" line="6" column="41" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/service-questionnaire-manager-configmap.yaml" timestamp="1526981404105">
-        <mark key="[" line="8" column="2" />
-        <mark key="]" line="8" column="17" />
-        <mark key="^" line="8" column="17" />
-        <mark key="." line="8" column="17" />
-      </file>
-      <file name="$USER_HOME$/www/work/scytale/docs/security/index.md" timestamp="1527515155773">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="17" column="10" />
-        <mark key="^" line="16" column="10" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/azure-file-storageclass.yaml" timestamp="1526922906150">
         <mark key="[" line="4" column="37" />
@@ -551,35 +596,15 @@
         <mark key="." line="20" column="38" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" timestamp="1527683068963">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/go/src/tmartins/azure-apim-updater/secrets.txt" timestamp="1527604973029">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="35" />
-        <mark key="^" line="3" column="34" />
-        <mark key="." line="3" column="35" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/kube/final/cms-deployment.yaml" timestamp="1526997858083">
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="16" column="51" />
-        <mark key="." line="16" column="51" />
-        <mark key="^" line="16" column="51" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/side_effects.py" timestamp="1528121565226">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="21" column="39" />
+        <mark key="]" line="22" column="7" />
+        <mark key="." line="22" column="7" />
+        <mark key="^" line="22" column="7" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
-      <jump line="27" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
-      <jump line="30" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/scytale/docs/skorr/index.md" />
-      <jump line="16" column="34" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
-      <jump line="12" column="120" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
-      <jump line="27" column="4" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
-      <jump line="21" column="86" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
-      <jump line="6" column="1" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
       <jump line="18" column="0" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
       <jump line="7" column="0" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
       <jump line="23" column="0" filename="$USER_HOME$/www/work/scytale/documentation/docs/skorr/index.md" />
@@ -670,22 +695,32 @@
       <jump line="11" column="0" filename="$USER_HOME$/www/work/scytale/ops-cluster/playbooks/rexray.yml" />
       <jump line="19" column="20" filename="$USER_HOME$/www/work/scytale/ops-cluster/playbooks/03-master.yml" />
       <jump line="15" column="32" filename="$USER_HOME$/www/work/scytale/ops-cluster/playbooks/rexray.yml" />
+      <jump line="31" column="10" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/computation.py" />
+      <jump line="28" column="23" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
+      <jump line="19" column="18" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/side_effects.py" />
+      <jump line="7" column="11" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/side_effects.py" />
+      <jump line="21" column="15" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/side_effects.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/side_effects.py" />
+      <jump line="180" column="112" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
+      <jump line="441" column="4" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlOiAwNzQ0Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbGRfY2xhc3NpZmljYXRpb24gPSBwb3N0LmNsYXNzaWZpY2F0aW9uCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JEtVQkVMRVRfRVhUUkFfQVJHUyA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>cms</text>
       </register>
-      <register name="0" type="4">
-        <text>Environment=&quot;KUBELET_EXTRA_ARGS</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1vbmdvID0gZ2V0X2RiX2Nvbm5lY3Rpb24oKQoKICAgIHVzZXIgPSBtb25nby51c2VyLmZpbmRfb25lKHsKICAgICAgICAnc29jaWFsVG9rZW5zJzogewogICAgICAgICAgICAnJGVsZW1NYXRjaCc6IHsKICAgICAgICAgICAgICAgICdwcm9maWxlSWQnOiBwcm9maWxlX2lkLAogICAgICAgICAgICAgICAgJ3R5cGUnOiBuZXR3b3JrCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9KQoKICAgIGlmIHVzZXIgaXMgTm9uZToKICAgICAgICByYWlzZSBVc2VyTm90Rm91bmQobmV0d29yaywgcHJvZmlsZV9pZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlOiAwNzQ0Cg==</text>
+        <text encoding="base64">ICAgICAgICBvbGRfY2xhc3NpZmljYXRpb24gPSBwb3N0LmNsYXNzaWZpY2F0aW9uCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -703,22 +738,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAtIG5hbWU6IHJlc3RhcnQga3ViZWxldAogICAgICBzZXJ2aWNlOgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiBrdWJlbGV0CiAgICAgICAgc3RhdGU6IHJlc3RhcnRlZAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4geyd2YWx1ZSc6IHBvc3RzX3N0cmVuZ3RofQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIC0gbmFtZTogZGFlbW9uLXJlbG9hZCBzZXJ2aWNlcwogICAgICBzeXN0ZW1kOgogICAgICAgIGRhZW1vbl9yZWxvYWQ6IHRydWUK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZToga3ViZWxldCBlbmFibGUtY29udHJvbGxlci1hdHRhY2gtZGV0YWNoCiAgICAgIHNoZWxsOiB8CiAgICAgICAgZXhwb3J0IEtVQkVMRVRfRVhUUkFfQVJHUz0iIgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCj09PT09PT0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -730,10 +765,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2hlbGw6IHwKICAgICAgICAK</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
