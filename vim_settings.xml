@@ -113,7 +113,7 @@
         <mark key="." line="19" column="86" />
         <mark key="^" line="19" column="86" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" timestamp="1528198370523">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" timestamp="1528200771187">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="92" column="17" />
         <mark key="]" line="92" column="17" />
@@ -411,12 +411,12 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1528200015906">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1528201054986">
         <mark key="'" line="57" column="18" />
-        <mark key="[" line="60" column="17" />
-        <mark key="]" line="60" column="22" />
-        <mark key="." line="60" column="22" />
-        <mark key="^" line="60" column="22" />
+        <mark key="[" line="44" column="10" />
+        <mark key="]" line="44" column="21" />
+        <mark key="." line="44" column="21" />
+        <mark key="^" line="44" column="21" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" timestamp="1526489419400">
         <mark key="'" line="68" column="60" />
@@ -574,10 +574,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bubild</text>
+        <text>build-application</text>
       </register>
       <register name="-" type="4">
-        <text>bubild</text>
+        <text>build-application</text>
       </register>
       <register name="/" type="4">
         <text>REDIS</text>
