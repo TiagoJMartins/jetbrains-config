@@ -73,12 +73,12 @@
         <mark key="." line="3" column="29" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/build.yml" timestamp="1528190797153">
-        <mark key="'" line="12" column="2" />
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-        <mark key="^" line="8" column="19" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/build.yml" timestamp="1528196842916">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/api-service.yaml" timestamp="1526911144603">
         <mark key="'" line="0" column="0" />
@@ -93,13 +93,6 @@
         <mark key="]" line="34" column="15" />
         <mark key="^" line="34" column="15" />
         <mark key="." line="34" column="15" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" timestamp="1526904840908">
-        <mark key="'" line="6" column="20" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="6" column="27" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-membership-levels-service.yaml" timestamp="1526916677370">
         <mark key="'" line="4" column="0" />
@@ -120,11 +113,12 @@
         <mark key="." line="19" column="86" />
         <mark key="^" line="19" column="86" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" timestamp="1528189768113">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="30" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" timestamp="1528198370523">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="92" column="17" />
+        <mark key="]" line="92" column="17" />
+        <mark key="." line="92" column="17" />
+        <mark key="^" line="92" column="17" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/kube/cluster.tf" timestamp="1526551434693">
         <mark key="'" line="14" column="0" />
@@ -212,7 +206,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/install_dependencies.sh" timestamp="1528191029709">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/install_dependencies.sh" timestamp="1528191952401">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -280,7 +274,7 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/build.sh" timestamp="1528189800926">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/build.sh" timestamp="1528191939886">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -369,6 +363,13 @@
         <mark key="^" line="101" column="17" />
         <mark key="." line="101" column="17" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/install_dependencies.yml" timestamp="1528196880408">
+        <mark key="'" line="14" column="22" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="2252" />
+        <mark key="^" line="11" column="2252" />
+        <mark key="." line="11" column="2252" />
+      </file>
       <file name="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/templates/rexray-config.yml.j2" timestamp="1527865314272">
         <mark key="'" line="14" column="14" />
         <mark key="[" line="13" column="11" />
@@ -404,12 +405,18 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1528191056562">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="52" column="28" />
-        <mark key="]" line="52" column="27" />
-        <mark key="." line="52" column="27" />
-        <mark key="^" line="52" column="27" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi/package.json" timestamp="1528192934991">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="27" />
+        <mark key="^" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1528200015906">
+        <mark key="'" line="57" column="18" />
+        <mark key="[" line="60" column="17" />
+        <mark key="]" line="60" column="22" />
+        <mark key="." line="60" column="22" />
+        <mark key="^" line="60" column="22" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" timestamp="1526489419400">
         <mark key="'" line="68" column="60" />
@@ -456,7 +463,7 @@
         <mark key="." line="22" column="7" />
         <mark key="^" line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/credentials.yml" timestamp="1528190788380">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/credentials.yml" timestamp="1528196490174">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="48" />
         <mark key="^" line="0" column="22" />
@@ -464,24 +471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="18" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="6" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="28" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="35" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="17" column="20" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="56" column="4" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="59" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="60" column="45" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="65" column="11" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="83" column="31" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="9" column="23" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="94" column="21" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="12" column="27" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="36" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="31" column="15" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="22" column="29" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="16" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
-      <jump line="41" column="0" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
       <jump line="18" column="30" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
       <jump line="26" column="46" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
       <jump line="40" column="25" filename="$USER_HOME$/go/src/tmartins/azure-apim-updater/main.go" />
@@ -564,22 +553,40 @@
       <jump line="9" column="48" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/build.yml" />
       <jump line="10" column="6" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/build.yml" />
       <jump line="12" column="2" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/build.yml" />
+      <jump line="3" column="14" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" />
+      <jump line="14" column="22" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/install_dependencies.yml" />
+      <jump line="35" column="6" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" />
+      <jump line="56" column="5" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" />
+      <jump line="29" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" />
+      <jump line="16" column="17" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
+      <jump line="42" column="72" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
+      <jump line="92" column="43" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
+      <jump line="93" column="39" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
+      <jump line="129" column="43" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
+      <jump line="135" column="27" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
+      <jump line="44" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/parameters.yml" />
+      <jump line="11" column="15" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/build.yml" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/build.yml" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/build.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/build.yml" />
+      <jump line="13" column="2" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/build.yml" />
+      <jump line="57" column="18" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(( docker-username ))</text>
+        <text>bubild</text>
       </register>
       <register name="-" type="4">
-        <text>(( docker-username ))</text>
+        <text>bubild</text>
       </register>
       <register name="/" type="4">
-        <text>cms</text>
+        <text>REDIS</text>
       </register>
       <register name="0" type="4">
-        <text>vPu7joL+lRot9d+Zbj606lIt4w0dNPyd</text>
+        <text>LS0tLS1CRUdJTiBSU0EgUFJJVkFURSBLRVktLS0tLQpNSUlFb3dJQkFBS0NBUUVBOEVPcWczSTIwQXo1MlIzRmdVL3B6aXJOd2xNZUw0MThJdk5DL3BzOHcvM3pvOUZTCjYrTS8xUmFmNXhLM2Z6K0JrYXFGcEMyRXBvamYzdVpsYVJZM0VrRDdJTmxNdTQySFVRVTdiZlZoaXRBUHNRK3UKZWNUSjB0eHViUnBmRWRXbXJCU2J0OXN1RFFwR0gyRU92a3BCVy9TS01teTN2TVFoM3czb2Z2b083d3NHN2RzLwp6T0lWQS9YL05Kczd3ajVqWXJ1ZE9HSm5IMGYzbzhlQk5zbE5IaDdGSTdFQXV4aVlLd2ZUbG5JaVJqU1lYRmMyCm0vVnRhRCtmR0Z5bHh2SGJudDdxOGpJNWVkQlJaY0tjQk1rM2ZFUUJLWFVpUENyUHNLWERyT3BDd2hjaExZWDkKdC9WbGVpRWpLWXVObmJIcW5hSGlhVC9kT3VaUE8wRW5KSEhRSHdJREFRQUJBb0lCQUJnbjVYUFR2dGtLQlBDawpRcUF1cGFZWnZaZ2svU3J3d2FOTjY5Vm5UQ08wVzVPRHp4OXlPSSsyOTVxbTBoWVVEM1hTdkI3MmlKaXB1RUJUCno2eFNGSFZjWFNNL1ZheWhuUkl6UVhkYnJWUGtlVDluQVRheTUwdXc1OVZHU25xampWOU5yeDQ4QmhRL2pTOUkKZGRBQjdUSk9rcnBoSGRQM3NDUVo1TjhuU3VzVGNkNlhjd1ZSUCt6T2dZSzJqTnlsbmlqbDhzc1R5MzZnbTBySApBaXd2bTBQRHI4aExGanBDeXMxdnNlV3h6SFF1Q0I1YUJYemZxMEZvTHVrMXg5UVc2QURDd3BTbk9UdGR3ckRlCkVKZFRxREQrcWhSY0kwT1Rvek1qcnB3SmlFZnR1WnBMM1hranhzSkVwdXhFRUNNVEVZeHdiL1RJaXdvdVArUi8KY0duV2U2a0NnWUVBK3JEcUtVN2laWjh1a243amFkeGpETlJseUlSaFBJTUlUeVg4NGwvT29qSkh6NDJzUDBrbQpzc0sva1ZYeTdMaHEvZys5R29XdDRNVm05cndDSnpFWUluTUNETXdGQUJSZDhyRStlUTRNQWtNSjI4NllMaUJwCmMxMzlJU0pYV0QrUEFob29hcGV0ZUZKS3UyM1VVSG0rempRSHJNckNYZ2tyd2s0eHdMKzZIeE1DZ1lFQTlWbzUKYUYwZWNtNkRwMENUTXNubk1oZVk4UHlpMlZCeGVHcHVZdUh4dHN1MTM5NUFMaEJFeEMzeDlFSnpqREl4WjhhaAo5dFRZZHZRUjgvUGtDQU1kU05LTXZZa2tWTmVZbVVWQWIvNU9RM1VHNVhyeWFqRlNoZE4vcDdnNFlJYTZRbTVECk0rWHFJOXUvZzNvc0E2SVlubERraE9pajk4UER0NFN3YUtMWTBFVUNnWUFPK2NDVFJTWWJJZjQ3UEI5RHRLbXEKRzRvVkIydHpuUFJESGliVU14cjU3MzBBdGhyakVQQ2gzeVpvZlRUczFUdDIvK094RU9sSk15R3FmYUszU3FTQgpjbE5lQmxZS0lpMVdrU1lGUDBTU1lnVFZ2NnF4bnJnTjcwQnUyVWxVZVQrR3haOUNkdHNqQSs5NDhOK3RDd2pOCjhxZSt0OElTc2dPT01QT2g2eElvUndLQmdRRHQ4M3NKeElYcTVWTzV1ZDhJdXRnR3RPd1hqRzFENWNpbXlGSVcKaEpzd2RaRUdkVDQ1Ym4zQzVleHF3S2ZmcUM1U1AwcUZZUmd2QmJjRHFkM1dCMjgzV1R3MTlmUE9kT29DZkM5cQpibkRvNjI2czBQaWFGUXU3enN0WGxrclhFdE5CNmo0eTd5Q05kbW5lMFhZdWI5OEFhK08xSXdzakdER1FvcGVVClk1dHpJUUtCZ0FHeFBOSnJTTnJ2SnIxdUpVTXBTdWRvZTZwcWtrdXFkQVRXQmhncDdQb3ZKdkdBY2ZZZWNRUTkKYTJuNWNvSzlWMW1aN1RjTGhyY1lEOHVuMlp1K2Y0SXRRZ1JJdFFqOE1wK1RvdEJWdUU5b0JXN0FFK2Uyc3FhTAorMU1POWp4MGZiRTFZK08yQ3JUSFNWV21jM21VUTdQOUo0cWNIVDhjV1R4TG1nc2o4cFJhCi0tLS0tRU5EIFJTQSBQUklWQVRFIEtFWS0tLS0tCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNhY2hlOiB0cnVlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -597,22 +604,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmV4cG9ydCBET0NLRVJJWkVfVkVSU0lPTj12MC4yLjAKZXhwb3J0IFdBUk1fVVA9ZmFsc2UKCmNkIGFwcAoKcGhwIC1yICJjb3B5KCdodHRwczovL2dldGNvbXBvc2VyLm9yZy9pbnN0YWxsZXInLCAnY29tcG9zZXItc2V0dXAucGhwJyk7IgpwaHAgLXIgImlmIChoYXNoX2ZpbGUoJ1NIQTM4NCcsICdjb21wb3Nlci1zZXR1cC5waHAnKSA9PT0gJzU0NGUwOWVlOTk2Y2RmNjBlY2UzODA0YWJjNTI1OTljMjJiMWY0MGY0MzIzNDAzYzQ0ZDQ0ZmRmZGQ1ODY0NzVjYTk4MTNhODU4MDg4ZmZiYzFmMjMzZTliMTgwZjA2MScpIHsgZWNobyAnSW5zdGFsbGVyIHZlcmlmaWVkJzsgfSBlbHNlIHsgZWNobyAnSW5zdGFsbGVyIGNvcnJ1cHQnOyB1bmxpbmsoJ2NvbXBvc2VyLXNldHVwLnBocCcpOyB9IGVjaG8gUEhQX0VPTDsiCnBocCBjb21wb3Nlci1zZXR1cC5waHAgLS1pbnN0YWxsLWRpcj0vdXNyL2xvY2FsL2JpbiAtLWZpbGVuYW1lPWNvbXBvc2VyCnBocCAtciAidW5saW5rKCdjb21wb3Nlci1zZXR1cC5waHAnKTsiCgphcHQtZ2V0IC15IHVwZGF0ZQphcHQtZ2V0IC15IGluc3RhbGwgbGlic3NsLWRldiBsaWJ4bWwyLWRldiBsaWJjdXJsNC1nbnV0bHMtZGV2IGxpYmljdS1kZXYgemlwIGdpdCBsaWJwY3JlMy1kZXYgbGlicG5nLWRldiBsaWJqcGVnNjItdHVyYm8tZGV2CmRvY2tlci1waHAtZXh0LWNvbmZpZ3VyZSBnZCAtLXdpdGgtanBlZy1kaXI9L3Vzci9pbmNsdWRlLwpkb2NrZXItcGhwLWV4dC1pbnN0YWxsIGN1cmwgcGRvIHBkb19teXNxbCBiY21hdGggc29hcCBpbnRsIG9wY2FjaGUgZ2QgemlwCmN1cmwgLUwgLU8gaHR0cHM6Ly9naXRodWIuY29tL2p3aWxkZXIvZG9ja2VyaXplL3JlbGVhc2VzL2Rvd25sb2FkLyRET0NLRVJJWkVfVkVSU0lPTi9kb2NrZXJpemUtbGludXgtYW1kNjQtJERPQ0tFUklaRV9WRVJTSU9OLnRhci5negp0YXIgLUMgL2JpbiAteHp2ZiBkb2NrZXJpemUtbGludXgtYW1kNjQtJERPQ0tFUklaRV9WRVJTSU9OLnRhci5negpybSBkb2NrZXJpemUtbGludXgtYW1kNjQtJERPQ0tFUklaRV9WRVJTSU9OLnRhci5negoKYTJlbm1vZCByZXdyaXRlCgojIEluc3RhbGwgbW9uZ28KcGVjbCBpbnN0YWxsIG1vbmdvZGIKZWNobyAiZXh0ZW5zaW9uPW1vbmdvZGIuc28iID4gL3Vzci9sb2NhbC9ldGMvcGhwL2NvbmYuZC9leHQtbW9uZ28uaW5pCmVjaG8gInNob3J0X29wZW5fdGFnPU9mZiIgPiAvdXNyL2xvY2FsL2V0Yy9waHAvY29uZi5kL3Nob3RvcGVudGFncy5pbmkKCmNwIGFwcC9kb2NrZXIvcGhwL3N5bWZvbnkuaW5pICAgICAgICAgICAgIC91c3IvbG9jYWwvZXRjL3BocC9jb25mLmQvc3ltZm9ueS5pbmkKY3AgYXBwL2RvY2tlci9waHAve3NmLWNvbnNvbGUsc2YtY29uc3VtZXIsc2Ytc3RhcnR1cCxzZi1zZXJ2aWNlLXN0YXJ0dXAsc2YtdW5pdC10ZXN0c30gL2JpbgpjcCBhcHAvZG9ja2VyL3BocC9kb2NrZXItZW50cnlwb2ludC5zaCAgICAvdXNyL2xvY2FsL2Jpbi9kb2NrZXItZW50cnlwb2ludC5zaAo=</text>
+        <text encoding="base64">ICAgICAgcHJpdmF0ZV9rZXk6ICgoc3NoX2tleSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IERPQ0tFUklaRV9WRVJTSU9OPXYwLjIuMApleHBvcnQgV0FSTV9VUD1mYWxzZQoKY2QgYXBwCgpwaHAgLXIgImNvcHkoJ2h0dHBzOi8vZ2V0Y29tcG9zZXIub3JnL2luc3RhbGxlcicsICdjb21wb3Nlci1zZXR1cC5waHAnKTsiCnBocCAtciAiaWYgKGhhc2hfZmlsZSgnU0hBMzg0JywgJ2NvbXBvc2VyLXNldHVwLnBocCcpID09PSAnNTQ0ZTA5ZWU5OTZjZGY2MGVjZTM4MDRhYmM1MjU5OWMyMmIxZjQwZjQzMjM0MDNjNDRkNDRmZGZkZDU4NjQ3NWNhOTgxM2E4NTgwODhmZmJjMWYyMzNlOWIxODBmMDYxJykgeyBlY2hvICdJbnN0YWxsZXIgdmVyaWZpZWQnOyB9IGVsc2UgeyBlY2hvICdJbnN0YWxsZXIgY29ycnVwdCc7IHVubGluaygnY29tcG9zZXItc2V0dXAucGhwJyk7IH0gZWNobyBQSFBfRU9MOyIKcGhwIGNvbXBvc2VyLXNldHVwLnBocCAtLWluc3RhbGwtZGlyPS91c3IvbG9jYWwvYmluIC0tZmlsZW5hbWU9Y29tcG9zZXIKcGhwIC1yICJ1bmxpbmsoJ2NvbXBvc2VyLXNldHVwLnBocCcpOyIKCmFwdC1nZXQgLXkgdXBkYXRlCmFwdC1nZXQgLXkgaW5zdGFsbCBsaWJzc2wtZGV2IGxpYnhtbDItZGV2IGxpYmN1cmw0LWdudXRscy1kZXYgbGliaWN1LWRldiB6aXAgZ2l0IGxpYnBjcmUzLWRldiBsaWJwbmctZGV2IGxpYmpwZWc2Mi10dXJiby1kZXYKZG9ja2VyLXBocC1leHQtY29uZmlndXJlIGdkIC0td2l0aC1qcGVnLWRpcj0vdXNyL2luY2x1ZGUvCmRvY2tlci1waHAtZXh0LWluc3RhbGwgY3VybCBwZG8gcGRvX215c3FsIGJjbWF0aCBzb2FwIGludGwgb3BjYWNoZSBnZCB6aXAKY3VybCAtTCAtTyBodHRwczovL2dpdGh1Yi5jb20vandpbGRlci9kb2NrZXJpemUvcmVsZWFzZXMvZG93bmxvYWQvJERPQ0tFUklaRV9WRVJTSU9OL2RvY2tlcml6ZS1saW51eC1hbWQ2NC0kRE9DS0VSSVpFX1ZFUlNJT04udGFyLmd6CnRhciAtQyAvYmluIC14enZmIGRvY2tlcml6ZS1saW51eC1hbWQ2NC0kRE9DS0VSSVpFX1ZFUlNJT04udGFyLmd6CnJtIGRvY2tlcml6ZS1saW51eC1hbWQ2NC0kRE9DS0VSSVpFX1ZFUlNJT04udGFyLmd6CgphMmVubW9kIHJld3JpdGUKCiMgSW5zdGFsbCBtb25nbwpwZWNsIGluc3RhbGwgbW9uZ29kYgplY2hvICJleHRlbnNpb249bW9uZ29kYi5zbyIgPiAvdXNyL2xvY2FsL2V0Yy9waHAvY29uZi5kL2V4dC1tb25nby5pbmkKZWNobyAic2hvcnRfb3Blbl90YWc9T2ZmIiA+IC91c3IvbG9jYWwvZXRjL3BocC9jb25mLmQvc2hvdG9wZW50YWdzLmluaQoKY3AgYXBwL2RvY2tlci9waHAvc3ltZm9ueS5pbmkgICAgICAgICAgICAgL3Vzci9sb2NhbC9ldGMvcGhwL2NvbmYuZC9zeW1mb255LmluaQpjcCBhcHAvZG9ja2VyL3BocC97c2YtY29uc29sZSxzZi1jb25zdW1lcixzZi1zdGFydHVwLHNmLXNlcnZpY2Utc3RhcnR1cCxzZi11bml0LXRlc3RzfSAvYmluCmNwIGFwcC9kb2NrZXIvcGhwL2RvY2tlci1lbnRyeXBvaW50LnNoICAgIC91c3IvbG9jYWwvYmluL2RvY2tlci1lbnRyeXBvaW50LnNoCgpjb21wb3NlciBpbnN0YWxsIC1uIC0tcHJlZmVyLWRpc3QgLS1vcHRpbWl6ZS1hdXRvbG9hZGVyIC0tbm8tc2NyaXB0cwo=</text>
+        <text encoding="base64">UlVOIGNhdCAvcm9vdC8uc3NoL2lkX3JzYQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSB0YXNrOiBjYXQgZ3QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CkNPUFkgYXBwL2RvY2tlci9waHAvc3ltZm9ueS5pbmkgICAgICAgICAgICAgL3Vzci9sb2NhbC9ldGMvcGhwL2NvbmYuZC9zeW1mb255LmluaQpDT1BZIGFwcC9kb2NrZXIvcGhwL3NmLWNvbnNvbGUgICAgICAgICAgICAgIC9iaW4vc2YtY29uc29sZQpDT1BZIGFwcC9kb2NrZXIvcGhwL3NmLWNvbnN1bWVyICAgICAgICAgICAgIC9iaW4vc2YtY29uc3VtZXIKQ09QWSBhcHAvZG9ja2VyL3BocC9zZi1zdGFydHVwICAgICAgICAgICAgICAvYmluL3NmLXN0YXJ0dXAKQ09QWSBhcHAvZG9ja2VyL3BocC9zZi1zZXJ2aWNlLXN0YXJ0dXAgICAgICAvYmluL3NmLXNlcnZpY2Utc3RhcnR1cApDT1BZIGFwcC9kb2NrZXIvcGhwL3NmLXVuaXQtdGVzdHMgICAgICAgICAgIC9iaW4vc2YtdW5pdC10ZXN0cwpDT1BZIGFwcC9kb2NrZXIvcGhwL2RvY2tlci1lbnRyeXBvaW50LnNoICAgIC91c3IvbG9jYWwvYmluL2RvY2tlci1lbnRyeXBvaW50LnNoCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CkNPUFkgd2ViICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdlYi8KQ09QWSBhcHAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXBwLwpDT1BZIHNyYyAgICAgICAgICAgICAgICAgICAgICAgICAgICBzcmMvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -624,19 +631,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RU5WIERPQ0tFUklaRV9WRVJTSU9OIHYwLjIuMApFTlYgV0FSTV9VUCBmYWxzZQoKV09SS0RJUiAvdmFyL3d3dy9wbGF0ZmkKClJVTiBwaHAgLXIgImNvcHkoJ2h0dHBzOi8vZ2V0Y29tcG9zZXIub3JnL2luc3RhbGxlcicsICdjb21wb3Nlci1zZXR1cC5waHAnKTsiIFwKICAgICYmIHBocCAtciAiaWYgKGhhc2hfZmlsZSgnU0hBMzg0JywgJ2NvbXBvc2VyLXNldHVwLnBocCcpID09PSAnNTQ0ZTA5ZWU5OTZjZGY2MGVjZTM4MDRhYmM1MjU5OWMyMmIxZjQwZjQzMjM0MDNjNDRkNDRmZGZkZDU4NjQ3NWNhOTgxM2E4NTgwODhmZmJjMWYyMzNlOWIxODBmMDYxJykgeyBlY2hvICdJbnN0YWxsZXIgdmVyaWZpZWQnOyB9IGVsc2UgeyBlY2hvICdJbnN0YWxsZXIgY29ycnVwdCc7IHVubGluaygnY29tcG9zZXItc2V0dXAucGhwJyk7IH0gZWNobyBQSFBfRU9MOyIgXAogICAgJiYgcGhwIGNvbXBvc2VyLXNldHVwLnBocCAtLWluc3RhbGwtZGlyPS91c3IvbG9jYWwvYmluIC0tZmlsZW5hbWU9Y29tcG9zZXIgXAogICAgJiYgcGhwIC1yICJ1bmxpbmsoJ2NvbXBvc2VyLXNldHVwLnBocCcpOyIKClJVTiBhcHQtZ2V0IC15IHVwZGF0ZQpSVU4gYXB0LWdldCAteSBpbnN0YWxsIGxpYnNzbC1kZXYgbGlieG1sMi1kZXYgbGliY3VybDQtZ251dGxzLWRldiBsaWJpY3UtZGV2IHppcCBnaXQgbGlicGNyZTMtZGV2IGxpYnBuZy1kZXYgbGlianBlZzYyLXR1cmJvLWRldgpSVU4gZG9ja2VyLXBocC1leHQtY29uZmlndXJlIGdkIC0td2l0aC1qcGVnLWRpcj0vdXNyL2luY2x1ZGUvClJVTiBkb2NrZXItcGhwLWV4dC1pbnN0YWxsIGN1cmwgcGRvIHBkb19teXNxbCBiY21hdGggc29hcCBpbnRsIG9wY2FjaGUgZ2QgemlwClJVTiBjdXJsIC1MIC1PIGh0dHBzOi8vZ2l0aHViLmNvbS9qd2lsZGVyL2RvY2tlcml6ZS9yZWxlYXNlcy9kb3dubG9hZC8kRE9DS0VSSVpFX1ZFUlNJT04vZG9ja2VyaXplLWxpbnV4LWFtZDY0LSRET0NLRVJJWkVfVkVSU0lPTi50YXIuZ3oKUlVOIHRhciAtQyAvYmluIC14enZmIGRvY2tlcml6ZS1saW51eC1hbWQ2NC0kRE9DS0VSSVpFX1ZFUlNJT04udGFyLmd6ClJVTiBybSBkb2NrZXJpemUtbGludXgtYW1kNjQtJERPQ0tFUklaRV9WRVJTSU9OLnRhci5negoKUlVOIGEyZW5tb2QgcmV3cml0ZQoKIyBJbnN0YWxsIG1vbmdvClJVTiBwZWNsIGluc3RhbGwgbW9uZ29kYgpSVU4gZWNobyAiZXh0ZW5zaW9uPW1vbmdvZGIuc28iID4gL3Vzci9sb2NhbC9ldGMvcGhwL2NvbmYuZC9leHQtbW9uZ28uaW5pClJVTiBlY2hvICJzaG9ydF9vcGVuX3RhZz1PZmYiID4gL3Vzci9sb2NhbC9ldGMvcGhwL2NvbmYuZC9zaG90b3BlbnRhZ3MuaW5pCgo=</text>
+        <text encoding="base64">Y2FjaGVzOgogIC0gcGF0aDogc291cmNlL3ZlbmRvcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB1c2VyREFPSW1wbC51cHNlcnRTb2NpYWxUb2tlbnModXNlcklkLCB2YWxpZGF0ZWRUb2tlbnMpCg==</text>
+        <text encoding="base64">ICAgICAgLSB0YXNrOiBidWlsZAogICAgICAgIGZpbGU6IHNvdXJjZS9jaS90YXNrcy9idWlsZC55bWwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cms</last-search>
+      <last-search>REDIS</last-search>
       <last-offset />
-      <last-pattern>cms</last-pattern>
+      <last-pattern>REDIS</last-pattern>
       <last-replace>nginx</last-replace>
       <last-substitute>cms</last-substitute>
       <last-dir>1</last-dir>
@@ -644,8 +651,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MIN_SKO</entry>
-        <entry>ppr</entry>
         <entry>DRAMATIQ</entry>
         <entry>pprin</entry>
         <entry>postIds</entry>
@@ -664,6 +669,8 @@
         <entry>metrics</entry>
         <entry>ui-app</entry>
         <entry>cms</entry>
+        <entry>%</entry>
+        <entry>REDIS</entry>
       </history-search>
       <history-cmd>
         <entry>% s/crm-hook/notification/</entry>
