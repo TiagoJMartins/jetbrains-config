@@ -111,7 +111,6 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_inventory" timestamp="1528275376425" />
       <file name="$USER_HOME$/www/work/scytale/kube-cluster/kube-dependencies.yml" timestamp="1527177071448">
         <mark key="'" line="40" column="8" />
         <mark key="[" line="34" column="15" />
@@ -191,7 +190,7 @@
         <mark key="." line="0" column="380" />
         <mark key="^" line="0" column="400" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" timestamp="1528304549823">
+      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" timestamp="1528308666466">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
@@ -433,11 +432,12 @@
         <mark key="^" line="101" column="17" />
         <mark key="." line="101" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" timestamp="1528305855726">
+      <file name="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" timestamp="1528309067213">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="23" column="10" />
+        <mark key="." line="23" column="10" />
+        <mark key="^" line="23" column="10" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/install_dependencies.yml" timestamp="1528196880408">
         <mark key="'" line="14" column="22" />
@@ -674,20 +674,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>command</text>
       </register>
       <register name="-" type="4">
-        <text>stopped</text>
+        <text>command</text>
       </register>
       <register name="/" type="4">
         <text>REDIS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogc3RhcnQgY29uY291cnNlIHdvcmtlcgogICAgICBzeXN0ZW1kOgogICAgICAgIG5hbWU6IGNvbmNvdXJzZS13b3JrZXIKICAgICAgICBkYWVtb25fcmVsb2FkOiB5ZXMKICAgICAgICBlbmFibGVkOiB5ZXMKICAgICAgICBzdGF0ZTogcmVzdGFydGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLS1uZXR3b3JrIHt7IGRvY2tlcl9uZXR3b3JrX25hbWUgfX0gXAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA6ICJ7eyBkb2NrZXJfbmV0d29ya19uYW1lIH19Igo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -705,22 +705,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIyMjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLXYgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLWUgQ09OQ09VUlNFX1RTQV9IT1NUPWxvY2FsaG9zdDoyMjIyIFwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIEFmdGVyPWNvbmNvdXJzZS13ZWIuc2VydmljZQogICAgICAgICAgUmVxdWlyZXM9Y29uY291cnNlLXdlYi5zZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAjIyMjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAtIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLWUgQ09OQ09VUlNFX1RTQV9IT1NUPWxvY2FsaG9zdDoyMjIyIFwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -732,10 +732,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLWUgQ09OQ09VUlNFX1BPU1RHUkVTX0hPU1Q9bG9jYWxob3N0IFwKICAgICAgICAgICAgLWUgQ09OQ09VUlNFX1BPU1RHUkVTX1VTRVI9Y29uY291cnNlX3VzZXIgXAogICAgICAgICAgICAtZSBDT05DT1VSU0VfUE9TVEdSRVNfUEFTU1dPUkQ9Y29uY291cnNlX3Bhc3MgXAogICAgICAgICAgICAtZSBDT05DT1VSU0VfUE9TVEdSRVNfREFUQUJBU0U9Y29uY291cnNlIFwKICAgICAgICAgICAgLWUgQ09OQ09VUlNFX0VYVEVSTkFMX1VSTD0iIiBcCiAgICAgICAgICAgIC1lIENPTkNPVVJTRV9CQVNJQ19BVVRIX1VTRVJOQU1FPSIiIFwKICAgICAgICAgICAgLWUgQ09OQ09VUlNFX0JBU0lDX0FVVEhfUEFTU1dPUkQ9IiIgXAogICAgICAgICAgICAtZSBDT05DT1VSU0VfTk9fUkVBTExZX0lfRE9OVF9XQU5UX0FOWV9BVVRIPSIiIFwK</text>
+        <text encoding="base64">ICAgICAgICAgIEFmdGVyPWNvbmNvdXJzZS13ZWIuc2VydmljZQogICAgICAgICAgUmVxdWlyZXM9Y29uY291cnNlLXdlYi5zZXJ2aWNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIEFmdGVyPXBvc3RncmVzLnNlcnZpY2UKICAgICAgICAgIFJlcXVpcmVzPXBvc3RncmVzLnNlcnZpY2UK</text>
+        <text encoding="base64">CiAgICAtIAo=</text>
       </register>
       <register name=":" type="4">
         <text>106</text>
