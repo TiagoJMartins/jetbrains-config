@@ -432,12 +432,6 @@
         <mark key="^" line="101" column="17" />
         <mark key="." line="101" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" timestamp="1528310883675">
-        <mark key="'" line="158" column="7" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="14" />
-        <mark key="." line="83" column="14" />
-      </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/install_dependencies.yml" timestamp="1528196880408">
         <mark key="'" line="14" column="22" />
         <mark key="[" line="11" column="17" />
@@ -674,19 +668,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtLQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>bootstrapping</text>
       </register>
       <register name="/" type="4">
         <text>REDIS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLS1uZXR3b3JrIHt7IGRvY2tlcl9uZXR3b3JrX25hbWUgfX0gXAo=</text>
+        <text encoding="base64">ICAgICAgdGFnczoKICAgICAgICAtIGJvb3RzdHJhcAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtLQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -704,22 +698,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLWUgQ09OQ09VUlNFX1BPU1RHUkVTX0hPU1Q9cG9zdGdyZXMgXAogICAgICAgICAgICAtZSBDT05DT1VSU0VfUE9TVEdSRVNfVVNFUj1jb25jb3Vyc2VfdXNlciBcCiAgICAgICAgICAgIC1lIENPTkNPVVJTRV9QT1NUR1JFU19QQVNTV09SRD1jb25jb3Vyc2VfcGFzcyBcCiAgICAgICAgICAgIC1lIENPTkNPVVJTRV9QT1NUR1JFU19EQVRBQkFTRT1jb25jb3Vyc2UgXAogICAgICAgICAgICAtZSBDT05DT1VSU0VfRVhURVJOQUxfVVJMPSJodHRwOi8vY29uY291cnNlLmNhcGl0YWxpc2UuY29tIiBcCiAgICAgICAgICAgIC1lIENPTkNPVVJTRV9CQVNJQ19BVVRIX1VTRVJOQU1FIFwKICAgICAgICAgICAgLWUgQ09OQ09VUlNFX0JBU0lDX0FVVEhfUEFTU1dPUkQgXAogICAgICAgICAgICAtZSBDT05DT1VSU0VfTk9fUkVBTExZX0lfRE9OVF9XQU5UX0FOWV9BVVRIPXRydWUgXAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHRhZ3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLWUgQ09OQ09VUlNFX1dPUktFUl9HQVJERU5fTkVUV09SSyBcCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtLQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLWUgQ09OQ09VUlNFX1dPUktFUl9HQVJERU5fTkVUV09SSyBcCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLWUgQ09OQ09VUlNFX1BPU1RHUkVTX0hPU1Q9cG9zdGdyZXMgXAogICAgICAgICAgICAtZSBDT05DT1VSU0VfUE9TVEdSRVNfVVNFUj1jb25jb3Vyc2VfdXNlciBcCiAgICAgICAgICAgIC1lIENPTkNPVVJTRV9QT1NUR1JFU19QQVNTV09SRD1jb25jb3Vyc2VfcGFzcyBcCiAgICAgICAgICAgIC1lIENPTkNPVVJTRV9QT1NUR1JFU19EQVRBQkFTRT1jb25jb3Vyc2UgXAogICAgICAgICAgICAtZSBDT05DT1VSU0VfRVhURVJOQUxfVVJMPSJodHRwOi8vY29uY291cnNlLmNhcGl0YWxpc2UuY29tIiBcCiAgICAgICAgICAgIC1lIENPTkNPVVJTRV9CQVNJQ19BVVRIX1VTRVJOQU1FIFwKICAgICAgICAgICAgLWUgQ09OQ09VUlNFX0JBU0lDX0FVVEhfUEFTU1dPUkQgXAogICAgICAgICAgICAtZSBDT05DT1VSU0VfTk9fUkVBTExZX0lfRE9OVF9XQU5UX0FOWV9BVVRIPXRydWUgXAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLWUgQ09OQ09VUlNFX0dBUkRFTl9ORVRXT1JLPSIiIFwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLXAgODA4MDo4MDgwIFwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLWUgQ09OQ09VUlNFX1dPUktFUl9HQVJERU5fTkVUV09SSyBcCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -731,10 +725,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6ICJ7eyBkb2NrZXJfbmV0d29ya19uYW1lIH19Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLWUgQ09OQ09VUlNFX1dPUktFUl9HQVJERU5fTkVUV09SSyBcCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLWUgQ09OQ09VUlNFX0dBUkRFTl9ORVRXT1JLPSIiIFwK</text>
       </register>
       <register name=":" type="4">
         <text>!subl .</text>
