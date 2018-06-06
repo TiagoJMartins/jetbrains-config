@@ -98,6 +98,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_inventory" timestamp="1528275376425" />
       <file name="$USER_HOME$/www/work/scytale/kube-cluster/kube-dependencies.yml" timestamp="1527177071448">
         <mark key="'" line="40" column="8" />
         <mark key="[" line="34" column="15" />
@@ -177,12 +178,12 @@
         <mark key="." line="0" column="380" />
         <mark key="^" line="0" column="400" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" timestamp="1528228052474">
-        <mark key="'" line="11" column="6" />
-        <mark key="[" line="71" column="40" />
-        <mark key="]" line="71" column="48" />
-        <mark key="." line="71" column="48" />
-        <mark key="^" line="71" column="48" />
+      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" timestamp="1528278301347">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="82" column="15" />
+        <mark key="]" line="82" column="15" />
+        <mark key="." line="82" column="15" />
+        <mark key="^" line="82" column="23" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/consumer-crm-hook-deployment.yaml" timestamp="1526907898701">
         <mark key="'" line="16" column="28" />
@@ -310,6 +311,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="24" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/README.md" timestamp="1528277889689">
+        <mark key="'" line="25" column="2" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/build.sh" timestamp="1528191939886">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -381,6 +388,9 @@
         <mark key="^" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1528277637080">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/service-questionnaire-manager-deployment.yaml" timestamp="1526560814585">
         <mark key="'" line="34" column="17" />
         <mark key="[" line="53" column="59" />
@@ -437,12 +447,12 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" timestamp="1528275379559">
+      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" timestamp="1528275253896">
         <mark key="'" line="9" column="53" />
-        <mark key="[" line="74" column="26" />
-        <mark key="]" line="74" column="27" />
-        <mark key="^" line="74" column="27" />
-        <mark key="." line="74" column="27" />
+        <mark key="[" line="131" column="28" />
+        <mark key="]" line="131" column="61" />
+        <mark key="." line="131" column="61" />
+        <mark key="^" line="131" column="61" />
       </file>
       <file name="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/03-rex-ray.yml" timestamp="1527865410608">
         <mark key="'" line="6" column="0" />
@@ -484,11 +494,11 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/.gitignore" timestamp="1528228168250">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="6" />
-        <mark key="^" line="3" column="6" />
-        <mark key="." line="3" column="6" />
+      <file name="$USER_HOME$/www/work/capitalise/ci/.gitignore" timestamp="1528277918481">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="5" column="9" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/models/persistence.py" timestamp="1528124224890">
         <mark key="[" line="147" column="0" />
@@ -522,10 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="2" filename="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/build.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/build.sh" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/build.sh" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/03-rex-ray.yml" />
       <jump line="14" column="14" filename="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/templates/rexray-config.yml.j2" />
       <jump line="11" column="0" filename="$USER_HOME$/www/work/scytale/ops-cluster/playbooks/rexray.yml" />
       <jump line="19" column="20" filename="$USER_HOME$/www/work/scytale/ops-cluster/playbooks/03-master.yml" />
@@ -622,22 +628,26 @@
       <jump line="7" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
       <jump line="47" column="33" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
       <jump line="10" column="6" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
+      <jump line="81" column="19" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
+      <jump line="76" column="35" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
+      <jump line="25" column="2" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/README.md" />
+      <jump line="67" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fbWFuYWdlZF9kaXNrIiAiZGF0YSIgewogIGNyZWF0ZV9vcHRpb24gICAgICAgID0gIkVtcHR5IgogIGxvY2F0aW9uICAgICAgICAgICAgID0gIiR7ZGF0YS5henVyZXJtX3Jlc291cmNlX2dyb3VwLnJnLmxvY2F0aW9ufSIKICBuYW1lICAgICAgICAgICAgICAgICA9ICIke2xvY2FsLm5hbWV9LWRhdGFkaXNrIgogIHJlc291cmNlX2dyb3VwX25hbWUgID0gIiR7ZGF0YS5henVyZXJtX3Jlc291cmNlX2dyb3VwLnJnLm5hbWV9IgogIHN0b3JhZ2VfYWNjb3VudF90eXBlID0gIlN0YW5kYXJkX0xSUyIKICBkaXNrX3NpemVfZ2IgICAgICAgICA9ICIzMCIKfQoK</text>
+      <register name="&quot;" type="4">
+        <text>restarted</text>
       </register>
       <register name="-" type="4">
-        <text>capitaliseopsvault</text>
+        <text>restarted</text>
       </register>
       <register name="/" type="4">
         <text>REDIS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVmYXVsdDogY2FwaXRhbGlzZW9wc3ZhdWx0Cg==</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogY3JlYXRlIHZhdWx0IGNvbmZpZwogICAgICBjb3B5OgogICAgICAgIGRlc3Q6IC9ldGMvdmF1bHQvY29uZmlnLmhjbAogICAgICAgIGNvbnRlbnQ6IHwKICAgICAgICAgIHN0b3JhZ2UgImF6dXJlIiB7CiAgICAgICAgICAgIGFjY291bnROYW1lID0gInt7IGF6dXJlX3N0b3JhZ2VfbmFtZSB9fSIKICAgICAgICAgICAgYWNjb3VudEtleSA9ICJ7eyBhenVyZV9zdG9yYWdlX2FjY2Vzc19rZXkgfX0iCiAgICAgICAgICAgIGNvbnRhaW5lciA9ICJ2YXVsdCIKICAgICAgICAgIH0KCiAgICAgICAgICBsaXN0ZW5lciAidGNwIiB7CiAgICAgICAgICAgIGFkZHJlc3MgICAgID0gIjEyNy4wLjAuMTo4MjAwIgogICAgICAgICAgICB0bHNfZGlzYWJsZSA9IDEKICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fbWFuYWdlZF9kaXNrIiAiZGF0YSIgewogIGNyZWF0ZV9vcHRpb24gICAgICAgID0gIkVtcHR5IgogIGxvY2F0aW9uICAgICAgICAgICAgID0gIiR7ZGF0YS5henVyZXJtX3Jlc291cmNlX2dyb3VwLnJnLmxvY2F0aW9ufSIKICBuYW1lICAgICAgICAgICAgICAgICA9ICIke2xvY2FsLm5hbWV9LWRhdGFkaXNrIgogIHJlc291cmNlX2dyb3VwX25hbWUgID0gIiR7ZGF0YS5henVyZXJtX3Jlc291cmNlX2dyb3VwLnJnLm5hbWV9IgogIHN0b3JhZ2VfYWNjb3VudF90eXBlID0gIlN0YW5kYXJkX0xSUyIKICBkaXNrX3NpemVfZ2IgICAgICAgICA9ICIzMCIKfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -655,22 +665,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U2VhbCBUeXBlICAgICAgIHNoYW1pcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdG9yYWdlX2RhdGFfZGlzayB7CiAgICBjcmVhdGVfb3B0aW9uICAgPSAiQXR0YWNoIgogICAgbHVuICAgICAgICAgICAgID0gMAogICAgbWFuYWdlZF9kaXNrX2lkID0gIiR7YXp1cmVybV9tYW5hZ2VkX2Rpc2suZGF0YS5pZH0iCiAgICBuYW1lICAgICAgICAgICAgPSAiJHthenVyZXJtX21hbmFnZWRfZGlzay5kYXRhLm5hbWV9IgogICAgZGlza19zaXplX2diICAgID0gIiR7YXp1cmVybV9tYW5hZ2VkX2Rpc2suZGF0YS5kaXNrX3NpemVfZ2J9IgogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogImF6dXJlX3N0b3JhZ2VfY29udGFpbmVyX25hbWUiCiAgICAgIHByb21wdDogaW5wdXQgdGhlIGF6dXJlIHN0b3JhZ2UgY29udGFpbmVyIG5hbWUK</text>
+        <text encoding="base64">VW5zZWFsIEtleSAod2lsbCBiZSBoaWRkZW4pOiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogImF6dXJlX3N0b3JhZ2VfbmFtZSIKICAgICAgcHJvbXB0OiBpbnB1dCB0aGUgYWNjZXNzIGtleSB0byBhY2Nlc3MgYXp1cmUgc3RvcmFnZSB3aXRoCg==</text>
+        <text encoding="base64">VG90YWwgU2hhcmVzICAgICAgIDUKVGhyZXNob2xkICAgICAgICAgIDMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogImF6dXJlX3N0b3JhZ2VfYWNjZXNzX2tleSIKICAgICAgcHJvbXB0OiBpbnB1dCB0aGUgYWNjZXNzIGtleSB0byBhY2Nlc3MgYXp1cmUgc3RvcmFnZSB3aXRoCg==</text>
+        <text encoding="base64">VW5zZWFsIFByb2dyZXNzICAgIDMvMwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdG9yYWdlX2FjY291bnRfbmFtZSA9ICIke2xvY2FsLm5hbWV9Igo=</text>
+        <text encoding="base64">CklmIHRoZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -682,10 +692,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyaWFibGUgIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIEBUT0RPIENoYW5nZSB0aGlzIHBsZWFzZSEK</text>
+        <text encoding="base64">Y2FwaXRhbGlzZUB2YXVsdDogJAo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
