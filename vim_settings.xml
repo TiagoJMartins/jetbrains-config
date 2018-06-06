@@ -178,12 +178,12 @@
         <mark key="." line="0" column="380" />
         <mark key="^" line="0" column="400" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" timestamp="1528278301347">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="82" column="15" />
-        <mark key="]" line="82" column="15" />
-        <mark key="." line="82" column="15" />
-        <mark key="^" line="82" column="23" />
+      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" timestamp="1528285361469">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="64" column="12" />
+        <mark key="]" line="64" column="13" />
+        <mark key="." line="64" column="13" />
+        <mark key="^" line="64" column="13" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/consumer-crm-hook-deployment.yaml" timestamp="1526907898701">
         <mark key="'" line="16" column="28" />
@@ -198,12 +198,12 @@
         <mark key="^" line="219" column="49" />
         <mark key="." line="219" column="12" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/main.tf" timestamp="1528227077583">
+      <file name="$USER_HOME$/www/work/capitalise/ci/main.tf" timestamp="1528282278031">
         <mark key="'" line="34" column="9" />
-        <mark key="[" line="59" column="26" />
-        <mark key="]" line="59" column="51" />
-        <mark key="." line="59" column="51" />
-        <mark key="^" line="59" column="51" />
+        <mark key="[" line="48" column="71" />
+        <mark key="]" line="48" column="70" />
+        <mark key="." line="48" column="70" />
+        <mark key="^" line="48" column="70" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/docker-entrypoint.sh" timestamp="1526906540176">
         <mark key="'" line="6" column="47" />
@@ -447,12 +447,12 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" timestamp="1528275253896">
-        <mark key="'" line="9" column="53" />
-        <mark key="[" line="131" column="28" />
-        <mark key="]" line="131" column="61" />
-        <mark key="." line="131" column="61" />
-        <mark key="^" line="131" column="61" />
+      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" timestamp="1528285079404">
+        <mark key="'" line="157" column="0" />
+        <mark key="[" line="49" column="58" />
+        <mark key="]" line="50" column="29" />
+        <mark key="." line="50" column="29" />
+        <mark key="^" line="50" column="29" />
       </file>
       <file name="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/03-rex-ray.yml" timestamp="1527865410608">
         <mark key="'" line="6" column="0" />
@@ -532,15 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="14" filename="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/templates/rexray-config.yml.j2" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/work/scytale/ops-cluster/playbooks/rexray.yml" />
-      <jump line="19" column="20" filename="$USER_HOME$/www/work/scytale/ops-cluster/playbooks/03-master.yml" />
-      <jump line="15" column="32" filename="$USER_HOME$/www/work/scytale/ops-cluster/playbooks/rexray.yml" />
-      <jump line="31" column="10" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/computation.py" />
-      <jump line="28" column="23" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/workers/facebook.py" />
-      <jump line="19" column="18" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/side_effects.py" />
-      <jump line="7" column="11" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/side_effects.py" />
-      <jump line="21" column="15" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/side_effects.py" />
       <jump line="4" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/side_effects/side_effects.py" />
       <jump line="180" column="112" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/db.py" />
@@ -592,7 +583,6 @@
       <jump line="43" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" />
       <jump line="41" column="34" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" />
       <jump line="34" column="9" filename="$USER_HOME$/www/work/capitalise/ci/main.tf" />
-      <jump line="47" column="26" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" />
       <jump line="117" column="11" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" />
       <jump line="110" column="45" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" />
       <jump line="106" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" />
@@ -614,15 +604,12 @@
       <jump line="28" column="37" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
       <jump line="30" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
       <jump line="37" column="7" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
-      <jump line="6" column="37" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
       <jump line="20" column="1" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" />
       <jump line="141" column="2" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" />
       <jump line="149" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" />
       <jump line="156" column="60" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" />
-      <jump line="5" column="13" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
       <jump line="138" column="57" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" />
       <jump line="9" column="53" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" />
-      <jump line="45" column="32" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
       <jump line="8" column="13" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
       <jump line="77" column="8" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
       <jump line="7" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
@@ -632,19 +619,32 @@
       <jump line="76" column="35" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
       <jump line="25" column="2" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/README.md" />
       <jump line="67" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
+      <jump line="58" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
+      <jump line="82" column="7" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
+      <jump line="65" column="10" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
+      <jump line="141" column="35" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
+      <jump line="45" column="10" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" />
+      <jump line="47" column="4" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" />
+      <jump line="10" column="7" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" />
+      <jump line="157" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" />
+      <jump line="140" column="60" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
+      <jump line="6" column="56" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
+      <jump line="144" column="43" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>restarted</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>restarted</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>REDIS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC0gbmFtZTogY3JlYXRlIHZhdWx0IGNvbmZpZwogICAgICBjb3B5OgogICAgICAgIGRlc3Q6IC9ldGMvdmF1bHQvY29uZmlnLmhjbAogICAgICAgIGNvbnRlbnQ6IHwKICAgICAgICAgIHN0b3JhZ2UgImF6dXJlIiB7CiAgICAgICAgICAgIGFjY291bnROYW1lID0gInt7IGF6dXJlX3N0b3JhZ2VfbmFtZSB9fSIKICAgICAgICAgICAgYWNjb3VudEtleSA9ICJ7eyBhenVyZV9zdG9yYWdlX2FjY2Vzc19rZXkgfX0iCiAgICAgICAgICAgIGNvbnRhaW5lciA9ICJ2YXVsdCIKICAgICAgICAgIH0KCiAgICAgICAgICBsaXN0ZW5lciAidGNwIiB7CiAgICAgICAgICAgIGFkZHJlc3MgICAgID0gIjEyNy4wLjAuMTo4MjAwIgogICAgICAgICAgICB0bHNfZGlzYWJsZSA9IDEKICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGxzX2NlcnRfZmlsZSA9ICIvZXRjL3NzbC9jZXJ0cy92YXVsdC5jcnQiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -665,22 +665,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U2VhbCBUeXBlICAgICAgIHNoYW1pcgo=</text>
+        <text encoding="base64">Ly8gdGxzX2Rpc2FibGUgPSAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC1jb25maWcgL3Jvb3Qvb3BlbnNzbC5jb25mCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VW5zZWFsIEtleSAod2lsbCBiZSBoaWRkZW4pOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">VG90YWwgU2hhcmVzICAgICAgIDUKVGhyZXNob2xkICAgICAgICAgIDMK</text>
+        <text encoding="base64">ICAgIC0gbmFtZTogY29uZmlndXJlIElQIFNBTnMKICAgICAgbGluZWluZmlsZToKICAgICAgICBwYXRoOiAvZXRjL3NzbC9vcGVuc3NsLmNuZgogICAgICAgIGluc2VydGFmdGVyOiAnXlsgdjNfY2EgXScKICAgICAgICByZWdleHA6ICJec3ViamVjdEFsdE5hbWUiCiAgICAgICAgbGluZTogInN1YmplY3RBbHROYW1lID0gSVA6MTI3LjAuMC4xIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VW5zZWFsIFByb2dyZXNzICAgIDMvMwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CklmIHRoZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG9yZ2FuaXphdGlvbk5hbWVfZGVmYXVsdCAgICA9IGxvY2FsaG9zdAogICAgICAgICAgb3JnYW5pemF0aW9uYWxVbml0TmFtZV9kZWZhdWx0ID0gRGV2ZWxvcG1lbnQKICAgICAgICAgIGNvbW1vbk5hbWVfZGVmYXVsdCAgICAgICAgICA9IGxvY2FsaG9zdAogICAgICAgICAgY29tbW9uTmFtZV9tYXggICAgICAgICAgICAgID0gNjQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -692,10 +692,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbW1vbk5hbWUgICAgICAgICAgICAgICAgICA9IHZhdWx0LmNhcGl0YWxpc2UuY29tCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2FwaXRhbGlzZUB2YXVsdDogJAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbW1vbk5hbWUgICAgICAgICAgICAgICAgICA9IENvbW1vbiBOYW1lIChlLmcuIHNlcnZlciBGUUROIG9yIFlPVVIgbmFtZSkK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
@@ -734,7 +734,6 @@
         <entry>REDIS</entry>
       </history-search>
       <history-cmd>
-        <entry>% s/crm-hook/report-generation/</entry>
         <entry>% s/notification/report-generation/</entry>
         <entry>% s/report-generation/funding-tips/</entry>
         <entry>% s/funding-tips/rebuild-questionnaire-cache/</entry>
@@ -754,6 +753,7 @@
         <entry>w</entry>
         <entry>120</entry>
         <entry>34</entry>
+        <entry encoding="base64">JzwsJz4xNTU=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
