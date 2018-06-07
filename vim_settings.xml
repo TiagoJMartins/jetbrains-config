@@ -190,7 +190,7 @@
         <mark key="." line="0" column="380" />
         <mark key="^" line="0" column="400" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" timestamp="1528377094161">
+      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault_provisioner.yml" timestamp="1528379254957">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
@@ -433,11 +433,11 @@
         <mark key="^" line="101" column="17" />
         <mark key="." line="101" column="17" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" timestamp="1528377056252">
+      <file name="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" timestamp="1528379592638">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="99" column="30" />
-        <mark key="]" line="99" column="30" />
-        <mark key="." line="99" column="30" />
+        <mark key="[" line="97" column="38" />
+        <mark key="]" line="97" column="38" />
+        <mark key="." line="97" column="38" />
         <mark key="^" line="100" column="60" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/install_dependencies.yml" timestamp="1528196880408">
@@ -475,12 +475,12 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" timestamp="1528363339677">
+      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" timestamp="1528379349671">
         <mark key="'" line="48" column="37" />
-        <mark key="[" line="60" column="64" />
-        <mark key="]" line="61" column="33" />
-        <mark key="." line="61" column="33" />
-        <mark key="^" line="61" column="33" />
+        <mark key="[" line="53" column="35" />
+        <mark key="]" line="53" column="35" />
+        <mark key="." line="53" column="35" />
+        <mark key="^" line="44" column="43" />
       </file>
       <file name="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/03-rex-ray.yml" timestamp="1527865410608">
         <mark key="'" line="6" column="0" />
@@ -676,10 +676,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>_</text>
