@@ -495,12 +495,12 @@
         <mark key="^" line="9" column="27" />
         <mark key="." line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1528469900061">
-        <mark key="'" line="35" column="4" />
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="27" column="19" />
-        <mark key="." line="27" column="19" />
-        <mark key="^" line="27" column="19" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1528474833946">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="47" column="47" />
+        <mark key="]" line="47" column="47" />
+        <mark key="." line="47" column="47" />
+        <mark key="^" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" timestamp="1526489419400">
         <mark key="'" line="68" column="60" />
@@ -574,11 +574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="20" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/coreos_bootstrap.yml" />
-      <jump line="4" column="17" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/coreos_bootstrap.yml" />
-      <jump line="7" column="13" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/coreos_bootstrap.yml" />
-      <jump line="34" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/coreos_bootstrap.yml" />
-      <jump line="5" column="11" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/coreos_bootstrap.yml" />
       <jump line="61" column="3" filename="$USER_HOME$/www/work/capitalise/ci/main.tf" />
       <jump line="158" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse.tf" />
       <jump line="0" column="15" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/coreos_bootstrap.sh" />
@@ -602,7 +597,6 @@
       <jump line="76" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/README.md" />
       <jump line="47" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/README.md" />
       <jump line="94" column="48" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" />
-      <jump line="31" column="18" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
       <jump line="38" column="8" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
       <jump line="16" column="2" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/install_dependencies.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/install_dependencies.yml" />
@@ -612,7 +606,6 @@
       <jump line="19" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" />
       <jump line="12" column="31" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" />
       <jump line="211" column="8" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" />
-      <jump line="19" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
       <jump line="28" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
       <jump line="193" column="11" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" />
       <jump line="20" column="14" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" />
@@ -668,19 +661,26 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
       <jump line="74" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
       <jump line="48" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
-      <jump line="60" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
       <jump line="2" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
       <jump line="59" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
       <jump line="40" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
-      <jump line="41" column="29" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
       <jump line="27" column="4" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
+      <jump line="19" column="33" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
+      <jump line="8" column="9" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
+      <jump line="60" column="26" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
+      <jump line="6" column="24" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
+      <jump line="43" column="10" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
+      <jump line="41" column="31" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
+      <jump line="84" column="50" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
+      <jump line="73" column="8" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
+      <jump line="31" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>develop</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>develop</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>creates</text>
@@ -689,7 +689,7 @@
         <text encoding="base64">CiAgLSBuYW1lOiBicmFuY2gtZGV2ZWxvcAogICAgdHlwZTogZ2l0CiAgICBzb3VyY2U6CiAgICAgIDw8OiAqcmVwby1zb3VyY2UKICAgICAgYnJhbmNoOiBkZXZlbG9wCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IGFwcC1kb2NrZXItaW1hZ2UKICAgIHR5cGU6IGRvY2tlci1pbWFnZQogICAgc291cmNlOgogICAgICByZXBvc2l0b3J5OiBwbGF0ZmkuYXp1cmVjci5pby9wbGF0ZmkvYXBpCiAgICAgIHVzZXJuYW1lOiAoKHJlZ2lzdHJ5LnVzZXJuYW1lKSkKICAgICAgcGFzc3dvcmQ6ICgocmVnaXN0cnkucGFzc3dvcmQpKQoK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -707,19 +707,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlOiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IGJ1aWxkLWFwcGxpY2F0aW9uCiAgICBwbGFuOiAKICAgICAgLSBnZXQ6IGJyYW5jaC11bnN0YWJsZQogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAtIG5hbWUK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
@@ -737,7 +737,7 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IG5vZGUtYmFzZQogICAgdHlwZTogZG9ja2VyLWltYWdlCiAgICBzb3VyY2U6CiAgICAgIHJlcG9zaXRvcnk6IG5vZGUKICAgICAgdGFnOiA3LjEwLjEKICAtIG5hbWU6IHBocC1iYXNlCiAgICB0eXBlOiBkb2NrZXItaW1hZ2UKICAgIHNvdXJjZToKICAgICAgcmVwb3NpdG9yeTogcGxhdGZpLmF6dXJlY3IuaW8vYmFzZS9waHAKICAgICAgdGFnOiBzdGFibGUKICAgICAgdXNlcm5hbWU6ICgocmVnaXN0cnkudXNlcm5hbWUpKQogICAgICBwYXNzd29yZDogKChyZWdpc3RyeS5wYXNzd29yZCkpCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>45</text>
