@@ -10,11 +10,12 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-match-runner-deployment.yaml" timestamp="1528476855411">
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="51" />
-        <mark key="." line="19" column="51" />
-        <mark key="^" line="19" column="51" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-match-runner-deployment.yaml" timestamp="1528708666906">
+        <mark key="'" line="9" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/post_install.sh" timestamp="1527685598942">
         <mark key="'" line="11" column="0" />
@@ -43,16 +44,16 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-crm-deployment.yaml" timestamp="1528476801280">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-crm-deployment.yaml" timestamp="1528708605941">
         <mark key="[" line="17" column="44" />
-        <mark key="]" line="17" column="51" />
-        <mark key="." line="17" column="51" />
-        <mark key="^" line="17" column="51" />
+        <mark key="]" line="17" column="56" />
+        <mark key="." line="17" column="56" />
+        <mark key="^" line="17" column="56" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-notification-deployment.yaml" timestamp="1528476861707">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-notification-deployment.yaml" timestamp="1528708623782">
         <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="51" />
-        <mark key="." line="21" column="51" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="56" />
         <mark key="^" line="21" column="51" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/service-metrics-deployment.yaml" timestamp="1526917208199">
@@ -110,10 +111,10 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-crm-hook-deployment.yaml" timestamp="1528476844232">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-crm-hook-deployment.yaml" timestamp="1528708612356">
         <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="51" />
-        <mark key="." line="21" column="51" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="56" />
         <mark key="^" line="21" column="51" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse.tf" timestamp="1528704345822">
@@ -164,11 +165,11 @@
         <mark key="^" line="131" column="39" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-rebuild-questionnaire-cache-deployment.yaml" timestamp="1528476866997">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="51" />
-        <mark key="." line="21" column="51" />
-        <mark key="^" line="21" column="51" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-rebuild-questionnaire-cache-deployment.yaml" timestamp="1528708635631">
+        <mark key="[" line="21" column="57" />
+        <mark key="]" line="21" column="57" />
+        <mark key="." line="21" column="57" />
+        <mark key="^" line="21" column="56" />
       </file>
       <file name="$USER_HOME$/www/work/scytale/kube-cluster/.gitignore" timestamp="1527189298834">
         <mark key="'" line="3" column="0" />
@@ -317,11 +318,12 @@
         <mark key="." line="64" column="100" />
         <mark key="^" line="64" column="100" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/api-deployment.yaml" timestamp="1528477185774">
-        <mark key="[" line="15" column="44" />
-        <mark key="]" line="15" column="63" />
-        <mark key="." line="15" column="63" />
-        <mark key="^" line="15" column="63" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/api-deployment.yaml" timestamp="1528708588950">
+        <mark key="'" line="34" column="15" />
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="33" column="28" />
+        <mark key="." line="33" column="28" />
+        <mark key="^" line="33" column="28" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/kube/final/nginx-configmap.yaml" timestamp="1526999748879">
         <mark key="'" line="74" column="15" />
@@ -358,6 +360,13 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/generate_kube_files.yml" timestamp="1528710587772">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/coreos_bootstrap.sh" timestamp="1528300250919">
         <mark key="'" line="0" column="15" />
         <mark key="[" line="0" column="1" />
@@ -372,11 +381,16 @@
         <mark key="^" line="21" column="40" />
         <mark key="." line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-report-generation-deployment.yaml" timestamp="1528476899381">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/generate_kube_files.sh" timestamp="1528709211393">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-report-generation-deployment.yaml" timestamp="1528708646062">
         <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="51" />
-        <mark key="." line="21" column="51" />
-        <mark key="^" line="21" column="51" />
+        <mark key="]" line="21" column="56" />
+        <mark key="." line="21" column="56" />
+        <mark key="^" line="21" column="56" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/utils/computation.py" timestamp="1528123891882">
         <mark key="'" line="28" column="10" />
@@ -448,17 +462,17 @@
         <mark key="." line="17" column="10" />
         <mark key="^" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" timestamp="1528707713294">
+      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" timestamp="1528708533353">
         <mark key="'" line="48" column="37" />
         <mark key="[" line="53" column="35" />
         <mark key="]" line="53" column="35" />
         <mark key="." line="53" column="35" />
         <mark key="^" line="44" column="43" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-funding-tips-deployment.yaml" timestamp="1528476849854">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-funding-tips-deployment.yaml" timestamp="1528708616424">
         <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="51" />
-        <mark key="." line="21" column="51" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="56" />
         <mark key="^" line="21" column="51" />
       </file>
       <file name="$USER_HOME$/www/work/scytale/farm-cluster/playbooks/03-rex-ray.yml" timestamp="1527865410608">
@@ -468,12 +482,12 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1528475779008">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1528710406583">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="47" column="18" />
-        <mark key="]" line="48" column="7" />
-        <mark key="." line="48" column="7" />
-        <mark key="^" line="48" column="7" />
+        <mark key="[" line="81" column="10" />
+        <mark key="]" line="81" column="19" />
+        <mark key="." line="81" column="19" />
+        <mark key="^" line="81" column="19" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" timestamp="1526489419400">
         <mark key="'" line="68" column="60" />
@@ -512,10 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="3" filename="$USER_HOME$/www/work/capitalise/ci/main.tf" />
-      <jump line="158" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse.tf" />
-      <jump line="0" column="15" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/coreos_bootstrap.sh" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/README.md" />
       <jump line="16" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/README.md" />
       <jump line="67" column="0" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" />
       <jump line="78" column="27" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" />
@@ -612,13 +622,17 @@
       <jump line="84" column="50" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
       <jump line="73" column="8" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
       <jump line="31" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
+      <jump line="34" column="15" filename="$USER_HOME$/www/work/capitalise/platfi/deploy/api-deployment.yaml" />
+      <jump line="8" column="12" filename="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-match-runner-deployment.yaml" />
+      <jump line="8" column="8" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/generate_kube_files.yml" />
+      <jump line="7" column="6" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/generate_kube_files.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fcHVibGljX2lwIiAidm0iIHsKICBuYW1lICAgICAgICAgICAgICAgICAgICAgICAgID0gIiR7bG9jYWwubmFtZX0tcGlwIgogIHJlc291cmNlX2dyb3VwX25hbWUgICAgICAgICAgPSAiJHtkYXRhLmF6dXJlcm1fcmVzb3VyY2VfZ3JvdXAucmcubmFtZX0iCiAgbG9jYXRpb24gICAgICAgICAgICAgICAgICAgICA9ICIke2RhdGEuYXp1cmVybV9yZXNvdXJjZV9ncm91cC5yZy5sb2NhdGlvbn0iCiAgcHVibGljX2lwX2FkZHJlc3NfYWxsb2NhdGlvbiA9ICJEeW5hbWljIgp9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>supinf/envsubst</text>
       </register>
       <register name="-" type="4">
-        <text>unstable</text>
+        <text>supinf/envsubst</text>
       </register>
       <register name="/" type="4">
         <text>creates</text>
@@ -627,7 +641,7 @@
         <text encoding="base64">CiAgLSBuYW1lOiBicmFuY2gtZGV2ZWxvcAogICAgdHlwZTogZ2l0CiAgICBzb3VyY2U6CiAgICAgIDw8OiAqcmVwby1zb3VyY2UKICAgICAgYnJhbmNoOiBkZXZlbG9wCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF6dXJlcm1fcHVibGljX2lwIiAidm0iIHsKICBuYW1lICAgICAgICAgICAgICAgICAgICAgICAgID0gIiR7bG9jYWwubmFtZX0tcGlwIgogIHJlc291cmNlX2dyb3VwX25hbWUgICAgICAgICAgPSAiJHtkYXRhLmF6dXJlcm1fcmVzb3VyY2VfZ3JvdXAucmcubmFtZX0iCiAgbG9jYXRpb24gICAgICAgICAgICAgICAgICAgICA9ICIke2RhdGEuYXp1cmVybV9yZXNvdXJjZV9ncm91cC5yZy5sb2NhdGlvbn0iCiAgcHVibGljX2lwX2FkZHJlc3NfYWxsb2NhdGlvbiA9ICJEeW5hbWljIgp9Cg==</text>
+        <text encoding="base64">ICAgIC0gCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -645,22 +659,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAtIG5hbWU6IGVudi1mb2xkZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlOiAK</text>
+        <text encoding="base64">ICBhcmdzOgogICAgLSB0aGluZ3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAtIG5hbWU6IGdpdCAjIE91dHB1dCBmb2xkZXIgb2YgYSBnaXQgcmVzb3VyY2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CiAgLSBuYW1lOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBhcmdzOgogICAgLSAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -672,10 +686,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>45</text>
