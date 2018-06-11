@@ -139,7 +139,7 @@
         <mark key="." line="19" column="86" />
         <mark key="^" line="19" column="86" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" timestamp="1528727170560">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" timestamp="1528728613221">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="66" column="34" />
         <mark key="]" line="66" column="34" />
@@ -481,19 +481,19 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/package.json" timestamp="1528723730361">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/package.json" timestamp="1528729049668">
         <mark key="'" line="7" column="50" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="7" column="49" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+        <mark key="^" line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1528724554358">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1528728130122">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="54" column="28" />
-        <mark key="]" line="54" column="27" />
-        <mark key="." line="54" column="27" />
-        <mark key="^" line="54" column="27" />
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="50" column="36" />
+        <mark key="." line="50" column="36" />
+        <mark key="^" line="50" column="36" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" timestamp="1526489419400">
         <mark key="'" line="68" column="60" />
@@ -641,11 +641,11 @@
       <jump line="70" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhc3NlZDogW2RvY2tlci1idWlsZC1kZXZlbG9wXQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>kube-dev</text>
       </register>
       <register name="/" type="4">
         <text>creates</text>
@@ -654,7 +654,7 @@
         <text>####################</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAK</text>
+        <text encoding="base64">ICAgIHBhc3NlZDogW2RvY2tlci1idWlsZC1kZXZlbG9wXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -672,22 +672,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtIG5hbWU6IGRvY2tlci1idWlsZC1kZXZlbG9wCiAgICBwbGFuOgogICAgICAtIGdldDogYnJhbmNoLWRldmVsb3AKICAgICAgICB0cmlnZ2VyOiB0cnVlCiAgICAgIC0gcHV0OiBhcHAtZG9ja2VyLWltYWdlCiAgICAgICAgcGFyYW1zOgogICAgICAgICAgPDw6ICpkb2NrZXItYnVpbGQtcGFyYW1zCiAgICAgICAgICBkb2NrZXJmaWxlOiBicmFuY2gtZGV2ZWxvcC9hcHAvZG9ja2VyL3BocC9Eb2NrZXJmaWxlCiAgICAgICAgICBidWlsZDogYnJhbmNoLWRldmVsb3AKICAgICAgICAgIHRhZzogYnJhbmNoLWRldmVsb3AvLmdpdC9yZWYK</text>
+        <text encoding="base64">IyAKIyAKIyAKIyAKIyAKIyAKIyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgLSBuYW1lOiBicmFuY2gtZGV2ZWxvcAogICAgdHlwZTogZ2l0CiAgICBzb3VyY2U6ICZyZXBvLXNvdXJjZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPDw6ICpyZXBvLXNvdXJjZQo=</text>
+        <text encoding="base64">ICAtIG5hbWU6IGRvY2tlci1idWlsZC1kZXZlbG9wCiAgICBwbGFuOgogICAgICAtIGdldDogYnJhbmNoLWRldmVsb3AKICAgICAgICB0cmlnZ2VyOiB0cnVlCiAgICAgIC0gcHV0OiBhcHAtZG9ja2VyLWltYWdlCiAgICAgICAgcGFyYW1zOgogICAgICAgICAgPDw6ICpkb2NrZXItYnVpbGQtcGFyYW1zCiAgICAgICAgICBkb2NrZXJmaWxlOiBicmFuY2gtZGV2ZWxvcC9hcHAvZG9ja2VyL3BocC9Eb2NrZXJmaWxlCiAgICAgICAgICBidWlsZDogYnJhbmNoLWRldmVsb3AKICAgICAgICAgIHRhZzogYnJhbmNoLWRldmVsb3AvLmdpdC9yZWYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYnJhbmNoOiBkZXZlbG9wCg==</text>
+        <text encoding="base64">CiAgLSBuYW1lOiBicmFuY2gtZGV2ZWxvcAogICAgdHlwZTogZ2l0CiAgICBzb3VyY2U6ICZyZXBvLXNvdXJjZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdXJpOiBnaXRAYml0YnVja2V0Lm9yZzpieW5nX3N5c3RlbXMvcGxhdGZpLmdpdAogICAgICBicmFuY2g6IGRldmVsb3AKICAgICAgcHJpdmF0ZV9rZXk6ICgoZ2l0LnByaXZhdGVfc3NoX2tleV9yYXcpKQo=</text>
+        <text encoding="base64">ICAgICAgPDw6ICpyZXBvLXNvdXJjZQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -699,7 +699,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPDw6ICpyZXBvLXNvdXJjZQogICAgICBicmFuY2g6IGRldmVsb3AK</text>
+        <text encoding="base64">ICAgICAgYnJhbmNoOiBkZXZlbG9wCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgdXJpOiBnaXRAYml0YnVja2V0Lm9yZzpieW5nX3N5c3RlbXMvcGxhdGZpLmdpdAogICAgICBicmFuY2g6IGRldmVsb3AKICAgICAgcHJpdmF0ZV9rZXk6ICgoZ2l0LnByaXZhdGVfc3NoX2tleV9yYXcpKQo=</text>
