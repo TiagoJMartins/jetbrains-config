@@ -360,12 +360,12 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/generate_kube_files.yml" timestamp="1528716566974">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/generate_kube_files.yml" timestamp="1528719745838">
         <mark key="'" line="9" column="7" />
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="8" />
         <mark key="." line="16" column="8" />
-        <mark key="^" line="20" column="49" />
+        <mark key="^" line="16" column="8" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/coreos_bootstrap.sh" timestamp="1528300250919">
         <mark key="'" line="0" column="15" />
@@ -385,6 +385,13 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/check_docker_image.yml" timestamp="1528719434667">
+        <mark key="'" line="15" column="9" />
+        <mark key="[" line="23" column="44" />
+        <mark key="]" line="23" column="43" />
+        <mark key="." line="23" column="43" />
+        <mark key="^" line="23" column="43" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-report-generation-deployment.yaml" timestamp="1528708646062">
         <mark key="[" line="21" column="44" />
@@ -469,6 +476,11 @@
         <mark key="." line="53" column="35" />
         <mark key="^" line="44" column="43" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/check_docker_tag.sh" timestamp="1528717896022">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-funding-tips-deployment.yaml" timestamp="1528708616424">
         <mark key="[" line="21" column="44" />
         <mark key="]" line="21" column="44" />
@@ -482,11 +494,11 @@
         <mark key="^" line="15" column="11" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1528717237644">
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1528719899286">
         <mark key="'" line="74" column="42" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/dbs/modules/datasource/vm.tf" timestamp="1526489419400">
         <mark key="'" line="68" column="60" />
@@ -525,7 +537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="14" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" />
       <jump line="84" column="26" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" />
       <jump line="212" column="21" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" />
       <jump line="52" column="2" filename="$USER_HOME$/www/work/capitalise/ci/modules/vault/README.md" />
@@ -625,13 +636,14 @@
       <jump line="74" column="42" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
       <jump line="13" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/generate_kube_files.yml" />
       <jump line="9" column="7" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/generate_kube_files.yml" />
+      <jump line="14" column="9" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/check_docker_image.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>creates</text>
@@ -640,7 +652,7 @@
         <text encoding="base64">cnVuOgogIHBhdGg6IHNoCiAgYXJnczoKICAgIC0gLWV4YwogICAgLSB8CiAgICAgIGNhdCBkZXBsb3kvKiA+IC90bXAvY29uY2F0ZW5hdGVkLnlhbWwKCiAgICAgIGV2YWwgImNhdCA8PEVPRgogICAgICAkKGNhdCAvdG1wL2NvbmNhdGVuYXRlZC55YW1sKQogICAgICBFT0YiID4ga3ViZS9vdXQueWFtbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXM6CiAgICAgICAgICBHSVRfQ09NTUlUOiBicmFuY2gtdW5zdGFibGUvLmdpdC9yZWYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -658,22 +670,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXM6CiAgICAgICAgICBHSVRfQ09NTUlUOiBicmFuY2gtdW5zdGFibGUvLmdpdC9yZWYK</text>
+        <text encoding="base64">ICAgICAgLSB0YXNrOiBjaGVjay1kb2NrZXItaW1hZ2UtZXhpc3RzCiAgICAgICAgZmlsZTogYnJhbmNoLXVuc3RhYmxlL2NpL3Rhc2tzL2NoZWNrX2RvY2tlcl9pbWFnZS55bWwKICAgICAgICBpbnB1dF9tYXBwaW5nOgogICAgICAgICAgcmVwby1zb3VyY2U6IGJyYW5jaC11bnN0YWJsZQogICAgICAgIHBhcmFtczoKICAgICAgICAgIFJFR0lTVFJZX1VSTDogcGxhdGZpLmF6dXJlY3IuaW8KICAgICAgICAgIERPQ0tFUl9JTUFHRTogcGxhdGZpL2FwaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWc6CiAgICAgICAgICBwbGF0Zm9ybTogbGludXgKICAgICAgICAgIGltYWdlX3Jlc291cmNlOgogICAgICAgICAgICB0eXBlOiBkb2NrZXItaW1hZ2UKICAgICAgICAgICAgc291cmNlOgogICAgICAgICAgICAgIHJlcG9zaXRvcnk6IGJ1c3lib3gKICAgICAgICAgIGlucHV0czoKICAgICAgICAgICAgLSBuYW1lOiByZXBvLXNvdXJjZSAjIE11c3QgY29udGFpbiBhIGNoaWxkICJkZXBsb3kiIGZvbGRlciB3aGVyZSBrdWJlcm5ldGVzIHlhbWwgZmlsZXMgYXJlIHN0b3JlZAogICAgICAgICAgb3V0cHV0czoKICAgICAgICAgICAgLSBuYW1lOiBrdWJlICMgV2lsbCBjb250YWluICJvdXQueWFtbCIKICAgICAgICAgIHBhcmFtczoKICAgICAgICAgICAgR0lUX0NPTU1JVDoKICAgICAgICAgIHJ1bjoKICAgICAgICAgICAgcGF0aDogc2gKICAgICAgICAgICAgYXJnczoKICAgICAgICAgICAgICAtIC1leGMKICAgICAgICAgICAgICAtIHwKICAgICAgICAgICAgICAgIGNhdCByZXBvLXNvdXJjZS9kZXBsb3kvKiA+IC90bXAvY29uY2F0ZW5hdGVkLnlhbWwKCiAgICAgICAgICAgICAgICBlbnYKCiAgICAgICAgICAgICAgICBldmFsICJjYXQgPDxFT0YKICAgICAgICAgICAgICAgICQoY2F0IC90bXAvY29uY2F0ZW5hdGVkLnlhbWwpCiAgICAgICAgICAgICAgICBFT0YiID4ga3ViZS9vdXQueWFtbAo=</text>
+        <text encoding="base64">ICAgICAgICAgIFRBR19GSUxFOiBicmFuY2gtdW5zdGFibGUvLmdpdC9yZWYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgIGVudgo=</text>
+        <text encoding="base64">ICBUQUdfRklMRToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cnVuOgogIHBhdGg6IHNoCiAgYXJnczoKICAgIC0gLWV4YwogICAgLSB8CiAgICAgIGxzIGRlcGxveQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWc6CiAgICAgICAgICBwbGF0Zm9ybTogbGludXgKICAgICAgICAgIGltYWdlX3Jlc291cmNlOgogICAgICAgICAgICB0eXBlOiBkb2NrZXItaW1hZ2UKICAgICAgICAgICAgc291cmNlOgogICAgICAgICAgICAgIHJlcG9zaXRvcnk6IGJ1c3lib3gKICAgICAgICAgIGlucHV0czoKICAgICAgICAgICAgLSBuYW1lOiBkZXBsb3kgIyBGb2xkZXIgd2hlcmUga3ViZXJuZXRlcyB5YW1sIGZpbGVzIGFyZSBzdG9yZWQKICAgICAgICAgIG91dHB1dHM6CiAgICAgICAgICAgIC0gbmFtZToga3ViZSAjIFdpbGwgY29udGFpbiAib3V0LnlhbWwiCiAgICAgICAgICBwYXJhbXM6CiAgICAgICAgICAgIEdJVF9DT01NSVQ6CiAgICAgICAgICBydW46CiAgICAgICAgICAgIHBhdGg6IHNoCiAgICAgICAgICAgIGFyZ3M6CiAgICAgICAgICAgICAgLSAtZXhjCiAgICAgICAgICAgICAgLSB8CiAgICAgICAgICAgICAgICBscyBkZXBsb3kK</text>
+        <text encoding="base64">ICAgICAgaWYgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -685,10 +697,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY2F0IGRlcGxveS8qID4gL3RtcC9jb25jYXRlbmF0ZWQueWFtbAoKICAgICAgZXZhbCAiY2F0IDw8RU9GCiAgICAgICQoY2F0IC90bXAvY29uY2F0ZW5hdGVkLnlhbWwpCiAgICAgIEVPRiIgPiBrdWJlL291dC55YW1sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFRBRzogCg==</text>
       </register>
       <register name=":" type="4">
         <text>45</text>
