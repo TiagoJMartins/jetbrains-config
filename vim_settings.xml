@@ -175,12 +175,12 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" timestamp="1528820905326">
+      <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" timestamp="1528822092135">
         <mark key="'" line="149" column="32" />
-        <mark key="[" line="175" column="37" />
-        <mark key="]" line="175" column="40" />
-        <mark key="^" line="175" column="40" />
-        <mark key="." line="175" column="40" />
+        <mark key="[" line="43" column="14" />
+        <mark key="]" line="43" column="24" />
+        <mark key="^" line="43" column="24" />
+        <mark key="." line="43" column="24" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/files/Dockerfile" timestamp="1528802764487">
         <mark key="[" line="2" column="0" />
@@ -318,11 +318,11 @@
       <jump line="9" column="18" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/deploy/activity-timeline-service.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGt1YmVjdGw6IGFwcGx5IC1mIGRlcGxveQo=</text>
+      <register name="&quot;" type="4">
+        <text>ci</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ci</text>
       </register>
       <register name="/" type="4">
         <text>creates</text>
