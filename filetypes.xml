@@ -12,10 +12,11 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="jceks" type="PLAIN_TEXT" />
       <mapping ext="unit" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping pattern="networking" type="Python" />
       <mapping ext="plist" type="XML" />
