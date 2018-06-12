@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1528722390430">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/ci/inputs.tf" timestamp="1528457336699">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="8" column="0" />
@@ -15,20 +18,10 @@
         <mark key="." line="17" column="56" />
         <mark key="^" line="17" column="56" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/run_tests.yml" timestamp="1528724313257">
+        <mark key="'" line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-notification-deployment.yaml" timestamp="1528708623782">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="44" />
-        <mark key="." line="21" column="56" />
-        <mark key="^" line="21" column="51" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/files/docker-compose.tests.yml" timestamp="1528724332043" />
-      <file name="$USER_HOME$/www/work/capitalise/ci/terraform.tfvars" timestamp="1528704267757">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="9" column="40" />
-        <mark key="^" line="9" column="40" />
-        <mark key="." line="9" column="40" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-crm-hook-deployment.yaml" timestamp="1528708612356">
         <mark key="[" line="21" column="44" />
         <mark key="]" line="21" column="44" />
         <mark key="." line="21" column="56" />
@@ -37,21 +30,11 @@
       <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" timestamp="1528735033472">
         <mark key="'" line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-rebuild-questionnaire-cache-deployment.yaml" timestamp="1528708635631">
-        <mark key="[" line="21" column="57" />
-        <mark key="]" line="21" column="57" />
-        <mark key="." line="21" column="57" />
-        <mark key="^" line="21" column="56" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/main.tf" timestamp="1528704327844">
-        <mark key="'" line="61" column="3" />
-        <mark key="[" line="62" column="42" />
-        <mark key="]" line="62" column="46" />
-        <mark key="^" line="62" column="46" />
-        <mark key="." line="62" column="46" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/run_tests.yml" timestamp="1528724313257">
-        <mark key="'" line="33" column="0" />
+      <file name="$USER_HOME$/www/work/capitalise/ci/terraform.tfvars" timestamp="1528704267757">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="9" column="40" />
+        <mark key="^" line="9" column="40" />
+        <mark key="." line="9" column="40" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/api-deployment.yaml" timestamp="1528708588950">
         <mark key="'" line="34" column="15" />
@@ -59,41 +42,6 @@
         <mark key="]" line="33" column="28" />
         <mark key="." line="33" column="28" />
         <mark key="^" line="33" column="28" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/generate_kube_files.yml" timestamp="1528733724945">
-        <mark key="'" line="24" column="6" />
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="8" />
-        <mark key="." line="16" column="8" />
-        <mark key="^" line="16" column="8" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/generate_kube_files.sh" timestamp="1528709211393">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/config/parameters.yml.dist" timestamp="1528735980512">
-        <mark key="'" line="225" column="45" />
-        <mark key="[" line="164" column="86" />
-        <mark key="]" line="164" column="103" />
-        <mark key="^" line="164" column="103" />
-        <mark key="." line="164" column="103" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/check_docker_image.yml" timestamp="1528719434667">
-        <mark key="'" line="15" column="9" />
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="23" column="43" />
-        <mark key="." line="23" column="43" />
-        <mark key="^" line="23" column="43" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-report-generation-deployment.yaml" timestamp="1528708646062">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="56" />
-        <mark key="." line="21" column="56" />
-        <mark key="^" line="21" column="56" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1528722390430">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" timestamp="1528708533353">
         <mark key="'" line="48" column="37" />
@@ -106,6 +54,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-rebuild-questionnaire-cache-deployment.yaml" timestamp="1528708635631">
+        <mark key="[" line="21" column="57" />
+        <mark key="]" line="21" column="57" />
+        <mark key="." line="21" column="57" />
+        <mark key="^" line="21" column="56" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-funding-tips-deployment.yaml" timestamp="1528724302197">
         <mark key="[" line="21" column="44" />
@@ -120,10 +74,10 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1528737785395">
-        <mark key="'" line="59" column="10" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="21" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1528793499991">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="59" column="30" />
         <mark key="." line="50" column="0" />
         <mark key="^" line="59" column="30" />
       </file>
@@ -134,9 +88,53 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/generate_kube_files.yml" timestamp="1528733724945">
+        <mark key="'" line="24" column="6" />
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="." line="16" column="8" />
+        <mark key="^" line="16" column="8" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/ci/main.tf" timestamp="1528704327844">
+        <mark key="'" line="61" column="3" />
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="62" column="46" />
+        <mark key="^" line="62" column="46" />
+        <mark key="." line="62" column="46" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/generate_kube_files.sh" timestamp="1528709211393">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/app/config/parameters.yml.dist" timestamp="1528735980512">
+        <mark key="'" line="225" column="45" />
+        <mark key="[" line="164" column="86" />
+        <mark key="]" line="164" column="103" />
+        <mark key="^" line="164" column="103" />
+        <mark key="." line="164" column="103" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-crm-hook-deployment.yaml" timestamp="1528708612356">
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="56" />
+        <mark key="^" line="21" column="51" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/check_docker_image.yml" timestamp="1528719434667">
+        <mark key="'" line="15" column="9" />
+        <mark key="[" line="23" column="44" />
+        <mark key="]" line="23" column="43" />
+        <mark key="." line="23" column="43" />
+        <mark key="^" line="23" column="43" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-report-generation-deployment.yaml" timestamp="1528708646062">
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="56" />
+        <mark key="." line="21" column="56" />
+        <mark key="^" line="21" column="56" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="8" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
       <jump line="16" column="2" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/install_dependencies.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/install_dependencies.yml" />
       <jump line="6" column="3" filename="$USER_HOME$/www/work/capitalise/ci/modules/concourse/concourse_provisioner.yml" />
@@ -234,12 +232,13 @@
       <jump line="23" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/generate_kube_files.yml" />
       <jump line="24" column="6" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/generate_kube_files.yml" />
       <jump line="31" column="38" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
       <jump line="59" column="10" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyOiB0cnVlCg==</text>
+        <text encoding="base64">Z3JvdXBzOgogIC0gbmFtZTogZGV2ZWxvcG1lbnQKICAgIGpvYnM6CiAgICAgIC0gZG9ja2VyLWJ1aWxkLWRldmVsb3AKICAgICAgLSBkZXBsb3ktZGV2ZWxvcG1lbnQKCnJlc291cmNlX3R5cGVzOgogIC0gbmFtZToga3ViZXJuZXRlcwogICAgdHlwZTogZG9ja2VyLWltYWdlCiAgICBzb3VyY2U6CiAgICAgIHJlcG9zaXRvcnk6IHpsYWJqcC9rdWJlcm5ldGVzLXJlc291cmNlCgpyZXNvdXJjZXM6CiAgLSBuYW1lOiBkb2NrZXItaW1hZ2UKICAgIHR5cGU6IGRvY2tlci1pbWFnZQogICAgc291cmNlOgogICAgICByZXBvc2l0b3J5OiBwbGF0ZmkuYXp1cmVjci5pby9wbGF0ZmkvYXBpCiAgICAgIHVzZXJuYW1lOiAoKHJlZ2lzdHJ5LnVzZXJuYW1lKSkKICAgICAgcGFzc3dvcmQ6ICgocmVnaXN0cnkucGFzc3dvcmQpKQoKICAtIG5hbWU6IGdpdC1icmFuY2gtZGV2ZWxvcAogICAgdHlwZTogZ2l0CiAgICBzb3VyY2U6ICZnaXQtc291cmNlLWluZm8KICAgICAgdXJpOiBnaXRAYml0YnVja2V0Lm9yZzpieW5nX3N5c3RlbXMvcGxhdGZpLmdpdAogICAgICBicmFuY2g6IGRldmVsb3AKICAgICAgcHJpdmF0ZV9rZXk6ICgoZ2l0LnByaXZhdGVfc3NoX2tleV9yYXcpKQoKICAtIG5hbWU6IGRlcGxveS1rdWJlLWRldgogICAgdHlwZToga3ViZXJuZXRlcwogICAgc291cmNlOgogICAgICBrdWJlY29uZmlnOiB8CiAgICAgICAgKChrdWJlX2RldmVsb3BtZW50Lmt1YmVjb25maWcpKQoKam9iczoKICAtIG5hbWU6IGRvY2tlci1idWlsZC1kZXZlbG9wCiAgICBwbGFuOgogICAgICAtIGdldDogZ2l0LWJyYW5jaC1kZXZlbG9wCiAgICAgICAgdHJpZ2dlcjogdHJ1ZQogICAgICAtIHB1dDogZG9ja2VyLWltYWdlCiAgICAgICAgcGFyYW1zOiAmZG9ja2VyLWJ1aWxkLXBhcmFtcwogICAgICAgICAgZG9ja2VyZmlsZTogZ2l0LWJyYW5jaC1kZXZlbG9wL2FwcC9kb2NrZXIvcGhwL0RvY2tlcmZpbGUKICAgICAgICAgIGJ1aWxkOiBnaXQtYnJhbmNoLWRldmVsb3AKICAgICAgICAgIHRhZzogZ2l0LWJyYW5jaC1kZXZlbG9wLy5naXQvcmVmCiAgICAgICAgICB0YWdfYXNfbGF0ZXN0OiB0cnVlCiAgICAgICAgICBidWlsZF9hcmdzOgogICAgICAgICAgICBHSVRfU1NIX0tFWV9CNjQ6ICgoZ2l0LnByaXZhdGVfc3NoX2tleV9iNjQpKQoKICAtIG5hbWU6IGRlcGxveS1kZXZlbG9wbWVudAogICAgcGxhbjoKICAgICAgLSBnZXQ6IGdpdC1icmFuY2gtZGV2ZWxvcAogICAgICAgIHRyaWdnZXI6IHRydWUKICAgICAgICBwYXNzZWQ6IFtkb2NrZXItYnVpbGQtZGV2ZWxvcF0KICAgICAgLSB0YXNrOiBnZW5lcmF0ZS1rdWJlLWZpbGVzCiAgICAgICAgaW5wdXRfbWFwcGluZzoKICAgICAgICAgIHJlcG8tc291cmNlOiBnaXQtYnJhbmNoLWRldmVsb3AKICAgICAgICBmaWxlOiBnaXQtYnJhbmNoLWRldmVsb3AvY2kvdGFza3MvZ2VuZXJhdGVfa3ViZV9maWxlcy55bWwKICAgICAgLSBwdXQ6IGRlcGxveS1rdWJlLWRldgogICAgICAgIHBhcmFtczoKICAgICAgICAgIGt1YmVjdGw6IGFwcGx5IC1mIGt1YmUKICAgICAgICAgIHdhaXRfdW50aWxfcmVhZHk6IDMwMAo=</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -248,7 +247,7 @@
         <text>creates</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0cmlnZ2VyOiB0cnVlCg==</text>
+        <text encoding="base64">Z3JvdXBzOgogIC0gbmFtZTogZGV2ZWxvcG1lbnQKICAgIGpvYnM6CiAgICAgIC0gZG9ja2VyLWJ1aWxkLWRldmVsb3AKICAgICAgLSBkZXBsb3ktZGV2ZWxvcG1lbnQKCnJlc291cmNlX3R5cGVzOgogIC0gbmFtZToga3ViZXJuZXRlcwogICAgdHlwZTogZG9ja2VyLWltYWdlCiAgICBzb3VyY2U6CiAgICAgIHJlcG9zaXRvcnk6IHpsYWJqcC9rdWJlcm5ldGVzLXJlc291cmNlCgpyZXNvdXJjZXM6CiAgLSBuYW1lOiBkb2NrZXItaW1hZ2UKICAgIHR5cGU6IGRvY2tlci1pbWFnZQogICAgc291cmNlOgogICAgICByZXBvc2l0b3J5OiBwbGF0ZmkuYXp1cmVjci5pby9wbGF0ZmkvYXBpCiAgICAgIHVzZXJuYW1lOiAoKHJlZ2lzdHJ5LnVzZXJuYW1lKSkKICAgICAgcGFzc3dvcmQ6ICgocmVnaXN0cnkucGFzc3dvcmQpKQoKICAtIG5hbWU6IGdpdC1icmFuY2gtZGV2ZWxvcAogICAgdHlwZTogZ2l0CiAgICBzb3VyY2U6ICZnaXQtc291cmNlLWluZm8KICAgICAgdXJpOiBnaXRAYml0YnVja2V0Lm9yZzpieW5nX3N5c3RlbXMvcGxhdGZpLmdpdAogICAgICBicmFuY2g6IGRldmVsb3AKICAgICAgcHJpdmF0ZV9rZXk6ICgoZ2l0LnByaXZhdGVfc3NoX2tleV9yYXcpKQoKICAtIG5hbWU6IGRlcGxveS1rdWJlLWRldgogICAgdHlwZToga3ViZXJuZXRlcwogICAgc291cmNlOgogICAgICBrdWJlY29uZmlnOiB8CiAgICAgICAgKChrdWJlX2RldmVsb3BtZW50Lmt1YmVjb25maWcpKQoKam9iczoKICAtIG5hbWU6IGRvY2tlci1idWlsZC1kZXZlbG9wCiAgICBwbGFuOgogICAgICAtIGdldDogZ2l0LWJyYW5jaC1kZXZlbG9wCiAgICAgICAgdHJpZ2dlcjogdHJ1ZQogICAgICAtIHB1dDogZG9ja2VyLWltYWdlCiAgICAgICAgcGFyYW1zOiAmZG9ja2VyLWJ1aWxkLXBhcmFtcwogICAgICAgICAgZG9ja2VyZmlsZTogZ2l0LWJyYW5jaC1kZXZlbG9wL2FwcC9kb2NrZXIvcGhwL0RvY2tlcmZpbGUKICAgICAgICAgIGJ1aWxkOiBnaXQtYnJhbmNoLWRldmVsb3AKICAgICAgICAgIHRhZzogZ2l0LWJyYW5jaC1kZXZlbG9wLy5naXQvcmVmCiAgICAgICAgICB0YWdfYXNfbGF0ZXN0OiB0cnVlCiAgICAgICAgICBidWlsZF9hcmdzOgogICAgICAgICAgICBHSVRfU1NIX0tFWV9CNjQ6ICgoZ2l0LnByaXZhdGVfc3NoX2tleV9iNjQpKQoKICAtIG5hbWU6IGRlcGxveS1kZXZlbG9wbWVudAogICAgcGxhbjoKICAgICAgLSBnZXQ6IGdpdC1icmFuY2gtZGV2ZWxvcAogICAgICAgIHRyaWdnZXI6IHRydWUKICAgICAgICBwYXNzZWQ6IFtkb2NrZXItYnVpbGQtZGV2ZWxvcF0KICAgICAgLSB0YXNrOiBnZW5lcmF0ZS1rdWJlLWZpbGVzCiAgICAgICAgaW5wdXRfbWFwcGluZzoKICAgICAgICAgIHJlcG8tc291cmNlOiBnaXQtYnJhbmNoLWRldmVsb3AKICAgICAgICBmaWxlOiBnaXQtYnJhbmNoLWRldmVsb3AvY2kvdGFza3MvZ2VuZXJhdGVfa3ViZV9maWxlcy55bWwKICAgICAgLSBwdXQ6IGRlcGxveS1rdWJlLWRldgogICAgICAgIHBhcmFtczoKICAgICAgICAgIGt1YmVjdGw6IGFwcGx5IC1mIGt1YmUKICAgICAgICAgIHdhaXRfdW50aWxfcmVhZHk6IDMwMAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwYXJhbXM6Cg==</text>
