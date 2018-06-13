@@ -3,135 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/work/capitalise/ci/inputs.tf" timestamp="1528457336699">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-crm-deployment.yaml" timestamp="1528708605941">
-        <mark key="[" line="17" column="44" />
-        <mark key="]" line="17" column="56" />
-        <mark key="." line="17" column="56" />
-        <mark key="^" line="17" column="56" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-notification-deployment.yaml" timestamp="1528708623782">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="44" />
-        <mark key="." line="21" column="56" />
-        <mark key="^" line="21" column="51" />
-      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/elasticsearch/main.tf" timestamp="1528884269088" />
-      <file name="$USER_HOME$/www/work/capitalise/ci/terraform.tfvars" timestamp="1528704267757">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="9" column="40" />
-        <mark key="^" line="9" column="40" />
-        <mark key="." line="9" column="40" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/api-deployment.yaml" timestamp="1528708588950">
-        <mark key="'" line="34" column="15" />
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="33" column="28" />
-        <mark key="." line="33" column="28" />
-        <mark key="^" line="33" column="28" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/elasticsearch/modules/replica-set.tf" timestamp="1528884226898" />
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/generate_kube_files.yml" timestamp="1528818128116">
-        <mark key="'" line="24" column="6" />
-        <mark key="[" line="16" column="8" />
-        <mark key="]" line="16" column="8" />
-        <mark key="." line="16" column="8" />
-        <mark key="^" line="16" column="8" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/generate_kube_files.sh" timestamp="1528709211393">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/config/parameters.yml.dist" timestamp="1528735980512">
-        <mark key="'" line="225" column="45" />
-        <mark key="[" line="164" column="86" />
-        <mark key="]" line="164" column="103" />
-        <mark key="^" line="164" column="103" />
-        <mark key="." line="164" column="103" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/config/datasources.js" timestamp="1528796007283">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-crm-hook-deployment.yaml" timestamp="1528708612356">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="44" />
-        <mark key="." line="21" column="56" />
-        <mark key="^" line="21" column="51" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/check_docker_image.yml" timestamp="1528719434667">
-        <mark key="'" line="15" column="9" />
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="23" column="43" />
-        <mark key="." line="23" column="43" />
-        <mark key="^" line="23" column="43" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-report-generation-deployment.yaml" timestamp="1528708646062">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="56" />
-        <mark key="." line="21" column="56" />
-        <mark key="^" line="21" column="56" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1528818933455">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/files/docker-compose.yml" timestamp="1528800012140">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/tasks/test.yml" timestamp="1528807279555">
-        <mark key="'" line="11" column="3" />
-        <mark key="[" line="16" column="138" />
-        <mark key="]" line="16" column="137" />
-        <mark key="." line="16" column="137" />
-        <mark key="^" line="16" column="137" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/Dockerfile" timestamp="1528816196821">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="13" />
-        <mark key="." line="4" column="13" />
-        <mark key="^" line="4" column="13" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/app/docker/php/Dockerfile" timestamp="1528818527354">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" timestamp="1528708533353">
-        <mark key="'" line="48" column="37" />
-        <mark key="[" line="53" column="35" />
-        <mark key="]" line="53" column="35" />
-        <mark key="." line="53" column="35" />
-        <mark key="^" line="44" column="43" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/scripts/check_docker_tag.sh" timestamp="1528717896022">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-rebuild-questionnaire-cache-deployment.yaml" timestamp="1528708635631">
-        <mark key="[" line="21" column="57" />
-        <mark key="]" line="21" column="57" />
-        <mark key="." line="21" column="57" />
-        <mark key="^" line="21" column="56" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/consumer-funding-tips-deployment.yaml" timestamp="1528724302197">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="44" />
-        <mark key="." line="21" column="56" />
-        <mark key="^" line="21" column="51" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/elasticsearch/kube/filebeat-kubernetes.yaml" timestamp="1528886716779">
+        <mark key="'" line="75" column="82" />
+        <mark key="[" line="29" column="60" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="77" column="20" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/tasks/install-dependencies.yml" timestamp="1528817892121">
         <mark key="'" line="20" column="12" />
@@ -147,19 +25,80 @@
         <mark key="." line="9" column="19" />
         <mark key="^" line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi/package.json" timestamp="1528731075804">
-        <mark key="'" line="7" column="50" />
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="^" line="10" column="31" />
-      </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/docker-compose.tests.yml" timestamp="1528807275829">
         <mark key="'" line="2" column="8" />
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="6" />
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/ci/main.tf" timestamp="1528704327844">
+        <mark key="'" line="61" column="3" />
+        <mark key="[" line="62" column="42" />
+        <mark key="]" line="62" column="46" />
+        <mark key="^" line="62" column="46" />
+        <mark key="." line="62" column="46" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/elasticsearch/modules/variables.tf" timestamp="1528882782618" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/api-deployment.yaml" timestamp="1528708588950">
+        <mark key="'" line="34" column="15" />
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="33" column="28" />
+        <mark key="." line="33" column="28" />
+        <mark key="^" line="33" column="28" />
+      </file>
+      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/elasticsearch/modules/replica-set.tf" timestamp="1528884226898" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/generate_kube_files.yml" timestamp="1528818128116">
+        <mark key="'" line="24" column="6" />
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="." line="16" column="8" />
+        <mark key="^" line="16" column="8" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/app/config/parameters.yml.dist" timestamp="1528735980512">
+        <mark key="'" line="225" column="45" />
+        <mark key="[" line="164" column="86" />
+        <mark key="]" line="164" column="103" />
+        <mark key="^" line="164" column="103" />
+        <mark key="." line="164" column="103" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/check_docker_image.yml" timestamp="1528719434667">
+        <mark key="'" line="15" column="9" />
+        <mark key="[" line="23" column="44" />
+        <mark key="]" line="23" column="43" />
+        <mark key="." line="23" column="43" />
+        <mark key="^" line="23" column="43" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1528818933455">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/tasks/test.yml" timestamp="1528807279555">
+        <mark key="'" line="11" column="3" />
+        <mark key="[" line="16" column="138" />
+        <mark key="]" line="16" column="137" />
+        <mark key="." line="16" column="137" />
+        <mark key="^" line="16" column="137" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/Dockerfile" timestamp="1528816196821">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/ci/modules/vault/vault.tf" timestamp="1528708533353">
+        <mark key="'" line="48" column="37" />
+        <mark key="[" line="53" column="35" />
+        <mark key="]" line="53" column="35" />
+        <mark key="." line="53" column="35" />
+        <mark key="^" line="44" column="43" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi/package.json" timestamp="1528731075804">
+        <mark key="'" line="7" column="50" />
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="31" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" timestamp="1528820792875">
         <mark key="'" line="0" column="0" />
@@ -182,10 +121,12 @@
         <mark key="^" line="43" column="24" />
         <mark key="." line="43" column="24" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/files/Dockerfile" timestamp="1528802764487">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/loggingtest.py" timestamp="1528885477815">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="3" column="107" />
+        <mark key="]" line="3" column="110" />
+        <mark key="^" line="3" column="110" />
+        <mark key="." line="3" column="110" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/deploy/activity-timeline-service.yaml" timestamp="1528819692319">
         <mark key="'" line="10" column="18" />
@@ -194,20 +135,6 @@
         <mark key="^" line="10" column="18" />
         <mark key="." line="10" column="18" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/ci/main.tf" timestamp="1528704327844">
-        <mark key="'" line="61" column="3" />
-        <mark key="[" line="62" column="42" />
-        <mark key="]" line="62" column="46" />
-        <mark key="^" line="62" column="46" />
-        <mark key="." line="62" column="46" />
-      </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/scripts/install-dependencies.sh" timestamp="1528795617156">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/elasticsearch/modules/variables.tf" timestamp="1528882782618" />
       <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/deploy/activity-timeline-deployment.yaml" timestamp="1528820871597">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="22" column="22" />
@@ -217,8 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="7" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/generate_kube_files.yml" />
-      <jump line="14" column="9" filename="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/check_docker_image.yml" />
       <jump line="8" column="50" filename="$USER_HOME$/www/work/capitalise/platfi/package.json" />
       <jump line="30" column="40" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
       <jump line="25" column="24" filename="$USER_HOME$/www/work/capitalise/platfi/ci/pipeline.yml" />
@@ -317,13 +242,15 @@
       <jump line="35" column="6" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/deploy/activity-timeline-deployment.yaml" />
       <jump line="1" column="0" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/deploy/activity-timeline-deployment.yaml" />
       <jump line="9" column="18" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/deploy/activity-timeline-service.yaml" />
+      <jump line="6" column="6" filename="$USER_HOME$/www/work/skorr/skorr-social-scrapers/loggingtest.py" />
+      <jump line="76" column="82" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/elasticsearch/kube/filebeat-kubernetes.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ci</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdXNlcm5hbWU6ICR7RUxBU1RJQ1NFQVJDSF9VU0VSTkFNRX0KICAgICAgcGFzc3dvcmQ6ICR7RUxBU1RJQ1NFQVJDSF9QQVNTV09SRH0K</text>
       </register>
       <register name="-" type="4">
-        <text>ci</text>
+        <text>:9200</text>
       </register>
       <register name="/" type="4">
         <text>creates</text>
@@ -332,7 +259,7 @@
         <text encoding="base64">RlJPTSBub2RlOjEwLjIuMQoKV09SS0RJUiAvc291cmNlCgpBREQgLiAuCgpFWFBPU0UgMzAwMAoKUlVOIFsieWFybiIsICJzdGFydCJdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGt1YmVjdGw6IGFwcGx5IC1mIGRlcGxveQo=</text>
+        <text encoding="base64">ICAgICAgdXNlcm5hbWU6ICR7RUxBU1RJQ1NFQVJDSF9VU0VSTkFNRX0KICAgICAgcGFzc3dvcmQ6ICR7RUxBU1RJQ1NFQVJDSF9QQVNTV09SRH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -350,22 +277,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAtIG5hbWU6IEVMQVNUSUNTRUFSQ0hfVVNFUk5BTUUKICAgICAgICAgIHZhbHVlOiBlbGFzdGljCiAgICAgICAgLSBuYW1lOiBFTEFTVElDU0VBUkNIX1BBU1NXT1JECiAgICAgICAgICB2YWx1ZTogY2hhbmdlbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdhaXRfdW50aWwK</text>
+        <text encoding="base64">ICAgICAgICAtIG5hbWU6IEVMQVNUSUNfQ0xPVURfSUQKICAgICAgICAgIHZhbHVlOgogICAgICAgIC0gbmFtZTogRUxBU1RJQ19DTE9VRF9BVVRICiAgICAgICAgICB2YWx1ZToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0eXBlOiBOb2RlUG9ydAo=</text>
+        <text encoding="base64">CmxvZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVyCg==</text>
+        <text encoding="base64">ZnJvbSBkcmFtYXRpcSBpbXBvcnQgbG9nZ2luZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CkNNRCAK</text>
+        <text encoding="base64">ICAgICAgICAgIGt1YmVjdGw6IGFwcGx5IC1mIGRlcGxveQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEVOVFJZUE9JTlQgWyIvYmluL3NoIl0K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -377,10 +304,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdhaXRfdW50aWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXBsaWNhczogMQo=</text>
+        <text encoding="base64">ICB0eXBlOiBOb2RlUG9ydAo=</text>
       </register>
       <register name=":" type="4">
         <text>117</text>
