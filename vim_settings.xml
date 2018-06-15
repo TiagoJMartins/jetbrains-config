@@ -125,12 +125,12 @@
         <mark key="^" line="16" column="30" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi-ui-components/Dockerfile.storybooks.yml" timestamp="1529071514168" />
-      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-components/ci/pipeline.yml" timestamp="1529072228931">
+      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-components/ci/pipeline.yml" timestamp="1529073771037">
         <mark key="'" line="102" column="21" />
-        <mark key="[" line="38" column="14" />
-        <mark key="]" line="38" column="15" />
-        <mark key="." line="38" column="15" />
-        <mark key="^" line="38" column="15" />
+        <mark key="[" line="108" column="41" />
+        <mark key="]" line="108" column="50" />
+        <mark key="." line="108" column="50" />
+        <mark key="^" line="108" column="50" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/kubernetes/providers.tf" timestamp="1528907974405">
         <mark key="[" line="4" column="0" />
@@ -261,10 +261,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>development</text>
+        <text>ui-app</text>
       </register>
       <register name="-" type="4">
-        <text>development</text>
+        <text>ui-app</text>
       </register>
       <register name="/" type="4">
         <text>creates</text>
