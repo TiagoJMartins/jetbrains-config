@@ -66,7 +66,7 @@
         <mark key="." line="7" column="50" />
         <mark key="^" line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/package.json" timestamp="1529059793725" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/package.json" timestamp="1529066583053" />
       <file name="$USER_HOME$/www/work/capitalise/platfi/app/config/config.yml" timestamp="1529053486691" />
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/elasticsearch/kube/metricsbeat.yaml" timestamp="1528899192623">
         <mark key="'" line="262" column="18" />
@@ -82,6 +82,7 @@
         <mark key="^" line="33" column="45" />
         <mark key="." line="103" column="0" />
       </file>
+      <file name="/Dockerfile" timestamp="1529066493488" />
       <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/tasks/test.yml" timestamp="1528807279555">
         <mark key="'" line="11" column="3" />
         <mark key="[" line="16" column="138" />
@@ -190,11 +191,11 @@
         <mark key="^" line="62" column="46" />
         <mark key="." line="62" column="46" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/deploy/ui-app-deployment.yaml" timestamp="1529061134659">
+      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/deploy/ui-app-deployment.yaml" timestamp="1529066731073">
         <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="19" />
-        <mark key="." line="16" column="19" />
-        <mark key="^" line="16" column="19" />
+        <mark key="]" line="17" column="30" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="30" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/kubernetes/variables.tf" timestamp="1528908935506">
         <mark key="'" line="0" column="0" />
@@ -203,12 +204,13 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" timestamp="1529061034929">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="106" column="35" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" timestamp="1529067333341">
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="38" column="24" />
+        <mark key="." line="38" column="24" />
+        <mark key="^" line="38" column="24" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/app/environments/environment.development.js" timestamp="1529066308446" />
       <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/deploy/activity-timeline-deployment.yaml" timestamp="1528820871597">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="22" column="22" />
@@ -330,10 +332,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>ci</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>ci</text>
       </register>
       <register name="/" type="4">
         <text>creates</text>
@@ -342,7 +344,7 @@
         <text encoding="base64">ICAgICAgICAtIHRhc2s6IHRlc3QKICAgICAgICAgIGltYWdlOiBub2RlLWRvY2tlcgogICAgICAgICAgY29uZmlnOgogICAgICAgICAgICBwbGF0Zm9ybTogbGludXgKICAgICAgICAgICAgaW5wdXRzOgogICAgICAgICAgICAgIC0gbmFtZTogc291cmNlLXdpdGgtZGVwcwogICAgICAgICAgICBydW46CiAgICAgICAgICAgICAgcGF0aDogbnBtCiAgICAgICAgICAgICAgZGlyOiByZXBvLXNvdXJjZQogICAgICAgICAgICAgIGFyZ3M6IFt0ZXN0XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgICAgICBjb25maWc6CiMgICAgICAgICAgICBwbGF0Zm9ybTogbGludXgKIyAgICAgICAgICAgIGlucHV0czoKIyAgICAgICAgICAgICAgLSBuYW1lOiByZXBvLXNvdXJjZQojICAgICAgICAgICAgb3V0cHV0czoKIyAgICAgICAgICAgICAgLSBuYW1lOiBzb3VyY2Utd2l0aC1kZXBzCiMgICAgICAgICAgICBydW46CiMgICAgICAgICAgICAgIHBhdGg6IHNoCiMgICAgICAgICAgICAgIGRpcjogcmVwby1zb3VyY2UKIyAgICAgICAgICAgICAgYXJnczoKIyAgICAgICAgICAgICAgICAtIC1leGMKIyAgICAgICAgICAgICAgICAtIHwKIyAgICAgICAgICAgICAgICAgIHlhcm4gaW5zdGFsbCBcCiMgICAgICAgICAgICAgICAgICAgIC0tbm8tcHJvZ3Jlc3MgXAojICAgICAgICAgICAgICAgICAgICAtLW5vbi1pbnRlcmFjdGl2ZSBcCiMgICAgICAgICAgICAgICAgICAgIC0tZW1vamkgdHJ1ZQojCiMgICAgICAgICAgICAgICAgICBjZCAuLgojICAgICAgICAgICAgICAgICAgY3AgLWEgcmVwby1zb3VyY2UvLiBzb3VyY2Utd2l0aC1kZXBzLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBOT0RFX0VOVjogZGV2ZWxvcG1lbnQK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -360,22 +362,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWc6CiAgICAgICAgICBwbGF0Zm9ybTogbGludXgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGltYWdlX3Jlc291Cg==</text>
+        <text encoding="base64">IyAgICAgICAgICBjb25maWc6CiMgICAgICAgICAgICBwbGF0Zm9ybTogbGludXgKIyAgICAgICAgICAgIGlucHV0czoKIyAgICAgICAgICAgICAgLSBuYW1lOiByZXBvLXNvdXJjZQojICAgICAgICAgICAgb3V0cHV0czoKIyAgICAgICAgICAgICAgLSBuYW1lOiBzb3VyY2Utd2l0aC1kZXBzCiMgICAgICAgICAgICBydW46CiMgICAgICAgICAgICAgIHBhdGg6IHNoCiMgICAgICAgICAgICAgIGRpcjogcmVwby1zb3VyY2UKIyAgICAgICAgICAgICAgYXJnczoKIyAgICAgICAgICAgICAgICAtIC1leGMKIyAgICAgICAgICAgICAgICAtIHwKIyAgICAgICAgICAgICAgICAgIHlhcm4gaW5zdGFsbCBcCiMgICAgICAgICAgICAgICAgICAgIC0tbm8tcHJvZ3Jlc3MgXAojICAgICAgICAgICAgICAgICAgICAtLW5vbi1pbnRlcmFjdGl2ZSBcCiMgICAgICAgICAgICAgICAgICAgIC0tZW1vamkgdHJ1ZQojCiMgICAgICAgICAgICAgICAgICBjZCAuLgojICAgICAgICAgICAgICAgICAgY3AgLWEgcmVwby1zb3VyY2UvLiBzb3VyY2Utd2l0aC1kZXBzLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25maWc6CiAgICAgICAgICBwbGF0Zm9ybTogbGludXgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGltYWdlX3Jlc291Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -387,10 +389,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QVJHIHJ1bm5pbmdfZW52PWRldmVsb3BtZW50CgpSVU4geWFybiBpbnN0YWxsClJVTiBSVU5OSU5HX0VOVj0kcnVubmluZ19lbnYgbnBtIHJ1biBidWlsZAoKIyBwcm9kdWN0aW9uIGVudmlyb25tZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q09QWSAtLWZyb209YnVpbGQgL3Vzci9zcmMvYXBwL2J1aWxkIC91c3Ivc2hhcmUvbmdpbngvaHRtbAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
