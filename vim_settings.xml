@@ -9,14 +9,18 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/package.json" timestamp="1529054032198" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/tasks/install-dependencies.yml" timestamp="1529056490084">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+        <mark key="^" line="9" column="5" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/kubernetes/iam/ec2.json" timestamp="1528908788850">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="1" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/elasticsearch/kube/filebeat.yaml" timestamp="1528899159532">
-        <mark key="'" line="58" column="10" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/api-deployment.yaml" timestamp="1529053400547">
         <mark key="'" line="34" column="15" />
@@ -30,15 +34,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/rabbit-cluster/main.tf" timestamp="1528907632630">
-        <mark key="'" line="216" column="27" />
-      </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/ci/tasks/generate_kube_files.yml" timestamp="1529051588332">
         <mark key="'" line="24" column="6" />
         <mark key="[" line="16" column="8" />
         <mark key="]" line="16" column="8" />
         <mark key="." line="16" column="8" />
         <mark key="^" line="16" column="8" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/.editorconfig" timestamp="1529053744022">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/elasticsearch/kube/filebeat-kubernetes.yaml" timestamp="1528889479793">
         <mark key="'" line="106" column="24" />
@@ -65,6 +72,13 @@
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="43" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/scripts/install-dependencies.sh" timestamp="1529056054379">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="7" column="50" />
+        <mark key="." line="7" column="50" />
+        <mark key="^" line="7" column="50" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/package.json" timestamp="1529054055767" />
       <file name="$USER_HOME$/www/work/capitalise/platfi/app/config/config.yml" timestamp="1529053486691" />
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/elasticsearch/kube/metricsbeat.yaml" timestamp="1528899192623">
         <mark key="'" line="262" column="18" />
@@ -153,7 +167,7 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" timestamp="1528877279566">
+      <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" timestamp="1529054559154">
         <mark key="'" line="149" column="32" />
         <mark key="[" line="43" column="14" />
         <mark key="]" line="43" column="24" />
@@ -195,6 +209,13 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" timestamp="1529058257940">
+        <mark key="'" line="17" column="21" />
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="36" />
+        <mark key="." line="45" column="36" />
+        <mark key="^" line="45" column="36" />
+      </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/deploy/activity-timeline-deployment.yaml" timestamp="1528820871597">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="22" column="22" />
@@ -202,16 +223,14 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/Dockerfile" timestamp="1529058031714">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="6" column="26" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/Dockerfile" />
-      <jump line="16" column="36" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/tasks/test.yml" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/tasks/test.yml" />
-      <jump line="11" column="3" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/tasks/test.yml" />
-      <jump line="56" column="32" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" />
-      <jump line="41" column="17" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" />
-      <jump line="43" column="10" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" />
-      <jump line="53" column="6" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" />
       <jump line="34" column="0" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" />
       <jump line="30" column="13" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" />
       <jump line="92" column="10" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" />
@@ -304,22 +323,30 @@
       <jump line="150" column="15" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/kubernetes/main.tf" />
       <jump line="41" column="30" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/kubernetes/main.tf" />
       <jump line="159" column="0" filename="$USER_HOME$/www/work/skorr/skorr-infrastructure/kubernetes/main.tf" />
+      <jump line="14" column="10" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" />
+      <jump line="0" column="12" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/tasks/install-dependencies.yml" />
+      <jump line="17" column="6" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/tasks/install-dependencies.yml" />
+      <jump line="9" column="21" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" />
+      <jump line="4" column="24" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" />
+      <jump line="46" column="16" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" />
+      <jump line="17" column="21" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>demo</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QVJHIHJ1bm5pbmdfZW52PWRldmVsb3BtZW50CgpSVU4geWFybiBpbnN0YWxsClJVTiBSVU5OSU5HX0VOVj0kcnVubmluZ19lbnYgbnBtIHJ1biBidWlsZAoKIyBwcm9kdWN0aW9uIGVudmlyb25tZW50Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>demo</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>creates</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb3VudCA9ICIke3Zhci5zdWJuZXRfY291bnR9Igo=</text>
+        <text encoding="base64">ICAgICAgICAtIHRhc2s6IHRlc3QKICAgICAgICAgIGltYWdlOiBub2RlLWRvY2tlcgogICAgICAgICAgY29uZmlnOgogICAgICAgICAgICBwbGF0Zm9ybTogbGludXgKICAgICAgICAgICAgaW5wdXRzOgogICAgICAgICAgICAgIC0gbmFtZTogc291cmNlLXdpdGgtZGVwcwogICAgICAgICAgICBydW46CiAgICAgICAgICAgICAgcGF0aDogbnBtCiAgICAgICAgICAgICAgZGlyOiByZXBvLXNvdXJjZQogICAgICAgICAgICAgIGFyZ3M6IFt0ZXN0XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9jYWxzIHsKICBkZW1vLW5vZGUtdXNlcmRhdGEgPSA8PFVTRVJEQVRBCiMhL2Jpbi9iYXNoIC14ZQoKQ0FfQ0VSVElGSUNBVEVfRElSRUNUT1JZPS9ldGMva3ViZXJuZXRlcy9wa2kKQ0FfQ0VSVElGSUNBVEVfRklMRV9QQVRIPSRDQV9DRVJUSUZJQ0FURV9ESVJFQ1RPUlkvY2EuY3J0Cm1rZGlyIC1wICRDQV9DRVJUSUZJQ0FURV9ESVJFQ1RPUlkKZWNobyAiJHthd3NfZWtzX2NsdXN0ZXIuZGVtby5jZXJ0aWZpY2F0ZV9hdXRob3JpdHkuMC5kYXRhfSIgfCBiYXNlNjQgLWQgPiAgJENBX0NFUlRJRklDQVRFX0ZJTEVfUEFUSApJTlRFUk5BTF9JUD0kKGN1cmwgLXMgaHR0cDovLzE2OS4yNTQuMTY5LjI1NC9sYXRlc3QvbWV0YS1kYXRhL2xvY2FsLWlwdjQpCnNlZCAtaSBzLE1BU1RFUl9FTkRQT0lOVCwke2F3c19la3NfY2x1c3Rlci5kZW1vLmVuZHBvaW50fSxnIC92YXIvbGliL2t1YmVsZXQva3ViZWNvbmZpZwpzZWQgLWkgcyxDTFVTVEVSX05BTUUsJHt2YXIuY2x1c3Rlci1uYW1lfSxnIC92YXIvbGliL2t1YmVsZXQva3ViZWNvbmZpZwpzZWQgLWkgcyxSRUdJT04sJHtkYXRhLmF3c19yZWdpb24uY3VycmVudC5uYW1lfSxnIC9ldGMvc3lzdGVtZC9zeXN0ZW0va3ViZWxldC5zZXJ2aWNlCnNlZCAtaSBzLE1BWF9QT0RTLDIwLGcgL2V0Yy9zeXN0ZW1kL3N5c3RlbS9rdWJlbGV0LnNlcnZpY2UKc2VkIC1pIHMsTUFTVEVSX0VORFBPSU5ULCR7YXdzX2Vrc19jbHVzdGVyLmRlbW8uZW5kcG9pbnR9LGcgL2V0Yy9zeXN0ZW1kL3N5c3RlbS9rdWJlbGV0LnNlcnZpY2UKc2VkIC1pIHMsSU5URVJOQUxfSVAsJElOVEVSTkFMX0lQLGcgL2V0Yy9zeXN0ZW1kL3N5c3RlbS9rdWJlbGV0LnNlcnZpY2UKRE5TX0NMVVNURVJfSVA9MTAuMTAwLjAuMTAKaWYgW1sgJElOVEVSTkFMX0lQID09IDEwLiogXV0gOyB0aGVuIEROU19DTFVTVEVSX0lQPTE3Mi4yMC4wLjEwOyBmaQpzZWQgLWkgcyxETlNfQ0xVU1RFUl9JUCwkRE5TX0NMVVNURVJfSVAsZyAvZXRjL3N5c3RlbWQvc3lzdGVtL2t1YmVsZXQuc2VydmljZQpzZWQgLWkgcyxDRVJUSUZJQ0FURV9BVVRIT1JJVFlfRklMRSwkQ0FfQ0VSVElGSUNBVEVfRklMRV9QQVRILGcgL3Zhci9saWIva3ViZWxldC9rdWJlY29uZmlnCnNlZCAtaSBzLENMSUVOVF9DQV9GSUxFLCRDQV9DRVJUSUZJQ0FURV9GSUxFX1BBVEgsZyAgL2V0Yy9zeXN0ZW1kL3N5c3RlbS9rdWJlbGV0LnNlcnZpY2UKc3lzdGVtY3RsIGRhZW1vbi1yZWxvYWQKc3lzdGVtY3RsIHJlc3RhcnQga3ViZWxldApVU0VSREFUQQp9Cg==</text>
+        <text encoding="base64">QVJHIHJ1bm5pbmdfZW52PWRldmVsb3BtZW50CgpSVU4geWFybiBpbnN0YWxsClJVTiBSVU5OSU5HX0VOVj0kcnVubmluZ19lbnYgbnBtIHJ1biBidWlsZAoKIyBwcm9kdWN0aW9uIGVudmlyb25tZW50Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -337,22 +364,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF3c19sYXVuY2hfY29uZmlndXJhdGlvbiIgImRlbW8iIHsKICBhc3NvY2lhdGVfcHVibGljX2lwX2FkZHJlc3MgPSB0cnVlCiAgaWFtX2luc3RhbmNlX3Byb2ZpbGUgICAgICAgID0gIiR7YXdzX2lhbV9pbnN0YW5jZV9wcm9maWxlLmRlbW8tbm9kZS5uYW1lfSIKICBpbWFnZV9pZCAgICAgICAgICAgICAgICAgICAgPSAiJHtkYXRhLmF3c19hbWkuZWtzLXdvcmtlci5pZH0iCiAgaW5zdGFuY2VfdHlwZSAgICAgICAgICAgICAgID0gIm00LmxhcmdlIgogIG5hbWVfcHJlZml4ICAgICAgICAgICAgICAgICA9ICJ0ZXJyYWZvcm0tZWtzLWRlbW8iCiAgc2VjdXJpdHlfZ3JvdXBzICAgICAgICAgICAgID0gWyIke2F3c19zZWN1cml0eV9ncm91cC5kZW1vLW5vZGUuaWR9Il0KICB1c2VyX2RhdGFfYmFzZTY0ICAgICAgICAgICAgPSAiJHtiYXNlNjRlbmNvZGUobG9jYWwuZGVtby1ub2RlLXVzZXJkYXRhKX0iCgogIGxpZmVjeWNsZSB7CiAgICBjcmVhdGVfYmVmb3JlX2Rlc3Ryb3kgPSB0cnVlCiAgfQp9Cg==</text>
+        <text encoding="base64">Q09QWSAtLWZyb209YnVpbGQgL3Vzci9zcmMvYXBwL2J1aWxkIC91c3Ivc2hhcmUvbmdpbngvaHRtbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyEvYmluL2Jhc2ggLXhlCgpDQV9DRVJUSUZJQ0FURV9ESVJFQ1RPUlk9L2V0Yy9rdWJlcm5ldGVzL3BraQpDQV9DRVJUSUZJQ0FURV9GSUxFX1BBVEg9JENBX0NFUlRJRklDQVRFX0RJUkVDVE9SWS9jYS5jcnQKbWtkaXIgLXAgJENBX0NFUlRJRklDQVRFX0RJUkVDVE9SWQplY2hvICIke2F3c19la3NfY2x1c3Rlci5kZW1vLmNlcnRpZmljYXRlX2F1dGhvcml0eS4wLmRhdGF9IiB8IGJhc2U2NCAtZCA+ICAkQ0FfQ0VSVElGSUNBVEVfRklMRV9QQVRICklOVEVSTkFMX0lQPSQoY3VybCAtcyBodHRwOi8vMTY5LjI1NC4xNjkuMjU0L2xhdGVzdC9tZXRhLWRhdGEvbG9jYWwtaXB2NCkKc2VkIC1pIHMsTUFTVEVSX0VORFBPSU5ULCR7YXdzX2Vrc19jbHVzdGVyLmRlbW8uZW5kcG9pbnR9LGcgL3Zhci9saWIva3ViZWxldC9rdWJlY29uZmlnCnNlZCAtaSBzLENMVVNURVJfTkFNRSwke3Zhci5jbHVzdGVyLW5hbWV9LGcgL3Zhci9saWIva3ViZWxldC9rdWJlY29uZmlnCnNlZCAtaSBzLFJFR0lPTiwke2RhdGEuYXdzX3JlZ2lvbi5jdXJyZW50Lm5hbWV9LGcgL2V0Yy9zeXN0ZW1kL3N5c3RlbS9rdWJlbGV0LnNlcnZpY2UKc2VkIC1pIHMsTUFYX1BPRFMsMjAsZyAvZXRjL3N5c3RlbWQvc3lzdGVtL2t1YmVsZXQuc2VydmljZQpzZWQgLWkgcyxNQVNURVJfRU5EUE9JTlQsJHthd3NfZWtzX2NsdXN0ZXIuZGVtby5lbmRwb2ludH0sZyAvZXRjL3N5c3RlbWQvc3lzdGVtL2t1YmVsZXQuc2VydmljZQpzZWQgLWkgcyxJTlRFUk5BTF9JUCwkSU5URVJOQUxfSVAsZyAvZXRjL3N5c3RlbWQvc3lzdGVtL2t1YmVsZXQuc2VydmljZQpETlNfQ0xVU1RFUl9JUD0xMC4xMDAuMC4xMAppZiBbWyAkSU5URVJOQUxfSVAgPT0gMTAuKiBdXSA7IHRoZW4gRE5TX0NMVVNURVJfSVA9MTcyLjIwLjAuMTA7IGZpCnNlZCAtaSBzLEROU19DTFVTVEVSX0lQLCRETlNfQ0xVU1RFUl9JUCxnIC9ldGMvc3lzdGVtZC9zeXN0ZW0va3ViZWxldC5zZXJ2aWNlCnNlZCAtaSBzLENFUlRJRklDQVRFX0FVVEhPUklUWV9GSUxFLCRDQV9DRVJUSUZJQ0FURV9GSUxFX1BBVEgsZyAvdmFyL2xpYi9rdWJlbGV0L2t1YmVjb25maWcKc2VkIC1pIHMsQ0xJRU5UX0NBX0ZJTEUsJENBX0NFUlRJRklDQVRFX0ZJTEVfUEFUSCxnICAvZXRjL3N5c3RlbWQvc3lzdGVtL2t1YmVsZXQuc2VydmljZQpzeXN0ZW1jdGwgZGFlbW9uLXJlbG9hZApzeXN0ZW1jdGwgcmVzdGFydCBrdWJlbGV0Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">QUREIC4gL3Vzci9zaGFyZS9uZ2lueC9odG1sCgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF3c19pYW1fcm9sZSIgImVjMiIgewogIG5hbWUgICAgICAgICAgICAgICA9ICIke3Zhci5jbHVzdGVyX25hbWV9IgoKICBhc3N1bWVfcm9sZV9wb2xpY3kgPQp9Cg==</text>
+        <text encoding="base64">RlJPTSBub2RlOjkuNSBhcyBidWlsZAoKV09SS0RJUiAvdXNyL3NyYy9hcHAKCkVOViBQQVRIIC91c3Ivc3JjL2FwcC9ub2RlX21vZHVsZXMvLmJpbjokUEFUSAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UE9MSUNZCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF3c19sYXVuY2hfY29uZmlndXJhdGlvbiIgImRlbW8iIHsKICBhc3NvY2lhdGVfcHVibGljX2lwX2FkZHJlc3MgPSB0cnVlCiAgaWFtX2luc3RhbmNlX3Byb2ZpbGUgICAgICAgID0gIiR7YXdzX2lhbV9pbnN0YW5jZV9wcm9maWxlLmRlbW8tbm9kZS5uYW1lfSIKICBpbWFnZV9pZCAgICAgICAgICAgICAgICAgICAgPSAiJHtkYXRhLmF3c19hbWkuZWtzLXdvcmtlci5pZH0iCiAgaW5zdGFuY2VfdHlwZSAgICAgICAgICAgICAgID0gIm00LmxhcmdlIgogIG5hbWVfcHJlZml4ICAgICAgICAgICAgICAgICA9ICJ0ZXJyYWZvcm0tZWtzLWRlbW8iCiAgc2VjdXJpdHlfZ3JvdXBzICAgICAgICAgICAgID0gWyIke2F3c19zZWN1cml0eV9ncm91cC5kZW1vLW5vZGUuaWR9Il0KdXNlcl9kYXRhX2Jhc2U2NCAgICAgICAgICAgID0gIiR7YmFzZTY0ZW5jb2RlKGxvY2FsLmRlbW8tbm9kZS11c2VyZGF0YSl9IgoKbGlmZWN5Y2xlIHsKICBjcmVhdGVfYmVmb3JlX2Rlc3Ryb3kgPSB0cnVlCn0KfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -364,10 +391,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF3c19sYXVuY2hfY29uZmlndXJhdGlvbiIgImRlbW8iIHsKICBhc3NvY2lhdGVfcHVibGljX2lwX2FkZHJlc3MgPSB0cnVlCiAgaWFtX2luc3RhbmNlX3Byb2ZpbGUgICAgICAgID0gIiR7YXdzX2lhbV9pbnN0YW5jZV9wcm9maWxlLmRlbW8tbm9kZS5uYW1lfSIKICBpbWFnZV9pZCAgICAgICAgICAgICAgICAgICAgPSAiJHtkYXRhLmF3c19hbWkuZWtzLXdvcmtlci5pZH0iCiAgaW5zdGFuY2VfdHlwZSAgICAgICAgICAgICAgID0gIm00LmxhcmdlIgogIG5hbWVfcHJlZml4ICAgICAgICAgICAgICAgICA9ICJ0ZXJyYWZvcm0tZWtzLWRlbW8iCiAgc2VjdXJpdHlfZ3JvdXBzICAgICAgICAgICAgID0gWyIke2F3c19zZWN1cml0eV9ncm91cC5kZW1vLW5vZGUuaWR9Il0KdXNlcl9kYXRhX2Jhc2U2NCAgICAgICAgICAgID0gIiR7YmFzZTY0ZW5jb2RlKGxvY2FsLmRlbW8tbm9kZS11c2VyZGF0YSl9IgoKbGlmZWN5Y2xlIHsKICBjcmVhdGVfYmVmb3JlX2Rlc3Ryb3kgPSB0cnVlCn0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtIG5hbWU6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVzb3VyY2UgImF3c19sYXVuY2hfY29uZmlndXJhdGlvbiIgImRlbW8iIHsKICBhc3NvY2lhdGVfcHVibGljX2lwX2FkZHJlc3MgPSB0cnVlCiAgaWFtX2luc3RhbmNlX3Byb2ZpbGUgICAgICAgID0gIiR7YXdzX2lhbV9pbnN0YW5jZV9wcm9maWxlLmRlbW8tbm9kZS5uYW1lfSIKICBpbWFnZV9pZCAgICAgICAgICAgICAgICAgICAgPSAiJHtkYXRhLmF3c19hbWkuZWtzLXdvcmtlci5pZH0iCiAgaW5zdGFuY2VfdHlwZSAgICAgICAgICAgICAgID0gIm00LmxhcmdlIgogIG5hbWVfcHJlZml4ICAgICAgICAgICAgICAgICA9ICJ0ZXJyYWZvcm0tZWtzLWRlbW8iCiAgc2VjdXJpdHlfZ3JvdXBzICAgICAgICAgICAgID0gWyIke2F3c19zZWN1cml0eV9ncm91cC5kZW1vLW5vZGUuaWR9Il0KdXNlcl9kYXRhX2Jhc2U2NCAgICAgICAgICAgID0gIiR7YmFzZTY0ZW5jb2RlKGxvY2FsLmRlbW8tbm9kZS11c2VyZGF0YSl9IgoKbGlmZWN5Y2xlIHsKICBjcmVhdGVfYmVmb3JlX2Rlc3Ryb3kgPSB0cnVlCn0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
