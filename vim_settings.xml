@@ -16,12 +16,6 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/kubernetes/iam/ec2.json" timestamp="1528908788850">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/deploy/api-deployment.yaml" timestamp="1529053400547">
         <mark key="'" line="34" column="15" />
         <mark key="[" line="33" column="29" />
@@ -47,12 +41,6 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/elasticsearch/kube/filebeat-kubernetes.yaml" timestamp="1528889479793">
-        <mark key="'" line="106" column="24" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-      </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi/app/config/parameters.yml.dist" timestamp="1529053431925">
         <mark key="'" line="225" column="45" />
         <mark key="[" line="164" column="86" />
@@ -72,13 +60,13 @@
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/scripts/install-dependencies.sh" timestamp="1529056054379">
+      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/scripts/install-dependencies.sh" timestamp="1529059773113">
         <mark key="[" line="6" column="27" />
         <mark key="]" line="7" column="50" />
         <mark key="." line="7" column="50" />
         <mark key="^" line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/package.json" timestamp="1529054055767" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/package.json" timestamp="1529059793725" />
       <file name="$USER_HOME$/www/work/capitalise/platfi/app/config/config.yml" timestamp="1529053486691" />
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/elasticsearch/kube/metricsbeat.yaml" timestamp="1528899192623">
         <mark key="'" line="262" column="18" />
@@ -167,8 +155,8 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" timestamp="1529054559154">
-        <mark key="'" line="149" column="32" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" timestamp="1529061282250">
+        <mark key="'" line="96" column="35" />
         <mark key="[" line="43" column="14" />
         <mark key="]" line="43" column="24" />
         <mark key="^" line="43" column="24" />
@@ -202,6 +190,12 @@
         <mark key="^" line="62" column="46" />
         <mark key="." line="62" column="46" />
       </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/deploy/ui-app-deployment.yaml" timestamp="1529061134659">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+      </file>
       <file name="$USER_HOME$/www/work/skorr/skorr-infrastructure/kubernetes/variables.tf" timestamp="1528908935506">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="27" />
@@ -209,12 +203,11 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" timestamp="1529058257940">
-        <mark key="'" line="17" column="21" />
-        <mark key="[" line="45" column="14" />
-        <mark key="]" line="45" column="36" />
-        <mark key="." line="45" column="36" />
-        <mark key="^" line="45" column="36" />
+      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" timestamp="1529061034929">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+        <mark key="^" line="106" column="35" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/deploy/activity-timeline-deployment.yaml" timestamp="1528820871597">
         <mark key="'" line="1" column="0" />
@@ -222,6 +215,9 @@
         <mark key="]" line="22" column="24" />
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
+      </file>
+      <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/tasks/generate-kube-files.yml" timestamp="1529060967489">
+        <mark key="'" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/www/work/capitalise/platfi-ui-app/Dockerfile" timestamp="1529058031714">
         <mark key="[" line="0" column="0" />
@@ -231,12 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" />
-      <jump line="30" column="13" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" />
-      <jump line="92" column="10" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" />
-      <jump line="4" column="9" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/docker-compose.yml" />
-      <jump line="12" column="6" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/docker-compose.yml" />
-      <jump line="13" column="6" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/docker-compose.yml" />
       <jump line="6" column="0" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/docker-compose.yml" />
       <jump line="11" column="6" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/docker-compose.yml" />
       <jump line="2" column="0" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/docker-compose.yml" />
@@ -250,7 +240,6 @@
       <jump line="116" column="13" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" />
       <jump line="19" column="0" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" />
       <jump line="117" column="14" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" />
-      <jump line="96" column="29" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" />
       <jump line="119" column="8" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" />
       <jump line="4" column="13" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/Dockerfile" />
@@ -331,10 +320,17 @@
       <jump line="46" column="16" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" />
       <jump line="21" column="0" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" />
       <jump line="17" column="21" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" />
+      <jump line="66" column="15" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" />
+      <jump line="96" column="35" filename="$USER_HOME$/www/work/capitalise/platfi-service-activity-timeline/ci/pipeline.yml" />
+      <jump line="45" column="0" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" />
+      <jump line="0" column="10" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/tasks/generate-kube-files.yml" />
+      <jump line="18" column="6" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/tasks/generate-kube-files.yml" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/tasks/generate-kube-files.yml" />
+      <jump line="108" column="17" filename="$USER_HOME$/www/work/capitalise/platfi-ui-app/ci/pipeline.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QVJHIHJ1bm5pbmdfZW52PWRldmVsb3BtZW50CgpSVU4geWFybiBpbnN0YWxsClJVTiBSVU5OSU5HX0VOVj0kcnVubmluZ19lbnYgbnBtIHJ1biBidWlsZAoKIyBwcm9kdWN0aW9uIGVudmlyb25tZW50Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
         <text>-</text>
@@ -346,7 +342,7 @@
         <text encoding="base64">ICAgICAgICAtIHRhc2s6IHRlc3QKICAgICAgICAgIGltYWdlOiBub2RlLWRvY2tlcgogICAgICAgICAgY29uZmlnOgogICAgICAgICAgICBwbGF0Zm9ybTogbGludXgKICAgICAgICAgICAgaW5wdXRzOgogICAgICAgICAgICAgIC0gbmFtZTogc291cmNlLXdpdGgtZGVwcwogICAgICAgICAgICBydW46CiAgICAgICAgICAgICAgcGF0aDogbnBtCiAgICAgICAgICAgICAgZGlyOiByZXBvLXNvdXJjZQogICAgICAgICAgICAgIGFyZ3M6IFt0ZXN0XQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QVJHIHJ1bm5pbmdfZW52PWRldmVsb3BtZW50CgpSVU4geWFybiBpbnN0YWxsClJVTiBSVU5OSU5HX0VOVj0kcnVubmluZ19lbnYgbnBtIHJ1biBidWlsZAoKIyBwcm9kdWN0aW9uIGVudmlyb25tZW50Cg==</text>
+        <text encoding="base64">IyAgICAgICAgICBjb25maWc6CiMgICAgICAgICAgICBwbGF0Zm9ybTogbGludXgKIyAgICAgICAgICAgIGlucHV0czoKIyAgICAgICAgICAgICAgLSBuYW1lOiByZXBvLXNvdXJjZQojICAgICAgICAgICAgb3V0cHV0czoKIyAgICAgICAgICAgICAgLSBuYW1lOiBzb3VyY2Utd2l0aC1kZXBzCiMgICAgICAgICAgICBydW46CiMgICAgICAgICAgICAgIHBhdGg6IHNoCiMgICAgICAgICAgICAgIGRpcjogcmVwby1zb3VyY2UKIyAgICAgICAgICAgICAgYXJnczoKIyAgICAgICAgICAgICAgICAtIC1leGMKIyAgICAgICAgICAgICAgICAtIHwKIyAgICAgICAgICAgICAgICAgIHlhcm4gaW5zdGFsbCBcCiMgICAgICAgICAgICAgICAgICAgIC0tbm8tcHJvZ3Jlc3MgXAojICAgICAgICAgICAgICAgICAgICAtLW5vbi1pbnRlcmFjdGl2ZSBcCiMgICAgICAgICAgICAgICAgICAgIC0tZW1vamkgdHJ1ZQojCiMgICAgICAgICAgICAgICAgICBjZCAuLgojICAgICAgICAgICAgICAgICAgY3AgLWEgcmVwby1zb3VyY2UvLiBzb3VyY2Utd2l0aC1kZXBzLwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -364,22 +360,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Q09QWSAtLWZyb209YnVpbGQgL3Vzci9zcmMvYXBwL2J1aWxkIC91c3Ivc2hhcmUvbmdpbngvaHRtbAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25maWc6CiAgICAgICAgICBwbGF0Zm9ybTogbGludXgK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">QUREIC4gL3Vzci9zaGFyZS9uZ2lueC9odG1sCgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGltYWdlX3Jlc291Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RlJPTSBub2RlOjkuNSBhcyBidWlsZAoKV09SS0RJUiAvdXNyL3NyYy9hcHAKCkVOViBQQVRIIC91c3Ivc3JjL2FwcC9ub2RlX21vZHVsZXMvLmJpbjokUEFUSAoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -391,10 +387,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAtIG5hbWU6Cg==</text>
+        <text encoding="base64">QVJHIHJ1bm5pbmdfZW52PWRldmVsb3BtZW50CgpSVU4geWFybiBpbnN0YWxsClJVTiBSVU5OSU5HX0VOVj0kcnVubmluZ19lbnYgbnBtIHJ1biBidWlsZAoKIyBwcm9kdWN0aW9uIGVudmlyb25tZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q09QWSAtLWZyb209YnVpbGQgL3Vzci9zcmMvYXBwL2J1aWxkIC91c3Ivc2hhcmUvbmdpbngvaHRtbAo=</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
