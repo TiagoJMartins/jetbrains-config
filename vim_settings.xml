@@ -95,13 +95,13 @@
         <mark key="^" line="38" column="37" />
         <mark key="." line="38" column="37" />
       </file>
-      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1529322106807">
+      <file name="$USER_HOME$/www/work/skorr/skorr-social-scrapers/main.py" timestamp="1529322944396">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/.virtualenvs/skorr-social-scrapers/lib/python3.6/site-packages/dramatiq/brokers/rabbitmq.py" timestamp="1529322289344" />
+      <file name="$USER_HOME$/.virtualenvs/skorr-social-scrapers/lib/python3.6/site-packages/dramatiq/brokers/rabbitmq.py" timestamp="1529323248540" />
       <file name="$USER_HOME$/www/work/capitalise/platfi-ui-questionnaire/ci/tasks/install-dependencies.yml" timestamp="1529069041486">
         <mark key="[" line="8" column="16" />
         <mark key="]" line="8" column="16" />
@@ -238,10 +238,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBicm9rZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>creates</text>
@@ -250,7 +250,7 @@
         <text encoding="base64">Q0hVTktfU0laRSA9IGNvbmZpZ3MuQ0hVTktfU0laRQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBicm9rZXIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -268,22 +268,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBicm9rZXIuY2hhbm5lbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW5pdGlhbGl6ZS5saW1pdGVyID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0aWFsaXplLmxpbWl0ZXIgPSBDb25jdXJyZW50UmF0ZUxpbWl0ZXIocmVzdWx0X2JhY2tlbmQsICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">aW5pdGlhbGl6ZS5saW1pdGVyID0gTm9uZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmlmIAo=</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsaXplLmxpbWl0ZXIgPSBDb25jdXJyZW50UmF0ZUxpbWl0ZXIocmVzdWx0X2JhY2tlbmQsICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -295,10 +295,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmlmIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmRlZiBhY3F1aXJlX211dGV4KGtleTogc3RyKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
